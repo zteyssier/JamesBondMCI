@@ -1,8 +1,26 @@
 
 Planning
 
+-git clone on repo
 
-According to IMDB
+--Start with the intro Songs.
+--Highlight where music aligns with the plot the film.  
+--Villian themes with music. 
+--Transition from Hero themes to Villian themes.
+
+
+
+According to IMDB:  https://www.imdb.com/list/ls095491456/
+Songs lyrics on Genius:  https://genius.com/
+
+Music Notation Markup?
+- Tempo
+- Key Changes
+- Motifs/Themes
+
+**Ask Dr. Hunt for music generation code and scores.  
+We could reference the sheet music.    
+*Clarify research question.
 
 1st set
 
@@ -16,30 +34,32 @@ You Only Live Twice
 On Her Majesty's Secret Service
 Diamonds Are Forever
 Live and Let Die
+The Man with the Golden Gun
 
-*Casino Royale is a spoof in this set.  We could set this one aside for now and work on it last.
+*Casino Royale is a spoof in this set (not shown).  We could set this one aside for now and work on it last.  
+Compare cliques with Bond.
+Compare Casino Royale Spoof to Casino Royale.
 
 
 2nd set
 
-The Man with the Golden Gun to Licence to Kill (9 songs, 9 films)
+The Spy Who Loved Me to GoldenEye (9 songs, 9 films)
 
-The Man with the Golden Gun
 The Spy Who Loved Me
 Moonraker
 For Your Eyes Only
 Octopussy
 Never Say Never Again
-A View to a Kill
+A View to Kill
 The Living Daylights
 Licence to Kill
+GoldenEye
 
 
 3rd set
 
-GoldenEye to No Time to Die (9 songs, 8 films)
+Tomorrow Never Dies to No Time to Die (9 songs, 8 films)
 
-GoldenEye 
 Tomorrow Never Dies
 The World is Not Enough
 Die Another Day
@@ -48,9 +68,43 @@ Quantum of Solace
 Skyfall
 Spectre
 
+*Not Time to Die
+
 
 *No Time to Die has not been released yet, we could add it to the project later.
 *We could compare this Casino Royale to the spoof. 
+
+James Bond Scripts:  http://www.universalexports.net/00Scripts.shtml
+		     https://bulletproofscreenwriting.tv/james-bond-movies-collection-screenplay-download/
+
+From Russia with Love
+Goldfinger
+GoldenEye
+
+-Final Shooting Script-
+
+A View to Kill
+Casino Royale
+Dr. No
+For Your Eyes Only
+Goldfinger
+From Russia With Love
+GoldenEye
+License To Kill
+Live and Let Die
+Octopussy
+Spectre
+The Living Daylights
+The Spy Who Loved Me
+The World is Not Enough
+Thunderball
+Tomorrow Never Dies
+Quantum Of Solace (Transcript)
+Moonraker (Transcript)
+On Her Majesty’s Secret Service (Transcript)
+
+Missing:  You Only Live Twice, Diamonds Are Forever, The Man with The Golden Gun, Never Say Never Again, Die Another Day, Skyfall, *No Time To Die
+
 
 Personography
 
@@ -68,11 +122,27 @@ Culture
 Treatment for gender roles
 Festivals and traditions
 How does the music correlate with each film?
-Etiquette
+Etiquette, multiple languages, non-western culture | Cultural sophistication- more or less?
 U.S.- Britain relations and others
+Realistic events reference?
 
+Drinks- Martini Shaken Not Stirred 
+Food
 
 Bond
+
+Backstory
+Personality Traits - personal bias/interpretation?
+Smart vs. Thug
+--Linguistic quirks
+Eye Contact
+Appearance 
+--Conflicts (Internal and External | Music Connection | Script Connected to the music | Focus where portions of the intro song lines up with specific scenes)
+Reference James Bond wikis/fandom if necessary (accuracy) 
+Loyalty
+
+
+Villian Characters
 
 Backstory
 Personality Traits
@@ -80,9 +150,10 @@ Appearance
 Conflicts
 
 
+
 *Call backs to other films
 
 
 
-Brainstorming RNG
-
+--Brainstorming RNG--
+--XML--
