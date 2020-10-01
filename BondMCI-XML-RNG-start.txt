@@ -24,7 +24,7 @@ We could reference the sheet music.
 
 1st set
 
-Dr. No to The Man With the Golden Gun (9 songs, 9 films)
+Dr. No to The Man With the Golden Gun (10 songs, 9 films)
 
 Dr. No
 From Russia with Love
@@ -32,6 +32,7 @@ Goldfinger
 Thunderball
 You Only Live Twice
 On Her Majesty's Secret Service
+  -**We Have All The Time In The World -- Secondary Theme for On Her Majesty's Secret Service
 Diamonds Are Forever
 Live and Let Die
 The Man with the Golden Gun
@@ -58,7 +59,7 @@ GoldenEye
 
 3rd set
 
-Tomorrow Never Dies to No Time to Die (9 songs, 8 films)
+Tomorrow Never Dies to No Time to Die (8 songs, 8 films)
 
 Tomorrow Never Dies
 The World is Not Enough
