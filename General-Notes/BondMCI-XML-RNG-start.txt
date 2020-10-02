@@ -17,6 +17,7 @@ Music Notation Markup?
 - Tempo
 - Key Changes
 - Motifs/Themes
+- Release Date for Music and Film
 
 **Ask Dr. Hunt for music generation code and scores.  
 We could reference the sheet music.    

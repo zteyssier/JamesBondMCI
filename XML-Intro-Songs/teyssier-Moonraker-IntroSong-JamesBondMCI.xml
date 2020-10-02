@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
+<IntroSong>
+<Verse type = "1">
+Where are <SecondPersonPOV>you</SecondPersonPOV>
+Why do <SecondPersonPOV>you</SecondPersonPOV> hide
+Where is that <KeyWord>moon</KeyWord>light trail that leads to <SecondPersonPOV>you</SecondPersonPOV>r side
+Just like the <FilmTitle>moonraker</FilmTitle> goes
+In search of his dream of gold
+<FirstPersonPOV>I</FirstPersonPOV> search for <KeyWord>love</KeyWord>
+For someone to have and hold
+</Verse>
+<PreChorus type ="1">
+<FirstPersonPOV>I</FirstPersonPOV>'ve seen your smile
+In a thousand dreams
+Felt your touch
+</PreChorus>
+<Chorus type = "1">
+And it always seems
+<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
+<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
+</Chorus>
+
+<Verse type = "2">
+Where are <SecondPersonPOV>you</SecondPersonPOV>
+When will we meet
+Take my unfinished life and make it complete
+Just like the <FilmTitle>moonraker</FilmTitle> knows
+His dream will come true someday
+<FirstPersonPOV>I</FirstPersonPOV> know that <SecondPersonPOV>you</SecondPersonPOV>
+Are only a <KeyWord>kiss</KeyWord> away
+</Verse>
+<PreChorus type = "2">
+<FirstPersonPOV>I</FirstPersonPOV>'ve seen your smile
+In a thousand dreams
+Felt <SecondPersonPOV>you</SecondPersonPOV>r touch
+</PreChorus>
+<Chorus type = "2">
+And it always seems
+<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
+<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
+</Chorus>
+</IntroSong>
