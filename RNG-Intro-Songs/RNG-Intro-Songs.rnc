@@ -1,5 +1,5 @@
 start = IntroSong
-IntroSong = element IntroSong {mixed {(Intro | Verse | PreChorus+ | Chorus | Outro | FilmTitle | FirstPersonPOV | SecondPersonPOV | KeyWord | Unique)*}}
+IntroSong = element IntroSong {mixed {(Intro | Verse | PreChorus+ | Chorus+ | Outro | FilmTitle | FirstPersonPOV | SecondPersonPOV | KeyWord | Unique)*}}
 
 Intro = element Intro {text}
 
@@ -7,9 +7,9 @@ Verse = element Verse {mixed {(FirstPersonPOV | SecondPersonPOV | type | FilmTit
 
 PreChorus = element PreChorus {mixed {FirstPersonPOV | type}}
 
-Chorus = element Chorus {type}
+Chorus = element Chorus {mixed{(KeyWord)*, type}}
 
-Outro = element Outro {text}
+Outro = element Outro {mixed {KeyWord}}
 
 type = attribute type {xsd:integer} 
 #Similar section of Song Structure

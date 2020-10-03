@@ -7,6 +7,7 @@ Planning
 --Highlight where music aligns with the plot the film.  
 --Villian themes with music. 
 --Transition from Hero themes to Villian themes.
+--Take note where the original James Bond theme appears in the Intro Songs.  It may not appear at all.
 
 
 
@@ -27,7 +28,7 @@ We could reference the sheet music.
 
 Dr. No to The Man With the Golden Gun (10 songs, 9 films)
 
-Dr. No
+Dr. No-- Instrumental Theme
 From Russia with Love
 Goldfinger
 Thunderball
@@ -52,7 +53,7 @@ Moonraker
 For Your Eyes Only
 Octopussy
 Never Say Never Again
-A View to Kill
+A View to A Kill
 The Living Daylights
 Licence to Kill
 GoldenEye
