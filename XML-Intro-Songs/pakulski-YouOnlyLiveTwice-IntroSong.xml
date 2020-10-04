@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IntroSong><Verse type = "1"><FilmTitle><SecondPersonPOV>You</SecondPersonPOV> only live twice</FilmTitle>
+Or so it seems
+One <Keyword>life</Keyword> for <SecondPersonPOV>yourself</SecondPersonPOV>
+And one for <SecondPersonPOV>your</SecondPersonPOV> dreams</Verse>
+
+<Verse type = "2"><SecondPersonPOV>You</SecondPersonPOV> drift through the years
+And life seems tame
+'Til one dream appears
+And <Keyword>Love</Keyword> is its name</Verse>
+
+<Verse type = "3">And <Keyword>love</Keyword> is a stranger
+<ThirdPersonPOV>Who'll</ThirdPersonPOV> beckon <SecondPersonPOV>you</SecondPersonPOV> on
+Don't think of the danger
+Or the stranger is gone</Verse>
+
+<Chorus type = "1">This dream is for <SecondPersonPOV>you</SecondPersonPOV>
+So pay the price
+Make one dream come true
+<FilmTitle><SecondPersonPOV>You</SecondPersonPOV> only live twice</FilmTitle></Chorus>
+
+<Verse type = "4">And <Keyword>love</Keyword> is a stranger
+Who'll beckon <SecondPersonPOV>you</SecondPersonPOV> on
+Don't think of the danger
+Or the stranger is gone</Verse>
+
+<Chorus type = "2">This dream is for <SecondPersonPov>you</SecondPersonPov>
+So pay the price
+Make one dream come true
+<FilmTitle><SecondPersonPOV>You</SecondPersonPOV> only live twice</FilmTitle></Chorus></IntroSong>

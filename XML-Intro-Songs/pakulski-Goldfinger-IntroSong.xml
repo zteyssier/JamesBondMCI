@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IntroSong>
+<Verse type = "1">
+<FilmTitle>Goldfinger</FilmTitle>
+<ThirdPersonPOV>He's</ThirdPersonPOV> the man
+The man with the <Keyword>Midas</Keyword> touch
+A spider's touch
+Such a cold finger
+Beckons <SecondPersonPOV>you</SecondPersonPOV> to enter <ThirdPersonPOV>his</ThirdPersonPOV> web of sin
+But don't go in
+</Verse>
+<Chorus type = "1">
+<Keyword>Golden</Keyword> words <ThirdPersonPOV>he</ThirdPersonPOV> will pour in <SecondPersonPOV>your</SecondPersonPOV> ear
+But <ThirdPersonPOV>his</ThirdPersonPOV> lies can't disguise what <SecondPersonPOV>you</SecondPersonPOV> fear
+For a <Keyword>golden</Keyword> girl knows when <ThirdPersonPOV>he's</ThirdPersonPOV> <Keyword>kissed</Keyword> <ThirdPersonPOV>her</ThirdPersonPOV>
+It's the <Keyword>kiss</Keyword> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
+</Chorus>
+<Verse type = "2">
+Pretty girl, beware of <ThirdPersonPOV>his</ThirdPersonPOV> heart of <Keyword>gold</Keyword>
+This heart is cold
+</Verse>
+<Chorus type = "2">
+<Keyword>Golden</Keyword> words <ThirdPersonPOV>he</ThirdPersonPOV> will pour in <SecondPersonPOV>your</SecondPersonPOV> ear
+But <ThirdPersonPOV>his</ThirdPersonPOV> lies can't disguise what <SecondPersonPOV>you</SecondPersonPOV> fear
+For a <Keyword>golden</Keyword> girl knows when <ThirdPersonPOV>he's</ThirdPersonPOV> <Keyword>kissed</Keyword> <ThirdPersonPOV>her</ThirdPersonPOV>
+It's the <Keyword>kiss</Keyword> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
+</Chorus>
+<Verse type = "3">
+Pretty girl, beware of <ThirdPersonPOV>his</ThirdPersonPOV> heart of <Keyword>gold</Keyword>
+This heart is cold
+</Verse>
+<Outro>
+<ThirdPersonPOV>He</ThirdPersonPOV> loves only <Keyword>gold</Keyword>
+Only <Keyword>gold</Keyword>
+<ThirdPersonPOV>He</ThirdPersonPOV> loves <Keyword>gold</Keyword>
+<ThirdPersonPOV>He</ThirdPersonPOV> loves only <Keyword>gold</Keyword>
+Only <Keyword>gold</Keyword>
+<ThirdPersonPOV>He</ThirdPersonPOV> loves <Keyword>gold</Keyword>
+</Outro>
+</IntroSong>
