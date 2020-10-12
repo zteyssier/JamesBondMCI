@@ -1,0 +1,26 @@
+body {
+background-color: #FFFFFF;
+color: #000000;
+font-family: courier, helvetica, sans-serif;
+}
+h1 {
+background-color: #DAA520;
+color: #000000;
+font-family: courier, helvetica, sans-serif;
+
+}
+
+P {
+background-color: #FFFFFF;
+color: #000000;
+font-family: courier, helvetica, sans-serif;
+text-align:left;
+
+}
+a {
+background-color: #FFFFFF;
+color: #000000;
+font-family: courier, helvetica, sans-serif;
+text-align:center;
+
+}
