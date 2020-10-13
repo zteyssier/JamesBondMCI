@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Verse type = "1"><ThirdPersonPOV>He</ThirdPersonPOV> has a powerful weapon
-<ThirdPersonPOV>He</ThirdPersonPOV> charges a million a <Keyword>shot</Keyword>
+<ThirdPersonPOV>He</ThirdPersonPOV> charges a million a <KeyWord>shot</KeyWord>
 An assassin that's second to none
 <FilmTitle>The man with the golden gun</FilmTitle></Verse>
 
@@ -9,13 +10,13 @@ Or crouched on a roof top somewhere
 In the next room, or this very one
 <FilmTitle>The man with the golden gun</FilmTitle></Verse>
 
-<Bridge type = "1"><Keyword>Love</Keyword> is required whenever <ThirdPersonPOV>he's</ThirdPersonPOV> hired
+<Bridge type = "1"><KeyWord>Love</KeyWord> is required whenever <ThirdPersonPOV>he's</ThirdPersonPOV> hired
 It comes just before the kill
 No-one can catch <ThirdPersonPOV>him</ThirdPersonPOV>, no hit man can match <ThirdPersonPOV>him</ThirdPersonPOV>
 For <ThirdPersonPOV>his</ThirdPersonPOV> million dollar skill</Bridge>
 
-<Verse type = "3">One <Keyword>golden shot</Keyword> means another poor victim
-Has come to a <Keyword>glittering</Keyword> end
+<Verse type = "3">One <KeyWord>golden shot</KeyWord> means another poor victim
+Has come to a <KeyWord>glittering</KeyWord> end
 For a price, <ThirdPersonPOV>he'll</ThirdPersonPOV> erase anyone
 <FilmTitle>The man with the golden gun</FilmTitle></Verse>
 
@@ -24,16 +25,16 @@ Who will <ThirdPersonPOV>he</ThirdPersonPOV> bang?
 <FirstPersonPOV>We</FirstPersonPOV> shall see
 Oh yeah!</Verse>
 
-<Bridge type = "2"><Keyword>Love</Keyword> is required whenever <ThirdPersonPOV>he's</ThirdPersonPOV> hired
+<Bridge type = "2"><KeyWord>Love</KeyWord> is required whenever <ThirdPersonPOV>he's</ThirdPersonPOV> hired
 It comes just before the kill
 No-one can catch <ThirdPersonPOV>him</ThirdPersonPOV>, no hit man can match <ThirdPersonPOV>him</ThirdPersonPOV>
 For <ThirdPersonPOV>his</ThirdPersonPOV> million dollar skill</Bridge>
 
-<Verse type = "5">One <Keyword>golden shot</Keyword> means another poor victim
-Has come to a <Keyword>glittering</Keyword> end
+<Verse type = "5">One <KeyWord>golden shot</KeyWord> means another poor victim
+Has come to a <KeyWord>glittering</KeyWord> end
 If <SecondPersonPOV>you</SecondPersonPOV> want to get rid of someone
 <FilmTitle>The man with the golden gun</FilmTitle>
 Will get it done
-<ThirdPersonPOV>He'll</ThirdPersonPOV> <Keyword>shoot</Keyword> anyone
-With <ThirdPersonPOV>his</ThirdPersonPOV> <Keyword>golden gun</Keyword></Verse>
+<ThirdPersonPOV>He'll</ThirdPersonPOV> <KeyWord>shoot</KeyWord> anyone
+With <ThirdPersonPOV>his</ThirdPersonPOV> <KeyWord>golden gun</KeyWord></Verse>
 </IntroSong>
