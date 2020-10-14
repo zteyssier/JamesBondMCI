@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Verse type="1"><FirstPersonPOV>I</FirstPersonPOV> know how to hurt,
 <FirstPersonPOV>I</FirstPersonPOV> know how to heal,
 <FirstPersonPOV>I</FirstPersonPOV> know what to show,
@@ -30,7 +31,7 @@ and <FirstPersonPOV>I</FirstPersonPOV> feel scared.
 <FirstPersonPOV>I</FirstPersonPOV> feel ready,
 and yet unprepared.</Verse>
 
-<Outro>The world is not enough,
+<Outro>The <KeyWord>world</KeyWord> is not enough,
 the world is not enough,
 we're nowhere near enough,
 the world is not enough.</Outro></IntroSong>

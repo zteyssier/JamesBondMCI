@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Verse num="1"><FirstPersonPOV>I</FirstPersonPOV> should have known
 I'd leave alone
 Just goes to show

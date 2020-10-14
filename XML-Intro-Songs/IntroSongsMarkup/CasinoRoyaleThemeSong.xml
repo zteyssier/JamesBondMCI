@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Verse type="Intro" num="1">If you take a life do you know what you'll give?
 odds are you won't like what it is,
 when the storm arrives would you be seen with me,

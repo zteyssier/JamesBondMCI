@@ -1,0 +1,45 @@
+start = IntroSong
+IntroSong = element IntroSong {mixed {(Intro | Verse | PreChorus+ | Chorus+ | Outro | FilmTitle | FirstPersonPOV | SecondPersonPOV | KeyWord | Unique | Bridge)*}}
+
+Intro = element Intro {text}
+
+Verse = element Verse {mixed {(FirstPersonPOV | SecondPersonPOV | type | FilmTitle | KeyWord | num | Person | Interjection)*}}
+
+PreChorus = element PreChorus {mixed {FirstPersonPOV | type | num}}
+
+Chorus = element Chorus {mixed{((KeyWord)* | type | num | FirstPersonPOV | FilmTitle)*}}
+
+Bridge = element Bridge {mixed{(num | FirstPersonPOV)*}}
+
+Outro = element Outro {mixed{(KeyWord)*}}
+
+type = attribute type {xsd:integer | text}
+
+num = attribute num {xsd:integer}
+#Similar section of Song Structure
+
+who = attribute who {text}
+#Can you this to tag specific names
+
+xmlid = attribute xml:id {text}
+
+FilmTitle = element FilmTitle {text}
+#FilmTitle is used in the song
+
+FirstPersonPOV = element FirstPersonPOV {text}
+#POV including I.
+
+SecondPersonPOV = element SecondPersonPOV {text}
+#POV including you.
+
+
+KeyWord = element KeyWord {text}
+#Includes a portion of the FilmTitle in a word or mentions the FilmTitle as a stand alone word.
+#Themes that are common throughout all of the Songs Ex: love
+
+Unique = element Unique {text}
+#Words or phrases that different within two of the same sections of the song structure.
+
+Person = element Person {mixed{(who |xmlid)*}}
+
+Interjection = element Interjection {text}

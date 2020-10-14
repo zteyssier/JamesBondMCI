@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Verse num="1">This is the end,
 hold your breath and count to ten,
 feel the earth move and then,
@@ -19,7 +20,7 @@ and face it all together,
 at <FilmTitle>sky fall</FilmTitle>,
 at <FilmTitle>sky fall</FilmTitle>.</Chorus>
 
-<Verse num="2"><FlmTitle>Skyfall</FlmTitle> is where we start,
+<Verse num="2"><FilmTitle>Skyfall</FilmTitle> is where we start,
 a thousand miles and poles apart,
 where worlds collide and days are dark,
 you may have my number,
