@@ -1,21 +1,20 @@
 start = IntroSong
-IntroSong = element IntroSong {mixed {(Intro | Verse | PreChorus+ | Chorus+ | Outro | FilmTitle | FirstPersonPOV | SecondPersonPOV | KeyWord | Unique | Bridge)*}}
+IntroSong = element IntroSong {Verse+}
 
-Intro = element Intro {text}
 
-Verse = element Verse {mixed {(FirstPersonPOV | SecondPersonPOV | type | FilmTitle | KeyWord | num | Person | Interjection)*}}
 
-PreChorus = element PreChorus {mixed {FirstPersonPOV | type | num}}
+Verse = element Verse {cat, type, mixed {(lb+ | FilmTitle | KeyWord | Person | Interjection)*}}
 
-Chorus = element Chorus {mixed{((KeyWord)* | type | num | FirstPersonPOV | FilmTitle)*}}
+lb = element lb{n?}
 
-Bridge = element Bridge {mixed{(num | FirstPersonPOV)*}}
+n = attribute n {xsd:integer}
 
-Outro = element Outro {mixed{(KeyWord)*}}
+
+
+cat = attribute cat {"Intro" | "Verse" | "PreChorus" | "Chorus" | "Bridge" | "Outro"}
+
 
 type = attribute type {xsd:integer | text}
-
-num = attribute num {xsd:integer}
 #Similar section of Song Structure
 
 who = attribute who {text}
@@ -26,10 +25,12 @@ xmlid = attribute xml:id {text}
 FilmTitle = element FilmTitle {text}
 #FilmTitle is used in the song
 
-FirstPersonPOV = element FirstPersonPOV {text}
+POV = element POV {V, text}
+
+V = attribute V {"1" | "2" | "3"}
+
 #POV including I.
 
-SecondPersonPOV = element SecondPersonPOV {text}
 #POV including you.
 
 
@@ -38,8 +39,8 @@ KeyWord = element KeyWord {text}
 #Themes that are common throughout all of the Songs Ex: love
 
 Unique = element Unique {text}
-#Words or phrases that different within two of the same sections of the song structure.
+#Words or phrases that are different within two of the same sections of the song structure.
 
-Person = element Person {mixed{(who |xmlid)*}}
+Person = element Person {who, text}
 
 Interjection = element Interjection {text}
