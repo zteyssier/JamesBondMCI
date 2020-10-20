@@ -9,10 +9,8 @@ lb = element lb{n?}
 
 n = attribute n {xsd:integer}
 
-
-
 cat = attribute cat {"Intro" | "Verse" | "PreChorus" | "Chorus" | "Bridge" | "Outro"}
-
+#categorizes each of the above attributes 
 
 type = attribute type {xsd:integer | text}
 #Similar section of Song Structure
@@ -26,21 +24,26 @@ FilmTitle = element FilmTitle {text}
 #FilmTitle is used in the song
 
 POV = element POV {V, text}
+#V determines 1st, 2nd, 3rd
 
 V = attribute V {"1" | "2" | "3"}
-
 #POV including I.
-
 #POV including you.
 
 
 KeyWord = element KeyWord {text}
 #Includes a portion of the FilmTitle in a word or mentions the FilmTitle as a stand alone word.
-#Themes that are common throughout all of the Songs Ex: love
+#Themes that are common throughout all of the Songs Ex: love, revenge, murder, jealousy
 
 Unique = element Unique {text}
 #Words or phrases that are different within two of the same sections of the song structure.
 
+<<<<<<< HEAD
 Person = element Person {who, text, xmlid}
+=======
+Person = element Person {who, text}
+#Reference to Name or Full Name of a person
+>>>>>>> 0d2370dd9b092cfc335fcf38da15ff194756583a
 
 Interjection = element Interjection {text}
+#"Ohhh" or "Ahhhh", abrupt remark or scat singing 

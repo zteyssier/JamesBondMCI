@@ -1,0 +1,21 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = Screenplay
+Screenplay = element Screenplay {Scene+}
+
+Scene = element Scene {num | Heading | sd | sp | spk}
+
+num = attribute num {xsd:integer}
+#Scene number
+
+Heading = element Heading {text}
+#Scene heading
+
+sd = element sd {text}
+#Stage direction 
+
+sp = element sp {text}
+#Dialogue for a character 
+
+spk = element spk {text}
+#Character speaking 

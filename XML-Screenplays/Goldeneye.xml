@@ -1,4 +1,6 @@
-<Screenplay>
+
+<Screenplay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Goldeneye.xml">
  <Scene num="1">
   <Heading>Ext. Top of Dam - Day</Heading>
   <sd>A plane does a fly-by over a dam as a security gate slides open. A man in combat black runs
