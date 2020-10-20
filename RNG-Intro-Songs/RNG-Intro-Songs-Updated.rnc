@@ -3,7 +3,7 @@ IntroSong = element IntroSong {Verse+}
 
 
 
-Verse = element Verse {cat, type, mixed {(lb+ | FilmTitle | KeyWord | Person | Interjection)*}}
+Verse = element Verse {cat, type, mixed {(lb+ | FilmTitle | KeyWord | Person | Interjection | POV)*}}
 
 lb = element lb{n?}
 
@@ -41,6 +41,6 @@ KeyWord = element KeyWord {text}
 Unique = element Unique {text}
 #Words or phrases that are different within two of the same sections of the song structure.
 
-Person = element Person {who, text}
+Person = element Person {who, text, xmlid}
 
 Interjection = element Interjection {text}

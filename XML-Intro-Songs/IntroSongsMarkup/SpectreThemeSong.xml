@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse num="1">I've been here before
-But always hit the floor
-I've spent a lifetime runnin'
-And I always get away
-But with you I'm feeling something
-That makes me want to stay
-I'm prepared for this
-I never shoot to miss
-But I feel like a storm is coming
-If I'm gonna make it through the day
-Then there's no more use in runnin'
-This is something I gotta face</Verse>
+<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<IntroSong><Verse cat="Verse" type="1"><lb/>I've been here before
+<lb/>But always hit the floor
+<lb/>I've spent a lifetime runnin'
+<lb/>And <POV V="1">I</POV>always get away
+<lb/>But with <POV V="2">you</POV>I'm feeling something
+<lb/>That makes me want to stay
+<lb/>I'm prepared for this
+<lb/><POV V="1">I</POV>never shoot to miss
+<lb/>But <POV V="1">I</POV>feel like a storm is coming
+<lb/>If I'm gonna make it through the day
+<lb/>Then there's no more use in runnin'
+<lb/>This is something <POV V="1">I</POV>gotta face</Verse>
 
-<PreChorus num="1">If I risk it all
-Could you break my fall?</PreChorus>
+<Verse cat="PreChorus" type="1"><lb/>If <POV V="1">I</POV>risk it all
+<lb/>Could <POV V="2">you</POV>break my fall?</Verse>
 
-<Chorus num="1">How do I live? How do I breathe?
-When you're not here I'm suffocating
-I wanna feel love run through my blood
-Tell me is this where I give it all up?
-For you I have to risk it all
-Cause the writing's on the wall</Chorus>
+<Verse cat="Chorus" type="1"><lb/>How do <POV V="1">I</POV>live? How do <POV V="1">I</POV>breathe?
+<lb/>When you're not here I'm suffocating
+<lb/><POV V="1">I</POV>wanna feel love run through my blood
+<lb/>Tell me is this where <POV V="1">I</POV>give it all up?
+<lb/>For <POV V="2">you</POV><POV V="1">I</POV>have to risk it all
+<lb/>Cause the writing's on the wall</Verse>
 
-<Verse num="2">A million shards of glass
-That haunt me from my past
-As the stars begin to gather
-And the light begins to fade
-When all hope begins to shatter
-Know that I won't be afraid</Verse>
+<Verse cat="Verse" type="2"><lb/>A million shards of glass
+<lb/>That haunt me from my past
+<lb/>As the stars begin to gather
+<lb/>And the light begins to fade
+<lb/>When all hope begins to shatter
+<lb/>Know that <POV V="1">I</POV>won't be afraid</Verse>
 
-<PreChorus num="2">If I risk it all
-Could you break my fall?</PreChorus>
+<Verse cat="PreChorus" type="1"><lb/>If <POV V="1">I</POV>risk it all
+<lb/>Could <POV V="2">you</POV>break my fall?</Verse>
 
-<Chorus num="2">How do I live? How do I breathe?
-When you're not here I'm suffocating
-I wanna feel love, run through my blood
-Tell me is this where I give it all up?
-For you I have to risk it all
-Cause the writing's on the wall</Chorus>
+<Verse cat="Chorus" type="1"><lb/>How do <POV V="1">I</POV>live? How do <POV V="1">I</POV>breathe?
+<lb/>When you're not here I'm suffocating
+<lb/><POV V="1">I</POV>wanna feel love, run through my blood
+<lb/>Tell me is this where <POV V="1">I</POV>give it all up?
+<lb/>For <POV V="2">you</POV><POV V="1">I</POV>have to risk it all
+<lb/>Cause the writing's on the wall</Verse>
 
-<Bridge num="1">The writing's on the wall</Bridge>
+<Verse cat="Bridge" type="1"><lb/>The writing's on the wall</Verse>
 
-<Chorus num="3">How do I live? How do I breathe?
-When you're not here I'm suffocating
-I wanna feel love, run through my blood
-Tell me is this where I give it all up?
-How do I live? How do I breathe?
-When you're not here I'm suffocating
-I wanna feel love run through my blood
-Tell me is this where I give it all up?
-For you I have to risk it all
-Cause the writing's on the wall</Chorus></IntroSong>
+<Verse cat="Chorus" type="2"><lb/>How do <POV V="1">I</POV>live? How do <POV V="1">I</POV>breathe?
+<lb/>When you're not here I'm suffocating
+<lb/><POV V="1">I</POV>wanna feel love, run through my blood
+<lb/>Tell me is this where <POV V="1">I</POV>give it all up?
+<lb/>How do <POV V="1">I</POV>live? How do <POV V="1">I</POV>breathe?
+<lb/>When you're not here I'm suffocating
+<lb/><POV V="1">I</POV>wanna feel love run through my blood
+<lb/>Tell me is this where <POV V="1">I</POV>give it all up?
+<lb/>For <POV V="2">you</POV><POV V="1">I</POV>have to risk it all
+<lb/>Cause the writing's on the wall</Verse></IntroSong>
