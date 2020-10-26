@@ -3,9 +3,10 @@ IntroSong = element IntroSong {Verse+}
 
 
 
-Verse = element Verse {cat, type, mixed {(lb+ | FilmTitle | KeyWord | Person | Interjection)*}}
+Verse = element Verse {cat, type, mixed {(lb | FilmTitle | KeyWord | Person | POV | Interjection)*}}
 
-lb = element lb{n?}
+lb = element lb{n?, text}
+#Line Beginning 
 
 n = attribute n {xsd:integer}
 
@@ -27,7 +28,7 @@ POV = element POV {V, text}
 #V determines 1st, 2nd, 3rd
 
 V = attribute V {"1" | "2" | "3"}
-#POV including I.
+#POV including I, we.
 #POV including you.
 
 
