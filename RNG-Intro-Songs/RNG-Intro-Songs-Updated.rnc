@@ -3,7 +3,9 @@ IntroSong = element IntroSong {Verse+}
 
 
 
+
 Verse = element Verse {cat, type, mixed {(lb | FilmTitle | KeyWord | Person | POV | Interjection)*}}
+
 
 lb = element lb{n?, text}
 #Line Beginning 
@@ -39,8 +41,11 @@ KeyWord = element KeyWord {text}
 Unique = element Unique {text}
 #Words or phrases that are different within two of the same sections of the song structure.
 
-Person = element Person {who, text}
+
+Person = element Person {who, text, xmlid}
+
 #Reference to Name or Full Name of a person
+
 
 Interjection = element Interjection {text}
 #"Ohhh" or "Ahhhh", abrupt remark or scat singing 
