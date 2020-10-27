@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong><Verse type="1"><FilmTitle>Diamonds are forever</FilmTitle>
+They are all <FirstPersonPOV>I</FirstPersonPOV> need to please me
+They can stimulate and tease <FirstPersonPOV>me</FirstPersonPOV>
+They won't leave in the night
+<FirstPersonPOV>I've</FirstPersonPOV> no fear that they might desert me</Verse>
+
+<Verse type="2"><FilmTitle>Diamonds are forever</FilmTitle>
+Hold one up and then caress it
+Touch it, stroke it and undress it
+<FirstPersonPOV>I</FirstPersonPOV> can see every part
+Nothing hides in the heart to hurt <FirstPersonPOV>me</FirstPersonPOV>
+<FirstPersonPOV>I</FirstPersonPOV> don't need <KeyWord>love</KeyWord>
+For what good will <KeyWord>love</KeyWord> do <FirstPersonPOV>me</FirstPersonPOV>?
+<KeyWord>Diamonds</KeyWord> never lie to <FirstPersonPOV>me</FirstPersonPOV>
+For when <KeyWord>love's</KeyWord> gone
+They'll luster on</Verse>
+
+<Verse type="3"><FilmTitle>Diamonds are forever</FilmTitle>
+Sparkling round <FirstPersonPOV>my</FirstPersonPOV> little finger
+Unlike men, the <KeyWord>diamonds</KeyWord> linger;
+Men are mere mortals who
+Are not worth going to <SecondPersonPOV>your</SecondPersonPOV> grave for
+<FirstPersonPOV>I</FirstPersonPOV> don't need <KeyWord>love</KeyWord>
+For what good will <KeyWord>love</KeyWord> do <FirstPersonPOV>me</FirstPersonPOV>?</Verse>
+
+<Outro><KeyWord>Diamonds</KeyWord> never lie to <KeyWord>me</KeyWord>
+For when <KeyWord>love's</KeyWord> gone
+They'll luster on
+<FilmTitle>Diamonds are forever</FilmTitle>, forever, forever
+<FilmTitle>Diamonds are forever</FilmTitle>, forever, forever
+Forever and ever</Outro></IntroSong>

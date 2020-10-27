@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong>
+<Verse type="1">Nobody does it better
+Makes me feel sad for the rest
+Nobody does it half as good as <SecondPersonPOV>you</SecondPersonPOV>
+Baby, <SecondPersonPOV>you</SecondPersonPOV>’re the best</Verse>
+
+
+<Chorus type="1"><FirstPersonPOV>I</FirstPersonPOV> wasn’t looking
+But somehow you found me
+<FirstPersonPOV>I</FirstPersonPOV> tried to hide from your <KeyWord>love</KeyWord> light
+But like heaven above me
+<FilmTitle>The spy who loved me</FilmTitle>
+Is keeping all my secrets safe tonight
+</Chorus>
+
+
+<Verse tpye="2">And nobody does it better
+Though sometimes <FirstPersonPOV>I</FirstPersonPOV> wish someone could
+Nobody does it quite the way you do
+Why d’you have to be so good?
+</Verse>
+
+<Chorus type="2">The way that you hold me
+Whenever you hold me
+There’s some kind of magic inside <SecondPersonPOV>you</SecondPersonPOV>
+That keeps me from running
+But just keep it comin’
+How’d <SecondPersonPOV>you</SecondPersonPOV> learn to do the things <SecondPersonPOV>you</SecondPersonPOV> do?
+</Chorus>
+
+<Verse type="1">Oh, and nobody does it better
+Makes me feel sad for the rest
+Nobody does it half as good as <SecondPersonPOV>you</SecondPersonPOV>
+Baby, baby, darlin’ <SecondPersonPOV>you</SecondPersonPOV>’re the best
+</Verse>
+
+<Verse type="1">Baby <SecondPersonPOV>you</SecondPersonPOV>'re the best
+<Unique>Darlin'</Unique>, <SecondPersonPOV>you</SecondPersonPOV>'re the best
+Baby <SecondPersonPOV>you</SecondPersonPOV>'re the best</Verse>
+</IntroSong>

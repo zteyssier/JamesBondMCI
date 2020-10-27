@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong><Verse cat="Verse" type="1"><lb/><POV V="1">I</POV>should have known
+<lb/>I'd leave alone
+<lb/>Just goes to show
+<lb/>That the blood <POV V="2">you</POV>bleed is just the blood <POV V="2">you</POV>owe
+<lb/>We were a pair
+<lb/>But <POV V="1">I</POV>saw you there
+<lb/>Too much to bear
+<lb/>You were my life, but life is far away from fair
+<lb/>Was <POV V="1">I</POV>stupid to love you?
+<lb/>Was <POV V="1">I</POV>reckless to help?
+<lb/>Was it obvious to everybody else?</Verse>
+
+<Verse cat="Chorus" type="1"><lb/>That I'd fallen for a lie
+<lb/>You were never on my side
+<lb/>Fool me once, fool me twice
+<lb/>Are <POV V="2">you</POV>death or paradise?
+<lb/>Now you'll never see me cry
+<lb/>There's just <FilmTitle>no time to die</FilmTitle></Verse>
+
+<Verse cat="Verse" type="2"><lb/><POV V="1">I</POV>let it burn
+<lb/>You're no longer my concern, <Interjection>mmm</Interjection>
+<lb/>Faces from my past return
+<lb/>Another lesson yet to learn</Verse>
+
+<Verse cat="Chorus" type="1"><lb/>That I'd fallen for a lie
+<lb/>You were never on my side
+<lb/>Fool me once, fool me twice
+<lb/>Are <POV V="2">you</POV>death or paradise?
+<lb/>Now you'll never see me cry
+<lb/>There's just <FilmTitle>no time to die</FilmTitle></Verse>
+
+<Verse cat="Verse" type="3"><lb/>No time to die, <Interjection>mmm</Interjection>
+<lb/>No time to die, ooh</Verse>
+
+<Verse cat="Outro" type="1"><lb/>Fool me once, fool me twice
+<lb/>Are <POV V="2">you</POV>death or paradise?
+<lb/>Now you'll never see me cry
+<lb/>There's just <FilmTitle>no time to die</FilmTitle></Verse></IntroSong>

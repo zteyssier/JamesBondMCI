@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong><Verse cat="Verse" type="1"><lb/><POV V="1">I</POV> know how to hurt,
+<lb/><POV V="1">I</POV> know how to heal,
+<lb/><POV V="1">I</POV> know what to show,
+<lb/>and what to conceal,
+<lb/><POV V="1">I</POV> know when to talk,
+<lb/>and <POV V="1">I</POV> know when to touch,
+<lb/>no one ever died from wanting too much.</Verse>
+
+<Verse cat="Chorus" type="1"><lb/><FilmTitle>The world is not enough</FilmTitle>,
+<lb/>but it is such a perfect place to start my love,
+<lb/>and if you're strong enough,
+<lb/>together we can take the world apart my love.</Verse>
+
+<Verse cat="Verse" type="2"><lb/>People like us,
+<lb/>know how to survive,
+<lb/>there's no point in living,
+<lb/>If <POV V="2">you</POV>can't feel alive,
+<lb/>we know when to kiss,
+<lb/>and we know when to kill,
+<lb/>If we can't have it all, then nobody will.</Verse>
+
+<Verse cat="Chorus" type="1"><lb/><FilmTitle>The world is not enough</FilmTitle>,
+<lb/>but it is such a perfect place to start my love,
+<lb/>and if you're strong enough,
+<lb/>together we can take the world apart my love.</Verse>
+
+<Verse cat="Verse" type="3"><lb/><POV V="1">I</POV> feel safe,
+<lb/>and <POV V="1">I</POV> feel scared.
+<lb/><POV V="1">I</POV> feel ready,
+<lb/>and yet unprepared.</Verse>
+
+<Verse cat="Outro" type="1"><lb/><FilmTitle>The world is not enough</FilmTitle>,
+<lb/><FilmTitle>the world is not enough</FilmTitle>,
+<lb/>we're nowhere near enough,
+<lb/><FilmTitle>the world is not enough</FilmTitle>.</Verse></IntroSong>

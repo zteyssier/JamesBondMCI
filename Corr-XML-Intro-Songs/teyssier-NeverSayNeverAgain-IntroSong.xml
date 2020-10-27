@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong>
+<Verse>You walk in a room
+A woman can feel the heat
+One look is a guarantee
+Nights could be long and sweet
+The message is clear
+Like nothing I've ever known</Verse>
+
+<PreChorus>But the more that I hear
+Forget about long-range plans
+'Cause this man's got his own</PreChorus>
+    
+<Chorus>To get mixed up with a man who says <KeyWord>never</KeyWord>
+May be big trouble, but then
+I just could be the woman to take you
+And make you <FilmTitle>never say never again</FilmTitle></Chorus>
+<Interlude><KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
+<KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
+<KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
+<KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle></Interlude>
+<Verse>You've got all the moves
+Ah, but baby I've got them too
+No matter your attitude or your mood
+I'll come through
+The touch of your voice
+The feel of your eyes on me</Verse>
+<PreChorus>You leave me no choice
+Though I know there's danger there
+I don't care, let it be</PreChorus>
+<Chorus>To get it bad with a man who says never
+May have no future, but then
+I just could be the woman to reach you
+And teach you to never say never again</Chorus>
+<Bridge>I'll beg you
+I'll get you
+I'll reach you
+I'll teach you
+I'll take you
+I'll make you</Bridge>
+</IntroSong>

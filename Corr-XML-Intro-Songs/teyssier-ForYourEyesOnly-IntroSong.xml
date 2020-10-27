@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong><Intro><FilmTitle>For your eyes only</FilmTitle>, can see me through the night
+<FilmTitle>For your eyes only</FilmTitle>, I never need to hide</Intro>
+<PreChorus>You can see so much in me
+So much in me that's new
+I never felt, until I looked at you</PreChorus>
+
+<Chorus><FilmTitle>For your eyes only</FilmTitle>, only for you
+You see what no one else can see
+Now I'm breaking free
+<FilmTitle>For your eyes only</FilmTitle>, only for you
+The love I know you need in me
+The fantasy you freed in me
+Only for you, only for you</Chorus>
+
+<Intro><FilmTitle>For your eyes only</FilmTitle>, the nights are never cold
+You really know me, that's all I need to know</Intro>
+<PreChorus>Maybe I'm an open book
+Because I know you're mine
+But you won't need to read between the lines</PreChorus>
+
+<Chorus><FilmTitle>For your eyes only</FilmTitle>, only for you
+You see what no one else can see
+Now I'm breaking free
+For your eyes only, only for you
+The passions that collide in me
+The wild abandoned side of me
+Only for you, for your eyes only</Chorus></IntroSong>

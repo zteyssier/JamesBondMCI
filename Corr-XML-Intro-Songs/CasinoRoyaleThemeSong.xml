@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong><Verse cat="Verse" type="1"><lb/>If <POV V="2">you</POV> take a life do you know what you'll give?
+<lb/>odds are you won't like what it is,
+<lb/>when the storm arrives would you be seen with <POV V="1">me</POV>,
+<lb/>by the merciless eyes Ive deceived?</Verse>
+
+<Verse cat="Verse" type="2"><lb/>I've seen <KeyWord>angels</KeyWord> fall from blinding heights,
+<lb/>but <POV V="2">you</POV> yourself are nothing so <KeyWord>divine</KeyWord>,
+<lb/>just next in line.</Verse>
+
+<Verse cat="Chorus" type="1"><lb/>Arm yourself because no one else here will save you,
+<lb/>the odds will betray you and <POV V="1">I</POV> will replace <POV V="2">you</POV>,
+<lb/>you can't deny the prize it may never fulfill you,
+<lb/>It longs to kill you, are you willing to die?
+<lb/>the coldest blood runs through <POV V="1">my</POV> veins,
+<lb/>you know my name.</Verse>
+
+<Verse cat="Verse" type="3"><lb/>If <POV V="2">you</POV> come inside things will not be the same,
+<lb/>when you return to the night,
+<lb/>and if you think you've won you never saw me change,
+<lb/>the game that we have been playing.</Verse>
+
+<Verse cat="Verse" type="4"><lb/><POV V="1">I've</POV> seen diamonds cut through harder men,
+<lb/>than <POV V="2">you</POV> yourself but if you must pretend,
+<lb/>you may meet your end.</Verse>
+
+<Verse cat="Chorus" type="1"><lb/>Arm yourself because no one else here will save you,
+<lb/>the odds will betray you and <POV V="1">I</POV> will replace <POV V="2">you</POV>,
+<lb/>you can't deny the prize it may never fulfill you,
+<lb/>It longs to kill you, are you willing to die?
+<lb/>the coldest blood runs through my veins.</Verse>
+
+<Verse cat="Bridge" type="5"><lb/>Try to hide your hand, forget how to feel,
+<lb/>life is gone with just a spin of the wheel.</Verse>
+
+<Verse cat="Chorus" type="2"><lb/>Arm yourself because no one else here will save you,
+<lb/>the odds will betray you and <POV V="1">I</POV> will replace <POV V="2">you</POV>,
+<lb/>you can't deny the prize it may never fulfill you,
+<lb/>It longs to kill you, are you willin' to die?
+<lb/>the coldest blood runs through my veins,
+<lb/>you know my name.</Verse>
+
+<Verse cat="Outro" type="1"><lb/>You know my name,
+<lb/>you know my name,
+<lb/>you know my name,
+<lb/>you know my name.</Verse></IntroSong>

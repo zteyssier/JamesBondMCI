@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?><IntroSong><Verse type="1">When <SecondPersonPOV>you</SecondPersonPOV> were young and <SecondPersonPOV>your</SecondPersonPOV> heart was an open book
+<SecondPersonPOV>You</SecondPersonPOV> used to say <KeyWord>“Live and let live”</KeyWord>
+(<SecondPersonPOV>You</SecondPersonPOV> know <SecondPersonPOV>you</SecondPersonPOV> did, <SecondPersonPOV>you</SecondPersonPOV> know <SecondPersonPOV>you</SecondPersonPOV> did, <SecondPersonPOV>you</SecondPersonPOV> know <SecondPersonPOV>you</SecondPersonPOV> did)
+But if this ever changing world in which <FirstPersonPOV>we're</FirstPersonPOV> <KeyWord>living</KeyWord>
+Makes <SecondPersonPOV>you</SecondPersonPOV> give in and cry</Verse>
+
+<Chorus type="1">Say <FilmTitle>live and let die</FilmTitle>
+<FilmTitle>(Live and let die)</FilmTitle>
+<FilmTitle>Live and let die</FilmTitle>
+<FilmTitle>(Live and let die)</FilmTitle></Chorus>
+
+<Bridge type="1">What does it matter to <SecondPersonPOV>you</SecondPersonPOV>?
+When <SecondPersonPOV>you</SecondPersonPOV> got a job to do
+<SecondPersonPOV>You</SecondPersonPOV> got to do it well
+<SecondPersonPOV>You</SecondPersonPOV> got to give the other fellow hell</Bridge>
+
+<Verse type="2"><SecondPersonPOV>You</SecondPersonPOV> used to say <KeyWord>live and let live</KeyWord>
+(<SecondPersonPOV>You</SecondPersonPOV> know <SecondPersonPOV>you</SecondPersonPOV> did, <SecondPersonPOV>you</SecondPersonPOV> know <SecondPersonPOV>you</SecondPersonPOV> did, <SecondPersonPOV>you</SecondPersonPOV> know <SecondPersonPOV>you</SecondPersonPOV> did)
+But if this ever changing world in which <FirstPersonPOV>we're</FirstPersonPOV> <KeyWord>living</KeyWord>
+Makes <SecondPersonPOV>you</SecondPersonPOV> give in and cry</Verse>
+
+<Chorus type="2"><FilmTitle>Say live and let die</FilmTitle>
+<FilmTitle>(Live and let die)</FilmTitle>
+<FilmTitle>Live and let die</FilmTitle>
+<FilmTitle>(Live and let die)</FilmTitle>
+</Chorus></IntroSong>
