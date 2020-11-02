@@ -1,6 +1,5 @@
-
-<Screenplay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="Goldeneye.xml">
+<?xml-model href="../RNG-Screenplays/RNG-Screenplays.rnc" type="application/relax-ng-compact-syntax"?>
+<Screenplay>
  <Scene num="1">
   <Heading>Ext. Top of Dam - Day</Heading>
   <sd>A plane does a fly-by over a dam as a security gate slides open. A man in combat black runs
@@ -1484,20 +1483,26 @@
  <Scene num="98"><Heading>Int. Train - Morning</Heading>
   <sd>We see the screen with Boris' program. An intercom sounds.</sd>
   <spk voice="V.O.">ALEC </spk> Good luck with the floor, James. I set the timers for six minutes.
-  The same six minutes you gave me. <Scene num="99"><Heading>Int. Robinson - Morning</Heading>
+  The same six minutes you gave me. <Scene num="99">
+   <Heading>Int. Robinson - Morning</Heading>
    <sp><spk>ALEC</spk> It was the least I could do for a friend.</sp>
    <sd>He laughs, really sinister folks...</sd>
-  </Scene><Scene num="100"><Heading>Int. Train - Morning</Heading>
+  </Scene><Scene num="100">
+   <Heading>Int. Train - Morning</Heading>
    <sp><spk>NATALYA</spk> What does that mean?</sp>
    <sp><spk>BOND</spk> We've got three minutes.</sp>
    <sd>He takes off his watch.</sd>
-  </Scene><Scene num="101"><Heading>Ext. Train - Morning</Heading>
+  </Scene><Scene num="101">
+   <Heading>Ext. Train - Morning</Heading>
    <sd>The little chopper flies away.</sd>
-  </Scene><Scene num="102"><Heading>Int. Boris' Unknown Location - Who knows???</Heading>
+  </Scene><Scene num="102">
+   <Heading>Int. Boris' Unknown Location - Who knows???</Heading>
    <sd>Boris is seated at a computer, twirling a pen around his fingers.</sd>
-  </Scene><Scene num="103"><Heading>Int. Train - Morning</Heading>
+  </Scene><Scene num="103">
+   <Heading>Int. Train - Morning</Heading>
    <sd>Natalya is sending a SPIKE. Spike Sent</sd>
-  </Scene><Scene num="104"><Heading>Int. Boris' Location - ?????</Heading>
+  </Scene><Scene num="104">
+   <Heading>Int. Boris' Location - ?????</Heading>
    <sd>Boris notices the problem, and he freezes.</sd>
   </Scene><Scene num="105"><Heading>Int. Train - Morning</Heading>
    <sd>Bond is burning through the floor with the laser from his watch. Natalya is trying to figure
@@ -1516,17 +1521,20 @@
    Toronto, Chicago, San Francisco... <sp><spk>BOND</spk> Twenty seconds...!</sp>
    <sd>Bond jumps on the floor, trying to break it.</sd>
    <sp><spk>NATALYA</spk> Mexico City, Rio, Miami...</sp>
-  </Scene><Scene num="106"><Heading>Int. Boris' Location - ????</Heading>
+  </Scene><Scene num="106">
+   <Heading>Int. Boris' Location - ????</Heading>
    <sd>Boris opens a large CPU and rips the circuit boards out, in an attempt to cut the
     tracer.</sd>
-  </Scene><Scene num="107"><Heading>Int. Train - Morning</Heading>
+  </Scene><Scene num="107">
+   <Heading>Int. Train - Morning</Heading>
    <sd>Bond finally kicked the floor in. He grabs her arm.</sd>
    <sp><spk>BOND</spk> Come on!</sp>
    <sp><spk>NATALYA</spk> Wait! He's in Cuba! Havana, no...</sp>
    <sd>Disconnected Search Program</sd>
    <sp><spk>BOND</spk> NOW!</sp>
    <sd>He pulls her away and they both jump down the hole in the floor.</sd>
-  </Scene><Scene num="108"><Heading>Ext. Train - Morning</Heading>
+  </Scene><Scene num="108">
+   <Heading>Ext. Train - Morning</Heading>
    <sd>They roll out from under the train and sprint away from the ticking bomb. The train explodes
     and they fall to the ground. They sit up and watch the burning train. Natalya turns to
     Bond.</sd>
@@ -1546,7 +1554,8 @@
    <sd>They kiss.</sd>
    <sp><spk>BOND</spk> Lip service.</sp>
    <sd>They kiss again. We fade into...</sd>
-  </Scene><Scene num="109"><Heading>Ext. Tropical Road - Day</Heading>
+  </Scene><Scene num="109">
+   <Heading>Ext. Tropical Road - Day</Heading>
    <sd>A beautiful beach. Obviously somewhere in the Carribean. Some island near Cuba. Palm trees
     and all. Sweet! We pan over to the right, as the blue BMW convertible vvrooms down a dirt road.
     Bond's driving...nice sunglasses...Natalya is in a flowered dress. She grins. He grins
@@ -1604,7 +1613,8 @@
    <sp><spk>BOND</spk> Exactly.</sp>
    <sp><spk>WADE</spk> Yo James. I got faith. But be careful. He knows yer comin'.</sp>
    <sd>Wade speeds away. Bond and Natalya are left with the plane.</sd>
-  </Scene><Scene num="110"><Heading>Ext. Beach - Evening</Heading>
+  </Scene><Scene num="110">
+   <Heading>Ext. Beach - Evening</Heading>
    <sd>James is sitting on a beach outside their beach-house, deep in thought. Natalya approaches
     him wearing a white bikini. For once, our 007 doesn't seem to care... Somethin's wrong. She sits
     beside him.</sd>
@@ -1639,9 +1649,11 @@
    <sp><spk>BOND</spk> Basic rule. Always call their bluff.</sp>
    <sd>Natalya takes a pillow and playfully smothers him with it. Bond's laughing...they grin and
     kiss again passionately.</sd>
-  </Scene><Scene num="112"><Heading>Ext. Cuban sky - Day</Heading>
+  </Scene><Scene num="112">
+   <Heading>Ext. Cuban sky - Day</Heading>
    <sd>The little plane soars over blue water and up a cliff with dense vegetation.</sd>
-  </Scene><Scene num="113"><Heading>Int. Plane - Day</Heading>
+  </Scene><Scene num="113">
+   <Heading>Int. Plane - Day</Heading>
    <sd>James and Natalya, both dressed in camouflage green, sit in the cockpit. Natalya has a flight
     map in front of her, and is telling James where to fly.</sd>
    <sp><spk>NATALYA</spk> Turn ten degrees south, bearing 184.</sp>
@@ -1657,7 +1669,8 @@
     tray-tables are in the upright and locked position...the little plane skids off the surface of
     the lake and hits the trees, breaking what's left of the wings off. It finally slows to a
     halt.</sd>
-  </Scene><Scene num="114"><Heading>Ext. Rainforest - Day</Heading>
+  </Scene><Scene num="114">
+   <Heading>Ext. Rainforest - Day</Heading>
    <sd>We see Bond's arm poke out of the broken windshield. They're alive, a bit shaken...not
     stirred -- sorry, I had to! Natalya appears to be knocked out. Bond kicks the door open. He
     carries her -- well, more accurately, he drags her -- out into the open. Yep, she's quite
@@ -1681,7 +1694,8 @@
     explodes in a bright flash, and our heroes duck to the ground. Bond looks at Xenia, dangling
     from the tree.</sd>
    <sp><spk>BOND</spk> She always did enjoy a good squeeze.</sp>
-  </Scene><Scene num="115"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="115">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>We cut to inside a large control room, its location still unknown. Trevelyan walks down the
     stairs, dressed in black. He walks through a glass door to where Boris is sitting at a station
     of computers.</sd>
@@ -1691,29 +1705,36 @@
    <sp><spk>BORIS</spk> No it is too early! I am not ready.</sp>
    <sp><spk>ALEC</spk> Do it!!</sp>
    <sd>Alec walks away. Fine. If he wants it now, he'll get it now.</sd>
-  </Scene><Scene num="116"><Heading>Ext. Rainforest - Day</Heading>
+  </Scene><Scene num="116">
+   <Heading>Ext. Rainforest - Day</Heading>
    <sd>Bond and Natalya push on through a dense jungle. They see a large satellite dish rising from
     the water. Like the one in Severnaya.</sd>
    <sp><spk>BOND</spk> No wonder we couldn't see it.</sp>
    <sd>The dish is still rising.</sd>
    <sp><spk>BOND</spk> Come on.</sp>
    <sd>We cut to a full view of the dish, then we see James and Natalya running toward it.</sd>
-  </Scene><Scene num="117"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="117">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Alec opens the protective case and pulls the GoldenEye out. He faces Boris.</sd>
    <sp><spk>ALEC</spk> The world's greatest cash card.</sp>
    <sd>Trevelyan hands it to an eager Boris, but doesn't take his hands off the GoldenEye.</sd>
    <sp><spk>ALEC</spk> It had better not be rejected.</sp>
    <sd>Boris grabs it and slips it into the slot.</sd>
-  </Scene><Scene num="118"><Heading>Ext. Dish - Day</Heading>
+  </Scene><Scene num="118">
+   <Heading>Ext. Dish - Day</Heading>
    <sd>The lake water drains now and reveals the dish part of the satellite. Bond glances at
     Natalya.</sd>
-  </Scene><Scene num="119"><Heading>Ext. Outer space</Heading>
+  </Scene><Scene num="119">
+   <Heading>Ext. Outer space</Heading>
    <sd>We see the GoldenEye satellite in orbit.</sd>
-  </Scene><Scene num="120"><Heading>Ext. Rainforest - Day</Heading>
+  </Scene><Scene num="120">
+   <Heading>Ext. Rainforest - Day</Heading>
    <sd>Bond walks closer to the camera, watching...the water keeps draining.</sd>
-  </Scene><Scene num="121"><Heading>Ext. Road - Day</Heading>
+  </Scene><Scene num="121">
+   <Heading>Ext. Road - Day</Heading>
    <sd>Bond and Natalya run along a road, closer to the dish.</sd>
-  </Scene><Scene num="122"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="122">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris is playing with a pen. He glances at a monitor.</sd>
    <sp><spk>BORIS</spk> Mischa is online.</sp>
    <sd>A soldier approaches Alec and hands him a hand-held video screen. Alec looks at it. We see
@@ -1722,9 +1743,11 @@
    <sp><spk>ALEC</spk> Kill him. The man just won't take a hint...</sp>
    <sp><spk>BORIS</spk> Target coordinates...?</sp>
    <sp><spk>ALEC</spk> Target is London.</sp>
-  </Scene><Scene num="123"><Heading>Int. Engine room - Day</Heading>
+  </Scene><Scene num="123">
+   <Heading>Int. Engine room - Day</Heading>
    <sd>Gears grind inside an engine room, moving the antenna into position.</sd>
-  </Scene><Scene num="124"><Heading>Ext. Dish - Day</Heading>
+  </Scene><Scene num="124">
+   <Heading>Ext. Dish - Day</Heading>
    <sd>Bond and Natalya notice the movement.</sd>
    <sp><spk>NATALYA</spk> He's getting ready to signal the satellite.</sp>
    <sp><spk>BOND</spk> How do you stop it?</sp>
@@ -1734,19 +1757,23 @@
     dish. We notice there's a drop in the center where all the water must have drained into. Bond
     stops himself, bracing his feet at the ledge of the drop, then catches Natalya.</sd>
    <sd>He looks into the hole. We see a circular door in the bottom.</sd>
-  </Scene><Scene num="125"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="125">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris is still seated at the computers.</sd>
    <sp><spk>BORIS</spk> Antenna in position.</sp>
    <sd>Alec hands Boris one of the two operational keys. They slip them into their slots.</sd>
    <sp><spk>ALEC</spk> On my count...3...2...1!</sp>
    <sd>They turn them at the same time. The same map we saw in Severnaya appears on the wall-size
     screen. A line moves to intercept London.</sd>
-  </Scene><Scene num="126"><Heading>Outer space</Heading>
+  </Scene><Scene num="126">
+   <Heading>Outer space</Heading>
    <sd>Mischa moves into orbit.</sd>
-  </Scene><Scene num="127"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="127">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Alec twists a red dial. Weapon Armed</sd>
    <sp><spk>ALEC</spk> God save the Queen.</sp>
-  </Scene><Scene num="128"><Heading>Int. Facility - Day</Heading>
+  </Scene><Scene num="128">
+   <Heading>Int. Facility - Day</Heading>
    <sd>Bond and Natalya climb down a ladder below the dish into the facility. Every soldier is on
     alert. The good guys move around stealthily as the soldiers shout out things in Spanish. Natalya
     spots a console to the mainframe.</sd>
@@ -1761,10 +1788,12 @@
     showing...the detonators planted on a pouring tank of a pinkish, probably flammable liquid.
     Meanwhile, the soldiers are bringing Bond down the stairs to the control deck. We see Natalya
     poke her head out from behind a tank. She runs back into...</sd>
-  </Scene><Scene num="129"><Heading>Int. Mainframe - Day</Heading>
+  </Scene><Scene num="129">
+   <Heading>Int. Mainframe - Day</Heading>
    <sd>Inside a room that houses a terminal for the mainframe computer, Natalya sits down and begins
     to type...</sd>
-  </Scene><Scene num="130"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="130">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>The soldiers escort Bond to where Alec is standing near Boris. His former friend notices
     007.</sd>
    <sp><spk>ALEC</spk> James! What an unpleasant surprise.</sp>
@@ -1780,9 +1809,11 @@
    <sp><spk>ALEC</spk> Ah. New model. Still press here, do I?</sp>
    <sd>He presses a button, we cut to see the detonators disarm. The pink liquid is really starting
     to flood now...</sd>
-  </Scene><Scene num="131"><Heading>Int. Mainframe - Day</Heading>
+  </Scene><Scene num="131">
+   <Heading>Int. Mainframe - Day</Heading>
    <sd>Natalya is still typing at the computer terminal.</sd>
-  </Scene><Scene num="132"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="132">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>We see a screen. Looks similar to PC Banking. LOADS of cash. Bond knows what's going
     on...</sd>
    <sp><spk>BOND</spk> Interesting set-up, Alec. You break into the Bank of England via computer and
@@ -1793,10 +1824,12 @@
     Nothing more than a common thief.</sp>
    <sd>Well, that pisses Alec off. He stands up, very annoyed. Bond just has a special way of
     getting people mad at him...</sd>
-  </Scene><Scene num="133"><Heading>Int. Mainframe - Day</Heading>
+  </Scene><Scene num="133">
+   <Heading>Int. Mainframe - Day</Heading>
    <sd>The soldiers have located Natalya in the mainframe. She's almost done... They grab her, but
     she manages to click 'ENTER'. Encryption in Progress. Ouch.</sd>
-  </Scene><Scene num="134"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="134">
+   <Heading>Int. Control deck - Day</Heading>
    <sp><spk>ALEC</spk> You always did have a small mind, James. It's not just erasing bank records,
     it's everything on every computer in Greater London. Tax records. Stock market. Credit ratings.
     Land registries. Criminal records. In sixteen minutes and 43...42 seconds the United Kingdom
@@ -1830,9 +1863,11 @@
    <sp><spk>BORIS</spk> She doesn't even have access to the firing codes.</sp>
    <sd>He spoke too soon. An alarm sounds. Boris runs to a computer. Natalya smirks.</sd>
    <sp><spk>BORIS</spk> Retro-Rockets firing!</sp>
-  </Scene><Scene num="135"><Heading>Space</Heading>
+  </Scene><Scene num="135">
+   <Heading>Space</Heading>
    <sd>Rockets fire from the satellite, moving it into the atmosphere.</sd>
-  </Scene><Scene num="136"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="136">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris types away, twirling the pen with his right hand, clicking it a few times here and
     there. Bond watches the pen very attentively.</sd>
    <sp><spk>ALEC</spk> What the hell's happening?!</sp>
@@ -1854,14 +1889,17 @@
    <sp><spk>BORIS</spk> Give me the codes, Natalya! Give them to me!!</sp>
    <sd>Bond knocks the pen from Boris, Bond and Natalya duck. The pen lands in the leaking pink
     liquid. KA-BOOM!! Huge explosion. Bond and Natalya break for the elevator.</sd>
-  </Scene><Scene num="137"><Heading>Int. Elevator - Day</Heading>
+  </Scene><Scene num="137">
+   <Heading>Int. Elevator - Day</Heading>
    <sp><spk>BOND</spk> Can Boris break your codes?</sp>
    <sp><spk>NATALYA</spk> Possibly.</sp>
    <sp><spk>BOND</spk> Possibly?! We have to destroy the transmitter.</sp>
    <sp><spk>NATALYA</spk> By the way, I'm fine, thank you very much.</sp>
-  </Scene><Scene num="138"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="138">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>That pink stuff was flammable. People are on fire, equipment is exploding.</sd>
-  </Scene><Scene num="139"><Heading>Ext. Elevator - Day</Heading>
+  </Scene><Scene num="139">
+   <Heading>Ext. Elevator - Day</Heading>
    <sd>The elevator stops at a tower near the antenna. A guard watches the doors open...revealing
     Natalya laying on the floor, her back to us. Where's Bond? The guard approaches her and...Bond
     drops down from the ceiling of the elevator. He slams the guard into the metal walls. Bond hands
@@ -1871,7 +1909,8 @@
    <sp><spk>NATALYA</spk> Yes.</sp>
    <sp><spk>BOND</spk> Good. Stand aside.</sp>
    <sd>Bond runs across a metal bridge leading to the antenna.</sd>
-  </Scene><Scene num="141"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="141">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Whoever's not dead is controlling the fire with extinguishers now. Alec walks up to
     Boris.</sd>
    <sp><spk>ALEC</spk> How long?</sp>
@@ -1882,42 +1921,55 @@
    <sd>A soldier steps to Alec's side.</sd>
    <sp><spk>ALEC</spk> If he moves, kill him.</sp>
    <sd>The soldier points a pistol at Boris' head.</sd>
-  </Scene><Scene num="142"><Heading>Ext. Dish - Day</Heading>
+  </Scene><Scene num="142">
+   <Heading>Ext. Dish - Day</Heading>
    <sd>Natalya spots a helicopter...</sd>
-  </Scene><Scene num="143"><Heading>Ext. Antenna - Day</Heading>
+  </Scene><Scene num="143">
+   <Heading>Ext. Antenna - Day</Heading>
    <sd>Alec runs to a cable car thing leading to the antenna.</sd>
-  </Scene><Scene num="144"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="144">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris wipes the sweat from his glasses, typing in concentration.</sd>
-  </Scene><Scene num="145"><Heading>Space</Heading>
+  </Scene><Scene num="145">
+   <Heading>Space</Heading>
    <sd>The satellite begins to enter the atmosphere, turning red-hot with friction.</sd>
-  </Scene><Scene num="146"><Heading>Ext. Bridge - Day</Heading>
+  </Scene><Scene num="146">
+   <Heading>Ext. Bridge - Day</Heading>
    <sd>Bond sprints up the narrow bridge, Alec is close behind him on the cable car. Alec fires an
     assault rifle at 007. Bond hits the deck, fires his own automatic. Alec runs out of ammo, so
     does Bond. Alec re-loads, Bond ditches the gun and runs up the bridge.</sd>
-  </Scene><Scene num="147"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="147">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris is still typing...</sd>
-  </Scene><Scene num="148"><Heading>Ext. Bridge - Day</Heading>
+  </Scene><Scene num="148">
+   <Heading>Ext. Bridge - Day</Heading>
    <sd>Alec finally takes a handgun and fires at the running 007, but misses him. Alec gets off the
     car and runs after Bond. He shoots again, Bond flies forward doing a mid-air somersault down an
     incline and continues. Alec re-loads.</sd>
-  </Scene><Scene num="149"><Heading>Int. Engine room - Day</Heading>
+  </Scene><Scene num="149">
+   <Heading>Int. Engine room - Day</Heading>
    <sd>Bond hops down into the engine room for the transmitter.</sd>
-  </Scene><Scene num="150"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="150">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Send Command. Boris cracked the code.</sd>
    <sp><spk>BORIS</spk> YES! I am invincible!!</sp>
    <sd>He types away.</sd>
-  </Scene><Scene num="151"><Heading>Int. Engine room - Day</Heading>
+  </Scene><Scene num="151">
+   <Heading>Int. Engine room - Day</Heading>
    <sd>The gears start to move again. Alec finds Bond. They fight, evenly matched. Bond throws 006
     down the stairs and shoots a pistol at him. Just misses. But he has an idea of how to stop the
     antenna; the old fashioned way! Bond grabs a metal pole off the wall and shoves it in the gear
     belt. He runs down the stairs after Alec. We see the pole do its work. It's now stuck between
     two gears.</sd>
-  </Scene><Scene num="152"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="152">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Antenna Malfunction. Boris squeaks.</sd>
-  </Scene><Scene num="153"><Heading>Ext. Dish - Day</Heading>
+  </Scene><Scene num="153">
+   <Heading>Ext. Dish - Day</Heading>
    <sd>The antenna screeches to a halt. Bond notices some blood on a railing. Still fresh. He hears
     a clang of metal-on-metal. Aims at the sound. Nothing. He jumps down into...</sd>
-  </Scene><Scene num="154"><Heading>Int. Another room - Day</Heading>
+  </Scene><Scene num="154">
+   <Heading>Int. Another room - Day</Heading>
    <sd>This room looks like it houses the electricity. Bond points the gun around, looking for Alec.
     Behind him Alec swings down through the door and kicks 007 in the face. They fight again, 006
     appears to be winning. Both seem to know the other one's next move. Both drop their guns,
@@ -1929,39 +1981,52 @@
    <sd>James kicks a lever just before Alec fires. The ladder he's hanging on to drops down into the
     sun, very high above the dish. Bond hangs on for dear life...groaning as the ladder jerks to a
     stop.</sd>
-  </Scene><Scene num="155"><Heading>Ext. Rainforest - Day</Heading>
+  </Scene><Scene num="155">
+   <Heading>Ext. Rainforest - Day</Heading>
    <sd>Natalya sees Bond on the ladder in obvious trouble.</sd>
-  </Scene><Scene num="156"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="156">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Alec has run out of bullets. He takes out a radio, calls for the helicopter.</sd>
    <sp><spk>ALEC</spk> Alpha one to Gunship!</sp>
-  </Scene><Scene num="157"><Heading>Ext. Rainforest - Day</Heading>
+  </Scene><Scene num="157">
+   <Heading>Ext. Rainforest - Day</Heading>
    <sd>The helicopter pilot gets in the chopper.</sd>
    <sd>Alec (V.O.): Alpha one to Gunship!!</sd>
-  </Scene><Scene num="158"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="158">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Bond starts to climb up the ladder, Alec starts to climb down.</sd>
-  </Scene><Scene num="159"><Heading>Int. Engine room - Day</Heading>
+  </Scene><Scene num="159">
+   <Heading>Int. Engine room - Day</Heading>
    <sd>The gears and things are catching on fire...</sd>
-  </Scene><Scene num="160"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="160">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Alec decides to slide down the ladder, definitely quicker. He hits Bond with his feet, who
     slips but just grabs on to the last rung. By one arm.</sd>
-  </Scene><Scene num="161"><Heading>Ext. Rainforest - Day</Heading>
+  </Scene><Scene num="161">
+   <Heading>Ext. Rainforest - Day</Heading>
    <sd>The chopper takes off.</sd>
-  </Scene><Scene num="162"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="162">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Bond looks down. Whoa...WAY too far to jump. And live. No way! Alec, the epitamy of evil,
     places his boot on Bond's knuckles. And stomps on it. James has no choice but to let go...and
     lands on part of the antenna. Only about six feet in diameter. Held up by wires. He can barely
     pull himself up.</sd>
-  </Scene><Scene num="168"><Heading>Space</Heading>
+  </Scene><Scene num="168">
+   <Heading>Space</Heading>
    <sd>The satellite's burning up now, in re-entry.</sd>
-  </Scene><Scene num="169"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="169">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris is frantically shaking the monitor.</sd>
    <sp><spk>BORIS</spk> SPEAK TO ME!!</sp>
-  </Scene><Scene num="170"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="170">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Alec jumps down to where Bond is and grabs him by the throat, holding him over the side. The
     helicopter flies into view. Alec looks at it for a spit second...</sd>
-  </Scene><Scene num="171"><Heading>Int. Helicopter cockpit - Day</Heading>
+  </Scene><Scene num="171">
+   <Heading>Int. Helicopter cockpit - Day</Heading>
    <sd>Natalya appears in the chopper and presses a gun in the pilot's temple.</sd>
-  </Scene><Scene num="172"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="172">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Bond uses this window of opportunity. He kicks 006 off of him and flips him over the side. At
     the last second he grabs Alec's foot. Do it in style, James...</sd>
    <sp><spk>ALEC</spk> For England, James?</sp>
@@ -1969,19 +2034,25 @@
    <sp><spk>BOND</spk> No. For me.</sp>
    <sd>And with that he drops his ex-friend/neo-enemy. Alec hits the bottom of the disk with a
     sickening THUD.</sd>
-  </Scene><Scene num="173"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="173">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris is SCREAMING at the top of his lungs, horror movie style.</sd>
-  </Scene><Scene num="174"><Heading>Space</Heading>
+  </Scene><Scene num="174">
+   <Heading>Space</Heading>
    <sd>The satellite explodes in the Earth's atmosphere.</sd>
-  </Scene><Scene num="175"><Heading>Ext. Dish - Day</Heading>
+  </Scene><Scene num="175">
+   <Heading>Ext. Dish - Day</Heading>
    <sd>Alec moves his head a little. Natalya forces the helicopter pilot to fly closer to 007.</sd>
-  </Scene><Scene num="176"><Heading>Int. Engine room - Day</Heading>
+  </Scene><Scene num="176">
+   <Heading>Int. Engine room - Day</Heading>
    <sd>...on fire.</sd>
-  </Scene><Scene num="177"><Heading>Ext. Ladder - Day</Heading>
+  </Scene><Scene num="177">
+   <Heading>Ext. Ladder - Day</Heading>
    <sd>Bond leaps and grabs hold of the chopper's runners. They fly clear of the whole facility, the
     antenna's gonna blow any minute...KA-BOOM! As the whole damn thing blows up and falls right on
     top of screaming Alec.</sd>
-  </Scene><Scene num="178"><Heading>Int. Control deck - Day</Heading>
+  </Scene><Scene num="178">
+   <Heading>Int. Control deck - Day</Heading>
    <sd>Boris pokes his head out of the rubble. In pieces, but he's still alive. He jumps up
     triumphantly.</sd>
    <sp><spk>BORIS</spk> I am invincible!!!</sp>
