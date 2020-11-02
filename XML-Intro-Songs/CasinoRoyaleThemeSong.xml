@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Verse cat="Verse" type="1"><lb/>If <POV V="2">you</POV> take a life do you know what you'll give?
 <lb/>odds are you won't like what it is,
 <lb/>when the storm arrives would you be seen with <POV V="1">me</POV>,
