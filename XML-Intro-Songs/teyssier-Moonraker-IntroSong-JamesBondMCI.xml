@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1">
+<Verse type = "1" cat = "Verse">
 Where are <SecondPersonPOV>you</SecondPersonPOV>
 Why do <SecondPersonPOV>you</SecondPersonPOV> hide
 Where is that <KeyWord>moon</KeyWord>light trail that leads to <SecondPersonPOV>you</SecondPersonPOV>r side
@@ -10,18 +10,18 @@ In search of his dream of gold
 <FirstPersonPOV>I</FirstPersonPOV> search for <KeyWord>love</KeyWord>
 For someone to have and hold
 </Verse>
-<PreChorus type ="1">
+<Verse type ="1" cat = "PreChorus">
 <FirstPersonPOV>I</FirstPersonPOV>'ve seen your smile
 In a thousand dreams
 Felt your touch
-</PreChorus>
-<Chorus type = "1">
+</Verse>
+<Verse type = "1" cat = "Chorus">
 And it always seems
 <SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
 <SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
-</Chorus>
+</Verse>
 
-<Verse type = "2">
+<Verse type = "2" cat = "Verse">
 Where are <SecondPersonPOV>you</SecondPersonPOV>
 When will we meet
 Take my unfinished life and make it complete
@@ -30,14 +30,14 @@ His dream will come true someday
 <FirstPersonPOV>I</FirstPersonPOV> know that <SecondPersonPOV>you</SecondPersonPOV>
 Are only a <KeyWord>kiss</KeyWord> away
 </Verse>
-<PreChorus type = "2">
+<Verse type = "2" cat = "PreChorus">
 <FirstPersonPOV>I</FirstPersonPOV>'ve seen your smile
 In a thousand dreams
 Felt <SecondPersonPOV>you</SecondPersonPOV>r touch
-</PreChorus>
-<Chorus type = "2">
+</Verse>
+<Verse type = "2" cat = "Chorus">
 And it always seems
 <SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
 <SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
-</Chorus>
+</Verse>
 </IntroSong>

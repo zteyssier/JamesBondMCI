@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Intro><FilmTitle>For your eyes only</FilmTitle>, can see me through the night
 <FilmTitle>For your eyes only</FilmTitle>, I never need to hide</Intro>
 <PreChorus>You can see so much in me
