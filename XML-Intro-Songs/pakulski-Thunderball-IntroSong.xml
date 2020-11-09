@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse type = "1"><ThirdPersonPOV>He</ThirdPersonPOV> always runs while others walk
-<ThirdPersonPOV>He</ThirdPersonPOV> acts while other men just talk
-<ThirdPersonPOV>He</ThirdPersonPOV> looks at this world, and wants it all
-So he strikes, like <FilmTitle>Thunderball</FilmTitle></Verse>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<IntroSong>
+<Verse type = "1" cat="Verse">
+<lb/><POV V="3">He</POV> always runs while others walk
+<lb/><POV V="3">He</POV> acts while other men just talk
+<lb/><POV V="3">He</POV> looks at this world, and wants it all
+<lb/>So he strikes, like <FilmTitle>Thunderball</FilmTitle>
+</Verse>
 
-<Verse type = "2"><ThirdPersonPOV>He</ThirdPersonPOV> knows the meaning of success
-<ThirdPersonPOV>His</ThirdPersonPOV> needs are more, so <ThirdPersonPOV>he</ThirdPersonPOV> gives less
-<ThirdPersonPOV>They</ThirdPersonPOV> call <ThirdPersonPOV>him</ThirdPersonPOV> the winner who takes all
-And <ThirdPersonPOV>he</ThirdPersonPOV> strikes, like <FilmTitle>Thunderball</FilmTitle></Verse>
+<Verse type = "2" cat="Verse">
+<lb/><POV V="3">He</POV> knows the meaning of success
+<lb/><POV V="3">His</POV> needs are more, so <POV V="3">he</POV> gives less
+<lb/><POV V="3">They</POV> call <POV V="3">him</POV> the winner who takes all
+<lb/>And <POV V="3">he</POV> strikes, like <FilmTitle>Thunderball</FilmTitle>
+</Verse>
 
-<Bridge type = "1">Any <KeyWord>woman</KeyWord> <ThirdPersonPOV>he</ThirdPersonPOV> wants, <ThirdPersonPOV>he'll</ThirdPersonPOV> get
-<ThirdPersonPOV>He</ThirdPersonPOV> will break any <KeyWord>heart</KeyWord> without regret</Bridge>
+<Verse type = "1" cat="Bridge">
+<lb/>Any <KeyWord>woman</KeyWord> <POV V="3">he</POV> wants, <POV V="3">he'll</POV> get
+<lb/><POV V="3">He</POV> will break any <KeyWord>heart</KeyWord> without regret
+</Verse>
 
-<Verse type = "3"><ThirdPersonPOV>His</ThirdPersonPOV> days of asking are all gone
-<ThirdPersonPOV>His</ThirdPersonPOV> fight goes on and on and on
-But <ThirdPersonPOV>he</ThirdPersonPOV> thinks that the fight is worth it all
-So <ThirdPersonPOV>he</ThirdPersonPOV> strikes, like <FilmTitle>Thunderball</FilmTitle></Verse></IntroSong>
+<Verse type = "3" cat="Verse">
+<lb/><POV V="3">His</POV> days of asking are all gone
+<lb/><POV V="3">His</POV> fight goes on and on and on
+<lb/>But <POV V="3">he</POV> thinks that the fight is worth it all
+<lb/>So <POV V="3">he</POV> strikes, like <FilmTitle>Thunderball</FilmTitle>
+</Verse>
+</IntroSong>

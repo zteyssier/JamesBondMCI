@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1">
-<FilmTitle>Goldfinger</FilmTitle>
-<ThirdPersonPOV>He's</ThirdPersonPOV> the man
-The man with the <KeyWord>Midas</KeyWord> touch
-A spider's touch
-Such a cold finger
-Beckons <SecondPersonPOV>you</SecondPersonPOV> to enter <ThirdPersonPOV>his</ThirdPersonPOV> web of sin
-But don't go in
+<Verse type = "1" cat="Verse">
+<lb/><FilmTitle>Goldfinger</FilmTitle>
+<lb/><POV V="3">He's</POV> the man
+<lb/>The man with the <KeyWord>Midas</KeyWord> touch
+<lb/>A spider's touch
+<lb/>Such a cold finger
+<lb/>Beckons <POV V="2">you</POV> to enter <POV V="3">his</POV> web of sin
+<lb/>But don't go in
 </Verse>
-<Chorus type = "1">
-<KeyWord>Golden</KeyWord> words <ThirdPersonPOV>he</ThirdPersonPOV> will pour in <SecondPersonPOV>your</SecondPersonPOV> ear
-But <ThirdPersonPOV>his</ThirdPersonPOV> lies can't disguise what <SecondPersonPOV>you</SecondPersonPOV> fear
-For a <KeyWord>golden</KeyWord> girl knows when <ThirdPersonPOV>he's</ThirdPersonPOV> <KeyWord>kissed</KeyWord> <ThirdPersonPOV>her</ThirdPersonPOV>
-It's the <KeyWord>kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
-</Chorus>
-<Verse type = "2">
-Pretty girl, beware of <ThirdPersonPOV>his</ThirdPersonPOV> heart of <KeyWord>gold</KeyWord>
-This heart is cold
+    
+<Verse type = "1" cat="Chorus">
+<lb/><KeyWord>Golden</KeyWord> words <POV V="3">he</POV> will pour in <POV V="2">your</POV> ear
+<lb/>But <POV V="3">his</POV> lies can't disguise what <POV V="2">you</POV> fear
+<lb/>For a <KeyWord>golden</KeyWord> girl knows when <POV V="3">he's</POV> <KeyWord>kissed</KeyWord> <POV V="3">her</POV>
+<lb/>It's the <KeyWord>kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
 </Verse>
-<Chorus type = "2">
-<KeyWord>Golden</KeyWord> words <ThirdPersonPOV>he</ThirdPersonPOV> will pour in <SecondPersonPOV>your</SecondPersonPOV> ear
-But <ThirdPersonPOV>his</ThirdPersonPOV> lies can't disguise what <SecondPersonPOV>you</SecondPersonPOV> fear
-For a <KeyWord>golden</KeyWord> girl knows when <ThirdPersonPOV>he's</ThirdPersonPOV> <KeyWord>kissed</KeyWord> <ThirdPersonPOV>her</ThirdPersonPOV>
-It's the <KeyWord>kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
-</Chorus>
-<Verse type = "3">
-Pretty girl, beware of <ThirdPersonPOV>his</ThirdPersonPOV> heart of <KeyWord>gold</KeyWord>
-This heart is cold
+
+<Verse type = "2" cat="Verse">
+<lb/>Pretty girl, beware of <POV V="3">his</POV> heart of <KeyWord>gold</KeyWord>
+<lb/>This heart is cold
 </Verse>
-<Outro>
-<ThirdPersonPOV>He</ThirdPersonPOV> loves only <KeyWord>gold</KeyWord>
-Only <KeyWord>gold</KeyWord>
-<ThirdPersonPOV>He</ThirdPersonPOV> loves <KeyWord>gold</KeyWord>
-<ThirdPersonPOV>He</ThirdPersonPOV> loves only <KeyWord>gold</KeyWord>
-Only <KeyWord>gold</KeyWord>
-<ThirdPersonPOV>He</ThirdPersonPOV> loves <KeyWord>gold</KeyWord>
-</Outro>
+
+<Verse type = "2" cat="Verse">
+<lb/><KeyWord>Golden</KeyWord> words <POV V="3">he</POV> will pour in <POV V="2">your</POV> ear
+<lb/>But <POV V="3">his</POV> lies can't disguise what <POV V="2">you</POV> fear
+<lb/>For a <KeyWord>golden</KeyWord> girl knows when <POV V="3">he's</POV> <KeyWord>kissed</KeyWord> <POV V="3">her</POV>
+<lb/>It's the <KeyWord>kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
+</Verse>
+
+<Verse type = "3" cat="Verse">
+<lb/>Pretty girl, beware of <POV V="3">his</POV> heart of <KeyWord>gold</KeyWord>
+<lb/>This heart is cold
+</Verse>
+
+<Verse type="4" cat="Outro">
+<lb/><POV V="3">He</POV> loves only <KeyWord>gold</KeyWord>
+<lb/>Only <KeyWord>gold</KeyWord>
+<lb/><POV V="3">He</POV> loves <KeyWord>gold</KeyWord>
+<lb/><POV V="3">He</POV> loves only <KeyWord>gold</KeyWord>
+<lb/>Only <KeyWord>gold</KeyWord>
+<lb/><POV V="3">He</POV> loves <KeyWord>gold</KeyWord>
+</Verse>
 </IntroSong>
