@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse type = "1"><ThirdPersonPOV>He</ThirdPersonPOV> has a powerful weapon
-<ThirdPersonPOV>He</ThirdPersonPOV> charges a million a <KeyWord>shot</KeyWord>
-An assassin that's second to none
-<FilmTitle>The man with the golden gun</FilmTitle></Verse>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<IntroSong>
+<Verse type = "1" cat="Verse">
+<lb/><POV V="3">He</POV> has a powerful weapon
+<lb/><POV V="3">He</POV> charges a million a <KeyWord>shot</KeyWord>
+<lb/>An assassin that's second to none
+<lb/><FilmTitle>The man with the golden gun</FilmTitle>
+</Verse>
 
-<Verse type = "2">Lurking in some darkened doorway
-Or crouched on a roof top somewhere
-In the next room, or this very one
-<FilmTitle>The man with the golden gun</FilmTitle></Verse>
+<Verse type = "2" cat="Verse">
+<lb/>Lurking in some darkened doorway
+<lb/>Or crouched on a roof top somewhere
+<lb/>In the next room, or this very one
+<lb/><FilmTitle>The man with the golden gun</FilmTitle>
+</Verse>
 
-<Bridge type = "1"><KeyWord>Love</KeyWord> is required whenever <ThirdPersonPOV>he's</ThirdPersonPOV> hired
-It comes just before the kill
-No-one can catch <ThirdPersonPOV>him</ThirdPersonPOV>, no hit man can match <ThirdPersonPOV>him</ThirdPersonPOV>
-For <ThirdPersonPOV>his</ThirdPersonPOV> million dollar skill</Bridge>
+<Verse type = "1" cat="Bridge">
+<lb/><KeyWord>Love</KeyWord> is required whenever <POV V="3">he's</POV> hired
+<lb/>It comes just before the kill
+<lb/>No-one can catch <POV V="3">him</POV>, no hit man can match <POV V="3">him</POV>
+<lb/>For <POV V="3">his</POV> million dollar skill
+</Verse>
 
-<Verse type = "3">One <KeyWord>golden shot</KeyWord> means another poor victim
-Has come to a <KeyWord>glittering</KeyWord> end
-For a price, <ThirdPersonPOV>he'll</ThirdPersonPOV> erase anyone
-<FilmTitle>The man with the golden gun</FilmTitle></Verse>
+<Verse type = "3" cat="Verse">
+<lb/>One <KeyWord>golden shot</KeyWord> means another poor victim
+<lb/>Has come to a <KeyWord>glittering</KeyWord> end
+<lb/>For a price, <POV V="3">he'll</POV> erase anyone
+<lb/><FilmTitle>The man with the golden gun</FilmTitle></Verse>
 
-<Verse type = "4"><ThirdPersonPOV>His</ThirdPersonPOV> eye may be on <SecondPersonPOV>you</SecondPersonPOV> or <FirstPersonPOV>me</FirstPersonPOV>
-Who will <ThirdPersonPOV>he</ThirdPersonPOV> bang?
-<FirstPersonPOV>We</FirstPersonPOV> shall see
-Oh yeah!</Verse>
+<Verse type = "4" cat="Verse">
+<lb/><POV V="3">His</POV> eye may be on <POV V="2">you</POV> or <POV V="1">me</POV>
+<lb/>Who will <POV V="3">he</POV> bang?
+<lb/><POV V="1">We</POV> shall see
+<lb/>Oh yeah!
+</Verse>
 
-<Bridge type = "2"><KeyWord>Love</KeyWord> is required whenever <ThirdPersonPOV>he's</ThirdPersonPOV> hired
-It comes just before the kill
-No-one can catch <ThirdPersonPOV>him</ThirdPersonPOV>, no hit man can match <ThirdPersonPOV>him</ThirdPersonPOV>
-For <ThirdPersonPOV>his</ThirdPersonPOV> million dollar skill</Bridge>
+<Verse type = "2" cat="Bridge">
+<lb/><KeyWord>Love</KeyWord> is required whenever <POV V="3">he's</POV> hired
+<lb/>It comes just before the kill
+<lb/>No-one can catch <POV V="3">him</POV>, no hit man can match <POV V="3">him</POV>
+<lb/>For <POV V="3">his</POV> million dollar skill
+</Verse>
 
-<Verse type = "5">One <KeyWord>golden shot</KeyWord> means another poor victim
-Has come to a <KeyWord>glittering</KeyWord> end
-If <SecondPersonPOV>you</SecondPersonPOV> want to get rid of someone
-<FilmTitle>The man with the golden gun</FilmTitle>
-Will get it done
-<ThirdPersonPOV>He'll</ThirdPersonPOV> <KeyWord>shoot</KeyWord> anyone
-With <ThirdPersonPOV>his</ThirdPersonPOV> <KeyWord>golden gun</KeyWord></Verse>
+<Verse type = "5" cat="Verse">
+<lb/>One <KeyWord>golden shot</KeyWord> means another poor victim
+<lb/>Has come to a <KeyWord>glittering</KeyWord> end
+<lb/>If <POV V="2">you</POV> want to get rid of someone
+<lb/><FilmTitle>The man with the golden gun</FilmTitle>
+<lb/>Will get it done
+<lb/><POV V="3">He'll</POV> <KeyWord>shoot</KeyWord> anyone
+<lb/>With <POV V="3">his</POV> <KeyWord>golden gun</KeyWord>
+</Verse>
 </IntroSong>

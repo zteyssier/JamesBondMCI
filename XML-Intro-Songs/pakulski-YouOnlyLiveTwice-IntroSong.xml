@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse type = "1"><FilmTitle><SecondPersonPOV>You</SecondPersonPOV> only live twice</FilmTitle>
-Or so it seems
-One <KeyWord>life</KeyWord> for <SecondPersonPOV>yourself</SecondPersonPOV>
-And one for <SecondPersonPOV>your</SecondPersonPOV> dreams</Verse>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<IntroSong>
+<Verse type = "1" cat="Verse">
+<lb/><FilmTitle>You only live twice</FilmTitle>
+<lb/>Or so it seems
+<lb/>One <KeyWord>life</KeyWord> for <POV V="2">yourself</POV>
+<lb/>And one for <POV V="2">your</POV> dreams
+</Verse>
 
-<Verse type = "2"><SecondPersonPOV>You</SecondPersonPOV> drift through the years
-And life seems tame
-'Til one dream appears
-And <KeyWord>Love</KeyWord> is its name</Verse>
+<Verse type = "2" cat="Verse">
+<lb/><POV V="2">You</POV> drift through the years
+<lb/>And life seems tame
+<lb/>'Til one dream appears
+<lb/>And <KeyWord>Love</KeyWord> is its name
+</Verse>
 
-<Verse type = "3">And <KeyWord>love</KeyWord> is a stranger
-<ThirdPersonPOV>Who'll</ThirdPersonPOV> beckon <SecondPersonPOV>you</SecondPersonPOV> on
-Don't think of the danger
-Or the stranger is gone</Verse>
+<Verse type = "3" cat="Verse">
+<lb/>And <KeyWord>love</KeyWord> is a stranger
+<lb/><POV V="3">Who'll</POV> beckon <POV V="2">you</POV> on
+<lb/>Don't think of the danger
+<lb/>Or the stranger is gone
+</Verse>
 
-<Chorus type = "1">This dream is for <SecondPersonPOV>you</SecondPersonPOV>
-So pay the price
-Make one dream come true
-<FilmTitle><SecondPersonPOV>You</SecondPersonPOV> only live twice</FilmTitle></Chorus>
+<Verse type = "1" cat="Chorus">
+<lb/>This dream is for <POV V="2">you</POV>
+<lb/>So pay the price
+<lb/>Make one dream come true
+<lb/><FilmTitle>You only live twice</FilmTitle>
+</Verse>
 
-<Verse type = "4">And <KeyWord>love</KeyWord> is a stranger
-Who'll beckon <SecondPersonPOV>you</SecondPersonPOV> on
-Don't think of the danger
-Or the stranger is gone</Verse>
+<Verse type = "4" cat="Verse">
+<lb/>And <KeyWord>love</KeyWord> is a stranger
+<lb/>Who'll beckon <POV V="2">you</POV> on
+<lb/>Don't think of the danger
+<lb/>Or the stranger is gone
+</Verse>
 
-<Chorus type = "2">This dream is for <SecondPersonPOV>you</SecondPersonPOV>
-So pay the price
-Make one dream come true
-<FilmTitle><SecondPersonPOV>You</SecondPersonPOV> only live twice</FilmTitle></Chorus></IntroSong>
+<Verse type = "2" cat="Chorus">
+<lb/>This dream is for <POV V="2">you</POV>
+<lb/>So pay the price
+<lb/>Make one dream come true
+<lb/><FilmTitle>You only live twice</FilmTitle>
+</Verse>
+</IntroSong>
