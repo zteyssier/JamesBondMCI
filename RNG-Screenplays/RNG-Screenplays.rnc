@@ -17,5 +17,8 @@ sd = element sd {text}
 sp = element sp {spk, text}
 #Dialogue for a character 
 
-spk = element spk {text}
+spk = element spk {text, sex}
 #Character speaking 
+
+sex = attribute sex {text}
+#Indication if spk is male or female. Use M or F or N/A if unknown
