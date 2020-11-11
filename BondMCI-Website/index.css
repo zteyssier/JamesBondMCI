@@ -41,8 +41,8 @@ body{
    height: 100vh;
 }
 .menu-area li a{
-    text-decoration:none;
-    color:#fff;
+    text-decoration: none;
+    color: #000000;
     letter-spacing: 1px;
     text-transform: uppercase;
     display: block;
