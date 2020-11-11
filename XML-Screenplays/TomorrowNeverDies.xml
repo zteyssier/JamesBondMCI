@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Screenplays/RNG-Screenplays.rnc" type="application/relax-ng-compact-syntax"?>
 <Screenplay>
-    FADE IN ON:
+<Scene num="1">
+      <Heading>EXT. DESOLATE MOUNTAIN RANGE - HIGH ANGLE - DAWN</Heading>
 
-      <sd>EXT. DESOLATE MOUNTAIN RANGE - HIGH ANGLE - DAWN
-
-      Super: THE KHYBER PASS, AFGHANISTAN
+      <sd>Super: THE KHYBER PASS, AFGHANISTAN
 
       We're looking down at what used to be called "The End of the Known
       World." A landscape that is both beautiful, and forbidding.
@@ -75,11 +74,13 @@
       himself at the wall, lunging - AND SMASHES THE SECOND PICK INTO THE
       ICE... Just as the tether finally snaps on the first one. Still,
       he's all but home: He reaches over, grabs the first pick (barely
-      holding in the ice,) jabs it in, and continues upward.
+      holding in the ice,) jabs it in, and continues upward.</sd>
+</Scene>
 
-      EXT. THE TOP OF THE WATER FALL -
+      <Scene num="2">
+            <Heading>EXT. THE TOP OF THE WATER FALL -</Heading>
 
-      Exhausted, Bond reaches up, over the edge. He drives a pick down -
+      <sd>Exhausted, Bond reaches up, over the edge. He drives a pick down -
       through the ice, into the hard, flat, ground beneath the waterbed.
 
       As he pulls himself up, (his full weight on the first ice-pick,) he
@@ -111,18 +112,20 @@
       side of the box, and - fwap, fwap, fwap - SNOW SKIS unfold.
 
       He presses buttons on the canisters: TELESCOPIC SKI POLES. Bond
-      slaps on the skis, and takes off, through the snow.
+      slaps on the skis, and takes off, through the snow.</sd>
+      </Scene>
 
-      EXT. SNOW-COVERED FOREST - BOND SKIS THROUGH THE PINES -
+      <Scene num="3"><Heading>EXT. SNOW-COVERED FOREST - BOND SKIS THROUGH THE PINES -</Heading></Scene>
 
-      EXT. MOUNTAIN CLIFF -
+      <Scene num="4">
+            <Heading>EXT. MOUNTAIN CLIFF -</Heading>
 
-      Bond hurtles over the side, going airborne, landing 100 feet below,
-      amidst boulders. In perfect Olympic form, he skis out, and down.
+      <sd>Bond hurtles over the side, going airborne, landing 100 feet below,
+      amidst boulders. In perfect Olympic form, he skis out, and down.</sd></Scene>
 
-      EXT. MOUNTAINSIDE -
+      <Scene num="5"><Heading>EXT. MOUNTAINSIDE -</Heading>
 
-      Bond slaloms down, in and out of trees, to avoid detection. At the
+      <sd>Bond slaloms down, in and out of trees, to avoid detection. At the
       bottom, where the snow thins, he comes to:
 
       A ROCK OUTCROPPING.
@@ -152,11 +155,11 @@
 
       THE SAME SCENE ON A VIDEO WALL - MI-6 SITUATION ROOM, LONDON.</sd>
 
-                              <sp><spk>BOND'S VOICE</spk>
+                              <sp><spk sex="M">BOND'S VOICE</spk>
                        (over a speaker)
                  Seven, in position.</sp>
 
-                              <sp><spk>TANNER'S VOICE</spk>
+                              <sp><spk sex="M">TANNER'S VOICE</spk>
                  Roger, Seven.</sp>
 
       <sd>Watching this display is M, TANNER, and a handful of MILITARY BRASS,
@@ -165,48 +168,48 @@
 
       M deals with the humorless Admiral by, well, humoring him:</sd>
 
-                           <sp><spk>M</spk>            ... What were you saying, Admiral?
+                           <sp><spk sex="F">M</spk>            ... What were you saying, Admiral?
                  Something about this 'not being a job
                  for a wine-sniffing, skirt-chasing
                  playboy spy?'</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                  - I'll be sure to acknowledge 007's
                  'assistance' in my report to the
                  Prime Minister. But this is, still,
                  a naval operation.</sp>
 
-                           <sp><spk>M</spk>            What do they say in Russia, General
+                           <sp><spk sex="F">M</spk>            What do they say in Russia, General
                  Bukharin?</sp>
                        <sd>(asks questions in
                         flawless Russian)</sd>
 
       <sd>The general chuckles. Translates:</sd>
 
-                              <s><spk>GENERAL BUKHARIN</spk>
+                              <sp><spk sex="M">GENERAL BUKHARIN</spk>
                  'In a joint operation, someone's nose
-                 always gets put out of joint.'</s>
+                 always gets put out of joint.'</sp>
 
       <sd>M turns to Admiral Roebuck:</sd>
 
-                           <sp><spk>M</spk>            I'm interested in success, Admiral.
+                           <sp><spk sex="F">M</spk>            I'm interested in success, Admiral.
                  Not who gets credit.
                        (turning to:)
                  Mr. Tanner: What have we got?</sp>
 
       <sd>Tanner points to the video wall with a RED LASER PEN.</sd>
 
-                          <sp><spk>Tanner</spk>                    (ironically)
+                          <sp><spk sex="M">Tanner</spk>                    (ironically)
                  A regular terrorist swap meet. Death
                  at discount: Two Chinese Long March
                  Scuds, a pair of Soviet A-17 attack
                  helicopters -</sp>
 
-                              <sp><spk>BUKHARIN</spk>
+                              <sp><spk sex="M">BUKHARIN</spk>
                        (interrupting)
                  Stolen -</sp>
 
-                          <sp><spk>Tanner</spk>              And the crates look like American M-16
+                          <sp><spk sex="M">TANNER</spk>              And the crates look like American M-16
                  assault rifles, Chilean antipersonnel
                  mines, six French Exocet missiles, and
                  75 - no maybe a hundred - kilograms of
@@ -215,10 +218,10 @@
                  Something for everyone. Fun for the
                  whole family.</sp>
 
-                           <sp><spk>M</spk>                  (freezing him with a glance)
+                           <sp><spk sex="F">M</spk>                  (freezing him with a glance)
                  What about ID's?</sp>
 
-                          <sp><spk>Tanner</spk>                    (pushes a button on a console)
+                          <sp><spk sex="M">TANNER</spk>                    (pushes a button on a console)
                  One to seven: Deal the face cards.</sp>
 
       <sd>THE ROCK OUTCROPPING -
@@ -231,7 +234,7 @@
       arms traders. Tanner presses a button, and - almost instantly - the
       man's bio and vitals appear on another video screen.</sd>
 
-                          <sp><spk>Tanner</spk>              Gustav Meinholtz. Neo-Nazi, former
+                          <sp><spk sex="M">TANNER</spk>              Gustav Meinholtz. Neo-Nazi, former
                  East German STASI agent. Ties to the
                  Beider-Meinhoff gang.
                        (pressing a button)
@@ -240,7 +243,7 @@
       <sd>Bond shifts his aim, east. (Intercut as necessary) He zeroes in on
       another face, and the man's stats appear in London.</sd>
 
-                          <sp><spk>Tanner</spk>              Vilko Barkoviac. Bosnian war
+                          <sp><spk sex="M">TANNER</spk>              Vilko Barkoviac. Bosnian war
                  criminal; thought to be operating
                  freelance out of Teheran.
                        (pressing a button)
@@ -248,19 +251,19 @@
 
       <sd>Bond complies. Another face, another set of stats:</sd>
 
-                          <sp><spk>Tanner</spk>              Sitoshi Isagura. Japanese religious
+                          <sp><spk sex="M">TANNER</spk>              Sitoshi Isagura. Japanese religious
                  fanatic. Wanted for the Tokyo subway -</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                        (impatiently, cutting him off:)
                  I've seen enough. Let's finish this.
                        (ordering M:)
                  Tell your man to drop back. We're
                  initiating plan B -</sp>
 
-                           <sp><spk>M</spk>            But -</sp>
+                           <sp><spk sex="F">M</spk>            But -</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                  - Thank you, M. But this is more
                  than your man can handle.
                        (to Bukharin)
@@ -270,27 +273,29 @@
                        (hesitant, at first)
                  - Yes. Yes.</sp>
 
-                           <sp><spk>M</spk>            Admiral -</sp>
+                           <sp><spk sex="F">M</spk>            Admiral -</sp>
 
       <sd>Moving swiftly, the Admiral has picked up a RED PHONE:</sd>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                  Command to Nelson: Authorization to
-                 fire.</sp>
+                 fire.</sp></Scene>
 
-      <sd>EXT. A BRITISH WARSHIP - STEAMING IN THE GULF OF OMAN -
+      <Scene num="6">
+            <Heading>EXT. A BRITISH WARSHIP - STEAMING IN THE GULF OF OMAN -</Heading>
+      </Scene>
 
-      INT. WEAPONS CONTROL ROOM - BRITISH WARSHIP -</sd>
+      <Scene num="7"><Heading>INT. WEAPONS CONTROL ROOM - BRITISH WARSHIP -</Heading>
 
-                              <sp><spk>CAPTAIN</spk>
+                              <sp><spk sex="M">CAPTAIN</spk>
                  Weapons authorized. Prepare to fire.
-                 On my count: Five. Four. Three. Two -</sp>
+                 On my count: Five. Four. Three. Two -</sp></Scene>
 
-      <sd>EXT. DECK OF THE WARSHIP -
+      <Scene num="8"><Heading>EXT. DECK OF THE WARSHIP -</Heading>
 
-      A launcher rotates, and - BOOM - a Cruise missile blasts off.
+      <sd>A launcher rotates, and - BOOM - a Cruise missile blasts off.</sd></Scene>
 
-      INT. WARSHIP WEAPONS CONTROL ROOM -</sd>
+      <Scene num="9"><Heading>INT. WARSHIP WEAPONS CONTROL ROOM -</Heading>
 
                               <sp><spk>FIRING OFFICER</spk>
                  Cruise missile away -</sp>
@@ -300,18 +305,18 @@
                               <sp><spk>FIRING OFFICER'S VOICE (Cont'd)</spk>
                  Time to target: Four minutes.</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                  I appreciate your assistance, M. But
                  this is now a military operation.</sp>
 
-                           <sp><spk>M</spk>                  (urgently, to Tanner)
+                           <sp><spk sex="F">M</spk>                  (urgently, to Tanner)
                  Bring up the tracking satellite. And
                  get 007 out of there.</sp>
 
       <sd>Tanner hits a button - and a third video screen appears, displaying a
       satellite view of the area, detailing the Cruise's path and progress.</sd>
 
-                          <sp><spk>Tanner</spk>              One to seven: Exit target area.
+                          <sp><spk sex="M">TANNER</spk>              One to seven: Exit target area.
                  Repeat -</sp>
 
                               <sp><spk>BOND'S VOICE</spk>
@@ -336,15 +341,15 @@
       back of the truck. HE STEPS OFF as the fork begins rising to unload
       something. And as the man turns, FACING US to scan the area:</sd>
 
-                          <sp><spk>Tanner</spk>              Oh, no.</sp>
+                          <sp><spk sex="M">TANNER</spk>              Oh, no.</sp>
 
-                           <sp><spk>M</spk>            Who is it?</sp>
+                           <sp><spk sex="F">M</spk>            Who is it?</sp>
 
-                          <sp><spk>Tanner</spk>                    (calling up his stats)
+                          <sp><spk sex="M">TANNER</spk>                    (calling up his stats)
                  Kim Dae Yung. North Korean Nuclear
                  specialist.</sp>
 
-                           <sp><spk>M</spk>            Meaning there may be nuclear material
+                           <sp><spk sex="F">M</spk>            Meaning there may be nuclear material
                  down there?</sp>
 
       <sd>Tanner nods. A look passes from M, to Bukharin, to Roebuck.
@@ -363,12 +368,12 @@
       <sd>Tension. Adrenaline. QUIET PANIC. On the SCREEN, the FORK LIFT has
       pulled a RED BOX from the truck, a SHORT ROUND MAN appearing with it.</sd>
 
-                           <sp><spk>M</spk>            Who is that?!? What's in the box??</sp>
+                           <sp><spk sex="F">M</spk>            Who is that?!? What's in the box??</sp>
 
-                          <sp><spk>Tanner</spk>                    (punching buttons)
+                          <sp><spk sex="M">TANNER</spk>                    (punching buttons)
                  I don't know. He's not in the database -</sp>
 
-                           <sp><spk>M</spk>                  (to Bukharin)
+                           <sp><spk sex="F">M</spk>                  (to Bukharin)
                  What's in the box, General?
                        (he shrugs)
                  What's in the box???</sp>
@@ -380,22 +385,22 @@
 
       <sd>Shock sweeps the room. M turns on Tanner:</sd>
 
-                           <sp><spk>M</spk>            Will it go off?</sp>
+                           <sp><spk sex="F">M</spk>            Will it go off?</sp>
 
-                          <sp><spk>Tanner</spk>              Maybe. Maybe not.</sp>
+                          <sp><spk sex="M">TANNER</spk>              Maybe. Maybe not.</sp>
 
-                           <sp><spk>M</spk>            Abort the cruise.</sp>
+                           <sp><spk sex="F">M</spk>            Abort the cruise.</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                  It's too late -</sp>
 
-                           <sp><spk>M</spk>            GET BOND OUT OF THERE.</sp>
+                           <sp><spk sex="F">M</spk>            GET BOND OUT OF THERE.</sp>
 
-                          <sp><spk>Tanner</spk>              One to seven - one to seven -</sp>
+                          <sp><spk sex="M">TANNER</spk>              One to seven - one to seven -</sp>
 
       <sd>BOND - SQUINTING THROUGH THE RIFLE AT THE OUTCROPPING -</sd>
 
-                           <sp><spk>BOND</spk>            Negative, one. NOT YET.</sp>
+                           <sp><spk sex="M">BOND</spk>            Negative, one. NOT YET.</sp>
 
       <sd>THE TRUCK/MiG-l, ON THE GROUND/THROUGH THE SCOPE -
 
@@ -409,14 +414,14 @@
 
       MI-6 SITUATION ROOM -</sd>
 
-                          <sp><spk>Tanner</spk>              Soviet SB-9 nuclear torpedo. Yield,
+                          <sp><spk sex="M">TANNER</spk>              Soviet SB-9 nuclear torpedo. Yield,
                  one kiloton.</sp>
 
-                           <sp><spk>M</spk>            Will the cruise set it off?</sp>
+                           <sp><spk sex="F">M</spk>            Will the cruise set it off?</sp>
 
-                          <sp><spk>Tanner</spk>              Yes.</sp>
+                          <sp><spk sex="M">TANNER</spk>              Yes.</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                        (to Bukharin)
                  Jesus. Can't you people keep
                  anything locked up?</sp>
@@ -424,7 +429,7 @@
                               <sp><spk>GENERAL BUKHARIN</spk>
                  We didn't know it was missing.</sp>
 
-                           <sp><spk>M</spk>            Get me the Prime Minister. Alert
+                           <sp><spk sex="F">M</spk>            Get me the Prime Minister. Alert
                  NATO, the CIA, the Pentagon.
                        (presses a button:)
                  Seven: This is a direct order. I
@@ -451,7 +456,7 @@
 
       Stoned silence. Disbelief. Tanner whispers:</sd>
 
-                          <sp><spk>Tanner</spk>              God help him.</sp>
+                          <sp><spk sex="M">TANNER</spk>              God help him.</sp>
 
       <sd>THE CRUISE MISSILE - FLYING THROUGH A MOUNTAIN RAVINE -
 
@@ -477,7 +482,7 @@
 
       MI-6 SITUATION ROOM - M, WATCHING HELPLESSLY -</sd>
 
-                              <sp><spk>VOICE FROM WARSHIP</spk>
+                              <sp><spk sex="M">VOICE FROM WARSHIP</spk>
                  Time to target: Thirty seconds.</sp>
 
       <sd>WIDE ON MiG-1 -
@@ -507,9 +512,11 @@
 
       HIGH ANGLE - THE RUNWAY -
 
-      The CRUISE SKIMS IN DIRECTLY OVER BOND'S PLANE, speeding to takeoff.
+      The CRUISE SKIMS IN DIRECTLY OVER BOND'S PLANE, speeding to takeoff.</sd></Scene>
 
-      (INT. BOND'S MiG) BOND SHOVES THE THROTTLES TO THE FIREBALL AND -
+      <Scene num="10">
+            <Heading>(INT. BOND'S MiG)</Heading> 
+            <sd>BOND SHOVES THE THROTTLES TO THE FIREBALL AND -
 
       THE VIDEO-WALL - MI-6 SITUATION ROOM -
 
@@ -519,47 +526,47 @@
       HIGH ANGLE - THE AIR BASE -
 
       The FIREBALL grows and grows, a raging hell. And just when it seems
-      no one could possibly survive: BOND'S MiG ROCKETS OUT OF THE FLAMES!!
+      no one could possibly survive: BOND'S MiG ROCKETS OUT OF THE FLAMES!!</sd></Scene>
 
-      INT. BOND'S MiG -
+      <Scene num="11"><Heading>INT. BOND'S MiG -</Heading>
 
-      Bond thinks he's safe. Sound. Until -
+      <sd>Bond thinks he's safe. Sound. Until -
 
       MiG-2 FLIES OUT OF THE FIREBALL -
 
-      Cannons blazing at 007. A hail of metal and tracers.
+      Cannons blazing at 007. A hail of metal and tracers.</sd></Scene>
 
-      INT./EXT. BOND'S MIG -
+      <Scene num="12"><Heading>INT./EXT. BOND'S MIG -</Heading>
 
-      Bond goes into evasive maneuvers - jinks right, jinks left - when,
+      <sd>Bond goes into evasive maneuvers - jinks right, jinks left - when,
       suddenly, THE COPILOT REVIVES, and starts trying to STRANGLE Bond
       with a METAL LANYARD. Struggling, Bond HEARS a THIN HIGH-PITCHED
-      TONE -
+      TONE -</sd></Scene>
 
-      INT./EXT. MIG-2
+      <Scene num="13"><Heading>INT./EXT. MIG-2</Heading>
 
-      The pilot has locked onto Bond's MiG. Boom! TWO HEAT-SEEKING
-      MISSILES roar away.
+      <sd>The pilot has locked onto Bond's MiG. Boom! TWO HEAT-SEEKING
+      MISSILES roar away.</sd></Scene>
 
-      INT./EXT. BOND'S MIG -
+      <Scene num="14"><Heading>INT./EXT. BOND'S MIG -</Heading>
 
-      Fighting the garrote, Bond KICKS THE THROTTLES forward and PULLS BACK
+      <sd>Fighting the garrote, Bond KICKS THE THROTTLES forward and PULLS BACK
       ON THE YOKE. The MiG goes into a spine crushing climb as -
 
-      THE TWO HEAT SEEKING MISSILES FOLLOW HIM, LOOPING UPWARD.
+      THE TWO HEAT SEEKING MISSILES FOLLOW HIM, LOOPING UPWARD.</sd></Scene>
 
-      INT. MIG-2 -
+      <Scene num="15"><Heading>INT. MIG-2 -</Heading>
 
-      Bond's MiG has disappeared from the pilot's view: Not in front. Not
+      <sd>Bond's MiG has disappeared from the pilot's view: Not in front. Not
       on the left. Not on the right. Where did he go? The pilot looks up:
 
       BOND'S MIG APPEARS, FLYING INVERTED, COCKPIT DOWN, 10 FEET ABOVE MIG-2.
 
-      THE PILOT OF MIG-2 IS STUNNED.
+      THE PILOT OF MIG-2 IS STUNNED.</sd></Scene>
 
-      INT./EXT. BOND'S MIG -
+      <Scene num="16"><Heading>INT./EXT. BOND'S MIG -</Heading>
 
-      Fighting against the garrote, Bond strains to reach a RED BUTTON on
+      <sd>Fighting against the garrote, Bond strains to reach a RED BUTTON on
       the panel: COPILOT EJECTOR SEAT.
 
       Bond finally taps it, and - THE BACK HALF OF THE CANOPY BLOWS OFF!
@@ -574,7 +581,7 @@
 
       MI-6 - SITUATION ROOM -</sd>
 
-                              <sp><spk>BOND'S VOICE</spk>
+                              <sp><spk sex="M">BOND'S VOICE</spk>
                  Seven to base. I have a full
                  house. Your bid.</sp>
 
@@ -582,21 +589,21 @@
 
       RETURN ON BOND IN THE MIG -</sd>
 
-                           <sp><spk>BOND</spk>            By the way: Thank the General for all
-                 his "assistance." Over and out.</sp>
+                           <sp><spk sex="M">BOND</spk>            By the way: Thank the General for all
+                 his "assistance." Over and out.</sp></Scene>
 
-      <sd>EXT. BOND'S MIG -
+      <Scene num="17"><Heading>EXT. BOND'S MIG -</Heading>
 
-      Goes to AFTERBURNERS. And from the fiery glow of the engine, we
+      <sd>Goes to AFTERBURNERS. And from the fiery glow of the engine, we
       DISSOLVE TO:
 
       THE 007 GUN BARREL. MAIN CREDITS.
 
-      After credits, fade in on:
+      After credits, fade in on:</sd></Scene>
 
-      EXT. OXFORD COLLEGE - DAY
+      <Scene num="18"><Heading>EXT. OXFORD COLLEGE - DAY</Heading>
 
-      All ivy and bricks... And a certain Aston-Martin DB-5, parked.
+      <sd>All ivy and bricks... And a certain Aston-Martin DB-5, parked.
 
       INT. BOOK LINED OFFICE -
 
@@ -605,41 +612,41 @@
       Chinese woman, JENNY WU. (NOTE: The Chinese here is Mandarin, spelled
       phonetically.)</sd>
 
-                           <sp><spk>BOND</spk>                  (running a finger across her lips)
+                           <sp><spk sex="M">BOND</spk>                  (running a finger across her lips)
                  ... And what do you call these?</sp>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                  Ja-shwa tsway. These are lips.</sp>
 
-                           <sp><spk>BOND</spk>            Indeed they are.
+                           <sp><spk sex="M">BOND</spk>            Indeed they are.
                        (kisses them, lightly)
                  Deadly little things.</sp>
 
       <sd>She laughs. His hand goes beneath the sheets.</sd>
 
-                           <sp><spk>BOND</spk>            And what do you call these? The Gang
+                           <sp><spk sex="M">BOND</spk>            And what do you call these? The Gang
                  of Two?</sp>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                        (smacking his hand, laughing:)
                  Stop it!</sp>
 
-                           <sp><spk>BOND</spk>            I was just getting to the interesting part!</sp>
+                           <sp><spk sex="M">BOND</spk>            I was just getting to the interesting part!</sp>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                  We've already done the interesting
                  part. Do you forget?</sp>
 
-                           <sp><spk>BOND</spk>            Remind me.</sp>
+                           <sp><spk sex="M">BOND</spk>            Remind me.</sp>
 
       <sd>He moves to roll on top of her, but she pushes him off, teasing:</sd>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                  Sakwa!</sp>
 
-                           <sp><spk>BOND</spk>            Is that Mandarin, or Cantonese?</sp>
+                           <sp><spk sex="M">BOND</spk>            Is that Mandarin, or Cantonese?</sp>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                  Mandarin. You jerk.
                        (tousling his hair)
                  I'm late. I have to get dressed.</sp>
@@ -647,14 +654,14 @@
       <sd>She hops off the bed, leaving frame. Bond settles back on the
       headboard, ready to enjoy the view... When his CELL PHONE RINGS.</sd>
 
-                           <sp><spk>BOND</spk>                  (lightly)
+                           <sp><spk sex="M">BOND</spk>                  (lightly)
                  Hello -
                        (catching himself)
-                 Hello.</sp>
+                 Hello.</sp></Scene>
 
-      <sd>INT. M'S ANTEROOM - MI-6.
+      INT. M'S ANTEROOM - MI-6.
 
-      MONEYPENNY, at her desk.</sd>
+      MONEYPENNY, at her desk.
 
                          <sp><spk>MONEYPENNY</spk>                Hello, James. I hope I'm
                  interrupting something important.</sp>
@@ -664,7 +671,7 @@
       (Jenny has a leg on the bed, pulling on a full Victoria's Secret
       outfit: Nylons, garter/suspenders, bustier, etc.)</sd>
 
-                           <sp><spk>BOND</spk>            Not at all, Moneypenny. I was just
+                           <sp><spk sex="M">BOND</spk>            Not at all, Moneypenny. I was just
                  brushing up on a little Chinese.</sp>
 
       <sd>(In the background, Jenny insists "I am not little.")</sd>
@@ -673,7 +680,7 @@
                  afraid you'll have to 'kiss off' the
                  rest of your lessons this afternoon.</sp>
 
-                           <sp><spk>BOND</spk>                  (mock chagrin)
+                           <sp><spk sex="M">BOND</spk>                  (mock chagrin)
                  Moneypenny... Here I was, finally
                  getting a feel for a new tongue -</sp>
 
@@ -683,12 +690,12 @@
       <sd>Bond watches with amusement as Jenny Wu slips a Graduation-type gown
       over the lingerie. No dress.</sd>
 
-                           <sp><spk>BOND</spk>            4:30. It may take me a little longer
+                           <sp><spk sex="M">BOND</spk>            4:30. It may take me a little longer
                  to wrap things up here.</sp>
 
                          <sp><spk>MONEYPENNY</spk>                Four o'clock. Don't be late.</sp>
 
-                           <sp><spk>BOND</spk>                  (hanging up:)
+                           <sp><spk sex="M">BOND</spk>                  (hanging up:)
                  Tsi tien, Chien-penny.</sp>
 
       <sd>ON MONEYPENNY:</sd>
@@ -700,7 +707,7 @@
 
                          <sp><spk>MONEYPENNY</spk>                Don't ask.</sp>
 
-                           <sp><spk>M</spk>            Don't tell.
+                           <sp><spk sex="F">M</spk>            Don't tell.
                        (walking away)
                  I don't want to know.</sp>
 
@@ -712,21 +719,21 @@
                               <sp><spk>STUDENT</spk>
                  Good afternoon, Professor Wu.</sp>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                  Good afternoon.
                        (then to Bond)
                  Are you sure you can't stay for the
                  lecture?</sp>
 
-                           <sp><spk>BOND</spk>            I can't. But I did enjoy the dress
+                           <sp><spk sex="M">BOND</spk>            I can't. But I did enjoy the dress
                  rehearsal.</sp>
 
       <sd>She gives him a wry glance, opens a door to a lecture hall.</sd>
 
-                              <sp><spk>JENNY WU</spk>
+                              <sp><spk sex="F">JENNY WU</spk>
                  Tsi tien, Mr. Bond.</sp>
 
-                           <sp><spk>BOND</spk>            Tsi tien, Professor Wu.</sp>
+                           <sp><spk sex="M">BOND</spk>            Tsi tien, Professor Wu.</sp>
 
       <sd>She exits; Bond walks off, passing underneath a WALL MOUNTED TV SET.
 
@@ -768,7 +775,7 @@
                  incredibly heavy, incredibly lethal
                  substance.</sp>
 
-                           <sp><spk>M</spk>            And that's enough enriched uranium to
+                           <sp><spk sex="F">M</spk>            And that's enough enriched uranium to
                  produce how many nuclear devices?</sp>
 
                               <sp><spk>COL. DQMINIQUE EVERHART</spk>
@@ -779,7 +786,7 @@
 
       <sd>There's a pregnant pause in the room.</sd>
 
-                           <sp><spk>M</spk>            And the participants?</sp>
+                           <sp><spk sex="F">M</spk>            And the participants?</sp>
 
                               <sp><spk>COL. DOMINIQUE EVERHART</spk>
                        (pointing at the screen)
@@ -811,7 +818,7 @@
                  British swimming pools in Hong Kong
                  that said "No Ghurka's allowed."</sp>
 
-                           <sp><spk>BOND</spk>            Nothing like a little imperialism to
+                           <sp><spk sex="M">BOND</spk>            Nothing like a little imperialism to
                  promote loyalty among the faithful.</sp>
 
                               <sp><spk>COL. DOMINIQUE EVERHART</spk>
@@ -826,46 +833,46 @@
                  where the NATO Nuclear Strike Force
                  will be there to stop them.</sp>
 
-                           <sp><spk>M</spk>            Thank you Colonel Everhart.
+                           <sp><spk sex="F">M</spk>            Thank you Colonel Everhart.
                        (stands, turns to:)
                  007, I'd like to see you in my office.
                  Why don't you and the Colonel exchange
                  numbers if you need more information?</sp>
 
-                           <sp><spk>BOND</spk>            Yes, M.</sp>
+                           <sp><spk sex="M">BOND</spk>            Yes, M.</sp>
 
       <sd>M exits. Bond approaches Dominique. She smiles, warmly. There's a
       mutual attraction - but there's something else going on, unspoken.</sd>
 
-                           <sp><spk>BOND</spk>            Interesting presentation.</sp>
+                           <sp><spk sex="M">BOND</spk>            Interesting presentation.</sp>
 
                           <sp><spk>DOMINIQUE</spk>              Interesting video tape.</sp>
 
-                           <sp><spk>BOND</spk>            They point, I shoot.</sp>
+                           <sp><spk sex="M">BOND</spk>            They point, I shoot.</sp>
 
                           <sp><spk>DOMINIQUE</spk>                    (feels her pockets)
                  Do you have a pen? I just got promoted
                  and don't have my new cards yet.</sp>
 
-                           <sp><spk>BOND</spk>            Of course.</sp>
+                           <sp><spk sex="M">BOND</spk>            Of course.</sp>
 
       <sd>Bond hands her a PEN. She regards it cautiously.</sd>
 
                           <sp><spk>DOMINIQUE</spk>              ... Does this do anything?</sp>
 
-                           <sp><spk>BOND</spk>            Depends what number you write.</sp>
+                           <sp><spk sex="M">BOND</spk>            Depends what number you write.</sp>
 
       <sd>She gives him a wry look; starts to write. He notes her WEDDING BAND.</sd>
 
-                           <sp><spk>BOND</spk>            Married?</sp>
+                           <sp><spk sex="M">BOND</spk>            Married?</sp>
 
                           <sp><spk>DOMINIQUE</spk>              Happily.</sp>
 
-                           <sp><spk>BOND</spk>            ... Kids?</sp>
+                           <sp><spk sex="M">BOND</spk>            ... Kids?</sp>
 
                           <sp><spk>DOMINIQUE</spk>              Three. You? Married?</sp>
 
-                           <sp><spk>BOND</spk>            No.</sp>
+                           <sp><spk sex="M">BOND</spk>            No.</sp>
 
                           <sp><spk>DOMINIQUE</spk>                    (smiles)
                  I didn't think so.</sp>
@@ -877,7 +884,7 @@
                  phone number. If it's urgent, she
                  knows where to reach me.</sp>
 
-                           <sp><spk>BOND</spk>            Thanks.
+                           <sp><spk sex="M">BOND</spk>            Thanks.
                        (beat, holding her gaze)
                  Take care -</sp>
 
@@ -889,12 +896,12 @@
 
       Where Bond encounters MONEYPENNY, also walking to M's office.</sd>
 
-                           <sp><spk>BOND</spk>            Moneypenny! We've got to stop meeting
+                           <sp><spk sex="M">BOND</spk>            Moneypenny! We've got to stop meeting
                  like this. They may be on to us.</sp>
 
                          <sp><spk>MONEYPENNY</spk>                Hello, James. Enjoy your meeting?</sp>
 
-                           <sp><spk>BOND</spk>            In the darkest moments, it's what I
+                           <sp><spk sex="M">BOND</spk>            In the darkest moments, it's what I
                  live for. Especially since I've
                  heard how much you like to watch...
                  On the hidden camera.</sp>
@@ -907,7 +914,7 @@
                  that Colonel once stranded on a raft
                  for two weeks in the Sargasso Sea?</sp>
 
-                           <sp><spk>BOND</spk>            Moneypenny! How indiscreet! Have
+                           <sp><spk sex="M">BOND</spk>            Moneypenny! How indiscreet! Have
                  you ever known me to kiss and tell?</sp>
 
       <sd>They've come to a security door. She punches in a code -</sd>
@@ -915,7 +922,7 @@
                          <sp><spk>MONEYPENNY</spk>                Actually, I've never known you to do
                  either... But -</sp>
 
-                           <sp><spk>BOND</spk>            - We all want what we can't have?</sp>
+                           <sp><spk sex="M">BOND</spk>            - We all want what we can't have?</sp>
 
                          <sp><spk>MONEYPENNY</spk>                Not all of us, 007.</sp>
 
@@ -923,7 +930,7 @@
 
       INT. M'S ANTEROOM (MONEYPENNY'S AREA) - CONTINUOUS</sd>
 
-                           <sp><spk>BOND</spk>            What - no lust for adventure?</sp>
+                           <sp><spk sex="M">BOND</spk>            What - no lust for adventure?</sp>
 
                          <sp><spk>MONEYPENNY</spk>                No, 007. It's just that I've learned
                  from personal experience - that when
@@ -942,29 +949,29 @@
       handed Teflon-coated politician, with the survival instincts of
       plutonium. They've been arguing.</sd>
 
-                           <sp><spk>M</spk>            Come in, 007. You know the Minister?</sp>
+                           <sp><spk sex="F">M</spk>            Come in, 007. You know the Minister?</sp>
 
-                           <sp><spk>BOND</spk>            Of course.
+                           <sp><spk sex="M">BOND</spk>            Of course.
                        (nods to)
                  Minister Johnstone.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  007.</sp>
 
       <sd>Bond sits in an armchair. M presses a button, and a video/bio of
       ELIOT HARMSWAY appears on the wall behind her. Mid-50's, regal.</sd>
 
-                           <sp><spk>M</spk>            Tell me, 007, what do you know about
+                           <sp><spk sex="F">M</spk>            Tell me, 007, what do you know about
                  Elliot Harmsway?</sp>
 
-                           <sp><spk>BOND</spk>                  (quipping)
+                           <sp><spk sex="M">BOND</spk>                  (quipping)
                  Only what I read in the newspapers.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (disdainfully)
                  His newspapers?</sp>
 
-                           <sp><spk>BOND</spk>                  (glancing sideways)
+                           <sp><spk sex="M">BOND</spk>                  (glancing sideways)
                  Occasionally, yes.
                        (directly to M)
                  British media mogul. Born in Hong Kong;
@@ -972,12 +979,12 @@
                  satellites; books, magazines, movies,
                  computer software. Theme parks.</sp>
 
-                           <sp><spk>M</spk>                  (holding up a copy of:)
+                           <sp><spk sex="F">M</spk>                  (holding up a copy of:)
                  - Along with Tomorrow - the first
                  world-wide newspaper. Circulation 27
                  million. Daily. -</sp>
 
-                           <sp><spk>BOND</spk>            'Able to topple governments with a single
+                           <sp><spk sex="M">BOND</spk>            'Able to topple governments with a single
                  story' - as he says in his press.</sp>
 
                               <sp><spk>JOHNSTONE</spk>
@@ -987,24 +994,24 @@
       <sd>Bond looks at Johnstone quizzically. Then a very tight-lipped M. He
       senses he's about to enter a minefield:</sd>
 
-                           <sp><spk>BOND</spk>            ... What's Harmsway done?</sp>
+                           <sp><spk sex="M">BOND</spk>            ... What's Harmsway done?</sp>
 
-                           <sp><spk>M</spk>            It seems, 007, we've received a tip</sp>
+                           <sp><spk sex="F">M</spk>            It seems, 007, we've received a tip</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  A rumor - from an anonymous source -</sp>
 
-                           <sp><spk>M</spk>            - that Sir Elliot may be involved
+                           <sp><spk sex="F">M</spk>            - that Sir Elliot may be involved
                  with Stamper and Yung, and the
                  missing Uranium.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  Hearsay. Idle chatter from a source
                  you can't identify - who insists on
                  talking only to 007. Nothing but
                  loose talk and innuendo.</sp>
 
-                           <sp><spk>M</spk>            That may be the case at present,
+                           <sp><spk sex="F">M</spk>            That may be the case at present,
                  Minister Johnstone... But our own
                  sources suspect that Mr. Harmsway
                  used his considerable Russian media
@@ -1014,17 +1021,17 @@
 
       <sd>(M has punched a button, and Valentin's video bio has appeared.)</sd>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  More scurrilous, unsubstantiated gossip.</sp>
 
-                          <sp> <spk>BOND</spk>            Perhaps. But it does explain how an
+                          <sp> <spk sex="M">BOND</spk>            Perhaps. But it does explain how an
                  ex-KGB agent turned illegal-arms
                  dealer is suddenly portrayed as a
                  long-time friend of the people.
                        (beat)
                  If you believe what you read in the papers.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (annoyed)
                  Need I remind the two of you that
                  Elliot Harmsway - Sir Elliot Harmsway
@@ -1035,7 +1042,7 @@
                  Queen Victoria herself named the port
                  "Aberdeen Harbor" in their honor?</sp>
 
-                           <sp><spk>M</spk>                  (long pause, then:)
+                           <sp><spk sex="F">M</spk>                  (long pause, then:)
                  ... No more than I need remind you,
                  Minister, that merely being a member
                  of the lucky sperm club - does not
@@ -1044,49 +1051,49 @@
 
       <sd>Johnstone is reeling. M continues, to Bond, with aplomb:</sd>
 
-                           <sp><spk>M</spk>            The reason I invited the Minister
+                           <sp><spk sex="F">M</spk>            The reason I invited the Minister
                  here, 007, was to reassure him that
                  this investigation will be handled
                  with the utmost discretion.</sp>
 
-                           <sp><spk>BOND</spk>            Of course.</sp>
+                           <sp><spk sex="M">BOND</spk>            Of course.</sp>
 
-                           <sp><spk>M</spk>            Which is also why I've withheld this
+                           <sp><spk sex="F">M</spk>            Which is also why I've withheld this
                  information from NATO and our allies.</sp>
 
-                           <sp><spk>BOND</spk>                  (nods, then, recalling)
+                           <sp><spk sex="M">BOND</spk>                  (nods, then, recalling)
                  ... Didn't we once investigate Harmsway?</sp>
 
-                           <sp><spk>M</spk>            Yes. 1988. He was furious at the
+                           <sp><spk sex="F">M</spk>            Yes. 1988. He was furious at the
                  British plan to return Hong Kong, and
                  supposedly started his own negotiations
                  with the Chinese Government. The inquiry
                  went nowhere - but it did earn MI-6 a
                  rather powerful enemy -</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  Not to mention the chaos it caused at
                  Whitehall when his newspapers began
                  screaming for the recall of the
                  sitting government.</sp>
 
-                           <sp><spk>M</spk>                  (a beat, then:)
+                           <sp><spk sex="F">M</spk>                  (a beat, then:)
                  I'm sending you to Venice, 007.
                  You're to check out the source,
                  determine whether Elliot Harmsway is
                  involved with the enriched uranium,
                  and, if so, stop him.</sp>
 
-                           <sp><spk>BOND</spk>            How will I meet the informant?</sp>
+                           <sp><spk sex="M">BOND</spk>            How will I meet the informant?</sp>
 
       <sd>She hands Bond a CARNIVAL MASK:</sd>
 
-                           <sp><spk>M</spk>            You're to wear this mask at the Venice
+                           <sp><spk sex="F">M</spk>            You're to wear this mask at the Venice
                  Carnival, and wait to be contacted.</sp>
 
-                           <sp><spk>BOND</spk>            I understand.</sp>
+                           <sp><spk sex="M">BOND</spk>            I understand.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (standing, to leave)
                  There is one last thing, 007: Elliot
                  Harmsway is vital to the economic
@@ -1094,9 +1101,9 @@
                  a major contributor to the party. I
                  expect him to be given every consideration.</sp>
 
-                           <sp><spk>BOND</spk>            Political considerations?</sp>
+                           <sp><spk sex="M">BOND</spk>            Political considerations?</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  To the best of my recollection, Mr.
                  Bond, I suggested no such thing.
                        (beat, at the door)
@@ -1104,36 +1111,36 @@
 
       <sd>And he exits. M, frowning, hits a button on her intercom:</sd>
 
-                           <sp><spk>M</spk>            Would you send in the new man from
+                           <sp><spk sex="F">M</spk>            Would you send in the new man from
                  equipment branch?</sp>
 
                               <sp><spk>MONEYPENNY</spk> (O.S.)
                  Right away.</sp>
 
-                           <sp><spk>BOND</spk>            .... I hate to ask, but... Did you
+                           <sp><spk sex="M">BOND</spk>            .... I hate to ask, but... Did you
                  ever think you'd miss Communism?</sp>
 
-                           <sp><spk>M</spk>            We serve the interests of the British
+                           <sp><spk sex="F">M</spk>            We serve the interests of the British
                  people, 007. No matter who we may be
                  foolish enough to elect.</sp>
     
       <sd>Bond is silent, chastised. M looks away, then looks back:</sd>
 
-                           <sp><spk>M</spk>            But if Elliot Harmsway is involved
+                           <sp><spk sex="F">M</spk>            But if Elliot Harmsway is involved
                  with that uranium, I want him
                  prosecuted to the ends of the earth.</sp>
 
-                           <sp><spk>BOND</spk>            Hopefully, it won't get that far.</sp>
+                           <sp><spk sex="M">BOND</spk>            Hopefully, it won't get that far.</sp>
 
       <sd>M looks up: MALCOLM SAUNDERS, Q's successor, limps in, looking like a
       mummy - plaster casts on his left leg, left arm; neck-brace, crutch.</sd>
 
-                           <sp><spk>M</spk>            Come in, Saunders.</sp>
+                           <sp><spk sex="F">M</spk>            Come in, Saunders.</sp>
 
                               <sp><spk>SAUNDERS</spk>
                  M. 007.</sp>
 
-                           <sp><spk>BOND</spk>            Okay, Saunders. What is it this
+                           <sp><spk sex="M">BOND</spk>            Okay, Saunders. What is it this
                  time? Rocket in the leg? Machine
                  pistol in the arm?</sp>
 
@@ -1141,18 +1148,18 @@
                  Q's retirement party. I'd just put
                  the knife into the cake, and -</sp>
 
-                           <sp><spk>BOND</spk>            Come on. I know better than that -</sp>
+                           <sp><spk sex="M">BOND</spk>            Come on. I know better than that -</sp>
 
       <sd>Bond thwacks the crutch against the leg. Saunders GRIMACES IN PAIN.</sd>
 
-                           <sp><spk>BOND</spk>            It must do something.</sp>
+                           <sp><spk sex="M">BOND</spk>            It must do something.</sp>
 
                               <sp><spk>SAUNDERS</spk>
                  Well... If you insist.</sp>
 
       <sd>Saunders flexes his broken arm; ARMORED SPIKES pop out of the it.</sd>
 
-                           <sp><spk>BOND</spk>            The die is cast.</sp>
+                           <sp><spk sex="M">BOND</spk>            The die is cast.</sp>
 
       <sd>Saunders exchanges a beleaguered glance with M. He takes off the cast
       and neck-brace, and places a BRIEFCASE on M's desk.</sd>
@@ -1161,12 +1168,12 @@
                  Now pay attention, 007. We haven't much
                  time to demonstrate your new Q toys.</sp>
 
-                           <sp><spk>BOND</spk>            How is old Q?</sp>
+                           <sp><spk sex="M">BOND</spk>            How is old Q?</sp>
 
                               <sp><spk>SAUNDERS</spk>
                  Gone fishing.</sp>
 
-                           <sp><spk>BOND</spk>            Fishing?</sp>
+                           <sp><spk sex="M">BOND</spk>            Fishing?</sp>
 
                               <sp><spk>SAUNDERS</spk>
                  Big game fishing.
@@ -1185,7 +1192,7 @@
 
       <sd>A small flame appears. Bond, unimpressed, reaches for it -</sd>
 
-                           <sp><spk>BOND</spk>            Saunders, I've lit cigarettes -</sp>
+                           <sp><spk sex="M">BOND</spk>            Saunders, I've lit cigarettes -</sp>
 
                               <sp><spk>SAUNDERS</spk>
                  Not from forty feet.</sp>
@@ -1207,7 +1214,7 @@
 
       <sd>He takes out a pair of SHOELACES.</sd>
 
-                           <sp><spk>BOND</spk>            ... Shoelaces?</sp>
+                           <sp><spk sex="M">BOND</spk>            ... Shoelaces?</sp>
 
                               <sp><spk>SAUNDERS</spk>
                  Plastique explosive shoelaces.
@@ -1217,7 +1224,7 @@
                  attach the detonator hidden in the
                  heel of your shoe.</sp>
 
-                           <sp><spk>BOND</spk>                  (examining them curiously)
+                           <sp><spk sex="M">BOND</spk>                  (examining them curiously)
                  Perfect way to tie up a... 'Knotty'
                  problem?</sp>
 
@@ -1233,14 +1240,14 @@
                  here. Swipe it through any card
                  reader - anywhere - you're in.</sp>
 
-                           <sp><spk>BOND</spk>            Does it work on cash machines?</sp>
+                           <sp><spk sex="M">BOND</spk>            Does it work on cash machines?</sp>
 
       <sd>Saunders is suddenly stricken. Flustered. He blurts out:</sd>
 
                               <sp><spk>SAUNDERS</spk>
                  It was an authorized test. I returned the money.</sp>
 
-                           <sp><spk>BOND</spk>                  (amused)
+                           <sp><spk sex="M">BOND</spk>                  (amused)
                  I see...</sp>
 
                               <sp><spk>SAUNDERS</spk>
@@ -1250,7 +1257,7 @@
                  through locks; press this button, the
                  sweep hand becomes a Geiger counter.</sp>
 
-                           <sp><spk>BOND</spk>                  (needling him)
+                           <sp><spk sex="M">BOND</spk>                  (needling him)
                  If you can't do the time, don't do
                  the crime?</sp>
 
@@ -1262,7 +1269,7 @@
 
       <sd>He hands Bond a WEDDING BAND.</sd>
 
-                           <spk>BOND</spk>            A wedding band??? What am I supposed
+                           <spk sex="M">BOND</spk>            A wedding band??? What am I supposed
                  to be able to do with this?
 
                               <sp><spk>SAUNDERS</spk>
@@ -1272,13 +1279,13 @@
 
       <sd>Bond turns from Saunder's devious grin to an amused M. Smiles:</sd>
 
-                           <sp><spk>BOND</spk>            ...I'll give you a ring from Venice.</sp>
+                           <sp><spk sex="M">BOND</spk>            ...I'll give you a ring from Venice.</sp>
 
-                           <sp><spk>M</spk>            Good luck on your mission, 007.</sp>
+                           <sp><spk sex="F">M</spk>            Good luck on your mission, 007.</sp>
 
       <sd>He snaps the ring down on her desk.</sd>
 
-                           <sp><spk>BOND</spk>            Till death do us part.</sp>
+                           <sp><spk sex="M">BOND</spk>            Till death do us part.</sp>
 
                                                                     CUT TO:
 
@@ -1341,7 +1348,7 @@
 
       Whomp! - an arm reaches out, and yanks her into an alcove.</sd>
 
-                           <sp><spk>BOND</spk>            Looking for someone?</sp>
+                           <sp><spk sex="M">BOND</spk>            Looking for someone?</sp>
 
       <sd>Recovering her breath (it was a violent yank,) the woman - PARIS
       removes her mask. She shines a sexy, 1000-watt smile at 007:</sd>
@@ -1351,23 +1358,23 @@
 
       <sd>Bond reacts. He is not happy to see her.</sd>
 
-                           <sp><spk>BOND</spk>            Paris?!? What are you doing here?</sp>
+                           <sp><spk sex="M">BOND</spk>            Paris?!? What are you doing here?</sp>
 
                            <sp><spk>PARIS</spk>             Is that any way to say hello?</sp>
 
-                           <sp><spk>BOND</spk>            I thought your specialty was good-bye.</sp>
+                           <sp><spk sex="M">BOND</spk>            I thought your specialty was good-bye.</sp>
 
       <sd>Paris smiles coyly. She LIFTS A HAND to tousle his hair -</sd>
 
                            <sp><spk>PARIS</spk>             Oh, James. I've missed you -</sp>
 
-                           <sp><spk>BOND</spk>                  (grabbing her by the wrist)
+                           <sp><spk sex="M">BOND</spk>                  (grabbing her by the wrist)
                  Is this another one of your games?</sp>
 
                            <sp><spk>PARIS</spk>             Stop it! You're hurting me! Can't
                  you just be nice?</sp>
 
-                           <sp><spk>BOND</spk>            I've got half the British government
+                           <sp><spk sex="M">BOND</spk>            I've got half the British government
                  breathing down my neck. I don't have
                  time for your nonsense.</sp>
 
@@ -1376,11 +1383,11 @@
                            <sp><spk>PARIS</spk>             Don't you even miss me? Didn't I
                  mean anything to you?</sp>
 
-                           <sp><spk>BOND</spk>            Nothing.</sp>
+                           <sp><spk sex="M">BOND</spk>            Nothing.</sp>
 
       <sd>She turns away from him, fighting back tears. Bond doesn't care:</sd>
 
-                           <sp><spk>BOND</spk>            What about Elliot Harmsway? Or is
+                           <sp><spk sex="M">BOND</spk>            What about Elliot Harmsway? Or is
                  this just another one of your stunts?</sp>
 
                            <sp><spk>PARIS</spk>                   (anguished)
@@ -1397,12 +1404,12 @@
 
                            <sp><spk>PARIS</spk>             Do you feel better now?</sp>
 
-                           <sp><spk>BOND</spk>                  (not giving an inch)
+                           <sp><spk sex="M">BOND</spk>                  (not giving an inch)
                  Do you?</sp>
 
       <sd>She turns away. Bond feels remorse for hitting her. Softens:</sd>
 
-                           <sp><spk>BOND</spk>            What about the uranium?</sp>
+                           <sp><spk sex="M">BOND</spk>            What about the uranium?</sp>
 
                            <sp><spk>PARIS</spk>             It's on the boat. He's holding a
                  press conference tomorrow.</sp>
@@ -1413,7 +1420,7 @@
                            <sp><spk>PARIS</spk>             I'm so sorry, James. I promise, I'll
                  never leave you again.</sp>
 
-                           <sp><spk>BOND</spk>                  (patting her head)
+                           <sp><spk sex="M">BOND</spk>                  (patting her head)
                  Shhhhh...</sp>
 
                            <sp><spk>PARIS</spk>             Just hold me.</sp>
@@ -1421,7 +1428,7 @@
       <sd>Bond thinks for a moment, then gently pushes her away, a foot
       backwards, to look in her eyes:</sd>
 
-                           <sp><spk>BOND</spk>            How do you know Harmsway?</sp>
+                           <sp><spk sex="M">BOND</spk>            How do you know Harmsway?</sp>
 
       <sd>Paris' eyes flicker at something over Bond's shoulder. She swoons:</sd>
 
@@ -1480,7 +1487,7 @@
       And BOND PULLS THE CAPE TO HIS BODY, just as the PROCESSION SURGES
       PAST HIM, and spills down the stairs, overwhelming Stamper and Co.</sd>
 
-                           <sp><spk>BOND</spk>                  (to himself, flexing the cape)
+                           <sp><spk sex="M">BOND</spk>                  (to himself, flexing the cape)
                  So that's how he does it.</sp>
 
       <sd>Bond disappears into the oncoming crowd.
@@ -1512,7 +1519,7 @@
       BOND approaches the TOURIST with the camera, offering to take the
       picture for him.</sd>
 
-                           <sp><spk>BOND</spk>            Prego, prego. Permissio.</sp>
+                           <sp><spk sex="M">BOND</spk>            Prego, prego. Permissio.</sp>
 
                               <sp><spk>TOURIST</spk>
                  Grazie.</sp>
@@ -1523,7 +1530,7 @@
 
       Bond flips the camera back to the tourist -</sd>
 
-                           <sp><spk>BOND</spk>            Grazie -</sp>
+                           <sp><spk sex="M">BOND</spk>            Grazie -</sp>
 
       <sd>And heads for the PUSHCART. Wheeling it around, he SHOVES IT at the
       thug, who is still stumbling, blinded by the flashbulb.
@@ -1764,7 +1771,7 @@
       The Iron Maiden covers all of Thug #1, except for his arm, still
       clutching Bond's gun. Bond bends down and retrieves it.</sd>
 
-                           <sp><spk>BOND</spk>            He fought hard...
+                           <sp><spk sex="M">BOND</spk>            He fought hard...
                        (holstering the gun)
                  But the case was terminal.</sp>
 
@@ -1783,13 +1790,13 @@
       Bond meets with Signore DiGIACOMO, a middle-aged Italian Intelligence
       official in shirtsleeves. Two underlings hover in the background.</sd>
 
-                           <sp><spk>BOND</spk>            You've confirmed all the legal
+                           <sp><spk sex="M">BOND</spk>            You've confirmed all the legal
                  details with M?</sp>
 
                           <sp><spk>DiGIACOMO</spk>              Si. Bueno. She's very...
                  'Competent.' ...For a woman.</sp>
 
-                           <sp><spk>BOND</spk>            Let's go over this one more time.</sp>
+                           <sp><spk sex="M">BOND</spk>            Let's go over this one more time.</sp>
 
                           <sp><spk>DiGIACOMO</spk>              You will investigate the boat.
                  You'll signal us if you find the
@@ -1817,7 +1824,7 @@
                           <sp><spk>DiGIACOMO</spk>              So. You'll signal us if you find the
                  uranium -</sp>
 
-                           <sp><spk>BOND</spk>            And you'll wait until after the press
+                           <sp><spk sex="M">BOND</spk>            And you'll wait until after the press
                  conference - and everyone is gone -
                  before you board the boat and arrest
                  him.</sp>
@@ -2012,7 +2019,7 @@
       <sd>Bond spins to see Valentin, surrounded by the usual assortment of
       cheaply dressed goons.</sd>
 
-                           <sp><spk>BOND</spk>            Valentin. What an unpleasant surprise.</sp>
+                           <sp><spk sex="M">BOND</spk>            Valentin. What an unpleasant surprise.</sp>
 
                               <sp><spk>VALENTIN</spk>
                  What is it that brings you to
@@ -2058,11 +2065,11 @@
       <sd>Bond would rather not drink - but knows that any change from his
       regular behavior might arouse suspicion.</sd>
 
-                           <sp><spk>BOND</spk>            One.</sp>
+                           <sp><spk sex="M">BOND</spk>            One.</sp>
 
       <sd>As the bartender pours:</sd>
 
-                           <sp><spk>BOND</spk>            I must say, Valentin, capitalism
+                           <sp><spk sex="M">BOND</spk>            I must say, Valentin, capitalism
                  seems to be treating you well.</sp>
 
                           <sp><spk>VALENTIN</spk>                    (belting one back)
@@ -2070,7 +2077,7 @@
                        (then)
                  Off the record.</sp>
 
-                           <sp><spk>BOND</spk>            Of course. If you can't beat the
+                           <sp><spk sex="M">BOND</spk>            Of course. If you can't beat the
                  government, you might as well own it.</sp>
 
       <sd>Valentin spots someone off-camera.</sd>
@@ -2085,7 +2092,7 @@
                           <sp><spk>VALENTIN</spk>              Elliot Harmsway, I want to introduce
                  you to an old friend -</sp>
 
-                           <sp><spk>BOND</spk>                  (putting out a hand to shake)
+                           <sp><spk sex="M">BOND</spk>                  (putting out a hand to shake)
                  The name is Bond. James Bond.</sp>
 
       <sd>Harmsway greets Bond with a warm smile. Yet his words are ambiguous:</sd>
@@ -2096,7 +2103,7 @@
                  Especially one with such
                  distinguished friends.</sp>
 
-                           <sp><spk>BOND</spk>            You might say I've always been one of
+                           <sp><spk sex="M">BOND</spk>            You might say I've always been one of
                  Mr. Valentin's biggest followers.</sp>
 
                           <sp><spk>VALENTIN</spk>                    (chortling)
@@ -2105,7 +2112,7 @@
 
       <sd>He laughs. Bond decides to pull Harmsway's chain.</sd>
 
-                           <sp><spk>BOND</spk>            It's a beautiful boat, Sir Elliot.
+                           <sp><spk sex="M">BOND</spk>            It's a beautiful boat, Sir Elliot.
                  Practically glows in the dark.</sp>
 
                           <sp><spk>HARMSWAY</spk>                    (smiles)
@@ -2161,11 +2168,11 @@
       <sd>And he leads the procession off, through the bulkhead door. Bond is
       left with Paris. She is white with fear. Bond moves to console her:</sd>
 
-                           <sp><spk>BOND</spk>            Paris -</sp>
+                           <sp><spk sex="M">BOND</spk>            Paris -</sp>
 
                            <sp><spk>PARIS</spk>             Leave me alone! He's going to kill me!!</sp>
 
-                           <sp><spk>BOND</spk>            Why didn't you tell me? Why wasn't
+                           <sp><spk sex="M">BOND</spk>            Why didn't you tell me? Why wasn't
                  it in our files?</sp>
 
                            <sp><spk>PARIS</spk>                   (anguished)
@@ -2177,7 +2184,7 @@
 
       <sd>Bond wants to help her - and follow Harmsway. He pulls out a key:</sd>
 
-                           <sp><spk>BOND</spk>            Go to my hotel room. I'll be there
+                           <sp><spk sex="M">BOND</spk>            Go to my hotel room. I'll be there
                  in twenty minutes.</sp>
 
       <sd>Paris looks up at him like a hurt child. She wants some contact; she
@@ -2185,7 +2192,7 @@
 
                            <sp><spk>PARIS</spk>             Just - say it. Say it just once.</sp>
 
-                           <sp><spk>BOND</spk>                  (pauses, discomfited)
+                           <sp><spk sex="M">BOND</spk>                  (pauses, discomfited)
                  One thing at a time. I'll see you
                  in twenty minutes. Go.</sp>
 
@@ -2233,7 +2240,7 @@
 
                           <sp><spk>HARMSWAY</spk>              I hope you've enjoyed this little charade.</sp>
 
-                           <sp><spk>BOND</spk>            Which part? The Colonel's? Or yours?</sp>
+                           <sp><spk sex="M">BOND</spk>            Which part? The Colonel's? Or yours?</sp>
 
                           <sp><spk>HARMSWAY</spk>                    (icily)
                  A piece of advice, Mr. Bond: Don't
@@ -2242,7 +2249,7 @@
                        (beat)
                  It's deadlier than uranium.</sp>
 
-                           <sp><spk>BOND</spk>                  (staring him down)
+                           <sp><spk sex="M">BOND</spk>                  (staring him down)
                  We'll see about that.</sp>
 
       <sd>Harmsway glances at his watch. Smiles coldly.</sd>
@@ -2253,7 +2260,7 @@
 
       Bond rushes down the gangplank, along the dock. Jumps in a gondola.</sd>
 
-                           <sp><spk>BOND</spk>            The Danielli. Presto!</sp>
+                           <sp><spk sex="M">BOND</spk>            The Danielli. Presto!</sp>
 
       <sd>RETURN ON THE METALLURGY LAB -
 
@@ -2284,7 +2291,7 @@
 
       Bond enters the room. Looks around, calling out -</sd>
 
-                           <sp><spk>BOND</spk>            Paris? Paris?</sp>
+                           <sp><spk sex="M">BOND</spk>            Paris? Paris?</sp>
 
       <sd>He sees the French doors open onto the canal. The curtains billowing
       outward. Bond rushes to the window and looks down:
@@ -3268,7 +3275,7 @@
                  finally get together! What exactly
                  do you do for the government?</sp>
 
-                           <sp><spk>BOND</spk>                  (after a beat)
+                           <sp><spk sex="M">BOND</spk>                  (after a beat)
                  You might say... 'Public relations.'</sp>
 
                               <sp><spk>WOMAN</spk>
@@ -3286,7 +3293,7 @@
 
       007 picks up the receiver, without saying hello:</sd>
 
-                           <sp><spk>BOND</spk>            Moneypenny! You're early. You
+                           <sp><spk sex="M">BOND</spk>            Moneypenny! You're early. You
                  weren't supposed to call until -
                        (he stiffens)
                  Yes. I understand. Twenty minutes.</sp>
@@ -3301,7 +3308,7 @@
       ADMIRAL ROEBUCK glares as MINISTER JOHNSTONE enters to address M,
       TANNER, A TREASURY OFFICIAL, and various UNIFORMS and SUITS.</sd>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  Good evening. I've just spoken with
                  the Prime Minister at the economic
                  summit in Tokyo; he's expecting a
@@ -3310,7 +3317,7 @@
                  For those of you still unaware, some
                  forty minutes ago -</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                        (interrupting)
                  Excuse me, but -
                        (all turn to him:)
@@ -3324,29 +3331,29 @@
                  be handled strictly by the officers of
                  her Majesty's Royal Navy.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (furious)
                  Admiral, are you suggesting -</sp>
 
       <sd>He's distracted by the CLICK OF A DOOR OPENING. All turn to SEE BOND
       entering, wearing a FULL NAVAL UNIFORM. M stifles a smile.</sd>
 
-                           <sp><spk>BOND</spk>            Sorry I'm late -</sp>
+                           <sp><spk sex="M">BOND</spk>            Sorry I'm late -</sp>
 
-                           <sp><spk>M</spk>            Actually, you're just in time.
+                           <sp><spk sex="F">M</spk>            Actually, you're just in time.
                        (she turns to)
                  Admiral Roebuck: You know Commander
                  Bond, don't you?</sp>
 
-                              <sp><spk>ADMIRAL ROEBUCK</spk>
+                              <sp><spk sex="M">ADMIRAL ROEBUCK</spk>
                        (deflated)
                  Yes. Of course.</sp>
 
-                           <sp><spk>BOND</spk>            I've looked forward to meeting you.</sp>
+                           <sp><spk sex="M">BOND</spk>            I've looked forward to meeting you.</sp>
 
       <sd>Bond sits. M glances at Johnstone as if to say "proceed."</sd>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  As I was saying: Approximately forty-
                  five minutes ago, we received an abandon
                  ship signal from the H.M.S. Indomitable.
@@ -3461,7 +3468,7 @@
 
       The bloodletting and recriminations have begun. This plays fast:</sd>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (incredulous)
                  One-third of the British gold reserves?!?
                        (beat)
@@ -3475,12 +3482,12 @@
                  Give or take. Depending on today's
                  currency rates -</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (ignoring him)
                  What the hell was the gold doing on
                  that boat?</sp>
 
-                          <sp><spk>ADMIRAL ROEBUCK</spk>              We were bringing it back from Hong
+                          <sp><spk sex="M">ADMIRAL ROEBUCK</spk>              We were bringing it back from Hong
                  Kong. Under orders from the Treasury.</sp>
 
                               <sp><spk>TREASURY OFFICIAL</spk>
@@ -3490,18 +3497,18 @@
                  attack. And with the turn-over of
                  Hong Kong to the Chinese -</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  Why wasn't the ship protected?!?!
                  Why was it sailing without radar?</sp>
 
-                          <sp><spk>ADMIRAL ROEBUCK</spk>              I resent your tone, sir. I have men
+                          <sp><spk sex="M">ADMIRAL ROEBUCK</spk>              I resent your tone, sir. I have men
                  who are missing -</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  And I have the entire British economy
                  to worry about.</sp>
 
-                           <sp><spk>BOND</spk>                  (breaking in)
+                           <sp><spk sex="M">BOND</spk>                  (breaking in)
                  Minister -
                        (all turn to him)
                  Obviously, MI-6 was not involved in
@@ -3510,7 +3517,7 @@
 
       <sd>Roebuck looks at Bond with great surprise. Bond continues:</sd>
 
-                              <sp><spk>BOND</spk> (cont'd)
+                              <sp><spk sex="M">BOND</spk> (cont'd)
                  Electronic silence was the safest way
                  to move that gold. Otherwise, any
                  country - or individual - with the
@@ -3523,15 +3530,15 @@
                  Since then, it's standard operating
                  procedure for any sensitive shipment.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (frowns)
                  At least we know where the gold is.
                  When are the recovery ships due?</sp>
 
-                          <sp><spk>ADMIRAL ROEBUCK</spk>              36 hours. They've already sailed
+                          <sp><spk sex="M">ADMIRAL ROEBUCK</spk>              36 hours. They've already sailed
                  from the Persian gulf.</sp>
 
-                              <sp><spk>MINISTER JOHNSTONE</spk>
+                              <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                  I expect to have that gold recovered
                  in 36 hours. Until then, I'm
                  imposing my own electronic silence:
@@ -3546,9 +3553,9 @@
                               <sp><spk>ROEBUCK</spk>
                  Yes.</sp>
 
-                           <sp><spk>BOND</spk>            Yes.</sp>
+                           <sp><spk sex="M">BOND</spk>            Yes.</sp>
 
-                           <sp><spk>M</spk>            As you wish.</sp>
+                           <sp><spk sex="F">M</spk>            As you wish.</sp>
 
       <sd>EXT. SEA DOLPHIN II - NIGHT
 
@@ -3582,36 +3589,36 @@
 
       M and Bond, striding down a hallway to exit the building.</sd>
 
-                           <sp><spk>M</spk>            ...You're turning into quite the
+                           <sp><spk sex="F">M</spk>            ...You're turning into quite the
                  politician, 007.</sp>
 
-                           <sp><spk>BOND</spk>            I have an excellent teacher.
+                           <sp><spk sex="M">BOND</spk>            I have an excellent teacher.
                        (sideways glance)
                  'Make sure you wear the uniform'?</sp>
 
-                           <sp><spk>M</spk>                  (ignoring his jibe)
+                           <sp><spk sex="F">M</spk>                  (ignoring his jibe)
                  What do you make of all this?</sp>
 
-                           <sp><spk>BOND</spk>            It doesn't quite add up.</sp>
+                           <sp><spk sex="M">BOND</spk>            It doesn't quite add up.</sp>
 
       <sd>They've come to a door. Pause as he opens it. He explains:</sd>
 
-                           <sp><spk>BOND</spk>            The infrared satellite images. No
+                           <sp><spk sex="M">BOND</spk>            The infrared satellite images. No
                  heat, no flame, no explosion. If
                  that boat went down where they said
                  it did, there should have been some
                  residual heat reading on the surface.</sp>
 
-                           <sp><spk>M</spk>            Sabotage?</sp>
+                           <sp><spk sex="F">M</spk>            Sabotage?</sp>
 
-                           <sp><spk>BOND</spk>            A three-thousand ton frigate doesn't
+                           <sp><spk sex="M">BOND</spk>            A three-thousand ton frigate doesn't
                  just vanish into thin air.</sp>
 
       <sd>She nods and pushes through the door. He follows.
 
       EXT. BANK OF LONDON - NIGHT - CONTINUOUS -</sd>
 
-                           <sp><spk>M</spk>            I've already contacted our station in
+                           <sp><spk sex="F">M</spk>            I've already contacted our station in
                  Kuala Lumpur. They're lining up a
                  local contact.
                        (beat)
@@ -3620,12 +3627,12 @@
 
       <sd>They've arrived at her car. The door is already open.</sd>
 
-                           <sp><spk>BOND</spk>            ... Didn't Elliot Harmsway just move
+                           <sp><spk sex="M">BOND</spk>            ... Didn't Elliot Harmsway just move
                  his headquarters to Kuala Lumpur?</sp>
 
       <sd>She turns, freezes Bond with a look:</sd>
 
-                           <sp><spk>M</spk>            Contrary to what you may believe,
+                           <sp><spk sex="F">M</spk>            Contrary to what you may believe,
                  007, the world is not filled with
                  mad-men who can hollow out volcanoes,
                  stock them with big-breasted women,
@@ -3634,7 +3641,7 @@
 
       <sd>Bond reacts to the comeuppance. She continues:</sd>
 
-                              <sp><spk>M</spk> (cont'd)
+                              <sp><spk sex="F">M</spk> (cont'd)
                  The case is closed. The Italian
                  authorities ruled the girl a suicide.
                  We had enough trouble keeping your
@@ -3771,14 +3778,14 @@
                               <sp><spk>CREWMAN 2</spk>
                  Nothing. Negative bounce.</sp>
 
-                           <sp><spk>BOND</spk>            We should be right over it.</sp>
+                           <sp><spk sex="M">BOND</spk>            We should be right over it.</sp>
 
       <sd>They hear a SHARP DINGING SOUND -</sd>
 
                               <sp><spk>OPERATOR 2</spk>
                  Wait - I'm getting something.</sp>
 
-                           <sd><spk>BOND</spk>            Where? What is it?</sd>
+                           <sd><spk sex="M">BOND</spk>            Where? What is it?</sd>
 
       <sd>The man points at one of the screens, where Bond sees a COMPUTER
       GENERATED MAP OF THE SEA FLOOR, with the FAINT OUTLINE of a WARSHIP.</sd>
@@ -3793,7 +3800,7 @@
                  The Shinjuku. Japanese troop
                  carrier. World War II.</sp>
 
-                           <sp><spk>BOND</spk>            Let's make another pass.</sp>
+                           <sp><spk sex="M">BOND</spk>            Let's make another pass.</sp>
 
                               <sp><spk>CO-PILOT</spk>
                        (calling out)
@@ -3801,7 +3808,7 @@
 
       <sd>They look down and see an HNN (Harmsway News Network) boat.</sd>
 
-                           <sp><spk>BOND</spk>            Get rid of them.</sp>
+                           <sp><spk sex="M">BOND</spk>            Get rid of them.</sp>
 
       <sd>NEW ANGLE - EXT. SEA RING CHOPPER and HNN BOAT -
 
@@ -3930,7 +3937,7 @@
 
       Frowning, Bond peers at the Sonar Operator's screen.</sd>
 
-                           <sp><spk>BOND</spk>            Still nothing?</sp>
+                           <sp><spk sex="M">BOND</spk>            Still nothing?</sp>
 
       <sd>The operator shakes his head. The pilot calls back from the cockpit:</sd>
 
@@ -3948,7 +3955,7 @@
 
       Bond turns to look: It's JACK WADE.
 
-                           <sp><spk>BOND</spk>            Wade, what the hell are you doing here?</sp>
+                           <sp><spk sex="M">BOND</spk>            Wade, what the hell are you doing here?</sp>
 
                               <sp><spk>WADE</spk>
                  I am not here, ol' buddy. The CIA has
@@ -3957,12 +3964,12 @@
                  it was going, or when it left Hong
                  Kong.</sp>
 
-                           <sp><spk>BOND</spk>            That's reassuring.</sp>
+                           <sp><spk sex="M">BOND</spk>            That's reassuring.</sp>
 
                               <sp><spk>WADE</spk>
                  Hey - the world is my office.</sp>
 
-                           <sp><spk>BOND</spk>            Let's take a look at the body.</sp>
+                           <sp><spk sex="M">BOND</spk>            Let's take a look at the body.</sp>
 
       <sd>As Bond moves off, WADE SNIFFS THE AIR, savoring the aroma:</sd>
 
@@ -3993,7 +4000,7 @@
                  Dato. Local fisherman. Says it came
                  in with the tide early this morning.</sp>
 
-                           <sp><spk>BOND</spk>            Ask him if it could have washed in
+                           <sp><spk sex="M">BOND</spk>            Ask him if it could have washed in
                  from the west side of the Strait.</sp>
 
       <sd>The POLICEMAN has an animated conversation with FISHERMAN. Then:</sd>
@@ -4003,13 +4010,13 @@
                  current could have only brought the
                  body in from the east.</sp>
 
-                           <sp><spk>BOND</spk>                  (to Wade)
+                           <sp><spk sex="M">BOND</spk>                  (to Wade)
                  You have a boat?</sp>
 
                               <sp><spk>WADE</spk>
                  I don't know if you'd call it a boat...</sp>
 
-                           <sp><spk>BOND</spk>            Something with an engine? Not oars?</sp>
+                           <sp><spk sex="M">BOND</spk>            Something with an engine? Not oars?</sp>
 
                               <sp><spk>WADE</spk>
                  Step into my office.</sp>
@@ -4022,7 +4029,7 @@
                               <sp><spk>WADE</spk>
                  What do you want with the Harbor Master?</sp>
 
-                           <sp><spk>BOND</spk>            Tide and current charts. Work
+                           <sp><spk sex="M">BOND</spk>            Tide and current charts. Work
                  backward from the body - find where
                  the ship sank.
                        (Wade nods appreciatively)
@@ -4047,7 +4054,7 @@
       Wade's boat is moving slowly along the waterway at the end of the
       docks. Looking off, Bond spots the Harbor Master's Tower:</sd>
 
-                           <sp><spk>BOND</spk>            Over there.</sp>
+                           <sp><spk sex="M">BOND</spk>            Over there.</sp>
 
       <sd>Wade turns the boat down one of the dock channels.
 
@@ -4066,7 +4073,7 @@
                  I think I've just seen my next future
                  ex-wife.</sp>
 
-                           <sp><spk>BOND</spk>                  (seeing they're about to crash)
+                           <sp><spk sex="M">BOND</spk>                  (seeing they're about to crash)
                  Not if you kill us first - unless
                  that's how you plan to leave Muffy.</sp>
 
@@ -4082,17 +4089,17 @@
 
       <sd>Finished tying the boat, they walk toward the Harbor Master's office.</sd>
 
-                           <sp><spk>BOND</spk>            Natalya?</sp>
+                           <sp><spk sex="M">BOND</spk>            Natalya?</sp>
 
                               <sp><spk>WADE</spk>
                  Yeah. Russian Minister of Transportation.</sp>
 
-                           <sp><spk>BOND</spk>            She married a hockey player.</sp>
+                           <sp><spk sex="M">BOND</spk>            She married a hockey player.</sp>
 
                               <sp><spk>WADE</spk>
                  I envy your 'undercover' assignments.</sp>
 
-                           <sp><spk>BOND</spk>                  (a look, then)
+                           <sp><spk sex="M">BOND</spk>                  (a look, then)
                  We work in the dark. We do what we can.</sp>
 
       <sd>INT. HARBOR MASTER OFFICE - PORT KLANG - DAY
@@ -4112,7 +4119,7 @@
 
       Bond returns the clipboard:</sd>
 
-                           <sp><spk>BOND</spk>            Thanks.
+                           <sp><spk sex="M">BOND</spk>            Thanks.
                        (apparent afterthought)
                  By the way - was there anything
                  strange the night before last? Odd
@@ -4122,7 +4129,7 @@
                  No... Unless you're talking about
                  the bus problem.</sp>
 
-                           <sp><spk>BOND</spk>            ...Bus problem?</sp>
+                           <sp><spk sex="M">BOND</spk>            ...Bus problem?</sp>
 
                               <sp><spk>HARBOR MASTER</spk>
                  Captain Cheong's ferry was late. He
@@ -4132,20 +4139,20 @@
                  weekend missed the last bus. Slept
                  on the docks. Hundreds of them.</sp>
 
-                           <sp><spk>BOND</spk>            Thanks.</sp>
+                           <sp><spk sex="M">BOND</spk>            Thanks.</sp>
 
       <sd>EXT. HARBOR MASTER'S TOWER - DAY
 
       Bond emerges, carrying the charts, along with Wade.</sd>
 
-                           <sp><spk>BOND</spk>            I have to get these to London. Do
+                           <sp><spk sex="M">BOND</spk>            I have to get these to London. Do
                  you know this Captain Cheong?</sp>
 
                               <sp><spk>WADE</spk>
                  Spends his nights at the Kuala Lumpur
                  yacht club.</sp>
 
-                           <sp><spk>BOND</spk>            Can you arrange a meeting?</sp>
+                           <sp><spk sex="M">BOND</spk>            Can you arrange a meeting?</sp>
 
                               <sp><spk>WADE</spk>
                  Hell. The CIA built that club.</sp>
@@ -4173,7 +4180,7 @@
                  is even five minutes late, one begins
                  to worry, Mr. Bond.</sp>
 
-                           <sp><spk>BOND</spk>            I know. Pirates from Sumatra want
+                           <sp><spk sex="M">BOND</spk>            I know. Pirates from Sumatra want
                  the cargo; smugglers from Thailand
                  and Burma want the ships.</sp>
 
@@ -4182,7 +4189,7 @@
                        (points to his eye)
                  Torture them.</sp>
 
-                           <sp><spk>BOND</spk>            I'm sorry.</sp>
+                           <sp><spk sex="M">BOND</spk>            I'm sorry.</sp>
 
                               <sp><spk>CAPTAIN CHEONG</spk>
                  The Kuala Lumpur ferry was 35 miles
@@ -4191,7 +4198,7 @@
                  drunk - until the Sumatra ferry
                  captain had same problem.</sp>
 
-                           <sp><spk>BOND</spk>            Did you test the auto-pilots? The
+                           <sp><spk sex="M">BOND</spk>            Did you test the auto-pilots? The
                  satellite positioning receiver?</sp>
 
                               <sp><spk>CAPTAIN CHEONG</spk>
@@ -4201,7 +4208,7 @@
                  'Ghost in the computer - Silicon
                  Dragon.'</sp>
 
-                           <sp><spk>BOND</spk>                  (smiles, standing to leave)
+                           <sp><spk sex="M">BOND</spk>                  (smiles, standing to leave)
                  I appreciate your time -</sp>
 
                               <sp><spk>CAPTAIN CHEONG</spk>
@@ -4209,7 +4216,7 @@
                  Owns a marine salvage company. Nobody
                  knows more about the Strait.</sp>
 
-                           <sp><spk>BOND</spk>            Where can I find him?</sp>
+                           <sp><spk sex="M">BOND</spk>            Where can I find him?</sp>
 
                               <sp><spk>CAPTAIN CHEONG</spk>
                  Him? He, is a she -
@@ -4224,7 +4231,7 @@
                               <sp><spk>SIDNEY</spk>
                  Bourbon. Neat.</sp>
 
-                           <sp><spk>BOND</spk>            I wonder if you handle your liquor
+                           <sp><spk sex="M">BOND</spk>            I wonder if you handle your liquor
                  more carefully than you handle your boat.</sp>
 
       <sd>Very slowly, Sidney turns to Bond. She looks him up and down - as if
@@ -4235,14 +4242,14 @@
                  Sometimes, you just have to plunge
                  into things. Be reckless.</sp>
 
-                           <sp><spk>BOND</spk>            - And I bet you always leave turmoil
+                           <sp><spk sex="M">BOND</spk>            - And I bet you always leave turmoil
                  in your wake.</sp>
 
                               <sp><spk>SIDNEY</spk>
                        (thinking, 'not bad')
                  Have we met?</sp>
 
-                           <sp><spk>BOND</spk>            This afternoon. Our boats practically
+                           <sp><spk sex="M">BOND</spk>            This afternoon. Our boats practically
                  kissed in the harbor.
                        (holds out his hand to shake)
                  James Bond.</sp>
@@ -4252,7 +4259,7 @@
 
       <sd>The BARTENDER APPEARS.</sd>
 
-                           <sp><spk>BOND</spk>            Vodka martini, shaken not stirred.
+                           <sp><spk sex="M">BOND</spk>            Vodka martini, shaken not stirred.
                        (to Sidney)
                  And another for you?</sp>
 
@@ -4263,11 +4270,11 @@
       <sd>She steps back REVEALING a huge SAMOAN, TARO, wearing a dark suit and
       tie, sitting on a stool. Taro smiles menacingly at Bond.</sd>
 
-                           <sp><spk>BOND</spk>            Boyfriend?</sp>
+                           <sp><spk sex="M">BOND</spk>            Boyfriend?</sp>
 
                           <sp><spk sex="F">SIDNEY</spk>              Chaperone. I'm waiting for my dinner date.</sp>
 
-                           <sp><spk>BOND</spk>            Pity.
+                           <sp><spk sex="M">BOND</spk>            Pity.
                        (to Bartender)
                  Bring him whatever he wants.</sp>
 
@@ -4283,14 +4290,14 @@
       salvage. 3) She went to the Harbor Master's office for the charts.
       4) She's a smart-ass. He decides to see if he can rattle her:</sd>
 
-                           <sp><spk>BOND</spk>            Actually, I'm here on business. You
+                           <sp><spk sex="M">BOND</spk>            Actually, I'm here on business. You
                  might say it was a... Golden opportunity.</sp>
 
                           <sp><spk sex="F">SIDNEY</spk>                    (a chill in her voice)
                  And exactly what business are you in,
                  Mr. Bond?</sp>
 
-                           <sp><spk>BOND</spk>            Insurance. Lloyds of London.</sp>
+                           <sp><spk sex="M">BOND</spk>            Insurance. Lloyds of London.</sp>
 
                           <sp><spk sex="F">SIDNEY</spk>                    (daggers in her voice)
                  The Strait can be a very dangerous
@@ -4299,14 +4306,14 @@
                  London doesn't carry a lot of value
                  out here. Including life insurance.</sp>
 
-                           <sp><spk>BOND</spk>            I'll keep that in mind.</sp>
+                           <sp><spk sex="M">BOND</spk>            I'll keep that in mind.</sp>
 
                           <sp><spk sex="F">SIDNEY</spk>                    (looking off)
                  I see my date is here.
                        (to Taro)
                  And I think Mr. Bond is ready to leave.</sp>
 
-                           <sp><spk>BOND</spk>            Nice to run into you again.</sp>
+                           <sp><spk sex="M">BOND</spk>            Nice to run into you again.</sp>
 
                           <sp><spk sex="F">SIDNEY</spk>              Let's not make it a habit.</sp>
 
@@ -4316,7 +4323,7 @@
                               <sp><spk>TARO</spk>
                  I think you should go -</sp>
 
-                           <sp><spk>BOND</spk>            Not quite yet, Taro -</sp>
+                           <sp><spk sex="M">BOND</spk>            Not quite yet, Taro -</sp>
 
       <sd>And from BOND'S POV - Sidney greets HARMSWAY with a big hug.</sd>
 
@@ -4343,7 +4350,7 @@
                        (seeing Taro)
                  What happened?</sp>
 
-                           <sp><spk>BOND</spk>            He tied one on.</sp>
+                           <sp><spk sex="M">BOND</spk>            He tied one on.</sp>
 
       <sd>EXT. A DESERTED MARINA - MORNING -
 
@@ -4367,23 +4374,23 @@
                        (calling back into the cabin)
                  He's arrived.</sp>
 
-      <sd>Bond turns from the door to watch the women. He hears:</sd>
+      <sp><sd>Bond turns from the door to watch the women. He hears:</sd></sp>
 
-                              Q'S VOICE
+                              <sp><spk>Q'S VOICE</spk>
                  You're late 007. I've been expecting
-                 you.
+                 you.</sp>
 
-      Q emerges from the cabin in a blazer and an ascot. He's irritated:
+      <sd>Q emerges from the cabin in a blazer and an ascot. He's irritated:</sd>
 
-                           <spk>BOND</spk>            Q! How are you?
+                           <sp><spk sex="M">BOND</spk>            Q! How are you?</sp>
 
-                              Q
+                              <sp><spk>Q</spk>
                  Retired. I'm not getting paid to
-                 help you save the world anymore.
+                 help you save the world anymore.</sp>
 
-                           <spk>BOND</spk>            I'm sorry. It was a national emergency -
+                           <sp><spk sex="M">BOND</spk>            I'm sorry. It was a national emergency -</sp>
 
-                              Q
+                              <sp><spk>Q</spk>
                  That hardly makes up for the imposition.
                        (beat)
                  Now, for what I hope will be the very
@@ -4392,35 +4399,33 @@
                  First, computer generated retrograde
                  analysis map. Body here, meteorolog-
                  ical influences here, likely vector-
-                 ing of the ship's coordinates here.
+                 ing of the ship's coordinates here.</sp>
 
-                           <spk>BOND</spk>            Do you have any idea of what any of
-                 that means? In English?
+                           <sp><spk sex="M">BOND</spk>            Do you have any idea of what any of
+                 that means? In English?</sp>
 
-                              Q
+                              <sp><spk>Q</spk>
                  Not a clue. I didn't lose the ship.
                        (reaches for a Filofax sized device)
                  Next, your new personal communicator.
                        (flips it open)
-                 Picture-phone, fax, beeper.
+                 Picture-phone, fax, beeper.</sp>
 
-                           <spk>BOND</spk>                  (taking it)
-                 Do I have to dial '9' to get out?
+                           <sp><spk sex="M">BOND</spk>                  (taking it)
+                 Do I have to dial '9' to get out?</sp>
 
-                              Q
+                              <sp><spk>Q</spk>
                  I don't care who you dial, so long as
-                 it's not me. Next -
+                 it's not me. Next -</sp>
 
-      Q walks to the large object on the aft-deck. Pulls off a tarp:
+      <sd>Q walks to the large object on the aft-deck. Pulls off a tarp:</sd>
 
-                              Q
-                 Your new car. (Insert name)
+                          <spk sex="M">Q</spk>              Your new car. (Insert name)
 
-                           <spk>BOND</spk>                  (interrupting)
+                           <spk sex="M">BOND</spk>                  (interrupting)
                  - Four wheel drive?
 
-                              Q
-                 Yes. And do try to keep all four of
+                          <spk sex="M">Q</spk>              Yes. And do try to keep all four of
                  them on the road.
                        (continuing)
                  All the usual refinements: Smoke,
@@ -4436,36 +4441,34 @@
                  heads up instrumentation, and 17
                  beverage cup holders.
 
-                           <spk>BOND</spk>            ... 17 Beverage cup holders?
+                           <sp><spk sex="M">BOND</spk>            ... 17 Beverage cup holders?</sp>
 
-                              Q
-                 Standard equipment. The world's
+                          <sp><spk sex="M">Q</spk>              Standard equipment. The world's
                  automobile manufacturers seem to be
                  in some kind of mad war to see who
                  can provide the most beverage cup
-                 holders.
+                 holders.</sp>
 
-      Bond nods, and LOOKS AT a distraction from the GIRLS IN BIKINIS.
+      <sd>Bond nods, and LOOKS AT a distraction from the GIRLS IN BIKINIS.</sd>
 
-                           <spk>BOND</spk>            I must say, Q, you seem to be doing
-                 rather well in your retirement.
+                           <sp><spk sex="M">BOND</spk>            I must say, Q, you seem to be doing
+                 rather well in your retirement.</sp>
 
-                              Q
-                 Don't even think about it. 007.
-                 They're my granddaughters.
+                          <sp><spk sex="M">Q</spk>              Don't even think about it. 007.
+                 They're my granddaughters.</sp>
 
-      STRAIT OF MALACCA - DAY -
+      <sd>STRAIT OF MALACCA - DAY -
 
       Clear skies and blue water. The only vessel in sight is a thirty-
       five foot SPORT FISHING BOAT underway at full throttle.
 
       EXT. SPORT FISHING BOAT, FLYING BRIDGE - DAY -
 
-      Wade at the helm; Bond next to him, near sonar, holding Q's map.
+      Wade at the helm; Bond next to him, near sonar, holding Q's map.</sd>
 
-                           <spk>BOND</spk>            Slow down. We're close.
+                           <sp><spk sex="M">BOND</spk>            Slow down. We're close.</sp>
 
-      Wade pulls back on the throttle.
+      <sd>Wade pulls back on the throttle.
 
       AERIAL - (SPORT FISHING BOAT/STRAIT OF MALACCA) - DAY -
 
@@ -4479,64 +4482,61 @@
 
       FLYING BRIDGE -
 
-      Wade scans the shore; Bond studies the sonar display.
+      Wade scans the shore; Bond studies the sonar display.</sd>
 
-                              WADE
+                              <sp><spk>WADE</spk>
                  I dunno, Jimbo. It can't be out
                  here. How could they get this far
-                 off course?
+                 off course?</sp>
 
-                           <spk>BOND</spk>                  (concentrating on the sonar)
-                 Who knows? Fog, night...
+                           <sp><spk sex="M">BOND</spk>                  (concentrating on the sonar)
+                 Who knows? Fog, night...</sp>
 
-                              WADE
-                 They'd never sail this close to the shore.
+                          <spk sex="M">WADE</spk>              They'd never sail this close to the shore.
 
-                           <spk>BOND</spk>            Wait a minute -
+                           <sp><spk sex="M">BOND</spk>            Wait a minute -
                        (beat, pointing to the
                         screen)
-                 I've got it. There! Off the port bow!
+                 I've got it. There! Off the port bow!</sp>
 
-      INSERT SONAR SCREEN -
+      <sd>INSERT SONAR SCREEN -
 
       The murky electronic outline of a ship.
 
       BACK TO SCENE -
 
-      Bond watches the sonar screen. Wade slows engines, consults charts.
-
-                           <spk>BOND</spk>            Cut the engines! It's about two-
-                 hundred fifty feet down.
+      Bond watches the sonar screen. Wade slows engines, consults charts.</sd>
+      
+                           <sp><spk sex="M">BOND</spk>            Cut the engines! It's about two-
+                 hundred fifty feet down.</sp>
 
                                                               JUMP CUT TO:
 
-      AN ANCHOR BEING PITCHED INTO THE WATER - (BOW OF SPORT FISHING BOAT) -
+      <sd>AN ANCHOR BEING PITCHED INTO THE WATER - (BOW OF SPORT FISHING BOAT) -
 
-      By Wade. Bond is strapping on his scuba tank.
+      By Wade. Bond is strapping on his scuba tank.</sd>
 
-                              WADE
-                 Two-fifty's pretty deep for air. You
-                 should really be using mixed gases.
+                          <sp><spk sex="M">WADE</spk>              Two-fifty's pretty deep for air. You
+                 should really be using mixed gases.</sp>
 
-      Bond glances at the air gauge on his tanks.
+      <sd>Bond glances at the air gauge on his tanks.</sd>
 
-                           <spk>BOND</spk>            I'll make a bounce dive. If I can
+                           <sp><spk sex="M">BOND</spk>            I'll make a bounce dive. If I can
                  keep my bottom time short, I'll be
-                 all right.
+                 all right.</sp>
 
-      Bond gathers up FLARES, and sits on the gunwale.
+      <sd>Bond gathers up FLARES, and sits on the gunwale.</sd>
 
-                           <spk>BOND</spk>                  (only half teasing)
-                 Keep your eye out for pirates.
+                           <sp><spk sex="M">BOND</spk>                  (only half teasing)
+                 Keep your eye out for pirates.</sp>
 
-      Wade pulls back his shirt to reveal TWO SIX-SHOOTERS.
+      <sd>Wade pulls back his shirt to reveal TWO SIX-SHOOTERS.</sd>
 
-                              WADE
-                 I got you covered.
+                          <sp><spk sex="M">WADE</spk>              I got you covered.</sp>
 
-                           <spk>BOND</spk>            That's reassuring.
+                           <sp><spk sex="M">BOND</spk>            That's reassuring.</sp>
 
-      Bond rolls backward into the water and disappears.
+      <sd>Bond rolls backward into the water and disappears.
 
       UNDERWATER -
 
@@ -4610,11 +4610,11 @@
 
       Bond reaches for the flare, under a section of the torn hatch cover.
       He notices the BROKEN URANIUM GRINDING TOOTH. He picks it up, stuffs
-      it into his sack, and swims off.
+      it into his sack, and swims off.</sd>
 
                                                                    CUT TO:
 
-      UNDERWATER BOTTOM - ANCHOR -
+      <sd>UNDERWATER BOTTOM - ANCHOR -
 
       Bond swims to the anchor line, grabs hold, and starts up. On the
       way, he glances at his gauges:
@@ -4679,138 +4679,130 @@
 
       TARO - (EXT. SALVAGE BARGE, DECK) -
 
-      Brandishing an UZI at Bond, with a malevolent smile:
+      Brandishing an UZI at Bond, with a malevolent smile:</sd>
 
-                              TARO
-                 Uzi beats knife.
+                              <sp><spk>TARO</spk>
+                 Uzi beats knife.</sp>
 
-                           <spk>BOND</spk>            ...Interesting point.
+                           <sp><spk sex="M">BOND</spk>            ...Interesting point.</sp>
+      
+      <sd>Bond sticks the knife into the deck, and releases the hostage.</sd>
 
-      Bond sticks the knife into the deck, and releases the hostage.
-
-                              TARO
-                 Get him up. Take his belt.
+                          <sp><spk sex="F">TARO</spk>              Get him up. Take his belt.
                        (motioning to Wade)
-                 Take the two of them to the Captain.
+                 Take the two of them to the Captain.</sp>
 
-      The men grab Bond roughly, and shove him next to Wade.
+      <sd>The men grab Bond roughly, and shove him next to Wade.</sd>
 
-                              TARO
-                 By the way. I almost forgot.
+                          <sp><spk sex="F">TARO</spk>              By the way. I almost forgot.
                        (smashing Bond)
-                 I owed you one.
+                 I owed you one.</sp>
 
-      Bond and Wade are frog-marched to the bridge, passing under the gaze
-      of various cutthroat crew members. Wade is completely unfazed.
+      <sd>Bond and Wade are frog-marched to the bridge, passing under the gaze
+      of various cutthroat crew members. Wade is completely unfazed.</sd>
 
-                              WADE
-                       (sniffs the air)
-                 Smell that Jimmy? Sea Kelp.
+                          <sp><spk sex="M">WADE</spk>                    (sniffs the air)
+                 Smell that Jimmy? Sea Kelp.</sp>
 
-      Bond gives Wade a look.
+      <sd>Bond gives Wade a look.</sd>
 
-                              WADE
-                 Hey - it could be worse. At least
-                 they speak English.
+                          <sp><spk sex="M">WADE</spk>              Hey - it could be worse. At least
+                 they speak English.</sp>
 
-      Bond glances up at a crew member, SHARPENING A MACHETE, smiling.
+      <sd>Bond glances up at a crew member, SHARPENING A MACHETE, smiling.</sd>
 
-                           <spk>BOND</spk>            ...Somehow, that's not reassuring.
+                           <sp><spk sex="M">BOND</spk>            ...Somehow, that's not reassuring.</sp>
 
-      INT. BRIDGE - SALVAGE BARGE - DAY
+      <sd>INT. BRIDGE - SALVAGE BARGE - DAY
 
       We're back in Bond-land: A high-tech control room, with lots of
       monitors and white-suited TECHNICIANS. Bond and Wade are pushed
-      through the-door, followed by Taro and the two goons.
+      through the-door, followed by Taro and the two goons.</sd>
 
-                              TARO
-                 Here they are, Captain.
+                          <sp><spk sex="F">TARO</spk>              Here they are, Captain.</sp>
 
-      The "Captain" turns from a monitor: IT'S SIDNEY.
+      <sd>The "Captain" turns from a monitor: IT'S SIDNEY.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Just give me one goad reason - Mister
+                          <sp><spk sex="F">SIDNEY</spk>              Just give me one goad reason - Mister
                  Bond, from Lloyds of London - why I
                  shouldn't kill both of you, burn your
-                 boat, and use your bodies for shark bait.
+                 boat, and use your bodies for shark bait.</sp>
 
-                              WADE
-                       (chirping up)
+                          <sp><spk sex="M">WADE</spk>                    (chirping up)
                  So you two know each other!?! Small
                  world, ain't it? What happened?
-                 Commitment problems?
+                 Commitment problems?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Who is he?
+                          <sp><spk sex="F">SIDNEY</spk>              Who is he?</sp>
 
-                           <spk>BOND</spk>            Sidney Winch, meet -
+                           <sp><spk sex="M">BOND</spk>            Sidney Winch, meet -</sp>
 
-                              WADE
-                 Jack Wade. Citibank. Commercial
+                          <sp><spk sex="M">WADE</spk>              Jack Wade. Citibank. Commercial
                  loan division. If you're ever lookin'
-                 for a sweet refinance on the boat -
+                 for a sweet refinance on the boat -</sp>
 
-                          <spk sex="F">SIDNEY</spk>              - Shut up!
+                          <sp><spk sex="F">SIDNEY</spk>              - Shut up!</sp>
 
-                           <spk>BOND</spk>                  (to Wade)
+                           <sp><spk sex="M">BOND</spk>                  (to Wade)
                  You have to excuse Miss Winch: She
                  thinks she's on a 'seduce and
                  destroy' mission through life...
                        (pauses)
-                 ...But she won't kill us.
+                 ...But she won't kill us.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              No?
+                          <sp><spk sex="F">SIDNEY</spk>              No?</sp>
 
-                           <spk>BOND</spk>            No. First, because I don't think
+                           <sp><spk sex="M">BOND</spk>            No. First, because I don't think
                  it's in your nature. And second,
-                 because there's no gold down there.
+                 because there's no gold down there.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              So charming! So suave!
+                          <sp><spk sex="F">SIDNEY</spk>              So charming! So suave!
                        (beat)
                  Don't insult me. I'm not one of your
                  'little London girls' who falls for
-                 the lies.
+                 the lies.</sp>
 
-                              WADE
-                 So it was commitment!
+                          <sp><spk sex="M">WADE</spk>              So it was commitment!</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Every wharf-rat from here to Hong Kong
+                          <sp><spk sex="F">SIDNEY</spk>              Every wharf-rat from here to Hong Kong
                  knows what's on that boat and I'm
                  claiming it. One-third of that gold is
-                 mine.
+                 mine.</sp>
 
-                           <spk>BOND</spk>            That's fine, but - even a little
+                           <sp><spk sex="M">BOND</spk>            That's fine, but - even a little
                  London girl knows that one third of
-                 nothing is still nothing.
+                 nothing is still nothing.</sp>
 
-      There's a flicker of doubt in her eyes. She turns to Taro:
+      <sd>There's a flicker of doubt in her eyes. She turns to Taro:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Was he carrying anything?
+                          <sp><spk sex="F">SIDNEY</spk>              Was he carrying anything?</sp>
 
-      Taro holds up the BOND'S DIVING BELT, indicating 'nothing'. Angrily:
+      <sd>Taro holds up the BOND'S DIVING BELT, indicating 'nothing'. Angrily:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Search him.
+                          <sp><spk sex="F">SIDNEY</spk>              Search him.</sp>
 
-      The men look at Bond - wearing only swim trunks. Nobody moves.
+      <sd>The men look at Bond - wearing only swim trunks. Nobody moves.</sd>
+      
+                          <sp><spk sex="F">SIDNEY</spk>              Do I have to do everything around here?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Do I have to do everything around here?
+                           <sp><spk sex="M">BOND</spk>            I hope so.</sp>
 
-                           <spk>BOND</spk>            I hope so.
+      <sd>Frowning, Sidney moves to Bond. As she REACHES INTO HIS TRUNKS, we
+      cut to THEIR FACES. THEIR EYES ARE LOCKED ON EACH OTHER:</sd>
 
-      Frowning, Sidney moves to Bond. As she REACHES INTO HIS TRUNKS, we
-      cut to THEIR FACES. THEIR EYES ARE LOCKED ON EACH OTHER:
+                           <sp><spk sex="M">BOND</spk>            I hope you'll be gentle.</sp>
 
-                           <spk>BOND</spk>            I hope you'll be gentle.
+                          <sp><spk sex="F">SIDNEY</spk>              Think about mom.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Think about mom.
+      <sd>BOND WINCES. She's goosed him.</sd>
 
-      BOND WINCES. She's goosed him.
-
-                           <spk>BOND</spk>            ... Unusual technique.
+                           <spk sex="M">BOND</spk>            ... Unusual technique.
 
       Returning to the WIDE SHOT, she opens the sack. SHOWS THE GOLD:
 
                           <spk sex="F">SIDNEY</spk>              And what do you call this?
 
-                           <spk>BOND</spk>            - The family jewels?
+                           <spk sex="M">BOND</spk>            - The family jewels?
 
       She scowls, takes out the URANIUM TOOTH. Looks at it, blankly, and
       holds it out to a TECHNICIAN, who examines it.
@@ -4852,11 +4844,11 @@
 
       Bond turns to Sidney, who's grabbed a bullhorn of her own.
 
-                           <spk>BOND</spk>            If I were you -
+                           <spk sex="M">BOND</spk>            If I were you -
 
                           <spk sex="F">SIDNEY</spk>              - You're not.
 
-                           <spk>BOND</spk>                  (as she hoists the bullhorn)
+                           <spk sex="M">BOND</spk>                  (as she hoists the bullhorn)
                  Just remember: They think there's ten
                  billion dollars in gold down there.
 
@@ -4874,7 +4866,7 @@
       Wade, who might as well be having tea. Bond looks down at Taro,
       cowering on the boards.
 
-                           <spk>BOND</spk>            Gatling gun beats Uzi.
+                           <spk sex="M">BOND</spk>            Gatling gun beats Uzi.
 
       NEW ANGLE - (CUTTER/BARGE) - DAY
 
@@ -4897,8 +4889,7 @@
                        (ignoring her)
                  Who's Wade?
 
-                              WADE
-                 That would be me -
+                          <spk sex="M">WADE</spk>              That would be me -
 
                               CAPTAIN MORTON
                        (snidely)
@@ -4906,7 +4897,7 @@
                        (turns to)
                  And you're Bond?
 
-                           <spk>BOND</spk>            Yes -
+                           <spk sex="M">BOND</spk>            Yes -
 
                               CAPTAIN MORTON
                  Guard! Arrest these men! Escort
@@ -4914,7 +4905,7 @@
 
       Bond and Wade are stunned. The Marines move in. Bond struggles -
 
-                           <spk>BOND</spk>            Wait a minute -
+                           <spk sex="M">BOND</spk>            Wait a minute -
 
                               CAPTAIN MORTON
                  Get them out of here. If he says one
@@ -4987,15 +4978,14 @@
 
       Bond, Wade and the Captain.
 
-                              WADE
-                 - Nice trick with the arrest. Very convincing.
+                          <spk sex="M">WADE</spk>              - Nice trick with the arrest. Very convincing.
 
                               CAPTAIN MORTON
                  It's no trick, Mr. Wade. I've got
                  half a mind to throw both of you in
                  the brig.
 
-                           <spk>BOND</spk>            Don't you think you're overreacting?
+                           <spk sex="M">BOND</spk>            Don't you think you're overreacting?
 
                               CAPTAIN MORTON
                        (with great sarcasm)
@@ -5010,7 +5000,7 @@
                  distress call for us to save your
                  bloody hide.
 
-                           <spk>BOND</spk>                  (Calmly)
+                           <spk sex="M">BOND</spk>                  (Calmly)
                  ...That's all well and good, Captain,
                  save for one thing:
                        (beat)
@@ -5021,7 +5011,7 @@
                  through all this and the ship isn't
                  even down there?
 
-                           <spk>BOND</spk>            Yes, the ship is down there. But the
+                           <spk sex="M">BOND</spk>            Yes, the ship is down there. But the
                  gold is gone.
 
                               CAPTAIN MORTON
@@ -5029,7 +5019,7 @@
                  forty men fifteen days to load that
                  gold.
 
-                           <spk>BOND</spk>            I know what I saw -
+                           <spk sex="M">BOND</spk>            I know what I saw -
 
                               CAPTAIN
                  I don't care what you think you saw.
@@ -5039,17 +5029,16 @@
                  your trench-coats and your code names
                  - and leave the job to professionals.
 
-                           <spk>BOND</spk>                  (exchanges a glance with Wade, then)
+                           <spk sex="M">BOND</spk>                  (exchanges a glance with Wade, then)
                  Aye-aye, Captain.
 
       EXT. SPORT FISHING BOAT - STRAIT OF MALACCA - DAY -
 
       As Bond and Wade push away from the Naval Cutter:
 
-                              WADE
-                 Where to now, Jimbo?
+                          <spk sex="M">WADE</spk>              Where to now, Jimbo?
 
-                           <spk>BOND</spk>                  (thinking)
+                           <spk sex="M">BOND</spk>                  (thinking)
                  I'm not certain... But I think
                  there's someone I want to press for
                  some answers in Kuala Lumpur.
@@ -5074,12 +5063,12 @@
 
       Reacting - the information is curious. Bond picks up the phone.
 
-                           <spk>BOND</spk>            Bond.
+                           <spk sex="M">BOND</spk>            Bond.
 
                               HARMSWAY'S VOICE
                  Hello, Mister Bond.
 
-                           <spk>BOND</spk>                  (with an edge)
+                           <spk sex="M">BOND</spk>                  (with an edge)
                  Who is this?
 
       INT. HARMSWAY'S OUTER OFFICE -
@@ -5098,7 +5087,7 @@
                  We seemed to get off on the wrong
                  foot back there in Venice.
 
-                           <spk>BOND</spk>            How did you get this number?
+                           <spk sex="M">BOND</spk>            How did you get this number?
 
       INTERCUT AS NECESSARY:
 
@@ -5110,7 +5099,7 @@
                  Besides I own the phone company. What
                  do you say? Twenty minutes?
 
-                           <spk>BOND</spk>            I'm on my way.
+                           <spk sex="M">BOND</spk>            I'm on my way.
 
       Bond hangs up, and drives with renewed determination.
 
@@ -5140,14 +5129,14 @@
       Where a cheerful YOUNG PR WOMAN and VALET wait. Both wear the
       colorful BLAZER used by all Harmsway Building service personnel.
 
-                           <spk>BOND</spk>                  (from inside the car)
+                           <spk sex="M">BOND</spk>                  (from inside the car)
                  James Bond to see Elliot Harmsway.
 
                               PR WOMAN
                  Yes. I'm to bring you right up. The
                  valet will take your car -
 
-                           <spk>BOND</spk>            I'd prefer to park it myself.
+                           <spk sex="M">BOND</spk>            I'd prefer to park it myself.
                        (off her questioning look)
                  Temperamental. Practically has a
                  mind of its own.
@@ -5204,7 +5193,7 @@
                           <spk>HARMSWAY</spk>                    (spotting Bond, yelling:)
                  Mr. Bond! Nice to see you.
 
-                           <spk>BOND</spk>            Sir Elliot.
+                           <spk sex="M">BOND</spk>            Sir Elliot.
 
                           <spk>HARMSWAY</spk>              Come. Let's get out of the noise.
                        (escorting Bond off)
@@ -5228,7 +5217,7 @@
 
       Bond SMILES WRYLY, looking at Harmsway hunched over the sink:
 
-                           <spk>BOND</spk>            Yes... A man with ink in his veins,
+                           <spk sex="M">BOND</spk>            Yes... A man with ink in his veins,
                  and blood on his hands.
 
       Harmsway smiles to himself, acknowledging the jibe... But decides to
@@ -5240,7 +5229,7 @@
 
       He pulls on his £2000 Saville Row suit-jacket.
 
-                           <spk>BOND</spk>            ... And how many of those newspapers
+                           <spk sex="M">BOND</spk>            ... And how many of those newspapers
                  carried Paris Harmsway's obituary?
 
       Harmsway turns, and presses the ELEVATOR BUTTON. The doors open,
@@ -5263,13 +5252,13 @@
                  aged Peter Pans who only brought out
                  the worst in her.
 
-                           <spk>BOND</spk>            I see.
+                           <spk sex="M">BOND</spk>            I see.
 
                           <spk>HARMSWAY</spk>              I tried to save her. But she remained a
                  manic depressive: Fits, inappropriate
                  behavior... Delusions of grandeur.
 
-                           <spk>BOND</spk>            I wonder if it runs in the family.
+                           <spk sex="M">BOND</spk>            I wonder if it runs in the family.
 
                           <spk>HARMSWAY</spk>                    (bursts out in a laugh)
                  The only difference between a
@@ -5281,14 +5270,14 @@
                           <spk>HARMSWAY</spk>              Still, I do miss her. I only wish
                  she could have lived to see all this.
 
-                           <spk>BOND</spk>            I can feel your pain.
+                           <spk sex="M">BOND</spk>            I can feel your pain.
 
       The doors open:
 
                           <spk>HARMSWAY</spk>              By the way - what is it that brings
                  you to Kuala Lumpur, Mister Bond?
 
-                           <spk>BOND</spk>            Sightseeing.
+                           <spk sex="M">BOND</spk>            Sightseeing.
 
       Harmsway motions for Bond to exit. They step out into:
 
@@ -5299,7 +5288,7 @@
 
                           <spk>HARMSWAY</spk>              I call this the Rogue's gallery.
 
-                           <spk>BOND</spk>            Yes. I can see: You've hung the
+                           <spk sex="M">BOND</spk>            Yes. I can see: You've hung the
                  rest of your relatives.
 
                           <spk>HARMSWAY</spk>                    (pointing to the first portrait)
@@ -5319,7 +5308,7 @@
                        (pausing, wistfully)
                  It was a city of unlimited possibility.
 
-                           <spk>BOND</spk>            So why did you leave?
+                           <spk sex="M">BOND</spk>            So why did you leave?
 
                           <spk>HARMSWAY</spk>              Because it's a dying city. Since the
                  Chinese take-over, who knows what can
@@ -5360,17 +5349,17 @@
                  magazines, and 29 different cable TV
                  channels - in 35 languages.
 
-                           <spk>BOND</spk>            And still not a thing to watch.
+                           <spk sex="M">BOND</spk>            And still not a thing to watch.
 
       He glances at the SATELLITE CONTROL ROOM, with a NASA-type WORLD MAP.
 
-                           <spk>BOND</spk>            ...Although it must be fun to have
+                           <spk sex="M">BOND</spk>            ...Although it must be fun to have
                  all those satellites.
 
                           <spk>HARMSWAY</spk>              They're merely tools to disseminate
                  information.
 
-                           <spk>BOND</spk>                  (wryly)
+                           <spk sex="M">BOND</spk>                  (wryly)
                  Or disinformation... If you wanted to,
                  say, beam down a signal to send a ship
                  off course? Maybe one degree a minute?
@@ -5415,7 +5404,7 @@
                  it: In the right hands, they can be as
                  deadly as your Walther PPK.
 
-                           <spk>BOND</spk>            ...Words to live by?
+                           <spk sex="M">BOND</spk>            ...Words to live by?
 
                           <spk>HARMSWAY</spk>              Your choice.
                        (glancing at his watch)
@@ -5445,7 +5434,7 @@
 
                           <spk>HARMSWAY</spk>              I see you two have met.
 
-                           <spk>BOND</spk>            Briefly.
+                           <spk sex="M">BOND</spk>            Briefly.
 
                           <spk>HARMSWAY</spk>                    (crossing to his desk)
                  Don't pout, Sidney. I invited him
@@ -5491,7 +5480,7 @@
                           <spk>HARMSWAY</spk>                    (forcing a smile)
                  ...And what's that, my dear?
 
-                           <spk>BOND</spk>            Sidney, perhaps we should leave this to -
+                           <spk sex="M">BOND</spk>            Sidney, perhaps we should leave this to -
 
       Sidney cuts Bond off, DROPPING THE GOLD BAR on Harmsway's desk.
 
@@ -5501,7 +5490,7 @@
 
       Alarmed, Bond wants to stop Sidney from reaching into her bag again -
 
-                           <spk>BOND</spk>            Sidney, I wouldn't -
+                           <spk sex="M">BOND</spk>            Sidney, I wouldn't -
 
       Too late. She drops the uranium tooth on his desk.
 
@@ -5514,7 +5503,7 @@
 
       HE PRESSES AN ALARM UNDER HIS DESK. Bond reaches for the DRILL TOOTH.
 
-                           <spk>BOND</spk>            Why don't we just take these -
+                           <spk sex="M">BOND</spk>            Why don't we just take these -
 
                           <spk sex="F">SIDNEY</spk>                    (blocking him)
                  No. I want Sir Elliot to keep them.
@@ -5534,7 +5523,7 @@
                  will definitely be in touch sooner
                  than later.
 
-                           <spk>BOND</spk>            I'm sure they will.
+                           <spk sex="M">BOND</spk>            I'm sure they will.
 
                           <spk>HARMSWAY</spk>              Good-bye, Mister Bond.
 
@@ -5570,12 +5559,12 @@
       looking for an ESCAPE PANEL. Sidney watches out of the corner of her
       eye, thinking he's nuts.
 
-                           <spk>BOND</spk>                  (glancing at the security camera)
+                           <spk sex="M">BOND</spk>                  (glancing at the security camera)
                  ... Do you have a gun?
 
                           <spk sex="F">SIDNEY</spk>              What?
 
-                           <spk>BOND</spk>                  (yanking it down)
+                           <spk sex="M">BOND</spk>                  (yanking it down)
                  You heard me. A gun?
                        (disabling it)
                  I left mine in the car.
@@ -5583,7 +5572,7 @@
                           <spk sex="F">SIDNEY</spk>              That's funny: you struck me as the kind
                  of man who always carries protection.
 
-                           <spk>BOND</spk>            Listen to me! I'm a British secret
+                           <spk sex="M">BOND</spk>            Listen to me! I'm a British secret
                  service agent. And we have about two
                  minutes before Harmsway kills both of us.
 
@@ -5594,7 +5583,7 @@
 
       Bond ignores the insult, explaining as he moves under the panel:
 
-                           <spk>BOND</spk>            Harmsway sank that ship and stole the
+                           <spk sex="M">BOND</spk>            Harmsway sank that ship and stole the
                  gold. It's on the Sea Dolphin II.
                        (boosting himself up)
                  And thanks to your little show and tell -
@@ -5606,21 +5595,21 @@
 
                           <spk sex="F">SIDNEY</spk>              Elliot Harmsway is my Uncle!
 
-                           <spk>BOND</spk>            Blood or Dutch?
+                           <spk sex="M">BOND</spk>            Blood or Dutch?
 
                           <spk sex="F">SIDNEY</spk>              He was my father's best friend!
 
-                           <spk>BOND</spk>            He's killed closer.
+                           <spk sex="M">BOND</spk>            He's killed closer.
 
                           <spk sex="F">SIDNEY</spk>              You are seriously deranged.
 
-                           <spk>BOND</spk>            Maybe. But why are we going up
+                           <spk sex="M">BOND</spk>            Maybe. But why are we going up
                  instead of down?
 
       He nods to the FLOOR INDICATOR. She looks: 60, 65, 70. IT STOPS.
       Bond reaches down to her -
 
-                           <spk>BOND</spk>            Sidney, come with me -
+                           <spk sex="M">BOND</spk>            Sidney, come with me -
 
       THE DOORS OPEN. She looks at his outstretched hand with disdain:
 
@@ -5670,7 +5659,7 @@
 
       Bond jumps down, grabs Sidney -
 
-                           <spk>BOND</spk>            Need a lift?
+                           <spk sex="M">BOND</spk>            Need a lift?
 
       And boosts her into the escape panel, following her up.
 
@@ -5707,7 +5696,7 @@
       close behind them,) Bond and Sidney encounter a group of STUNNED
       OFFICE WORKERS, waiting for the elevator.
 
-                           <spk>BOND</spk>                  (to the office workers)
+                           <spk sex="M">BOND</spk>                  (to the office workers)
                  ... I'd try the stairs.
 
       As Bond and Sidney scamper off -
@@ -5733,13 +5722,13 @@
 
                           <spk sex="F">SIDNEY</spk>              This has got to be a mistake.
 
-                           <spk>BOND</spk>            The only mistake is that they didn't
+                           <spk sex="M">BOND</spk>            The only mistake is that they didn't
                  kill us in the elevator.
 
       At the corner, Bond STOPS, SEEING A GUARD, farther down the hall (his
       back to them) CHECKING DOORS.
 
-                           <spk>BOND</spk>            Wait here.
+                           <spk sex="M">BOND</spk>            Wait here.
 
                           <spk sex="F">SIDNEY</spk>              No. I'm going with you.
 
@@ -5775,7 +5764,7 @@
 
       BAM. BOND DECKS HIM.
 
-                           <spk>BOND</spk>            Out.
+                           <spk sex="M">BOND</spk>            Out.
 
       Bond kneels, grabs the GUARD'S MACHINE PISTOL, and CLIPS, just as -
 
@@ -5799,11 +5788,11 @@
       denly TWISTS, SMASHING the BUTT OF HIS GUN down on some GLASSWARE on
       the counter, then TWISTS BACK, returning a BURST OF GUNFIRE.
 
-                           <spk>BOND</spk>            Come here. You shoot. I'll cook.
+                           <spk sex="M">BOND</spk>            Come here. You shoot. I'll cook.
 
       She thinks he's nuts, but squeezes next to him. Handing her the gun:
 
-                           <spk>BOND</spk>            Aim that way.
+                           <spk sex="M">BOND</spk>            Aim that way.
 
       Sidney scowls - as Bond moves off-camera - when suddenly, BULLET HITS
       RIP UP THE DOOR FRAME. She jumps, TERRIFIED.
@@ -5811,7 +5800,7 @@
       Bond looks at her from the PHOTO-COPYING MACHINE, where he is YANKING
       OUT the TONER CARTRIDGE. He offers a simple piece of advice:
 
-                           <spk>BOND</spk>            Shoot back!
+                           <spk sex="M">BOND</spk>            Shoot back!
 
       Sidney frowns... Turns... And as she LETS THE GUN RIP, we cut to:
 
@@ -5834,14 +5823,14 @@
       BOND, (having broken the toner cartridge open,) is DUMPING THE TONER
       in a coffee can. He reaches for a BOX of sugar
 
-                           <spk>BOND</spk>            One second -
+                           <spk sex="M">BOND</spk>            One second -
 
       And (with GUNFIRE SFX over,) Bond sweeps the BROKEN DISH into the
       can, and drops his Q LIGHTER in the mix.
 
       He moves to Sidney, in the doorway. Kneels. In-between shots:
 
-                           <spk>BOND</spk>            ... How did you get into marine
+                           <spk sex="M">BOND</spk>            ... How did you get into marine
                  salvage?
 
                           <spk sex="F">SIDNEY</spk>                    (gun burst, then)
@@ -5855,13 +5844,13 @@
 
       Bond nods, continuing to look at his watch. Glances at her:
 
-                           <spk>BOND</spk>            Not a lot of difference.
+                           <spk sex="M">BOND</spk>            Not a lot of difference.
 
                           <spk sex="F">SIDNEY</spk>              What do you mean?
 
       Bond reaches forward to toss the coffee can -
 
-                           <spk>BOND</spk>            Either way, you're taking the goods
+                           <spk sex="M">BOND</spk>            Either way, you're taking the goods
                  from dead hulks.
 
       He tosses the can, and PULLS HER BACKWARDS, covering her.
@@ -5873,7 +5862,7 @@
 
       RETURN ON BOND AND SIDNEY IN THE KITCHEN -
 
-                           <spk>BOND</spk>            Let's go -
+                           <spk sex="M">BOND</spk>            Let's go -
 
       Taking the gun, the two of them start for the door when -
 
@@ -5883,7 +5872,7 @@
 
       RETURN ON BOND AND SIDNEY IN THE KITCHEN -
 
-                           <spk>BOND</spk>            Damn!
+                           <spk sex="M">BOND</spk>            Damn!
 
       Swiftly, Bond grabs a JUG of CLEANER from under the sink, moves to
       the door, and ROLLS IT DOWN THE HALL in Stamper's direction.
@@ -5896,7 +5885,7 @@
 
                           <spk sex="F">SIDNEY</spk>              What the hell does that do?
 
-                           <spk>BOND</spk>            Cleans dirt. Let's go.
+                           <spk sex="M">BOND</spk>            Cleans dirt. Let's go.
 
       INT. HALLWAY -
 
@@ -5927,13 +5916,13 @@
 
       Bond leans over the railing. Sees GUARDS coming UP. SHOOTS.
 
-                           <spk>BOND</spk>            Up.
+                           <spk sex="M">BOND</spk>            Up.
 
       They go up about three stairs, and Sidney sees GUARDS descending.
 
                           <spk sex="F">SIDNEY</spk>              Down?
 
-                           <spk>BOND</spk>                  (shoots, then)
+                           <spk sex="M">BOND</spk>                  (shoots, then)
                  Up.
 
       Bond and Sidney bound up the stairs through a METAL DOOR, just as -
@@ -5965,7 +5954,7 @@
 
       BANG. BANG. BANG. He fires 3 NAILS through the door into the frame.
 
-                           <spk>BOND</spk>            That should buy us some time.
+                           <spk sex="M">BOND</spk>            That should buy us some time.
 
       Now, Bond moves to the WINDOW WASHER'S RIG - a two-man bucket-like
       scaffold ON TRACKS, with TWO LEATHER SAFETY HARNESSES inside, and a
@@ -5980,7 +5969,7 @@
 
       RETURN ON BOND - AT THE WINDOW WASHER'S RIG - TERRACE SET-BACK -
 
-                           <spk>BOND</spk>            Help me move this.
+                           <spk sex="M">BOND</spk>            Help me move this.
 
       INT. STAIRWELL -
 
@@ -5999,7 +5988,7 @@
 
       Bond is positioning the window washer rig. He explains:
 
-                           <spk>BOND</spk>            We'll go down close to the sky bridge.
+                           <spk sex="M">BOND</spk>            We'll go down close to the sky bridge.
                  We may be able to swing over and use it
                  for cover.
 
@@ -6009,7 +5998,7 @@
 
       BANG! Behind them, Stamper's AX HAS JUST PENETRATED THE DOOR.
 
-                           <spk>BOND</spk>            ... Sometimes, you just have to take
+                           <spk sex="M">BOND</spk>            ... Sometimes, you just have to take
                  the plunge.
 
       Bond yanks her in, flips switches on the control pod, and starts
@@ -6038,7 +6027,7 @@
 
       Looking upward, Bond SEES STAMPER peering over the rail. BOND FIRES.
 
-                           <spk>BOND</spk>            One thing at a time.
+                           <spk sex="M">BOND</spk>            One thing at a time.
 
       EXT. TERRACE SET-BACK - TWILIGHT -
 
@@ -6075,12 +6064,12 @@
                  What now? And don't give me some
                  movie cliché like 'trust me.'
 
-                           <spk>BOND</spk>                  (what the hell)
+                           <spk sex="M">BOND</spk>                  (what the hell)
                  Trust me.
 
       And with this, he turns, and SHOOTS OUT the adjacent WINDOW.
 
-                           <spk>BOND</spk>            Let's go -
+                           <spk sex="M">BOND</spk>            Let's go -
 
       But as he starts to climb out - SIDNEY SCREAMS! THE CABLE SUDDENLY
       DROPS THEM 10 FEET LOWER, BELOW THE WINDOW.
@@ -6100,7 +6089,7 @@
       Bond looks up - assuming they have only seconds left before Stamper
       cuts the cable. HE GRABS HER:
 
-                           <spk>BOND</spk>            Hold on!
+                           <spk sex="M">BOND</spk>            Hold on!
 
       TERRACE SET-BACK - 72ND FLOOR - TWILIGHT -
 
@@ -6150,7 +6139,7 @@
       He steps to the side of the bridge, and looks at the railings: Four
       inch pipe. Bond begins to work feverishly:
 
-                           <spk>BOND</spk>            We tried that already. Remember?
+                           <spk sex="M">BOND</spk>            We tried that already. Remember?
 
       Bond picks up the cable and the leather harnesses.
 
@@ -6159,7 +6148,7 @@
 
       Bond is slipping the cable around the railing pipe. One loop.
 
-                           <spk>BOND</spk>            Sidney, we don't have time for this -
+                           <spk sex="M">BOND</spk>            Sidney, we don't have time for this -
 
       He pulls on the loop to test it. Good enough. Makes a second loop.
 
@@ -6169,13 +6158,13 @@
 
       Bond tests the second loop. He's satisfied. Turns to her:
 
-                           <spk>BOND</spk>            Put your back to the railing. Sit up
+                           <spk sex="M">BOND</spk>            Put your back to the railing. Sit up
                  on it.
 
                           <spk sex="F">SIDNEY</spk>                    (doing it)
                  Are you listening to me?
 
-                           <spk>BOND</spk>            Put your arms around my neck. Lock
+                           <spk sex="M">BOND</spk>            Put your arms around my neck. Lock
                  your legs around my waist.
 
                           <spk sex="F">SIDNEY</spk>              ... We have time for that?
@@ -6189,7 +6178,7 @@
 
       Bond looks at Sidney -
 
-                           <spk>BOND</spk>            Sometimes you just have to -
+                           <spk sex="M">BOND</spk>            Sometimes you just have to -
 
                           <spk sex="F">SIDNEY</spk>              Don't say it.
 
@@ -6235,7 +6224,7 @@
 
                           <spk sex="F">SIDNEY</spk>              Is this - like - a normal day for you?
 
-                           <spk>BOND</spk>            It's a lousy job, but -
+                           <spk sex="M">BOND</spk>            It's a lousy job, but -
                        (reaching for the balcony)
                  The only reason I stay is for the
                  health benefits.
@@ -6320,12 +6309,12 @@
 
       The pages running through the newsprint web suddenly turn BRIGHT RED.
 
-                           <spk>BOND</spk>            He was bad news.
+                           <spk sex="M">BOND</spk>            He was bad news.
 
       Spotting more Guards coming down the far staircase, Bond grabs Sidney
       and the gun, and runs to the NEWSPAPER DELIVERY CHUTE.
 
-                           <spk>BOND</spk>            Down there!
+                           <spk sex="M">BOND</spk>            Down there!
 
       They jump into it, sliding down, and around an ALUMINUM CHUTE into:
 
@@ -6350,7 +6339,7 @@
                  would be impressed by your efforts.
                  Don't you agree?
 
-                           <spk>BOND</spk>            I think they'd rather know who stole
+                           <spk sex="M">BOND</spk>            I think they'd rather know who stole
                  their gold.
 
       Harmsway can't help his ego:
@@ -6381,7 +6370,7 @@
 
       Bond has removed the CAR REMOTE CONTROL. He palms it.
 
-                           <spk>BOND</spk>            Are your guards really going to kill
+                           <spk sex="M">BOND</spk>            Are your guards really going to kill
                  a helpless girl?
 
                           <spk>HARMSWAY</spk>              My guards are from South Africa, Mr.
@@ -6394,7 +6383,7 @@
       Holding the remote control, Bond puts his hands on his head. He's
       manipulating the control into the right position to use it.
 
-                           <spk>BOND</spk>                  (trying to buy time)
+                           <spk sex="M">BOND</spk>                  (trying to buy time)
                  What did you do, Harmsway? Make some
                  deal with the Chinese government for
                  the gold?.. Was the radioactive
@@ -6418,7 +6407,7 @@
 
       BOND takes his position with Sidney.
 
-                           <spk>BOND</spk>            I forgot to mention: The job comes
+                           <spk sex="M">BOND</spk>            I forgot to mention: The job comes
                  with a car.
 
       007 begins shooting, as -
@@ -6431,13 +6420,13 @@
       BOND is having trouble coordinating driving and shooting at the same
       time. As bullets rip up the newspapers in front of them -
 
-                           <spk>BOND</spk>            Here. You shoot. I'll drive.
+                           <spk sex="M">BOND</spk>            Here. You shoot. I'll drive.
 
                           <spk sex="F">SIDNEY</spk>              ...You know, that's another reason
                  you're probably not in a successful
                  relationship.
 
-                           <spk>BOND</spk>            Another reason??? Did I miss something???
+                           <spk sex="M">BOND</spk>            Another reason??? Did I miss something???
 
                           <spk sex="F">SIDNEY</spk>                    (taking the gun)
                  You insist on calling all the shots.
@@ -6446,7 +6435,7 @@
 
       Bond eyes her for one split second. Points at the guards:
 
-                           <spk>BOND</spk>            Aim that way.
+                           <spk sex="M">BOND</spk>            Aim that way.
 
       Sidney starts to shoot as -
 
@@ -6461,7 +6450,7 @@
       There's chaos; a cacophony of voices and wild gunfire as BOND STEERS
       THE CAR TO THEIR POSITION, where the door opens automatically.
 
-                           <spk>BOND</spk>            Ready? Now!
+                           <spk sex="M">BOND</spk>            Ready? Now!
 
       The two of them make a break for the car, DIVING INSIDE.
 
@@ -6529,12 +6518,12 @@
       Bond flips down a control panel from the RADIO. A DIGITAL DISPLAY
       begins to run through a set of numbers. Bond explains:
 
-                           <spk>BOND</spk>            If it's radio controlled, it'll break
+                           <spk sex="M">BOND</spk>            If it's radio controlled, it'll break
                  the code.
 
                           <spk sex="F">SIDNEY</spk>              If not?
 
-                           <spk>BOND</spk>                  (pointing to a button)
+                           <spk sex="M">BOND</spk>                  (pointing to a button)
                  We blast through.
 
       THE CAR APPROACHES THE CLOSING DOOR AT HIGH SPEED -
@@ -6726,7 +6715,7 @@
 
       Stamper is marching Bond and Sidney through the door in handcuffs.
 
-                           <spk>BOND</spk>            Sleep well?
+                           <spk sex="M">BOND</spk>            Sleep well?
 
                           <spk sex="F">SIDNEY</spk>              Next time, I do the driving.
 
@@ -6745,7 +6734,7 @@
 
       Harmsway looks up, hearing:
 
-                           <spk>BOND</spk>            I see you're in your natural element,
+                           <spk sex="M">BOND</spk>            I see you're in your natural element,
                  Harmsway: A room filled with lethal
                  power...
                        (beat)
@@ -6781,7 +6770,7 @@
 
       RETURN ON CONTROL ROOM -
 
-                           <spk>BOND</spk>            ...So that's what the weapons grade
+                           <spk sex="M">BOND</spk>            ...So that's what the weapons grade
                  uranium was for.
 
                           <spk>HARMSWAY</spk>              Precisely, Mr. Bond. In a matter of
@@ -6791,7 +6780,7 @@
                  And when the radioactive blades cut
                  into the plutonium -
 
-                           <spk>BOND</spk>            - Instant melt-down.
+                           <spk sex="M">BOND</spk>            - Instant melt-down.
 
                           <spk>HARMSWAY</spk>              Chernobyl will look like a campfire.
 
@@ -6802,7 +6791,7 @@
                  We're through the first gate.
                  Approaching the second -
 
-                           <spk>BOND</spk>                  (demanding)
+                           <spk sex="M">BOND</spk>                  (demanding)
                  Why, Harmsway? Wasn't stealing the
                  gold enough?
 
@@ -6820,7 +6809,7 @@
                  Entering the main tunnel - ten
                  minutes to target -
 
-                           <spk>BOND</spk>                  (fiercely)
+                           <spk sex="M">BOND</spk>                  (fiercely)
                  What could you possibly have to be
                  vengeful for, Harmsway? Still trying
                  to prove yourself to daddy?
@@ -6848,7 +6837,7 @@
                  payment from the spineless British
                  government who wouldn't listen.
 
-                           <spk>BOND</spk>                  (to Sidney, glancing at the gun)
+                           <spk sex="M">BOND</spk>                  (to Sidney, glancing at the gun)
                  ... I think Uncle Elliot is having
                  his own melt-down.
 
@@ -6866,7 +6855,7 @@
       He thrusts an issue of TOMORROW at Bond, holding the top half out as
       Bond reads THE HEADLINES, sourly:
 
-                           <spk>BOND</spk>            ... Hong Kong destroyed by nuclear
+                           <spk sex="M">BOND</spk>            ... Hong Kong destroyed by nuclear
                  meltdown... British agent found in
                  reactor suspected of sabotage; Harmsway
                  calls for British government to resign.
@@ -6876,7 +6865,7 @@
                           <spk>HARMSWAY</spk>              ...As the advertising says: Tomorrow
                  never lies.
 
-                           <spk>BOND</spk>            What about the gold?
+                           <spk sex="M">BOND</spk>            What about the gold?
 
                               YUNG
                  You must go. Now. Otherwise the
@@ -6904,7 +6893,7 @@
 
       Stamper moves towards Bond and Sidney. Bond edges closer to the gun.
 
-                           <spk>BOND</spk>            You'll never get away with it,
+                           <spk sex="M">BOND</spk>            You'll never get away with it,
                  Harmsway. Too many people know.
 
       Bond tenses, ready to spring -
@@ -6926,7 +6915,7 @@
 
       Fortunately, Bond has a back-up plan. As Stamper hustles them off -
 
-                           <spk>BOND</spk>            One problem, Harmsway: The girl. And
+                           <spk sex="M">BOND</spk>            One problem, Harmsway: The girl. And
                  the handcuffs. They'll give it away.
 
       Harmsway considers this for a second. Sidney takes Bond's arm.
@@ -6946,7 +6935,7 @@
                           <spk sex="F">SIDNEY</spk>                    (satto, to Bond)
                  My timing always was lousy.
 
-                           <spk>BOND</spk>                  (cold and hard)
+                           <spk sex="M">BOND</spk>                  (cold and hard)
                  I'd rather die alone.
 
                           <spk>HARMSWAY</spk>              Take the girl. Leave the handcuffs.
@@ -7614,7 +7603,7 @@
 
       Harmsway looks up at him. Blinks in disbelief.
 
-                           <spk>BOND</spk>            I never believe what I read in the
+                           <spk sex="M">BOND</spk>            I never believe what I read in the
                  newspapers.
 
       Harmsway slowly brings up the gun.
@@ -7623,7 +7612,7 @@
 
       Bond smacks the gun out of his hand with contempt. Moves closer.
 
-                           <spk>BOND</spk>            Where is she, Harmsway?
+                           <spk sex="M">BOND</spk>            Where is she, Harmsway?
 
       BOOM! The fuel tanks explode in the distance. The bridge rocks
       violently; the room tilts to a greater angle.
@@ -7633,7 +7622,7 @@
       With both arms, Bond pushes Harmsway backwards, flinging him downward
       against the starboard wall. The water is rising on the bridge.
 
-                           <spk>BOND</spk>                  (moving in on him)
+                           <spk sex="M">BOND</spk>                  (moving in on him)
                  Where is she Harmsway? -
 
       He grabs Harmsway by the lapels, and throws him against the front
@@ -7649,12 +7638,12 @@
 
       Bond grabs Harmsway by the shoulder -
 
-                           <spk>BOND</spk>            You spineless paper tiger -
+                           <spk sex="M">BOND</spk>            You spineless paper tiger -
 
       And yanks him off the instrument panel, flinging him backwards
       against the rear wall of the bridge.
 
-                           <spk>BOND</spk>            Where is she, Harmsway?!? Or did you
+                           <spk sex="M">BOND</spk>            Where is she, Harmsway?!? Or did you
                  kill her like Paris?
 
       Suddenly, THE BOAT GROANS. The BRIDGE RISES OUT OF THE WATER! AND
@@ -7715,7 +7704,7 @@
                           <spk sex="F">SIDNEY</spk>              What do you mean, you'd rather die
                  alone?
 
-                           <spk>BOND</spk>            I didn't say when I want to die -
+                           <spk sex="M">BOND</spk>            I didn't say when I want to die -
 
       She splashes him. Turning away, Bond spots Stamper's 'arms cache'
       dinghy floating nearby.
@@ -7727,19 +7716,19 @@
 
       After a beat, SIDNEY CLEARS HER THROAT. Bond is already amused:
 
-                           <spk>BOND</spk>            ... Yes???
+                           <spk sex="M">BOND</spk>            ... Yes???
 
                           <spk sex="F">SIDNEY</spk>              Before we go any further here, Mr.
                  Bond, from Lloyds of London, I just
                  want to get two things straight.
 
-                           <spk>BOND</spk>            ... Yes?
+                           <spk sex="M">BOND</spk>            ... Yes?
 
                           <spk sex="F">SIDNEY</spk>              First, that boat is in international
                  waters. I'm claiming it for salvage.
                  One-third of that gold is mine.
 
-                           <spk>BOND</spk>            And number two?
+                           <spk sex="M">BOND</spk>            And number two?
 
                           <spk sex="F">SIDNEY</spk>              If you think we're going to have some
                  kind of 'life affirming' romance here
@@ -7749,7 +7738,7 @@
                  We're going to have it where I want,
                  and when I want.
 
-                           <spk>BOND</spk>            And when might that be?
+                           <spk sex="M">BOND</spk>            And when might that be?
 
                           <spk sex="F">SIDNEY</spk>              Now.
 
@@ -7760,15 +7749,12 @@
       With the dinghy reflected in the glass. In unison, they are both
       lowered, revealing Q and Wade.
 
-                              Q
-                 ... As usual, I see the situation is
+                          <spk sex="M">Q</spk>              ... As usual, I see the situation is
                  in 007's very capable hands.
 
-                              WADE
-                 Life is not fair.
+                          <spk sex="M">WADE</spk>              Life is not fair.
 
-                              Q
-                       (emphatically)
+                          <spk sex="M">Q</spk>                    (emphatically)
                  You're right.
 
       A British naval officer appears.
@@ -7777,17 +7763,14 @@
                  Excuse me, Major Boothroyd - the
                  message went to London.
 
-                              Q
-                 Thank you.
+                          <spk sex="M">Q</spk>              Thank you.
 
       Q and Wade throw a glance back to the sea, then turn, waking off:
 
-                              WADE
-                 Tell me, Q-ster. You do ever do any
+                          <spk sex="M">WADE</spk>              Tell me, Q-ster. You do ever do any
                  gardening?
 
-                              Q
-                 ...The only thing I ever planted was
+                          <spk sex="M">Q</spk>              ...The only thing I ever planted was
                  bugs.
 
       CLOSE ON A PICTURE OF HARMSWAY ON A VIDEO SCREEN -
@@ -7795,7 +7778,7 @@
       On the wall behind M's DESK. It's night. Moneypenny sits across
       from M, with a steno pad.
 
-                           <spk>M</spk>            Moneypenny, take the following release:
+                           <spk sex="F">M</spk>            Moneypenny, take the following release:
                        (beat)
                  The body of Sir Elliot Harmsway was
                  found floating in the South China Sea
@@ -7814,7 +7797,7 @@
 
       Bond replies with a wry smile:
 
-                           <spk>BOND</spk>            Yes...
+                           <spk sex="M">BOND</spk>            Yes...
                        (pause)
                  But some days... Are longer than
                  others.
