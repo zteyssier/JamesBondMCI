@@ -659,16 +659,17 @@
                        (catching himself)
                  Hello.</sp></Scene>
 
-      INT. M'S ANTEROOM - MI-6.
+      <Scene num="19">
+            <Heading>INT. M'S ANTEROOM - MI-6.</Heading>
 
       MONEYPENNY, at her desk.
 
-                         <sp><spk>MONEYPENNY</spk>                Hello, James. I hope I'm
-                 interrupting something important.</sp>
+                         <sp><spk sex="F">MONEYPENNY</spk>                Hello, James. I hope I'm
+                 interrupting something important.</sp></Scene>
 
-      <sd>INT. OFFICE - (INTERCUT AS NECESSARY)
+      <Scene num="20"><Heading>INT. OFFICE - (INTERCUT AS NECESSARY)</Heading>
 
-      (Jenny has a leg on the bed, pulling on a full Victoria's Secret
+      <sd>(Jenny has a leg on the bed, pulling on a full Victoria's Secret
       outfit: Nylons, garter/suspenders, bustier, etc.)</sd>
 
                            <sp><spk sex="M">BOND</spk>            Not at all, Moneypenny. I was just
@@ -676,7 +677,7 @@
 
       <sd>(In the background, Jenny insists "I am not little.")</sd>
 
-                         <sp><spk>MONEYPENNY</spk>                I'm sure she is, James. But I'm
+                         <sp><spk sex="F">MONEYPENNY</spk>                I'm sure she is, James. But I'm
                  afraid you'll have to 'kiss off' the
                  rest of your lessons this afternoon.</sp>
 
@@ -684,7 +685,7 @@
                  Moneypenny... Here I was, finally
                  getting a feel for a new tongue -</sp>
 
-                         <sp><spk>MONEYPENNY</spk>                Four o'clock. M will meet you in the
+                         <sp><spk sex="F">MONEYPENNY</spk>                Four o'clock. M will meet you in the
                  conference room.</sp>
 
       <sd>Bond watches with amusement as Jenny Wu slips a Graduation-type gown
@@ -693,30 +694,30 @@
                            <sp><spk sex="M">BOND</spk>            4:30. It may take me a little longer
                  to wrap things up here.</sp>
 
-                         <sp><spk>MONEYPENNY</spk>                Four o'clock. Don't be late.</sp>
+                         <sp><spk sex="F">MONEYPENNY</spk>                Four o'clock. Don't be late.</sp>
 
                            <sp><spk sex="M">BOND</spk>                  (hanging up:)
                  Tsi tien, Chien-penny.</sp>
 
       <sd>ON MONEYPENNY:</sd>
 
-                         <sp><spk>MONEYPENNY</spk>                Ah, James. You always were a cunning
+                         <sp><spk sex="F">MONEYPENNY</spk>                Ah, James. You always were a cunning
                  linguist... Au revoir, mon cher.</sp>
 
       <sd>Moneypenny hangs up, looks up, and blanches: M is standing there.</sd>
 
-                         <sp><spk>MONEYPENNY</spk>                Don't ask.</sp>
+                         <sp><spk sex="F">MONEYPENNY</spk>                Don't ask.</sp>
 
                            <sp><spk sex="F">M</spk>            Don't tell.
                        (walking away)
-                 I don't want to know.</sp>
+                 I don't want to know.</sp></Scene>
 
-      <sd>INT. HALLWAY - OUTSIDE JENNY'S OFFICE - OXFORD -
+      <Scene num="21"><Heading>INT. HALLWAY - OUTSIDE JENNY'S OFFICE - OXFORD -</Heading>
 
-      Bond and Jenny Wu emerge from the office. (She's still in the gown.)
+      <sd>Bond and Jenny Wu emerge from the office. (She's still in the gown.)
       They pass a flock of young students:</sd>
 
-                              <sp><spk>STUDENT</spk>
+                              <sp><spk sex="N/A">STUDENT</spk>
                  Good afternoon, Professor Wu.</sp>
 
                               <sp><spk sex="F">JENNY WU</spk>
@@ -740,7 +741,7 @@
       ON THE TV SET - The HNN Globe Logo - The Harmsway News Network -
       spins into view, followed by:</sd>
 
-                              <sp><spk>HNN ANCHOR</spk>
+                              <sp><spk sex="N/A">HNN ANCHOR</spk>
                  You're watching HNN, the Harmsway 24
                  hour news network. Coming up:
                        (mortise shot of:)
@@ -757,15 +758,15 @@
 
       <sd>EXT. MI-6 LONDON - DAY
 
-      The DB-5 drives past the guard.
+      The DB-5 drives past the guard.</sd></Scene>
 
-      INT. CONFERENCE ROOM - DAY
+      <Scene num="22"><Heading>INT. CONFERENCE ROOM - DAY</Heading>
 
-      Debriefing: Bond, M, and several others listen as NATO COLONEL
+      <sd>Debriefing: Bond, M, and several others listen as NATO COLONEL
       DOMINIQUE EVERHART, (early 30's, Belgian,) refers to video clips from
       the Khyber Pass sequence:</sd>
 
-                              <sp><spk>COL. DOMINIQUE EVERHART</spk>
+                              <sp><spk sex="F">COL. DOMINIQUE EVERHART</spk>
                  To sum up: After analyzing the tire
                  inflation of the fork-lift in the MI-6
                  video tape, NATO believes the "red
@@ -778,7 +779,7 @@
                            <sp><spk sex="F">M</spk>            And that's enough enriched uranium to
                  produce how many nuclear devices?</sp>
 
-                              <sp><spk>COL. DQMINIQUE EVERHART</spk>
+                              <sp><spk sex="F">COL. DQMINIQUE EVERHART</spk>
                  Depending on the builder's sophistication
                  - one crude bomb that could devastate
                  London, Paris, New York, Berlin - or all
@@ -788,7 +789,7 @@
 
                            <sp><spk sex="F">M</spk>            And the participants?</sp>
 
-                              <sp><spk>COL. DOMINIQUE EVERHART</spk>
+                              <sp><spk sex="F">COL. DOMINIQUE EVERHART</spk>
                        (pointing at the screen)
                  Kim Dae Yung. Moscow-trained North
                  Korean nuclear weapons specialist;
@@ -801,7 +802,7 @@
 
       <sd>Another face appears on the screen:</sd>
 
-                              <sp><spk>COL. DOMINIQUE EVERHART</spk> (cont'd)
+                              <sp><spk sex="F">COL. DOMINIQUE EVERHART</spk> (cont'd)
                  And Rendera Sikrahm, also known as
                  Richard Stamper. Freelance mercenary,
                  Laos and Cambodia. His father was
@@ -821,7 +822,7 @@
                            <sp><spk sex="M">BOND</spk>            Nothing like a little imperialism to
                  promote loyalty among the faithful.</sp>
 
-                              <sp><spk>COL. DOMINIQUE EVERHART</spk>
+                              <sp><spk sex="F">COL. DOMINIQUE EVERHART</spk>
                        (stifles a smile, then:)
                  In conclusion: Both these men have a
                  vendetta against the world. They are
@@ -846,11 +847,11 @@
 
                            <sp><spk sex="M">BOND</spk>            Interesting presentation.</sp>
 
-                          <sp><spk>DOMINIQUE</spk>              Interesting video tape.</sp>
+                          <sp><spk sex="F">DOMINIQUE</spk>              Interesting video tape.</sp>
 
                            <sp><spk sex="M">BOND</spk>            They point, I shoot.</sp>
 
-                          <sp><spk>DOMINIQUE</spk>                    (feels her pockets)
+                          <sp><spk sex="F">DOMINIQUE</spk>                    (feels her pockets)
                  Do you have a pen? I just got promoted
                  and don't have my new cards yet.</sp>
 
@@ -858,7 +859,7 @@
 
       <sd>Bond hands her a PEN. She regards it cautiously.</sd>
 
-                          <sp><spk>DOMINIQUE</spk>              ... Does this do anything?</sp>
+                          <sp><spk sex="F">DOMINIQUE</spk>              ... Does this do anything?</sp>
 
                            <sp><spk sex="M">BOND</spk>            Depends what number you write.</sp>
 
@@ -866,21 +867,21 @@
 
                            <sp><spk sex="M">BOND</spk>            Married?</sp>
 
-                          <sp><spk>DOMINIQUE</spk>              Happily.</sp>
+                          <sp><spk sex="F">DOMINIQUE</spk>              Happily.</sp>
 
                            <sp><spk sex="M">BOND</spk>            ... Kids?</sp>
 
-                          <sp><spk>DOMINIQUE</spk>              Three. You? Married?</sp>
+                          <sp><spk sex="F">DOMINIQUE</spk>              Three. You? Married?</sp>
 
                            <sp><spk sex="M">BOND</spk>            No.</sp>
 
-                          <sp><spk>DOMINIQUE</spk>                    (smiles)
+                          <sp><spk sex="F">DOMINIQUE</spk>                    (smiles)
                  I didn't think so.</sp>
 
       <sd>For an instant, something crosses Bond's face: Bittersweetness? Re-
       morse? Either way, she's scored a subtle victory.</sd>
 
-                          <sp><spk>DOMINIQUE</spk>              Here. I gave you my assistant's
+                          <sp><spk sex="F">DOMINIQUE</spk>              Here. I gave you my assistant's
                  phone number. If it's urgent, she
                  knows where to reach me.</sp>
 
@@ -888,18 +889,18 @@
                        (beat, holding her gaze)
                  Take care -</sp>
 
-                          <sp><spk>DOMINIQUE</spk>              You too.</sp>
+                          <sp><spk sex="F">DOMINIQUE</spk>              You too.</sp>
 
-      <sd>With a Sphinx-like smile, she watches Bond leave.
+      <sd>With a Sphinx-like smile, she watches Bond leave.</sd></Scene>
 
-      INT. HALLWAY OUTSIDE OF CONFERENCE ROOM - CONTINUOUS
+      <Scene num="23"><Heading>INT. HALLWAY OUTSIDE OF CONFERENCE ROOM - CONTINUOUS</Heading>
 
-      Where Bond encounters MONEYPENNY, also walking to M's office.</sd>
+      <sd>Where Bond encounters MONEYPENNY, also walking to M's office.</sd>
 
                            <sp><spk sex="M">BOND</spk>            Moneypenny! We've got to stop meeting
                  like this. They may be on to us.</sp>
 
-                         <sp><spk>MONEYPENNY</spk>                Hello, James. Enjoy your meeting?</sp>
+                         <sp><spk sex="F">MONEYPENNY</spk>                Hello, James. Enjoy your meeting?</sp>
 
                            <sp><spk sex="M">BOND</spk>            In the darkest moments, it's what I
                  live for. Especially since I've
@@ -909,7 +910,7 @@
       <sd>Moneypenny cuts Bond a look - and, in the background, sees Dominique
       leave the conference room, and walk down the hall, away from them.</sd>
 
-                         <sp><spk>MONEYPENNY</spk>                By the way, James: Ordinarily I would
+                         <sp><spk sex="F">MONEYPENNY</spk>                By the way, James: Ordinarily I would
                  never ask, but... Weren't you and
                  that Colonel once stranded on a raft
                  for two weeks in the Sargasso Sea?</sp>
@@ -919,20 +920,20 @@
 
       <sd>They've come to a security door. She punches in a code -</sd>
 
-                         <sp><spk>MONEYPENNY</spk>                Actually, I've never known you to do
+                         <sp><spk sex="F">MONEYPENNY</spk>                Actually, I've never known you to do
                  either... But -</sp>
 
                            <sp><spk sex="M">BOND</spk>            - We all want what we can't have?</sp>
 
-                         <sp><spk>MONEYPENNY</spk>                Not all of us, 007.</sp>
+                         <sp><spk sex="F">MONEYPENNY</spk>                Not all of us, 007.</sp>
 
-      <sd>The door opens. They go into:
+      <sd>The door opens. They go into:</sd></Scene>
 
-      INT. M'S ANTEROOM (MONEYPENNY'S AREA) - CONTINUOUS</sd>
+      <Scene num="24"><Heading>INT. M'S ANTEROOM (MONEYPENNY'S AREA) - CONTINUOUS</Heading>
 
                            <sp><spk sex="M">BOND</spk>            What - no lust for adventure?</sp>
 
-                         <sp><spk>MONEYPENNY</spk>                No, 007. It's just that I've learned
+                         <sp><spk sex="F">MONEYPENNY</spk>                No, 007. It's just that I've learned
                  from personal experience - that when
                  we get what we want -
                        (beat)
@@ -941,11 +942,11 @@
 
       <sd>Bond scowls. Moneypenny smiles wryly, points to the inner door:</sd>
 
-                         <sp><spk>MONEYPENNY</spk>                Don't keep M waiting.</sp>
+                         <sp><spk sex="F">MONEYPENNY</spk>                Don't keep M waiting.</sp></Scene>
 
-      <sd>INT. M'S OFFICE - DAY
+      <Scene num="25"><Heading>INT. M'S OFFICE - DAY</Heading>
 
-      M is behind her desk; MINISTER PETER JOHNSTONE sits across - a high-
+      <sd>M is behind her desk; MINISTER PETER JOHNSTONE sits across - a high-
       handed Teflon-coated politician, with the survival instincts of
       plutonium. They've been arguing.</sd>
 
@@ -1114,7 +1115,7 @@
                            <sp><spk sex="F">M</spk>            Would you send in the new man from
                  equipment branch?</sp>
 
-                              <sp><spk>MONEYPENNY</spk> (O.S.)
+                              <sp><spk sex="F">MONEYPENNY</spk> (O.S.)
                  Right away.</sp>
 
                            <sp><spk sex="M">BOND</spk>            .... I hate to ask, but... Did you
@@ -1285,7 +1286,7 @@
 
       <sd>He snaps the ring down on her desk.</sd>
 
-                           <sp><spk sex="M">BOND</spk>            Till death do us part.</sp>
+                           <sp><spk sex="M">BOND</spk>            Till death do us part.</sp></Scene>
 
                                                                     CUT TO:
 
@@ -4796,32 +4797,32 @@
 
       <sd>BOND WINCES. She's goosed him.</sd>
 
-                           <spk sex="M">BOND</spk>            ... Unusual technique.
+                           <sp><spk sex="M">BOND</spk>            ... Unusual technique.</sp>
 
-      Returning to the WIDE SHOT, she opens the sack. SHOWS THE GOLD:
+      <sd>Returning to the WIDE SHOT, she opens the sack. SHOWS THE GOLD:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              And what do you call this?
+                          <sp><spk sex="F">SIDNEY</spk>              And what do you call this?</sp>
 
-                           <spk sex="M">BOND</spk>            - The family jewels?
+                           <sp><spk sex="M">BOND</spk>            - The family jewels?</sp>
 
-      She scowls, takes out the URANIUM TOOTH. Looks at it, blankly, and
-      holds it out to a TECHNICIAN, who examines it.
+      <sd>She scowls, takes out the URANIUM TOOTH. Looks at it, blankly, and
+      holds it out to a TECHNICIAN, who examines it.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              What is this?
+                          <sp><spk sex="F">SIDNEY</spk>              What is this?</sp>
 
-                              TECHNICIAN
-                 ...I don't know. I'm not sure -
+                              <sp><spk>TECHNICIAN</spk>
+                 ...I don't know. I'm not sure -</sp>
 
-      Just then, a CREWMAN BURSTS IN:
+      <sd>Just then, a CREWMAN BURSTS IN:</sd>
 
-                              CREWMAN
+                              <sp><spk>CREWMAN</spk>
                  Boss! We got company - comin' up off
-                 the starboard bow!
+                 the starboard bow!</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (exiting, to Taro)
-                 Bring them.
+                          <sp><spk sex="F">SIDNEY</spk>                    (exiting, to Taro)
+                 Bring them.</sp>
 
-      Taro motions with his Uzi for Bond and Wade to follow...
+      <sd>Taro motions with his Uzi for Bond and Wade to follow...
 
       But BOND hesitates, LOOKING BACK AT THE TECHNICIAN with the URANIUM.
       007 wants to get it, but Taro nudges him out with the gun muzzle.
@@ -4829,34 +4830,34 @@
       EXT. MALACCA STRAIT - DAY
 
       A BRITISH NAVAL CUTTER is pulling alongside the barge - SEA SIREN
-      WAILING, crew members in battle gear, FORWARD GATLING GUN manned.
+      WAILING, crew members in battle gear, FORWARD GATLING GUN manned.</sd>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                        (on bullhorn)
                  Attention sea barge: Lay down your
-                 weapons, and prepare to be boarded.
+                 weapons, and prepare to be boarded.</sp>
 
-      ON THE BARGE - Sidney and Co. stand, weapons ready.
+      <sd>ON THE BARGE - Sidney and Co. stand, weapons ready.</sd>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                  Repeat: Lay down your weapons, and
-                 prepare to be boarded.
+                 prepare to be boarded.</sp>
 
-      Bond turns to Sidney, who's grabbed a bullhorn of her own.
+      <sd>Bond turns to Sidney, who's grabbed a bullhorn of her own.</sd>
 
-                           <spk sex="M">BOND</spk>            If I were you -
+                           <sp><spk sex="M">BOND</spk>            If I were you -</sp>
 
-                          <spk sex="F">SIDNEY</spk>              - You're not.
+                          <sp><spk sex="F">SIDNEY</spk>              - You're not.</sp>
 
-                           <spk sex="M">BOND</spk>                  (as she hoists the bullhorn)
+                           <sp><spk sex="M">BOND</spk>                  (as she hoists the bullhorn)
                  Just remember: They think there's ten
-                 billion dollars in gold down there.
+                 billion dollars in gold down there.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Thank you.
+                          <sp><spk sex="F">SIDNEY</spk>              Thank you.
                        (clicks it on, and:)
-                 "Now hear this: Drop dead."
+                 "Now hear this: Drop dead."</sp>
 
-      Bond and Wade exchange an amused/helpless glance - as if they both
+      <sd>Bond and Wade exchange an amused/helpless glance - as if they both
       know what's coming next. There's a pause, then -
 
       THE CRUISER'S GATLING GUN ERUPTS WITH AN EARDRUM-SHATTERING SALVO.
@@ -4864,131 +4865,126 @@
 
       EVERYONE ON THE BARGE DIVES FOR THE DECK... Except for Bond and
       Wade, who might as well be having tea. Bond looks down at Taro,
-      cowering on the boards.
+      cowering on the boards.</sd>
 
-                           <spk sex="M">BOND</spk>            Gatling gun beats Uzi.
+                           <sp><spk sex="M">BOND</spk>            Gatling gun beats Uzi.</sp>
 
-      NEW ANGLE - (CUTTER/BARGE) - DAY
+      <sd>NEW ANGLE - (CUTTER/BARGE) - DAY
 
       An ARMED BOARDING PARTY is coming across an aluminum bridge that has
-      extended from the Cutter onto the barge.
+      extended from the Cutter onto the barge.</sd>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                        (a tiny popinjay)
-                 Who's in charge here?
+                 Who's in charge here?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              I am. What do you want?
-
-                              CAPTAIN MORTON
+                          <sp><spk sex="F">SIDNEY</spk>              I am. What do you want?</sp>
+      
+                              <sp><spk>CAPTAIN MORTON</spk>
                  You have precisely one minute to pull
-                 up your anchor and be under way.
+                 up your anchor and be under way.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Forget it. No way. I got here first.
+                          <sp><spk sex="F">SIDNEY</spk>              Forget it. No way. I got here first.</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                        (ignoring her)
-                 Who's Wade?
+                 Who's Wade?</sp>
 
-                          <spk sex="M">WADE</spk>              That would be me -
+                          <sp><spk sex="M">WADE</spk>              That would be me -</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                        (snidely)
                  Thanks for your message.
                        (turns to)
-                 And you're Bond?
+                 And you're Bond?</sp>
 
-                           <spk sex="M">BOND</spk>            Yes -
+                           <sp><spk sex="M">BOND</spk>            Yes -</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                  Guard! Arrest these men! Escort
-                 them to the cutter!
+                 them to the cutter!</sp>
 
-      Bond and Wade are stunned. The Marines move in. Bond struggles -
+      <sd>Bond and Wade are stunned. The Marines move in. Bond struggles -</sd>
 
-                           <spk sex="M">BOND</spk>            Wait a minute -
+                           <sp><spk sex="M">BOND</spk>            Wait a minute -</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                  Get them out of here. If he says one
-                 word, shoot him.
+                 word, shoot him.</sp>
 
-      As TWO MARINES with automatic rifles take Bond and Wade across the
-      folding bridge -
+      <sd>As TWO MARINES with automatic rifles take Bond and Wade across the
+      folding bridge -</sd>
 
-                          <spk sex="F">SIDNEY</spk>                    (demanding)
-                 What's your name?
+                          <sp><spk sex="F">SIDNEY</spk>                    (demanding)
+                 What's your name?</sp>
 
-                              CAPTAIN MORTON
-                 Captain Morton.
+                              <sp><spk>CAPTAIN MORTON</spk>
+                 Captain Morton.</sp>
 
-      Pause. She expects him to ask "And yours?" but he doesn't.
+      <sd>Pause. She expects him to ask "And yours?" but he doesn't.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              My name is Sidney Winch, and -
+                          <sp><spk sex="F">SIDNEY</spk>              My name is Sidney Winch, and -</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                  Good for you, Miss Winch. You now
                  have exactly 30 seconds to get this
-                 rust bucket out of here.
+                 rust bucket out of here.</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (furiously)
+                          <sp><spk sex="F">SIDNEY</spk>                    (furiously)
                  I know my rights. These are
                  international waters. The British
                  Navy abandoned that boat, and I'm
                  claiming it. Under international
                  law, I have the right to salvage
-                 what's on that wreck.
+                 what's on that wreck.</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                  Fifteen seconds. Perhaps you should
-                 consider hiring an attorney.
+                 consider hiring an attorney.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              I was an attorney!
+                          <sp><spk sex="F">SIDNEY</spk>              I was an attorney!</sp>
 
-                              CAPTAIN MORTON
+                              <sp><spk>CAPTAIN MORTON</spk>
                  Hmmm. I suppose this is a step above
                  that profession.
                        (beat)
-                 Ten seconds. Are you leaving?
+                 Ten seconds. Are you leaving?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              No.
+                          <sp><spk sex="F">SIDNEY</spk>              No.</sp>
 
-                              CAPTAIN MORTON
-                 You leave me no alternative.
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>              You leave me no alternative.</sp>
 
-                              CAPTAIN MORTON
-                       (upholstering a walkie-talkie)
-                 Cut her anchor.
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>                    (upholstering a walkie-talkie)
+                 Cut her anchor.</sp>
 
-      As Sidney yells "NO!" - THE FORWARD GATLING GUN erupts to life. One
-      short, bone rattling burst CUTS THE CHAIN.
+      <sd>As Sidney yells "NO!" - THE FORWARD GATLING GUN erupts to life. One
+      short, bone rattling burst CUTS THE CHAIN.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              You won't get away with this!
+                          <sp><spk sex="F">SIDNEY</spk>              You won't get away with this!</sp>
 
-                              CAPTAIN MORTON
-                       (stepping onto the bridge)
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>                    (stepping onto the bridge)
                  Good-day, Miss Winch. I advise you
                  to get some steam up - before you run
-                 aground.
+                 aground.</sp>
 
-      As she floats away, Sidney calls out to the Captain, Bond and Wade:
+      <sd>As she floats away, Sidney calls out to the Captain, Bond and Wade:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              You bastards! Believe me - you
-                 haven't heard the last of me!
+                          <sp><spk sex="F">SIDNEY</spk>              You bastards! Believe me - you
+                 haven't heard the last of me!</sp>
 
       EXT. DECK - THE CUTTER - DAY -
 
-      Bond, Wade and the Captain.
+      <sd>Bond, Wade and the Captain.</sd>
 
-                          <spk sex="M">WADE</spk>              - Nice trick with the arrest. Very convincing.
+                          <sp><spk sex="M">WADE</spk>              - Nice trick with the arrest. Very convincing.</sp>
 
-                              CAPTAIN MORTON
-                 It's no trick, Mr. Wade. I've got
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>              It's no trick, Mr. Wade. I've got
                  half a mind to throw both of you in
-                 the brig.
+                 the brig.</sp>
 
-                           <spk sex="M">BOND</spk>            Don't you think you're overreacting?
+                           <sp><spk sex="M">BOND</spk>            Don't you think you're overreacting?</sp>
 
-                              CAPTAIN MORTON
-                       (with great sarcasm)
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>                    (with great sarcasm)
                  Yes. The famous James Bond. I've heard
                  all about you, sir. You were under
                  direct orders to act as an observer -
@@ -4998,59 +4994,57 @@
                  Endangering the gold, attracting that
                  lunatic woman, and then putting in a
                  distress call for us to save your
-                 bloody hide.
+                 bloody hide.</sp>
 
-                           <spk sex="M">BOND</spk>                  (Calmly)
+                           <sp><spk sex="M">BOND</spk>                  (Calmly)
                  ...That's all well and good, Captain,
                  save for one thing:
                        (beat)
-                 There's no gold down there.
+                 There's no gold down there.</sp>
 
-                              CAPTAIN MORTON
-                 What are you talking about? We went
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>              What are you talking about? We went
                  through all this and the ship isn't
-                 even down there?
+                 even down there?</sp>
 
-                           <spk sex="M">BOND</spk>            Yes, the ship is down there. But the
-                 gold is gone.
+                           <sp><spk sex="M">BOND</spk>            Yes, the ship is down there. But the
+                 gold is gone.</sp>
 
-                              CAPTAIN MORTON
-                 That's absurd! It took two squads of
+                          <sp><spk sex="M">CAPTAIN MORTON</spk>              That's absurd! It took two squads of
                  forty men fifteen days to load that
-                 gold.
+                 gold.</sp>
 
-                           <spk sex="M">BOND</spk>            I know what I saw -
+                           <sp><spk sex="M">BOND</spk>            I know what I saw -</sp>
 
-                              CAPTAIN
+                              <sp><spk sex="M">CAPTAIN</spk>
                  I don't care what you think you saw.
                  You're a damned amateur.
                        (beat)
                  Just get off my ship. Go back to
                  your trench-coats and your code names
-                 - and leave the job to professionals.
+                 - and leave the job to professionals.</sp>
 
-                           <spk sex="M">BOND</spk>                  (exchanges a glance with Wade, then)
-                 Aye-aye, Captain.
+                           <sp><spk sex="M">BOND</spk>                  (exchanges a glance with Wade, then)
+                 Aye-aye, Captain.</sp>
 
       EXT. SPORT FISHING BOAT - STRAIT OF MALACCA - DAY -
 
-      As Bond and Wade push away from the Naval Cutter:
+      <sd>As Bond and Wade push away from the Naval Cutter:</sd>
 
-                          <spk sex="M">WADE</spk>              Where to now, Jimbo?
+                          <sp><spk sex="M">WADE</spk>              Where to now, Jimbo?</sp>
 
-                           <spk sex="M">BOND</spk>                  (thinking)
+                           <sp><spk sex="M">BOND</spk>                  (thinking)
                  I'm not certain... But I think
                  there's someone I want to press for
-                 some answers in Kuala Lumpur.
+                 some answers in Kuala Lumpur.</sp>
 
       EXT. COASTAL ROADWAY - MALAYSIA - (BOND CAR) - DAY -
 
-      Bond'- car travels through the tropical landscape, turning at a sign
-      for Kuala Lumpur.
+      <sd>Bond'- car travels through the tropical landscape, turning at a sign
+      for Kuala Lumpur.</sd>
 
       INT. BOND'S CAR - MOVING - COASTAL ROADWAY - DAY -
 
-      As Bond downshifts in anticipation of an upcoming hill, his CAR PHONE
+      <sd>As Bond downshifts in anticipation of an upcoming hill, his CAR PHONE
       RINGS. Before answering it, he looks down at:
 
       INSERT - DASHBOARD - DIGITAL DISPLAY PANEL -
@@ -5061,94 +5055,94 @@
 
       RETURN ON BOND -
 
-      Reacting - the information is curious. Bond picks up the phone.
+      Reacting - the information is curious. Bond picks up the phone.</sd>
 
-                           <spk sex="M">BOND</spk>            Bond.
+                           <sp><spk sex="M">BOND</spk>            Bond.</sp>
 
-                              HARMSWAY'S VOICE
-                 Hello, Mister Bond.
+                              <sp><spk>HARMSWAY'S VOICE</spk>
+                 Hello, Mister Bond.</sp>
 
-                           <spk sex="M">BOND</spk>                  (with an edge)
-                 Who is this?
+                           <sp><spk sex="M">BOND</spk>                  (with an edge)
+                 Who is this?</sp>
 
       INT. HARMSWAY'S OUTER OFFICE -
 
-      Harmsway is perched on a desk. In the background, THROUGH HIS OPEN
+      <sd>Harmsway is perched on a desk. In the background, THROUGH HIS OPEN
       OFFICE DOOR, we can see Harmsway's EXECUTIVE SECRETARY serving
-      someone coffee from a SILVER TRAY - but we can't see who it is.
+      someone coffee from a SILVER TRAY - but we can't see who it is.</sd>
 
-                          <spk>HARMSWAY</spk>              Elliot Harmsway! I heard you were in
+                          <sp><spk>HARMSWAY</spk>              Elliot Harmsway! I heard you were in
                  K.L. and thought we might get
-                 together for a chat...
+                 together for a chat...</sp>
 
-      RETURN ON BOND - (INT. BOND'S CAR - MOVING) -
+      <sd>RETURN ON BOND - (INT. BOND'S CAR - MOVING) -</sd>
 
-                              HARMSWAY (Cont'd, O.S.)
+                              <sp><spk>HARMSWAY</spk> (Cont'd, O.S.)
                  We seemed to get off on the wrong
-                 foot back there in Venice.
+                 foot back there in Venice.</sp>
 
-                           <spk sex="M">BOND</spk>            How did you get this number?
+                           <sp><spk sex="M">BOND</spk>            How did you get this number?</sp>
 
-      INTERCUT AS NECESSARY:
+      <sd>INTERCUT AS NECESSARY:</sd>
 
-                          <spk>HARMSWAY</spk>              Oh, please, Mr. Bond. We live in the
+                          <sp><spk>HARMSWAY</spk>              Oh, please, Mr. Bond. We live in the
                  information age! Information is
                  currency - and with the right currency,
                  you can have any piece of information.
                        (Bond reacts, sourly)
                  Besides I own the phone company. What
-                 do you say? Twenty minutes?
+                 do you say? Twenty minutes?</sp>
 
-                           <spk sex="M">BOND</spk>            I'm on my way.
+                           <sp><spk sex="M">BOND</spk>            I'm on my way.</sp>
 
-      Bond hangs up, and drives with renewed determination.
+      <sd>Bond hangs up, and drives with renewed determination.</sd>
 
       INT. HARMSWAY'S OUTER OFFICE -
 
-      Harmsway hangs up; STAMPER is standing nearby. Harmsway throws a
-      concerned glance at his office, then turns to Stamper:
+      <sd>Harmsway hangs up; STAMPER is standing nearby. Harmsway throws a
+      concerned glance at his office, then turns to Stamper:</sd>
 
-                          <spk>HARMSWAY</spk>              Let's find out exactly what he knows.
+                          <sp><spk>HARMSWAY</spk>              Let's find out exactly what he knows.</sp>
 
       EXT. KUALA LUMPUR - ROADWAY -(BOND CAR) - LATE AFTERNOON -
 
-      Bond's car approaches the camera, passes it, and heads for HARMSWAY
-      TOWERS, looming over Kuala Lumpur in the distance.
+      <sd>Bond's car approaches the camera, passes it, and heads for HARMSWAY
+      TOWERS, looming over Kuala Lumpur in the distance.</sd>
 
       EXT. HARMSWAY TOWERS - STREET LEVEL - LATE AFTERNOON -
 
-      Bond's car passes the front of the building, and drives down a ramp
-      into an underground car park.
+      <sd>Bond's car passes the front of the building, and drives down a ramp
+      into an underground car park.</sd>
 
       INT. UNDERGROUND CAR PARK - (HARMSWAY TOWERS) -
 
-      Passing NEWSPAPER LOADING DOCKS (with trucks displaying both the
+      <sd>Passing NEWSPAPER LOADING DOCKS (with trucks displaying both the
       "TOMORROW" and "HNN" logos, and HUM-VEES used by building security,)
       Bond pulls into the VALET AREA -
 
       Where a cheerful YOUNG PR WOMAN and VALET wait. Both wear the
-      colorful BLAZER used by all Harmsway Building service personnel.
+      colorful BLAZER used by all Harmsway Building service personnel.</sd>
 
-                           <spk sex="M">BOND</spk>                  (from inside the car)
-                 James Bond to see Elliot Harmsway.
+                           <sp><spk sex="M">BOND</spk>                  (from inside the car)
+                 James Bond to see Elliot Harmsway.</sp>
 
-                              PR WOMAN
+                              <sp><spk sex="F">PR WOMAN</spk>
                  Yes. I'm to bring you right up. The
-                 valet will take your car -
+                 valet will take your car -</sp>
 
-                           <spk sex="M">BOND</spk>            I'd prefer to park it myself.
+                           <sp><spk sex="M">BOND</spk>            I'd prefer to park it myself.
                        (off her questioning look)
                  Temperamental. Practically has a
-                 mind of its own.
+                 mind of its own.</sp>
 
-                              PR WOMAN
-                 Don't they all?
+                              <sp><spk sex="F">PR WOMAN</spk>
+                 Don't they all?</sp>
 
-      She points to a spot near the loading docks. Bond drives off.
+      <sd>She points to a spot near the loading docks. Bond drives off.</sd>
 
       INT. BOND'S CAR -
 
-      Bond backs into the space, thinking about the (inevitable) quick get-
+      <sd>Bond backs into the space, thinking about the (inevitable) quick get-
       away. He looks through the windshield, surveying the area.
 
       BOND'S POV - UNDERGROUND CAR PARK -
@@ -5159,139 +5153,139 @@
       BACK TO SCENE (INT. BOND'S CAR) -
 
       Reaching inside his jacket, Bond REMOVES HIS GUN, and HIDES IT in a
-      compartment under the dashboard.
+      compartment under the dashboard.</sd>
 
       INT. UNDERGROUND CAR PARK -
 
-      The PR WOMAN joins Bond as he locks the car with the REMOTE CONTROL.
+      <sd>The PR WOMAN joins Bond as he locks the car with the REMOTE CONTROL.</sd>
 
-                              PR WOMAN
-                 Right this way.
+                              <sp><spk sex="F">PR WOMAN</spk>
+                 Right this way.</sp>
 
-      Following her through the metal detector, Bond scans the security
-      devices at the guard's desk: Lots of cameras, sensors, and alarms.
+      <sd>Following her through the metal detector, Bond scans the security
+      devices at the guard's desk: Lots of cameras, sensors, and alarms.</sd>
 
       EXT. PRESSROOM OBSERVATION ARCADE -
 
-      Bond and the PR Woman step off an escalator onto an open arcade with
-      GLASS WINDOWS looking down into a mammoth NEWSPAPER PRINTING PLANT.
+      <sd>Bond and the PR Woman step off an escalator onto an open arcade with
+      GLASS WINDOWS looking down into a mammoth NEWSPAPER PRINTING PLANT.</sd>
 
-                              PR WOMAN
+                              <sp><spk sex="F">PR WOMAN</spk>
                        (moving to a door)
                  Mr. Harmsway is checking the afternoon
-                 editions. If you'll just follow me -
+                 editions. If you'll just follow me -</sp>
 
       INT. PRESSROOM BALCONY -
 
-      The NOISE FROM THE PRINTING PRESSES is deafening. Bond and the PR
+      <sd>The NOISE FROM THE PRINTING PRESSES is deafening. Bond and the PR
       WOMAN walk down a METAL STAIRCASE to the pressroom floor, where -
 
       Harmsway (wearing a printer's smock and newsprint cap,) is joking
       with SEVERAL PRESSMEN - a fresh issue of "Tomorrow" outstretched in
-      his hands.
+      his hands.</sd>
 
-                          <spk>HARMSWAY</spk>                    (spotting Bond, yelling:)
-                 Mr. Bond! Nice to see you.
+                          <sp><spk>HARMSWAY</spk>                    (spotting Bond, yelling:)
+                 Mr. Bond! Nice to see you.</sp>
 
-                           <spk sex="M">BOND</spk>            Sir Elliot.
+                           <sp><spk sex="M">BOND</spk>            Sir Elliot.</sp>
 
-                          <spk>HARMSWAY</spk>              Come. Let's get out of the noise.
+                          <sp><spk>HARMSWAY</spk>              Come. Let's get out of the noise.
                        (escorting Bond off)
                  - I'll give you a tour of the
-                 building, then we'll talk.
+                 building, then we'll talk.</sp>
 
       INT. DRESSING ALCOVE - OFF THE PRESSROOM -
 
-      Harmsway is hanging up his smock in the short hallway that leads from
-      the press room to an elevator. There's a SINK in the room.
+      <sd>Harmsway is hanging up his smock in the short hallway that leads from
+      the press room to an elevator. There's a SINK in the room.</sd>
 
-                          <spk>HARMSWAY</spk>              It's funny, Mr. Bond. Of all the
+                          <sp><spk>HARMSWAY</spk>              It's funny, Mr. Bond. Of all the
                  things I own, nothing gives me as
-                 much enjoyment as my newspapers.
+                 much enjoyment as my newspapers.</sp>
 
-      He moves to the sink to wash his hands. Turns on the faucets:
+      <sd>He moves to the sink to wash his hands. Turns on the faucets:</sd>
 
-                              HARMSWAY (cont'd)
+                              <sp><spk>HARMSWAY</spk> (cont'd)
                  Ironic, isn't it? In the age of TV, I
-                 still can't get the ink out of my veins.
+                 still can't get the ink out of my veins.</sp>
 
-      Bond SMILES WRYLY, looking at Harmsway hunched over the sink:
+      <sd>Bond SMILES WRYLY, looking at Harmsway hunched over the sink:</sd>
 
-                           <spk sex="M">BOND</spk>            Yes... A man with ink in his veins,
-                 and blood on his hands.
+                           <sp><spk sex="M">BOND</spk>            Yes... A man with ink in his veins,
+                 and blood on his hands.</sp>
 
-      Harmsway smiles to himself, acknowledging the jibe... But decides to
-      ignore it. He turns off the faucet, dries his hands -
+      <sd>Harmsway smiles to himself, acknowledging the jibe... But decides to
+      ignore it. He turns off the faucet, dries his hands -</sd>
 
-                          <spk>HARMSWAY</spk>              We print 31 newspapers here; another
+                          <sp><spk>HARMSWAY</spk>              We print 31 newspapers here; another
                  two-hundred-and-seventy at satellite
-                 plants around the world.
+                 plants around the world.</sp>
 
-      He pulls on his £2000 Saville Row suit-jacket.
+      <sd>He pulls on his £2000 Saville Row suit-jacket.</sd>
 
-                           <spk sex="M">BOND</spk>            ... And how many of those newspapers
-                 carried Paris Harmsway's obituary?
+                           <sp><spk sex="M">BOND</spk>            ... And how many of those newspapers
+                 carried Paris Harmsway's obituary?</sp>
 
-      Harmsway turns, and presses the ELEVATOR BUTTON. The doors open,
-      instantly. HE SMILES:
+      <sd>Harmsway turns, and presses the ELEVATOR BUTTON. The doors open,
+      instantly. HE SMILES:</sd>
 
-                          <spk>HARMSWAY</spk>              All of them, Mister Bond...
+                          <sp><spk>HARMSWAY</spk>              All of them, Mister Bond...
                        (motioning inside)
-                 After you?
+                 After you?</sp>
 
       INT. ELEVATOR -
 
-      The doors close. Bond clocks the security camera in the ceiling.
-      Harmsway is about to take great delight in making Bond squirm:
+      <sd>The doors close. Bond clocks the security camera in the ceiling.
+      Harmsway is about to take great delight in making Bond squirm:</sd>
 
-                          <spk>HARMSWAY</spk>              Before I became involved with Paris,
+                          <sp><spk>HARMSWAY</spk>              Before I became involved with Paris,
                  she was always involved with the most
                  inappropriate' men...
                        (beat)
                  Playboys. Thrill seekers. Middle
                  aged Peter Pans who only brought out
-                 the worst in her.
+                 the worst in her.</sp>
 
-                           <spk sex="M">BOND</spk>            I see.
+                           <sp><spk sex="M">BOND</spk>            I see.</sp>
 
-                          <spk>HARMSWAY</spk>              I tried to save her. But she remained a
+                          <sp><spk>HARMSWAY</spk>              I tried to save her. But she remained a
                  manic depressive: Fits, inappropriate
-                 behavior... Delusions of grandeur.
+                 behavior... Delusions of grandeur.</sp>
 
-                           <spk sex="M">BOND</spk>            I wonder if it runs in the family.
+                           <sp><spk sex="M">BOND</spk>            I wonder if it runs in the family.</sp>
 
-                          <spk>HARMSWAY</spk>                    (bursts out in a laugh)
+                          <sp><spk>HARMSWAY</spk>                    (bursts out in a laugh)
                  The only difference between a
                  psychopath and a genius, Mr. Bond, is
-                 the degree of success.
+                 the degree of success.</sp>
 
-      He looks up at the digital readout, going from 40 to 50.
+      <sd>He looks up at the digital readout, going from 40 to 50.</sd>
 
-                          <spk>HARMSWAY</spk>              Still, I do miss her. I only wish
-                 she could have lived to see all this.
+                          <sp><spk>HARMSWAY</spk>              Still, I do miss her. I only wish
+                 she could have lived to see all this.</sp>
 
-                           <spk sex="M">BOND</spk>            I can feel your pain.
+                           <sp><spk sex="M">BOND</spk>            I can feel your pain.</sp>
 
-      The doors open:
+      <sd>The doors open:</sd>
 
-                          <spk>HARMSWAY</spk>              By the way - what is it that brings
-                 you to Kuala Lumpur, Mister Bond?
+                          <sp><spk>HARMSWAY</spk>              By the way - what is it that brings
+                 you to Kuala Lumpur, Mister Bond?</sp>
 
-                           <spk sex="M">BOND</spk>            Sightseeing.
+                           <sp><spk sex="M">BOND</spk>            Sightseeing.</sp>
 
-      Harmsway motions for Bond to exit. They step out into:
+      <sd>Harmsway motions for Bond to exit. They step out into:</sd>
 
       INT. ELEGANT HALLWAY ("ROGUES GALLERY") - LATE AFTERNOON
 
-      A short hallway lined with OIL PORTRAITS of Harmsway's ancestors.
-      Double doors at both ends. (People passing through.) As they walk -
+      <sd>A short hallway lined with OIL PORTRAITS of Harmsway's ancestors.
+      Double doors at both ends. (People passing through.) As they walk -</sd>
 
-                          <spk>HARMSWAY</spk>              I call this the Rogue's gallery.
+                          <sp><spk>HARMSWAY</spk>              I call this the Rogue's gallery.</sp>
 
-                           <spk sex="M">BOND</spk>            Yes. I can see: You've hung the
-                 rest of your relatives.
+                           <sp><spk sex="M">BOND</spk>            Yes. I can see: You've hung the
+                 rest of your relatives.</sp>
 
-                          <spk>HARMSWAY</spk>                    (pointing to the first portrait)
+                          <sp><spk>HARMSWAY</spk>                    (pointing to the first portrait)
                  My third great Uncle - the Earl of
                  Aberdeen - negotiated the purchase of
                  Hong Kong from the Chinese.
@@ -5306,11 +5300,11 @@
                  first telegraph station, and published
                  the colony's first English newspaper.
                        (pausing, wistfully)
-                 It was a city of unlimited possibility.
+                 It was a city of unlimited possibility.</sp>
 
-                           <spk sex="M">BOND</spk>            So why did you leave?
+                           <sp><spk sex="M">BOND</spk>            So why did you leave?</sp>
 
-                          <spk>HARMSWAY</spk>              Because it's a dying city. Since the
+                          <sp><spk>HARMSWAY</spk>              Because it's a dying city. Since the
                  Chinese take-over, who knows what can
                  happen tomorrow?
                        (moving to the last two portraits)
@@ -5319,13 +5313,13 @@
                  and television stations. Said I'd never
                  amount to anything, but...
                        (passing his own portrait)
-                 I turned it into this
+                 I turned it into this</sp>
 
-      He pushes through a door, into:
+      <sd>He pushes through a door, into:</sd>
 
       INT. HNN NEWS CENTER - LATE AFTERNOON -
 
-      A cavernous THREE STORY ROOM bristling with activity. At the center
+      <sd>A cavernous THREE STORY ROOM bristling with activity. At the center
       is the main HNN ANCHOR DESK, (where a news broadcast is in progress,)
       surrounded by scores of reporter's desks a la CNN.
 
@@ -5334,9 +5328,9 @@
       MTV; SPORTS; a KITCHEN where a chef is preparing something flambeed.
 
       With its walls of monitors, equipment, and control rooms, the effect
-      is overwhelming. Harmsway will walk Bond around the perimeter:
+      is overwhelming. Harmsway will walk Bond around the perimeter:</sd>
 
-                          <spk>HARMSWAY</spk>              Welcome to the new world order, Mr. Bond.
+                          <sp><spk>HARMSWAY</spk>              Welcome to the new world order, Mr. Bond.
                        (starting to walk)
                  Churchill had his armies; Caesar had his
                  legions; I have my divisions:
@@ -5347,243 +5341,243 @@
                  2000 people working on 14 floors to feed
                  300 newspapers, 4 cable news networks, 87
                  magazines, and 29 different cable TV
-                 channels - in 35 languages.
+                 channels - in 35 languages.</sp>
 
-                           <spk sex="M">BOND</spk>            And still not a thing to watch.
+                           <sp><spk sex="M">BOND</spk>            And still not a thing to watch.</sp>
 
-      He glances at the SATELLITE CONTROL ROOM, with a NASA-type WORLD MAP.
+      <sd>He glances at the SATELLITE CONTROL ROOM, with a NASA-type WORLD MAP.</sd>
 
-                           <spk sex="M">BOND</spk>            ...Although it must be fun to have
-                 all those satellites.
+                           <sp><spk sex="M">BOND</spk>            ...Although it must be fun to have
+                 all those satellites.</sp>
 
-                          <spk>HARMSWAY</spk>              They're merely tools to disseminate
-                 information.
+                          <sp><spk>HARMSWAY</spk>              They're merely tools to disseminate
+                 information.</sp>
 
-                           <spk sex="M">BOND</spk>                  (wryly)
+                           <sp><spk sex="M">BOND</spk>                  (wryly)
                  Or disinformation... If you wanted to,
                  say, beam down a signal to send a ship
-                 off course? Maybe one degree a minute?
+                 off course? Maybe one degree a minute?</sp>
 
-                          <spk>HARMSWAY</spk>                    (guffaws)
+                          <sp><spk>HARMSWAY</spk>                    (guffaws)
                  Fantastic idea Mr. Bond! Perhaps I
                  should buy it for a book! It's
                  totally preposterous, but -
                        (off Bond's reaction)
                  You amuse me. ...And now perhaps I
-                 can amuse you.
+                 can amuse you.</sp>
 
-      He stops at a VIDEO TERMINAL. Begins to type.
+      <sd>He stops at a VIDEO TERMINAL. Begins to type.</sd>
 
-                          <spk>HARMSWAY</spk>              Let's see... First we have this
+                          <sp><spk>HARMSWAY</spk>              Let's see... First we have this
                  James Bond... I believe he's a field
-                 adjuster for Lloyd's of London...
+                 adjuster for Lloyd's of London...</sp>
 
-      INSERT VIDEO SCREEN - BOND'S MI-6 COVER -
+      <sd>INSERT VIDEO SCREEN - BOND'S MI-6 COVER -</sd>
 
-                          <spk>HARMSWAY</spk>              Then we have this James Bond.
+                          <sp><spk>HARMSWAY</spk>              Then we have this James Bond.</sp>
 
-      INSERT VIDEO SCREEN - BOND'S KGB FILE -
+      <sd>INSERT VIDEO SCREEN - BOND'S KGB FILE -</sd>
 
-                          <spk>HARMSWAY</spk>                    (reading from the screen)
+                          <sp><spk>HARMSWAY</spk>                    (reading from the screen)
                  ... Licensed to Kill...
                        (aside)
                  Not a bad title for that book...
                        (then)
-                 Or perhaps you'd prefer this James Bond -
+                 Or perhaps you'd prefer this James Bond -</sp>
 
-      INSERT VIDEO SCREEN - BOND'S CHINESE FILE -
+      <sd>INSERT VIDEO SCREEN - BOND'S CHINESE FILE -</sd>
 
-                          <spk>HARMSWAY</spk>              Who I believe they call "007."
+                          <sp><spk>HARMSWAY</spk>              Who I believe they call "007."</sp>
 
-      Bond is not amused. Harmsway is enjoying himself:
+      <sd>Bond is not amused. Harmsway is enjoying himself:</sd>
 
-                          <spk>HARMSWAY</spk>              You see, Mr. Bond, you and I are both
+                          <sp><spk>HARMSWAY</spk>              You see, Mr. Bond, you and I are both
                  men of action. But your era is passing.
                  Words are the new weapons; satellites the
                  new artillery. And make no mistake about
                  it: In the right hands, they can be as
-                 deadly as your Walther PPK.
+                 deadly as your Walther PPK.</sp>
 
-                           <spk sex="M">BOND</spk>            ...Words to live by?
+                           <sp><spk sex="M">BOND</spk>            ...Words to live by?</sp>
 
-                          <spk>HARMSWAY</spk>              Your choice.
+                          <sp><spk>HARMSWAY</spk>              Your choice.
                        (glancing at his watch)
                  Look at the time! Come. There's
                  someone I want you meet - about a
-                 story I'm thinking of publishing.
+                 story I'm thinking of publishing.</sp>
 
-      As they leave, Bond is frustrated by Harmsway's "I don't care what
+      <sd>As they leave, Bond is frustrated by Harmsway's "I don't care what
       you think you know - I can crush you" attitude... And now, Harmsway
       plans (and the operative word here is plans,) to use Bond, to tie off
-      the one other loose thread in his perfect crime:
+      the one other loose thread in his perfect crime:</sd>
 
       INT. HARMSWAY'S OFFICE -
 
-      The DOOR opens and Harmsway enters, followed by Bond. He calls to
-      someone we don't see:
+      <sd>The DOOR opens and Harmsway enters, followed by Bond. He calls to
+      someone we don't see:</sd>
 
-                          <spk>HARMSWAY</spk>              Hello, dear. I'm sorry I took so long -
+                          <sp><spk>HARMSWAY</spk>              Hello, dear. I'm sorry I took so long -</sp>
 
-      REVEAL: SIDNEY is sitting across from his desk.
+      <sd>REVEAL: SIDNEY is sitting across from his desk.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              That's okay, Uncle Ell -
+                          <sp><spk sex="F">SIDNEY</spk>              That's okay, Uncle Ell -</sp>
+      
+      <sd>She freezes in mid-sentence, seeing Bond. Bond is equally surprised.</sd>
 
-      She freezes in mid-sentence, seeing Bond. Bond is equally surprised.
+                          <sp><spk sex="F">SIDNEY</spk>              What is HE doing here?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              What is HE doing here?
+                          <sp><spk>HARMSWAY</spk>              I see you two have met.</sp>
 
-                          <spk>HARMSWAY</spk>              I see you two have met.
+                           <sp><spk sex="M">BOND</spk>            Briefly.</sp>
 
-                           <spk sex="M">BOND</spk>            Briefly.
-
-                          <spk>HARMSWAY</spk>                    (crossing to his desk)
+                          <sp><spk>HARMSWAY</spk>                    (crossing to his desk)
                  Don't pout, Sidney. I invited him
                  here hoping he might shed some light
                  on your story. He's from 'Lloyd's of
                  London.'
                        (sly glance to Bond)
-                 ...Aren't you, Mr. Bond?
+                 ...Aren't you, Mr. Bond?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              He's not going to tell the truth! He
-                 was diving for the gold!
+                          <sp><spk sex="F">SIDNEY</spk>              He's not going to tell the truth! He
+                 was diving for the gold!</sp>
 
-      Harmsway sits, and addresses Bond, matter-of-factly:
+      <sd>Harmsway sits, and addresses Bond, matter-of-factly:</sd>
 
-                          <spk>HARMSWAY</spk>              It seems - Mr. Bond - that Miss Winch
+                          <sp><spk>HARMSWAY</spk>              It seems - Mr. Bond - that Miss Winch
                  has told me the most incredible story: A
                  sunken British warship filled with gold;
                  a British cutter firing on her; billions
                  of dollars in bullion lying on the
-                 bottom of the Strait.
+                 bottom of the Strait.</sp>
 
-      Bond isn't enjoying this charade.
+      <sd>Bond isn't enjoying this charade.</sd>
 
-                          <spk>HARMSWAY</spk>              Obviously, the British government
-                 denies all of this -
+                          <sp><spk>HARMSWAY</spk>              Obviously, the British government
+                 denies all of this -</sp>
 
-                          <spk sex="F">SIDNEY</spk>              - I told you! He was there! -
+                          <sp><spk sex="F">SIDNEY</spk>              - I told you! He was there! -</sp>
 
-                          <spk>HARMSWAY</spk>              - But as I've explained to Sidney,
+                          <sp><spk>HARMSWAY</spk>              - But as I've explained to Sidney,
                  without proof, there's just no story.
-                 Don't you agree Mr. Bond?
+                 Don't you agree Mr. Bond?</sp>
 
-      Before Bond can answer -
+      <sd>Before Bond can answer -</sd>
 
-                          <spk sex="F">SIDNEY</spk>              But I have proof! You ran out of here
-                 so fast, I didn't get to show you.
+                          <sp><spk sex="F">SIDNEY</spk>              But I have proof! You ran out of here
+                 so fast, I didn't get to show you.</sp>
 
-      Bond and Harmsway react - with entirely different concerns: Harmsway
+      <sd>Bond and Harmsway react - with entirely different concerns: Harmsway
       wasn't expecting her to have proof; Bond knows that if she shows him
       the gold, (or worse, the uranium tooth,) Harmsway will probably kill
-      both of them to destroy the evidence, and witnesses.
+      both of them to destroy the evidence, and witnesses.</sd>
 
-                          <spk>HARMSWAY</spk>                    (forcing a smile)
-                 ...And what's that, my dear?
+                          <sp><spk>HARMSWAY</spk>                    (forcing a smile)
+                 ...And what's that, my dear?</sp>
 
-                           <spk sex="M">BOND</spk>            Sidney, perhaps we should leave this to -
+                           <sp><spk sex="M">BOND</spk>            Sidney, perhaps we should leave this to -</sp>
 
-      Sidney cuts Bond off, DROPPING THE GOLD BAR on Harmsway's desk.
+      <sd>Sidney cuts Bond off, DROPPING THE GOLD BAR on Harmsway's desk.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              He brought that up from the wreck.
+                          <sp><spk sex="F">SIDNEY</spk>              He brought that up from the wreck.</sp>
 
-                          <spk>HARMSWAY</spk>              ...I see.
+                          <sp><spk>HARMSWAY</spk>              ...I see.</sp>
 
-      Alarmed, Bond wants to stop Sidney from reaching into her bag again -
+      <sd>Alarmed, Bond wants to stop Sidney from reaching into her bag again -</sd>
 
-                           <spk sex="M">BOND</spk>            Sidney, I wouldn't -
+                           <sp><spk sex="M">BOND</spk>            Sidney, I wouldn't -</sp>
 
-      Too late. She drops the uranium tooth on his desk.
+      <sd>Too late. She drops the uranium tooth on his desk.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              And what about this? Any idea what this is?
+                          <sp><spk sex="F">SIDNEY</spk>              And what about this? Any idea what this is?</sp>
 
-      Silence. Harmsway and Bond exchange a sober look. Then:
+      <sd>Silence. Harmsway and Bond exchange a sober look. Then:</sd>
 
-                          <spk>HARMSWAY</spk>              ... I believe it's a depleted uranium
-                 drill bit, my dear.
+                          <sp><spk>HARMSWAY</spk>              ... I believe it's a depleted uranium
+                 drill bit, my dear.</sp>
 
-      HE PRESSES AN ALARM UNDER HIS DESK. Bond reaches for the DRILL TOOTH.
+      <sd>HE PRESSES AN ALARM UNDER HIS DESK. Bond reaches for the DRILL TOOTH.</sd>
 
-                           <spk sex="M">BOND</spk>            Why don't we just take these -
+                           <sp><spk sex="M">BOND</spk>            Why don't we just take these -</sp>
+      
+                          <sp><spk sex="F">SIDNEY</spk>                    (blocking him)
+                 No. I want Sir Elliot to keep them.</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (blocking him)
-                 No. I want Sir Elliot to keep them.
+      <sd>Harmsway stands, comes around the desk:</sd>
 
-      Harmsway stands, comes around the desk:
+                          <sp><spk>HARMSWAY</spk>              ...Well! I do believe this requires
+                 further investigation!</sp>
 
-                          <spk>HARMSWAY</spk>              ...Well! I do believe this requires
-                 further investigation!
+                          <sp><spk sex="F">SIDNEY</spk>              Thank you, Uncle Elliot.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Thank you, Uncle Elliot.
-
-                          <spk>HARMSWAY</spk>              No matter what the British government
+                          <sp><spk>HARMSWAY</spk>              No matter what the British government
                  says, I won't kill this story.
                        (his secretary appears in the doorway)
                  Miss Oxford will show both of you to
                  the elevator... And one of my people
                  will definitely be in touch sooner
-                 than later.
+                 than later.</sp>
 
-                           <spk sex="M">BOND</spk>            I'm sure they will.
+                           <sp><spk sex="M">BOND</spk>            I'm sure they will.</sp>
 
-                          <spk>HARMSWAY</spk>              Good-bye, Mister Bond.
+                          <sp><spk>HARMSWAY</spk>              Good-bye, Mister Bond.</sp>
 
-      He reaches to kiss Sidney - and looks in her eyes a second too long.
+      <sd>He reaches to kiss Sidney - and looks in her eyes a second too long.</sd>
 
-                          <spk>HARMSWAY</spk>              Good-bye, darling.
+                          <sp><spk>HARMSWAY</spk>              Good-bye, darling.</sp>
 
-      Watching them exit, his smile turns hard and bitter.
+      <sd>Watching them exit, his smile turns hard and bitter.</sd>
 
       INT. ELEVATOR HALLWAY - DAY -
 
-      As the Executive Secretary escorts them to the elevator, Bond glances
-      out the PICTURE WINDOW, with its view of the other tower.
+     <sd> As the Executive Secretary escorts them to the elevator, Bond glances
+      out the PICTURE WINDOW, with its view of the other tower.</sd>
 
-                              EXECUTIVE SECRETARY
-                 Thank you both for coming in...
+                              <sp><spk>EXECUTIVE SECRETARY</spk>
+                 Thank you both for coming in...</sp>
 
       BOND'S POV - EXT. HARMSWAY TOWERS -
 
-      Five floors directly down is the GLASS-ENCLOSED SKY BRIDGE; just
+      <sd>Five floors directly down is the GLASS-ENCLOSED SKY BRIDGE; just
       above him, he sees TWO WINDOW WASHERS being pulled up on a TWO MAN
       SCAFFOLD.
 
       BACK TO SCENE -
 
       A CHIME SOUNDS; the elevator doors open. Bond and Sidney ad-lib
-      good-byes to the secretary and get in.
+      good-byes to the secretary and get in.</sd>
 
       INT. ELEVATOR - DAY
 
-      Sidney presses the button for "1". Bond glances at the FLOOR INDI-
+      <sd>Sidney presses the button for "1". Bond glances at the FLOOR INDI-
       CATOR with reads "55" - clocks the SECURITY CAMERA - and starts
       looking for an ESCAPE PANEL. Sidney watches out of the corner of her
-      eye, thinking he's nuts.
+      eye, thinking he's nuts.</sd>
 
-                           <spk sex="M">BOND</spk>                  (glancing at the security camera)
-                 ... Do you have a gun?
+                           <sp><spk sex="M">BOND</spk>                  (glancing at the security camera)
+                 ... Do you have a gun?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              What?
+                          <sp><spk sex="F">SIDNEY</spk>              What?</sp>
 
-                           <spk sex="M">BOND</spk>                  (yanking it down)
+                           <sp><spk sex="M">BOND</spk>                  (yanking it down)
                  You heard me. A gun?
                        (disabling it)
-                 I left mine in the car.
+                 I left mine in the car.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              That's funny: you struck me as the kind
-                 of man who always carries protection.
+                          <sp><spk sex="F">SIDNEY</spk>              That's funny: you struck me as the kind
+                 of man who always carries protection.</sp>
 
-                           <spk sex="M">BOND</spk>            Listen to me! I'm a British secret
+                           <sp><spk sex="M">BOND</spk>            Listen to me! I'm a British secret
                  service agent. And we have about two
-                 minutes before Harmsway kills both of us.
+                 minutes before Harmsway kills both of us.</sp>
 
-      He glances up at the escape panel at the rear of the car.
+      <sd>He glances up at the escape panel at the rear of the car.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Has anyone ever suggested that you're
-                 a paranoid psychotic?
+                          <sp><spk sex="F">SIDNEY</spk>              Has anyone ever suggested that you're
+                 a paranoid psychotic?</sp>
 
-      Bond ignores the insult, explaining as he moves under the panel:
+      <sd>Bond ignores the insult, explaining as he moves under the panel:</sd>
 
-                           <spk sex="M">BOND</spk>            Harmsway sank that ship and stole the
+                           <sp><spk sex="M">BOND</spk>            Harmsway sank that ship and stole the
                  gold. It's on the Sea Dolphin II.
                        (boosting himself up)
                  And thanks to your little show and tell -
@@ -5591,81 +5585,81 @@
                  - giving him the evidence -
                        (popping it open)
                  We're the only ones who can tie him
-                 to the crime.
+                 to the crime.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Elliot Harmsway is my Uncle!
+                          <sp><spk sex="F">SIDNEY</spk>              Elliot Harmsway is my Uncle!</sp>
 
-                           <spk sex="M">BOND</spk>            Blood or Dutch?
+                           <sp><spk sex="M">BOND</spk>            Blood or Dutch?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              He was my father's best friend!
+                          <sp><spk sex="F">SIDNEY</spk>              He was my father's best friend!</sp>
 
-                           <spk sex="M">BOND</spk>            He's killed closer.
+                           <sp><spk sex="M">BOND</spk>            He's killed closer.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              You are seriously deranged.
+                          <sp><spk sex="F">SIDNEY</spk>              You are seriously deranged.</sp>
 
-                           <spk sex="M">BOND</spk>            Maybe. But why are we going up
-                 instead of down?
+                           <sp><spk sex="M">BOND</spk>            Maybe. But why are we going up
+                 instead of down?</sp>
 
-      He nods to the FLOOR INDICATOR. She looks: 60, 65, 70. IT STOPS.
-      Bond reaches down to her -
+      <sd>He nods to the FLOOR INDICATOR. She looks: 60, 65, 70. IT STOPS.
+      Bond reaches down to her -</sd>
 
-                           <spk sex="M">BOND</spk>            Sidney, come with me -
+                           <sp><spk sex="M">BOND</spk>            Sidney, come with me -</sp>
 
-      THE DOORS OPEN. She looks at his outstretched hand with disdain:
+      <sd>THE DOORS OPEN. She looks at his outstretched hand with disdain:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Not if my life depended on it.
+                          <sp><spk sex="F">SIDNEY</spk>              Not if my life depended on it.</sp>
 
       INT. 70TH FLOOR -- DAY
 
-      Sidney comes out onto a floor still under construction. The elevator
+      <sd>Sidney comes out onto a floor still under construction. The elevator
       doors CLOSE behind her. To the right, she sees STAMPER and a
-      Harmsway-blazered GUARD, with MACHINE PISTOLS.
+      Harmsway-blazered GUARD, with MACHINE PISTOLS.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Thank God! He's crazy!
+                          <sp><spk sex="F">SIDNEY</spk>              Thank God! He's crazy!</sp>
 
-                          <spk>STAMPER</spk>              Does he have a gun?
+                          <sp><spk>STAMPER</spk>              Does he have a gun?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              No.
+                          <sp><spk sex="F">SIDNEY</spk>              No.</sp>
 
-      On Stamper's reply -
+      <sd>On Stamper's reply -</sd>
 
-                          <spk>STAMPER</spk>              Good -
+                          <sp><spk>STAMPER</spk>              Good -</sp>
 
-      He lunges for her, grabs her, spins her around, overwhelming her.
-      She struggles, yelling:
+      <sd>He lunges for her, grabs her, spins her around, overwhelming her.
+      She struggles, yelling:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              This is a mistake!
+                          <sp><spk sex="F">SIDNEY</spk>              This is a mistake!</sp>
 
-                          <spk>STAMPER</spk>                    (gun against her skull)
-                 Shut up!
+                          <sp><spk>STAMPER</spk>                    (gun against her skull)
+                 Shut up!</sp>
 
-      Using Sidney as a HUMAN SHIELD, Stamper marches her in front of the
+      <sd>Using Sidney as a HUMAN SHIELD, Stamper marches her in front of the
       closed elevator doors. The guard follows. THEY POSITION THEMSELVES
-      FOR A MASSACRE. Reaching around Sidney, Stamper pulls out his RADIO:
+      FOR A MASSACRE. Reaching around Sidney, Stamper pulls out his RADIO:</sd>
 
-                              STAMPER (into radio)
-                 Open 14.
+                              <sp><spk>STAMPER</spk> (into radio)
+                 Open 14.</sp>
 
-      A beat. It opens. The men unleash a HAIL OF BULLETS, then realize -
+      <sd>A beat. It opens. The men unleash a HAIL OF BULLETS, then realize -</sd>
 
       NEW ANGLE - (INT. ELEVATOR) -
 
-      The car is empty. Stamper perplexed. Pushing Sidney in front of
+      <sd>The car is empty. Stamper perplexed. Pushing Sidney in front of
       him, he enters the elevator, cautiously... When, suddenly:
 
       BOND SWINGS DOWN OUT OF THE ESCAPE PANEL (like an athlete on a high-
       bar) FEET FIRST - barely clearing Sidney's head as he KICKS Stamper
       and the Guard in their faces. They go flying backwards.
 
-      Bond jumps down, grabs Sidney -
+      Bond jumps down, grabs Sidney -</sd>
 
-                           <spk sex="M">BOND</spk>            Need a lift?
+                           <sp><spk sex="M">BOND</spk>            Need a lift?</sp>
 
-      And boosts her into the escape panel, following her up.
+      <sd>And boosts her into the escape panel, following her up.</sd>
 
       INT. ELEVATOR SHAFT - ABOVE THE ELEVATOR - (CONTINUOUS) -
 
-      Bond and Sidney rush forward to the front wall as -
+      <sd>Bond and Sidney rush forward to the front wall as -
 
       STAMPER AND THE GUARD -
 
@@ -5676,137 +5670,137 @@
 
       Bond presses his body against Sidney, on the front wall, trying to
       SHIELD HER as BULLETS RIP UP THE FLOOR behind them. With his free
-      hand, Bond reaches up for the LATCH to open the door above them.
+      hand, Bond reaches up for the LATCH to open the door above them.</sd>
 
       INT. ELEVATOR -
 
-      Stamper stops shooting. Moves to the rear of the cab, under the
-      escape panel. Peers up. Sees nothing. Turns to the Guard:
+      <sd>Stamper stops shooting. Moves to the rear of the cab, under the
+      escape panel. Peers up. Sees nothing. Turns to the Guard:</sd>
 
-                          <spk>STAMPER</spk>              Help me up.
+                          <sp><spk>STAMPER</spk>              Help me up.</sp>
 
-      ELEVATOR SHAFT -
+      <sd>ELEVATOR SHAFT -
 
       Stamper's head pokes up through the hole just as Bond and Sidney have
-      disappeared into -
+      disappeared into -</sd>
 
       INT. HALLWAY - (ELEVATOR BANK) - 71ST FLOOR.
 
-      Squeezing out from between the elevator doors, (which immediately
+      <sd>Squeezing out from between the elevator doors, (which immediately
       close behind them,) Bond and Sidney encounter a group of STUNNED
-      OFFICE WORKERS, waiting for the elevator.
+      OFFICE WORKERS, waiting for the elevator.</sd>
 
-                           <spk sex="M">BOND</spk>                  (to the office workers)
-                 ... I'd try the stairs.
+                           <sp><spk sex="M">BOND</spk>                  (to the office workers)
+                 ... I'd try the stairs.</sp>
 
-      As Bond and Sidney scamper off -
+      <sd>As Bond and Sidney scamper off -
 
-      RETURN ON STAMPER - IN THE ELEVATOR -
+      RETURN ON STAMPER - IN THE ELEVATOR -</sd>
 
-                          <spk>STAMPER</spk>                    (rushing out)
+                          <sp><spk>STAMPER</spk>                    (rushing out)
                  The stairs!
                        (barking into his RADIO)
                  Attention all units! They're on the
-                 71st floor!
+                 71st floor!</sp>
 
       INT. ELEGANT HALLWAY - ANOTHER PART OF THE BUILDING -
 
-      Harmsway is striding towards the SECURITY CENTER, RADIO in hand:
+      <sd>Harmsway is striding towards the SECURITY CENTER, RADIO in hand:</sd>
 
-                          <spk>HARMSWAY</spk>              Stamper! They're not to leave this
-                 building alive!
+                          <sp><spk>HARMSWAY</spk>              Stamper! They're not to leave this
+                 building alive!</sp>
 
       BOND AND SIDNEY - (INT. HALLWAY) -
 
-      Moving cautiously toward a CORNER of ANOTHER HALLWAY.
+      <sd>Moving cautiously toward a CORNER of ANOTHER HALLWAY.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              This has got to be a mistake.
+                          <sp><spk sex="F">SIDNEY</spk>              This has got to be a mistake.</sp>
 
-                           <spk sex="M">BOND</spk>            The only mistake is that they didn't
-                 kill us in the elevator.
+                           <sp><spk sex="M">BOND</spk>            The only mistake is that they didn't
+                 kill us in the elevator.</sp>
 
-      At the corner, Bond STOPS, SEEING A GUARD, farther down the hall (his
-      back to them) CHECKING DOORS.
+      <sd>At the corner, Bond STOPS, SEEING A GUARD, farther down the hall (his
+      back to them) CHECKING DOORS.</sd>
 
-                           <spk sex="M">BOND</spk>            Wait here.
+                           <sp><spk sex="M">BOND</spk>            Wait here.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              No. I'm going with you.
+                          <sp><spk sex="F">SIDNEY</spk>              No. I'm going with you.</sp>
 
-      Bond frowns, but doesn't have the time to argue. They start doing a
-      "DUCK AND COVER" in and out of doorways TO SNEAK UP ON HIM.
+      <sd>Bond frowns, but doesn't have the time to argue. They start doing a
+      "DUCK AND COVER" in and out of doorways TO SNEAK UP ON HIM.</sd>
 
       INT. SECURITY CENTER -
 
-      Harmsway bursts in on GUARDS watching a WALL OF SECURITY MONITORS.
+      <sd>Harmsway bursts in on GUARDS watching a WALL OF SECURITY MONITORS.</sd>
 
-                          <spk>HARMSWAY</spk>              Where are they?
+                          <sp><spk>HARMSWAY</spk>              Where are they?</sp>
 
-                              GUARD #1
+                              <sp><spk>GUARD #1</spk>
                  I don't see them -
                        (scanning the monitors)
-                 There!
+                 There!</sp>
 
       INSERT VIDEO MONITOR - (SURVEILLANCE SHOT OF HALLWAY) -
 
-      Bond and Sidney have just come into frame, sneaking up on the GUARD.
+      <sd>Bond and Sidney have just come into frame, sneaking up on the GUARD.</sd>
 
-                              HARMSWAY (OVER)
-                 Warn him!
+                              <sp><spk>HARMSWAY</spk> (OVER)
+                 Warn him!</sp>
 
-      CLOSE ON THE GUARD - (INT. HALLWAY) -
+      <sd>CLOSE ON THE GUARD - (INT. HALLWAY) -</sd>
 
-                              VOICE ON RADIO
-                 Porter! They're behind you -
+                              <sp><spk>VOICE ON RADIO</spk>
+                 Porter! They're behind you -</sp>
 
-                              GUARD
+                              <sp><spk>GUARD</spk>
                        (lifting the radio to reply)
-                 Roger! Over and -
+                 Roger! Over and -</sp>
 
-      BAM. BOND DECKS HIM.
+      <sd>BAM. BOND DECKS HIM.</sd>
 
-                           <spk sex="M">BOND</spk>            Out.
+                           <sp><spk sex="M">BOND</spk>            Out.</sp>
 
-      Bond kneels, grabs the GUARD'S MACHINE PISTOL, and CLIPS, just as -
+      <sd>Bond kneels, grabs the GUARD'S MACHINE PISTOL, and CLIPS, just as -</sd>
 
-                          <spk sex="F">SIDNEY</spk>              JAMES!
+                          <sp><spk sex="F">SIDNEY</spk>              JAMES!</sp>
 
-      TWO GUARDS have entered from a STAIRCASE DOOR, hoisting MAC-10's. In
+      <sd>TWO GUARDS have entered from a STAIRCASE DOOR, hoisting MAC-10's. In
       an instant: (1) Bond lets go a BURST. (2) The Guards SHOOT back,
       diving for cover in the staircase door. (3) Bond rolls, (4) Pushes
-      Sidney into an open DOORWAY, and (5) returns A BURST, from -
+      Sidney into an open DOORWAY, and (5) returns A BURST, from -</sd>
 
       INT. SMALL KITCHEN/COPIER ROOM -
 
-      Sidney is shaken. As Bond stands in the doorway, guarding them -
+      <sd>Sidney is shaken. As Bond stands in the doorway, guarding them -</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Okay. So it wasn't a mistake.
+                          <sp><spk sex="F">SIDNEY</spk>              Okay. So it wasn't a mistake.
                        (Bond lets go a blast)
                  What do we do now? Offer them
-                 dinner?!?!
+                 dinner?!?!</sp>
 
-      Bond glances back at the KITCHEN SUPPLIES. GETS AN IDEA. He sud-
+      <sd>Bond glances back at the KITCHEN SUPPLIES. GETS AN IDEA. He sud-
       denly TWISTS, SMASHING the BUTT OF HIS GUN down on some GLASSWARE on
-      the counter, then TWISTS BACK, returning a BURST OF GUNFIRE.
+      the counter, then TWISTS BACK, returning a BURST OF GUNFIRE.</sd>
 
-                           <spk sex="M">BOND</spk>            Come here. You shoot. I'll cook.
+                           <sp><spk sex="M">BOND</spk>            Come here. You shoot. I'll cook.</sp>
 
-      She thinks he's nuts, but squeezes next to him. Handing her the gun:
+      <sd>She thinks he's nuts, but squeezes next to him. Handing her the gun:</sd>
 
-                           <spk sex="M">BOND</spk>            Aim that way.
+                           <sp><spk sex="M">BOND</spk>            Aim that way.</sp>
 
-      Sidney scowls - as Bond moves off-camera - when suddenly, BULLET HITS
+      <sd>Sidney scowls - as Bond moves off-camera - when suddenly, BULLET HITS
       RIP UP THE DOOR FRAME. She jumps, TERRIFIED.
 
       Bond looks at her from the PHOTO-COPYING MACHINE, where he is YANKING
-      OUT the TONER CARTRIDGE. He offers a simple piece of advice:
+      OUT the TONER CARTRIDGE. He offers a simple piece of advice:</sd>
 
-                           <spk sex="M">BOND</spk>            Shoot back!
+                           <sp><spk sex="M">BOND</spk>            Shoot back!</sp>
 
-      Sidney frowns... Turns... And as she LETS THE GUN RIP, we cut to:
+      <sd>Sidney frowns... Turns... And as she LETS THE GUN RIP, we cut to:</sd>
 
       INT. STAIRWELL - (ON THE OTHER SIDE OF THE BUILDING) -
 
-      Stamper, running up steps with the guard. They exit into:
+      <sd>Stamper, running up steps with the guard. They exit into:
 
       A SHORT SERVICE HALLWAY - 71ST. FLOOR -
 
@@ -5821,75 +5815,75 @@
       As she continues to exchange fire with the guards...
 
       BOND, (having broken the toner cartridge open,) is DUMPING THE TONER
-      in a coffee can. He reaches for a BOX of sugar
+      in a coffee can. He reaches for a BOX of sugar</sd>
 
-                           <spk sex="M">BOND</spk>            One second -
+                           <sp><spk sex="M">BOND</spk>            One second -</sp>
 
-      And (with GUNFIRE SFX over,) Bond sweeps the BROKEN DISH into the
+      <sd>And (with GUNFIRE SFX over,) Bond sweeps the BROKEN DISH into the
       can, and drops his Q LIGHTER in the mix.
 
-      He moves to Sidney, in the doorway. Kneels. In-between shots:
+      He moves to Sidney, in the doorway. Kneels. In-between shots:</sd>
 
-                           <spk sex="M">BOND</spk>            ... How did you get into marine
-                 salvage?
+                           <sp><spk sex="M">BOND</spk>            ... How did you get into marine
+                 salvage?</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (gun burst, then)
-                 My father left me the business.
+                          <sp><spk sex="F">SIDNEY</spk>                    (gun burst, then)
+                 My father left me the business.</sp>
 
-      Bond glances at his watch, timing the bomb. The guards shoot; she
-      shoots back, then explains:
+      <sd>Bond glances at his watch, timing the bomb. The guards shoot; she
+      shoots back, then explains:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              I used to be a divorce lawyer in New
-                 York City.
+                          <sp><spk sex="F">SIDNEY</spk>              I used to be a divorce lawyer in New
+                 York City.</sp>
 
-      Bond nods, continuing to look at his watch. Glances at her:
+      <sd>Bond nods, continuing to look at his watch. Glances at her:</sd>
 
-                           <spk sex="M">BOND</spk>            Not a lot of difference.
+                           <sp><spk sex="M">BOND</spk>            Not a lot of difference.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              What do you mean?
+                          <sp><spk sex="F">SIDNEY</spk>              What do you mean?</sp>
 
-      Bond reaches forward to toss the coffee can -
+      <sd>Bond reaches forward to toss the coffee can -</sd>
 
-                           <spk sex="M">BOND</spk>            Either way, you're taking the goods
-                 from dead hulks.
+                           <sp><spk sex="M">BOND</spk>            Either way, you're taking the goods
+                 from dead hulks.</sp>
 
-      He tosses the can, and PULLS HER BACKWARDS, covering her.
+      <sd>He tosses the can, and PULLS HER BACKWARDS, covering her.
 
       NEW ANGLE - THE HALLWAY -
 
       The GUARDS spring from the door, rushing forward to storm Bond's
       position - just as the COFFEE CAN rolls towards them, and EXPLODES.
 
-      RETURN ON BOND AND SIDNEY IN THE KITCHEN -
+      RETURN ON BOND AND SIDNEY IN THE KITCHEN -</sd>
 
-                           <spk sex="M">BOND</spk>            Let's go -
+                           <sp><spk sex="M">BOND</spk>            Let's go -</sp>
 
-      Taking the gun, the two of them start for the door when -
+      <sd>Taking the gun, the two of them start for the door when -
 
       NEW ANGLE - OPPOSITE END OF THE HALLWAY - CORNER -
 
       Stamper and the GUARD have arrived at the corner, BLASTING.
 
-      RETURN ON BOND AND SIDNEY IN THE KITCHEN -
+      RETURN ON BOND AND SIDNEY IN THE KITCHEN -</sd>
 
-                           <spk sex="M">BOND</spk>            Damn!
+                           <sp><spk sex="M">BOND</spk>            Damn!</sp>
 
-      Swiftly, Bond grabs a JUG of CLEANER from under the sink, moves to
+      <sd>Swiftly, Bond grabs a JUG of CLEANER from under the sink, moves to
       the door, and ROLLS IT DOWN THE HALL in Stamper's direction.
 
       STAMPER AND THE GUARD - (HALLWAY CORNER) -
 
       Anticipate a bomb. They move back.
 
-      BOND AND SIDNEY (INT. KITCHEN) -
+      BOND AND SIDNEY (INT. KITCHEN) -</sd>
 
-                          <spk sex="F">SIDNEY</spk>              What the hell does that do?
+                          <sp><spk sex="F">SIDNEY</spk>              What the hell does that do?</sp>
 
-                           <spk sex="M">BOND</spk>            Cleans dirt. Let's go.
+                           <sp><spk sex="M">BOND</spk>            Cleans dirt. Let's go.</sp>
 
       INT. HALLWAY -
 
-      Bond and Sidney BREAK for the STAIRCASE DOOR. (Where the first Guards
+      <sd>Bond and Sidney BREAK for the STAIRCASE DOOR. (Where the first Guards
       were shooting at them from.) TWISTING AROUND, Bond lets a BURST go
       in Stamper's direction, as he stoops to scoop up one of the dead
       guards' MAC-l0's.
@@ -5900,63 +5894,63 @@
 
       STAMPER -
 
-      Cowers, waiting for the jug to blow up... Then realizes:
+      Cowers, waiting for the jug to blow up... Then realizes:</sd>
 
-                          <spk>STAMPER</spk>              It's a trick! After him.
+                          <sp><spk>STAMPER</spk>              It's a trick! After him.
                        (into his radio, on the run)
-                 They're in the south stairwell!
+                 They're in the south stairwell!</sp>
 
-      HARMSWAY, IN THE SECURITY CENTER -
+      <sd>HARMSWAY, IN THE SECURITY CENTER -</sd>
 
-                          <spk>HARMSWAY</spk>              Get more men up there!
+                          <sp><spk>HARMSWAY</spk>              Get more men up there!</sp>
 
       INT. STAIRWELL - LANDING -
 
-                          <spk sex="F">SIDNEY</spk>              Down?
+                          <sp><spk sex="F">SIDNEY</spk>              Down?</sp>
 
-      Bond leans over the railing. Sees GUARDS coming UP. SHOOTS.
+      <sd>Bond leans over the railing. Sees GUARDS coming UP. SHOOTS.</sd>
 
-                           <spk sex="M">BOND</spk>            Up.
+                           <sp><spk sex="M">BOND</spk>            Up.</sp>
 
-      They go up about three stairs, and Sidney sees GUARDS descending.
+      <sd>They go up about three stairs, and Sidney sees GUARDS descending.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Down?
+                          <sp><spk sex="F">SIDNEY</spk>              Down?</sp>
 
-                           <spk sex="M">BOND</spk>                  (shoots, then)
-                 Up.
+                           <sp><spk sex="M">BOND</spk>                  (shoots, then)
+                 Up.</sp>
 
-      Bond and Sidney bound up the stairs through a METAL DOOR, just as -
+      <sd>Bond and Sidney bound up the stairs through a METAL DOOR, just as -</sd>
 
       INT. HALLWAY -
 
-      Stamper and the Guard bound down the hallway, heading for the door.
+      <sd>Stamper and the Guard bound down the hallway, heading for the door.</sd>
 
       INT. SECURITY CENTER -
 
-      Harmsway smiles, watching Bond on a monitor:
+      <sd>Harmsway smiles, watching Bond on a monitor:</sd>
 
-                          <spk>HARMSWAY</spk>              ... And so much for that.
+                          <sp><spk>HARMSWAY</spk>              ... And so much for that.
                        (into radio)
                  They're on the 72nd floor set-back.
                        (explains to the guards)
-                 Nowhere to go.
+                 Nowhere to go.</sp>
 
       EXT. 72ND FLOOR - TERRACE SETBACK - TWILIGHT -
 
-      It's magic hour as Bond and Sidney rush out onto the setback. Bond
-      sees a WINDOW WASHER'S RIG. And although Sidney asks -
+      <sd>It's magic hour as Bond and Sidney rush out onto the setback. Bond
+      sees a WINDOW WASHER'S RIG. And although Sidney asks -</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Now what?
+                          <sp><spk sex="F">SIDNEY</spk>              Now what?</sp>
 
-      Bond's first concern is to make sure Stamper can't get them. Amidst
+      <sd>Bond's first concern is to make sure Stamper can't get them. Amidst
       a pile of CONSTRUCTION EQUIPMENT, he spots a PNEUMATIC NAIL GUN. He
       grabs it, and -
 
-      BANG. BANG. BANG. He fires 3 NAILS through the door into the frame.
+      BANG. BANG. BANG. He fires 3 NAILS through the door into the frame.</sd>
 
-                           <spk sex="M">BOND</spk>            That should buy us some time.
+                           <sp><spk sex="M">BOND</spk>            That should buy us some time.</sp>
 
-      Now, Bond moves to the WINDOW WASHER'S RIG - a two-man bucket-like
+      <sd>Now, Bond moves to the WINDOW WASHER'S RIG - a two-man bucket-like
       scaffold ON TRACKS, with TWO LEATHER SAFETY HARNESSES inside, and a
       LARGE CABLE SPOOL/MOTOR that stays on the roof.
 
@@ -5967,71 +5961,71 @@
       Twenty stories below is the sky bridge. 50 stories below that, the
       ground. It's a long, long, way down.
 
-      RETURN ON BOND - AT THE WINDOW WASHER'S RIG - TERRACE SET-BACK -
+      RETURN ON BOND - AT THE WINDOW WASHER'S RIG - TERRACE SET-BACK -</sd>
 
-                           <spk sex="M">BOND</spk>            Help me move this.
+                           <sp><spk sex="M">BOND</spk>            Help me move this.</sp>
 
       INT. STAIRWELL -
 
-      Darting up the few steps, Stamper and Guards arrive at the door. He
-      tries to open it. Won't budge.
+      <sd>Darting up the few steps, Stamper and Guards arrive at the door. He
+      tries to open it. Won't budge.</sd>
 
-                              GUARD
-                 I'll call for a battering ram -
+                              <sp><spk>GUARD</spk>
+                 I'll call for a battering ram -</sp>
 
-                          <spk>STAMPER</spk>              No. Get the fire ax.
+                          <sp><spk>STAMPER</spk>              No. Get the fire ax.</sp>
 
-      One of the guards grabs it from inside a FIRE CABINET. He hands the
+      <sd>One of the guards grabs it from inside a FIRE CABINET. He hands the
       AX to Stamper, who takes the first SWING AT THE DOOR.
 
       RETURN ON BOND - TERRACE SET-BACK - EXT. 72ND FLOOR - TWILIGHT -
 
-      Bond is positioning the window washer rig. He explains:
+      Bond is positioning the window washer rig. He explains:</sd>
 
-                           <spk sex="M">BOND</spk>            We'll go down close to the sky bridge.
+                           <sp><spk sex="M">BOND</spk>            We'll go down close to the sky bridge.
                  We may be able to swing over and use it
-                 for cover.
+                 for cover.</sp>
 
-      As Bond climbs into the bucket, Sidney peers over the side.
+      <sd>As Bond climbs into the bucket, Sidney peers over the side.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              No way. I sail. I do not fly.
+                          <sp><spk sex="F">SIDNEY</spk>              No way. I sail. I do not fly.</sp>
 
-      BANG! Behind them, Stamper's AX HAS JUST PENETRATED THE DOOR.
+      <sd>BANG! Behind them, Stamper's AX HAS JUST PENETRATED THE DOOR.</sd>
 
-                           <spk sex="M">BOND</spk>            ... Sometimes, you just have to take
-                 the plunge.
+                           <sp><spk sex="M">BOND</spk>            ... Sometimes, you just have to take
+                 the plunge.</sp>
 
-      Bond yanks her in, flips switches on the control pod, and starts
-      down, as fast as they can go.
+      <sd>Bond yanks her in, flips switches on the control pod, and starts
+      down, as fast as they can go.</sd>
 
       EXT. HARMSWAY TOWERS - AERIAL -
 
-      Bond and Sidney descend. Tiny specs against the sunset.
+      <sd>Bond and Sidney descend. Tiny specs against the sunset.</sd>
 
       INT. STAIRCASE -
 
-      Stamper gives the last few chops to the door. He kicks it open.
+      <sd>Stamper gives the last few chops to the door. He kicks it open.</sd>
 
       EXT. TERRACE SET-BACK - 72ND FLOOR -
 
-      Stamper and the guards rush to the ledge.
+      <sd>Stamper and the guards rush to the ledge.
 
       BOND AND SIDNEY - DESCENDING ON THE RIG - 60TH FLOOR -
 
-      Bond, looking up - for Stamper - and down - to check their progress.
+      Bond, looking up - for Stamper - and down - to check their progress.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              All I know is one thing: If we get
+                          <sp><spk sex="F">SIDNEY</spk>              All I know is one thing: If we get
                  out of here alive, that gold is mine.
                        (beat)
-                 I've earned it.
+                 I've earned it.</sp>
 
-      Looking upward, Bond SEES STAMPER peering over the rail. BOND FIRES.
+      <sd>Looking upward, Bond SEES STAMPER peering over the rail. BOND FIRES.</sd>
 
-                           <spk sex="M">BOND</spk>            One thing at a time.
+                           <sp><spk sex="M">BOND</spk>            One thing at a time.</sp>
 
       EXT. TERRACE SET-BACK - TWILIGHT -
 
-      Stamper jumps back from the ledge, enraged. Ax in hand, he moves to
+      <sd>Stamper jumps back from the ledge, enraged. Ax in hand, he moves to
       the WINDOW WASHING RIG'S MACHINERY -
 
       And takes a roundhouse swing at the UNSPOOLING CABLE - but instead of
@@ -6058,20 +6052,20 @@
 
       BOND AND SIDNEY -
 
-      are stopped about 20 feet above the sky bridge.
+      are stopped about 20 feet above the sky bridge.</sd>
 
-                          <spk sex="F">SIDNEY</spk>                    (panicked, anxious, fast)
+                          <sp><spk sex="F">SIDNEY</spk>                    (panicked, anxious, fast)
                  What now? And don't give me some
-                 movie cliché like 'trust me.'
+                 movie cliché like 'trust me.'</sp>
 
-                           <spk sex="M">BOND</spk>                  (what the hell)
-                 Trust me.
+                           <sp><spk sex="M">BOND</spk>                  (what the hell)
+                 Trust me.</sp>
 
-      And with this, he turns, and SHOOTS OUT the adjacent WINDOW.
+      <sd>And with this, he turns, and SHOOTS OUT the adjacent WINDOW.</sd>
 
-                           <spk sex="M">BOND</spk>            Let's go -
+                           <sp><spk sex="M">BOND</spk>            Let's go -</sp>
 
-      But as he starts to climb out - SIDNEY SCREAMS! THE CABLE SUDDENLY
+      <sd>But as he starts to climb out - SIDNEY SCREAMS! THE CABLE SUDDENLY
       DROPS THEM 10 FEET LOWER, BELOW THE WINDOW.
 
       THE TERRACE SET-BACK -
@@ -6082,16 +6076,16 @@
       BOND AND SIDNEY -
 
       look down at the curved glass top of the sky bridge - facing what
-      (she thinks) is certain death:
+      (she thinks) is certain death:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              We're going to bounce off that thing!
+                          <sp><spk sex="F">SIDNEY</spk>              We're going to bounce off that thing!</sp>
 
-      Bond looks up - assuming they have only seconds left before Stamper
-      cuts the cable. HE GRABS HER:
+      <sd>Bond looks up - assuming they have only seconds left before Stamper
+      cuts the cable. HE GRABS HER:</sd>
 
-                           <spk sex="M">BOND</spk>            Hold on!
+                           <sp><spk sex="M">BOND</spk>            Hold on!</sp>
 
-      TERRACE SET-BACK - 72ND FLOOR - TWILIGHT -
+      <sd>TERRACE SET-BACK - 72ND FLOOR - TWILIGHT -
 
       Stamper takes a final swing at the cable drum. With a GREAT CLAT-
       TERING SOUND it SNAPS FREE OF THE MOORINGS, smashes into the wall,
@@ -6105,11 +6099,11 @@
 
       THE BULLETS SHATTER THE GLASS -
 
-      BOND AND SIDNEY CRASH THROUGH, INTO -
+      BOND AND SIDNEY CRASH THROUGH, INTO -</sd>
 
       INT. 50TH FLOOR SKY BRIDGE -
 
-      Landing on the deck of the bridge. Bond rolls to his feet as -
+      <sd>Landing on the deck of the bridge. Bond rolls to his feet as -
 
       Fifty stories of cable from above is falling onto the deck. Bond
       yanks Sidney to the side of the building, just as THE CABLE DRUM,
@@ -6117,77 +6111,77 @@
 
       72ND FLOOR TERRACE SET-BACK -
 
-      Looking down, Stamper flips open his radio.
+      Looking down, Stamper flips open his radio.</sd>
 
-                          <spk>STAMPER</spk>                    (over radio)
+                          <sp><spk>STAMPER</spk>                    (over radio)
                  They're on the bridge. Seal off the
-                 50th floor!
+                 50th floor!</sp>
 
       INT. SECURITY CENTER -
 
-                          <spk>HARMSWAY</spk>                    (looking at the monitors)
+                          <s><spk>HARMSWAY</spk>                    (looking at the monitors)
                  I should have hired this man.
                        (to his guards)
-                 Get somebody up there!
+                 Get somebody up there!</s>
 
       INT. SKY BRIDGE - TWILIGHT -
 
-      Bond is moving to the window washer rig debris.
+      <sd>Bond is moving to the window washer rig debris.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              What about the elevators?
+                          <sp><spk sex="F">SIDNEY</spk>              What about the elevators?</sp>
 
-      He steps to the side of the bridge, and looks at the railings: Four
-      inch pipe. Bond begins to work feverishly:
+      <sd>He steps to the side of the bridge, and looks at the railings: Four
+      inch pipe. Bond begins to work feverishly:</sd>
 
-                           <spk sex="M">BOND</spk>            We tried that already. Remember?
+                           <sp><spk sex="M">BOND</spk>            We tried that already. Remember?</sp>
 
-      Bond picks up the cable and the leather harnesses.
+      <sd>Bond picks up the cable and the leather harnesses.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              You know, this is as much your fault
-                 as it is mine.
+                          <sp><spk sex="F">SIDNEY</spk>              You know, this is as much your fault
+                 as it is mine.</sp>
 
-      Bond is slipping the cable around the railing pipe. One loop.
+      <sd>Bond is slipping the cable around the railing pipe. One loop.</sd>
 
-                           <spk sex="M">BOND</spk>            Sidney, we don't have time for this -
+                           <sp><spk sex="M">BOND</spk>            Sidney, we don't have time for this -</sp>
 
-      He pulls on the loop to test it. Good enough. Makes a second loop.
+      <sd>He pulls on the loop to test it. Good enough. Makes a second loop.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Sure! Just when I want to talk -
+                          <sp><spk sex="F">SIDNEY</spk>              Sure! Just when I want to talk -
                        (beat)
-                 Not that I would have believed you -
+                 Not that I would have believed you -</sp>
 
-      Bond tests the second loop. He's satisfied. Turns to her:
+      <sd>Bond tests the second loop. He's satisfied. Turns to her:</sd>
 
-                           <spk sex="M">BOND</spk>            Put your back to the railing. Sit up
-                 on it.
+                           <sp><spk sex="M">BOND</spk>            Put your back to the railing. Sit up
+                 on it.</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (doing it)
-                 Are you listening to me?
+                          <sp><spk sex="F">SIDNEY</spk>                    (doing it)
+                 Are you listening to me?</sp>
 
-                           <spk sex="M">BOND</spk>            Put your arms around my neck. Lock
-                 your legs around my waist.
+                           <sp><spk sex="M">BOND</spk>            Put your arms around my neck. Lock
+                 your legs around my waist.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              ... We have time for that?
+                          <sp><spk sex="F">SIDNEY</spk>              ... We have time for that?</sp>
 
-      Just then, GUARDS APPEAR OUT OF FAR ELEVATOR DOOR. Running, THEY
+      <sd>Just then, GUARDS APPEAR OUT OF FAR ELEVATOR DOOR. Running, THEY
       SHOOT. BOND FIRES A BURST BACK as - A NEW ROUND OF BULLET HITS
       BEGINS TO RAIN DOWN ON THEM FROM ABOVE.
 
       BOND LOOKS UP: Stamper has commandeered a second window washer's
       rig, and is descending, FIRING AT THEM.
 
-      Bond looks at Sidney -
+      Bond looks at Sidney -</sd>
 
-                           <spk sex="M">BOND</spk>            Sometimes you just have to -
+                           <sp><spk sex="M">BOND</spk>            Sometimes you just have to -</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Don't say it.
+                          <sp><spk sex="F">SIDNEY</spk>              Don't say it.</sp>
 
-      She locks her arms and legs around him, he snaps the leather harness
-      around her waist, and they roll over the railing Amidst gunfire.
+      <sd>She locks her arms and legs around him, he snaps the leather harness
+      around her waist, and they roll over the railing Amidst gunfire.</sd>
 
       EXT. HARMSWAY TOWERS - TWILIGHT
 
-      Bond and Sidney fall from the bridge - 50 stories up.
+      <sd>Bond and Sidney fall from the bridge - 50 stories up.
 
       They go down,
 
@@ -6215,35 +6209,35 @@
 
       The cable comes to the end of its run! It DRAGS THE SPOOL, THE
       BUCKET, and all the other MECHANICS to the side of the bridge,
-      SMASHING AGAINST THE WALL, JAMMING AGAINST THE RAILING.
+      SMASHING AGAINST THE WALL, JAMMING AGAINST THE RAILING.</sd>
 
       EXT. THE PRESS ROOM OBSERVATION BALCONY - TWILIGHT -
 
-      Bond and Sidney jerk to a halt. They're swinging about five feet
-      from the balcony. There's a pause...
+      <sd>Bond and Sidney jerk to a halt. They're swinging about five feet
+      from the balcony. There's a pause...</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Is this - like - a normal day for you?
+                          <sp><spk sex="F">SIDNEY</spk>              Is this - like - a normal day for you?</sp>
 
-                           <spk sex="M">BOND</spk>            It's a lousy job, but -
+                           <sp><spk sex="M">BOND</spk>            It's a lousy job, but -
                        (reaching for the balcony)
                  The only reason I stay is for the
-                 health benefits.
+                 health benefits.</sp>
 
-      Bond PULLS THEM OVER TO THE BALCONY.
+      <sd>Bond PULLS THEM OVER TO THE BALCONY.</sd>
 
       INT. SKY BRIDGE - TWILIGHT -
 
-      Stamper lands on bridge. He unbuckles his harness, runs to railing,
+      <sd>Stamper lands on bridge. He unbuckles his harness, runs to railing,
       looks down and sees SIDNEY AND BOND climbing out onto the balcony,
-      going for the PRESS ROOM DOOR.
+      going for the PRESS ROOM DOOR.</sd>
 
-                          <spk>STAMPER</spk>                    (into his radio)
+                          <sp><spk>STAMPER</spk>                    (into his radio)
                  They're heading for the press room.
-                 Stop them!
+                 Stop them!</sp>
 
       INT. PRESS ROOM -
 
-      Bond and Sidney enter at the top of the metal stairs Bond came down
+      <sd>Bond and Sidney enter at the top of the metal stairs Bond came down
       earlier to meet Harmsway.
 
       The Presses are running full blast; the noise is deafening.
@@ -6307,97 +6301,97 @@
 
       The Guard is sucked up in the press rollers, and...
 
-      The pages running through the newsprint web suddenly turn BRIGHT RED.
+      The pages running through the newsprint web suddenly turn BRIGHT RED.</sd>
 
-                           <spk sex="M">BOND</spk>            He was bad news.
+                           <sp><spk sex="M">BOND</spk>            He was bad news.</sp>
 
-      Spotting more Guards coming down the far staircase, Bond grabs Sidney
-      and the gun, and runs to the NEWSPAPER DELIVERY CHUTE.
+      <sd>Spotting more Guards coming down the far staircase, Bond grabs Sidney
+      and the gun, and runs to the NEWSPAPER DELIVERY CHUTE.</sd>
 
-                           <spk sex="M">BOND</spk>            Down there!
+                           <sp><spk sex="M">BOND</spk>            Down there!</sp>
 
-      They jump into it, sliding down, and around an ALUMINUM CHUTE into:
+      <sd>They jump into it, sliding down, and around an ALUMINUM CHUTE into:</sd>
 
       INT. GARAGE - HARMSWAY TOWERS.
 
-      Bond and Sidney come out near a TROLLEY stacked with newspapers.
+      <sd>Bond and Sidney come out near a TROLLEY stacked with newspapers.
 
       Hearts pounding - having left the pressroom's deafening noise -
       they're ready for almost anything, except what they HEAR:
 
-      The SOUND OF ONE MAN APPLAUDING. A polite, almost bored clapping.
+      The SOUND OF ONE MAN APPLAUDING. A polite, almost bored clapping.</sd>
 
-                              HARMSWAY (O.S.)
+                              <sp><spk>HARMSWAY</spk> (O.S.)
                  Vert, very, good Mr. Bond. Outstanding
-                 performance.
+                 performance.</sp>
 
-      Harmsway is standing with TEN GUARDS, shoulder to shoulder, in a
-      straight line, all HOLDING WEAPONS on Sidney and Bond.
+      <sd>Harmsway is standing with TEN GUARDS, shoulder to shoulder, in a
+      straight line, all HOLDING WEAPONS on Sidney and Bond.</sd>
 
-                              HARMSWAY (continuing)
+                              <sp><spk>HARMSWAY</spk> (continuing)
                  I'm the certain the British taxpayers
                  would be impressed by your efforts.
-                 Don't you agree?
+                 Don't you agree?</sp>
 
-                           <spk sex="M">BOND</spk>            I think they'd rather know who stole
-                 their gold.
+                           <sp><spk sex="M">BOND</spk>            I think they'd rather know who stole
+                 their gold.</sp>
 
-      Harmsway can't help his ego:
+      <sd>Harmsway can't help his ego:</sd>
 
-                          <spk>HARMSWAY</spk>                    (chuckles)
+                          <sp><spk>HARMSWAY</spk>                    (chuckles)
                  Why, I did, of course. It's on the
                  Sea Dolphin II, twenty miles outside
                  of Hong Kong... Not that it will do
                  either of you any good to know.
                        (beat)
                  Now both of you: Stand up. And toss
-                 the gun out, Mr. Bond.
+                 the gun out, Mr. Bond.</sp>
 
-      Bond SLIDES THE GUN several feet in front of him... And THROWS A LOOK
+      <sd>Bond SLIDES THE GUN several feet in front of him... And THROWS A LOOK
       TO HIS CAR, noting THE GUARDS ARE LINED UP DIRECTLY IN ITS PATH.
-      Bond begins to scheme.
+      Bond begins to scheme.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              Uncle Elliot: How could you do this
-                 to me?
+                          <sp><spk sex="F">SIDNEY</spk>              Uncle Elliot: How could you do this
+                 to me?</sp>
 
-      Bond sneaks his hand in his pocket.
+      <sd>Bond sneaks his hand in his pocket.</sd>
 
-                          <spk>HARMSWAY</spk>              Oh, please, Sidney. There's a
+                          <sp><spk>HARMSWAY</spk>              Oh, please, Sidney. There's a
                  hundred billion dollars at stake.
                        (beat)
                  Besides, I never really liked your
-                 father that much. He cheated at cards.
+                 father that much. He cheated at cards.</sp>
 
-      Bond has removed the CAR REMOTE CONTROL. He palms it.
+      <sd>Bond has removed the CAR REMOTE CONTROL. He palms it.</sd>
 
-                           <spk sex="M">BOND</spk>            Are your guards really going to kill
-                 a helpless girl?
+                           <sp><spk sex="M">BOND</spk>            Are your guards really going to kill
+                 a helpless girl?</sp>
 
-                          <spk>HARMSWAY</spk>              My guards are from South Africa, Mr.
+                          <<sp>spk>HARMSWAY</spk>              My guards are from South Africa, Mr.
                  Bond. This is their chance to get even
                  with the formerly 'Great' Britain.
                        (beat)
                  Now both of you. Put your hands on
-                 your heads, and step forward.
+                 your heads, and step forward.</sp>
 
-      Holding the remote control, Bond puts his hands on his head. He's
-      manipulating the control into the right position to use it.
+      <sd>Holding the remote control, Bond puts his hands on his head. He's
+      manipulating the control into the right position to use it.</sd>
 
-                           <spk sex="M">BOND</spk>                  (trying to buy time)
+                           <sp><spk sex="M">BOND</spk>                  (trying to buy time)
                  What did you do, Harmsway? Make some
                  deal with the Chinese government for
                  the gold?.. Was the radioactive
-                 uranium I found in Venice part of it?
+                 uranium I found in Venice part of it?</sp>
 
-      He finally has the remote control in the right position.
+      <sd>He finally has the remote control in the right position.</sd>
 
-                          <spk>HARMSWAY</spk>              Questions, questions, Mr. Bond...
+                          <sp><spk>HARMSWAY</spk>              Questions, questions, Mr. Bond...
                  Which I'm afraid I've neither the
                  time, nor the inclination to answer.
                        (to the guards)
-                 Take them out to the jungle and -
+                 Take them out to the jungle and -</sp>
 
-      Suddenly, BOND'S CAR ENGINE STARTS WITH A ROAR. The GUARDS TURN, in
+      <sd>Suddenly, BOND'S CAR ENGINE STARTS WITH A ROAR. The GUARDS TURN, in
       shock TOWARDS THE CAR, as:
 
       BOND retrieves the gun he slid out, and pulls Sidney behind the
@@ -6405,39 +6399,39 @@
 
       THE CAR BEGINS TO MOVE, sending the guards scrambling.
 
-      BOND takes his position with Sidney.
+      BOND takes his position with Sidney.</sd>
 
-                           <spk sex="M">BOND</spk>            I forgot to mention: The job comes
-                 with a car.
+                           <sp><spk sex="M">BOND</spk>            I forgot to mention: The job comes
+                 with a car.</sp>
 
-      007 begins shooting, as -
+      <sd>007 begins shooting, as -</sd>
 
-                          <spk>HARMSWAY</spk>              Kill it! Shoot the damn thing -
+                          <sp><spk>HARMSWAY</spk>              Kill it! Shoot the damn thing -</sp>
 
-      THE GUARDS START BLASTING THE EMPTY MOVING CAR. They manage to shoot
+      <sd>THE GUARDS START BLASTING THE EMPTY MOVING CAR. They manage to shoot
       out the headlights, while -
 
       BOND is having trouble coordinating driving and shooting at the same
-      time. As bullets rip up the newspapers in front of them -
+      time. As bullets rip up the newspapers in front of them -</sd>
 
-                           <spk sex="M">BOND</spk>            Here. You shoot. I'll drive.
+                           <sp><spk sex="M">BOND</spk>            Here. You shoot. I'll drive.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              ...You know, that's another reason
+                          <sp><spk sex="F">SIDNEY</spk>              ...You know, that's another reason
                  you're probably not in a successful
-                 relationship.
+                 relationship.</sp>
 
-                           <spk sex="M">BOND</spk>            Another reason??? Did I miss something???
+                           <sp><spk sex="M">BOND</spk>            Another reason??? Did I miss something???</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (taking the gun)
+                          <sp><spk sex="F">SIDNEY</spk>                    (taking the gun)
                  You insist on calling all the shots.
                        (beat)
-                 And by the way: I am not a helpless girl.
+                 And by the way: I am not a helpless girl.</sp>
 
-      Bond eyes her for one split second. Points at the guards:
+      <sd>Bond eyes her for one split second. Points at the guards:</sd>
 
-                           <spk sex="M">BOND</spk>            Aim that way.
+                           <sp><spk sex="M">BOND</spk>            Aim that way.</sp>
 
-      Sidney starts to shoot as -
+      <sd>Sidney starts to shoot as -
 
       THE GUARDS continue to blast away at the car... But:
 
@@ -6448,15 +6442,15 @@
       THE TIRES DON'T GO FLAT.
 
       There's chaos; a cacophony of voices and wild gunfire as BOND STEERS
-      THE CAR TO THEIR POSITION, where the door opens automatically.
+      THE CAR TO THEIR POSITION, where the door opens automatically.</sd>
 
-                           <spk sex="M">BOND</spk>            Ready? Now!
+                           <sp><spk sex="M">BOND</spk>            Ready? Now!</sp>
 
-      The two of them make a break for the car, DIVING INSIDE.
+      <sd>The two of them make a break for the car, DIVING INSIDE.</sd>
 
       INT. BOND'S CAR - MOVING - GARAGE -
 
-      - Bond guns the engine, slams the transmission into gear. Burning
+      <sd>- Bond guns the engine, slams the transmission into gear. Burning
       rubber, GUARDS bounce off the front fenders.
 
       THE GUARDS -
@@ -6465,19 +6459,19 @@
 
       OTHER GUARDS -
 
-      Run for the HUM-VEES. Hop in and chase.
+      Run for the HUM-VEES. Hop in and chase.</sd>
 
       INT. BOND'S CAR - (MOVING) -
 
-      Bond flips open a hidden control panel. Flips a switch.
+      <sd>Bond flips open a hidden control panel. Flips a switch.</sd>
 
       EXT. BACK OF BOND'S CAR - (MOVING) -
 
-      The TAIL-LIGHTS DROP DOWN and MACHINE GUNS start to fire.
+      <sd>The TAIL-LIGHTS DROP DOWN and MACHINE GUNS start to fire.</sd>
 
       INT. BOND'S CAR - (MOVING) -
 
-      Bond glances at the REARVIEW MIRROR. Sees the HUM-VEES. Presses
+      <sd>Bond glances at the REARVIEW MIRROR. Sees the HUM-VEES. Presses
       another switch -
 
       CLOSE ON BOND'S EXHAUST PIPE -
@@ -6488,45 +6482,45 @@
 
       BOOM! It's decimated.
 
-      ANGLE ON HARMSWAY - ON HIS RADIO -
+      ANGLE ON HARMSWAY - ON HIS RADIO -</sd>
 
-                          <spk>HARMSWAY</spk>              Seal the garage! Cut the power!
-                 He's got no headlamps!
+                          <sp><spk>HARMSWAY</spk>              Seal the garage! Cut the power!
+                 He's got no headlamps!</sp>
 
       INT. GARAGE - FIRST TURN -
 
-      As the car screeches around a corner, the overhead lights go out.
+      <sd>As the car screeches around a corner, the overhead lights go out.</sd>
 
       INT. BOND'S CAR -
 
-      Bond flips down the visor: A THERMAL IMAGING DISPLAY drops down.
+      <sd>Bond flips down the visor: A THERMAL IMAGING DISPLAY drops down.</sd>
 
       INSERT "HEADS UP" IMAGING DISPLAY -
 
-      It looks just like the jet fighter videos from the Gulf War.
+      <sd>It looks just like the jet fighter videos from the Gulf War.</sd>
 
       INT. GARAGE - SECOND TURN - UP RAMP -
 
-      Bond's car roars around a second turn, with sparks flying as it
+      <sd>Bond's car roars around a second turn, with sparks flying as it
       scrapes the walls. AHEAD, a MASSIVE ONE-PIECE DOOR is FOLDING DOWN
-      FROM THE CEILING. A city street beyond.
+      FROM THE CEILING. A city street beyond.</sd>
 
       INT. BOND'S CAR - MOVING -
 
-                          <spk sex="F">SIDNEY</spk>              We're not going to make it!
+                          <sp><spk sex="F">SIDNEY</spk>              We're not going to make it!</sp>
 
-      Bond flips down a control panel from the RADIO. A DIGITAL DISPLAY
-      begins to run through a set of numbers. Bond explains:
+      <sd>Bond flips down a control panel from the RADIO. A DIGITAL DISPLAY
+      begins to run through a set of numbers. Bond explains:</sd>
 
-                           <spk sex="M">BOND</spk>            If it's radio controlled, it'll break
-                 the code.
+                           <sp><spk sex="M">BOND</spk>            If it's radio controlled, it'll break
+                 the code.</sp>
 
-                          <spk sex="F">SIDNEY</spk>              If not?
+                          <sp><spk sex="F">SIDNEY</spk>              If not?</sp>
 
-                           <spk sex="M">BOND</spk>                  (pointing to a button)
-                 We blast through.
+                           <sp><spk sex="M">BOND</spk>                  (pointing to a button)
+                 We blast through.</sp>
 
-      THE CAR APPROACHES THE CLOSING DOOR AT HIGH SPEED -
+      <sd>THE CAR APPROACHES THE CLOSING DOOR AT HIGH SPEED -
 
       BOND SEES THEY'RE NOT GOING TO MAKE IT. HE PUNCHES THE MISSILE BUTTON.
 
@@ -6539,35 +6533,35 @@
       SIDNEY SCREAMS! BOND BRACES, AND -
 
       BOOM! CRASH! SILENCE. BLACK. After a moment, we HEAR THE SOUND OF
-      FOOTSTEPS ON CEMENT.
+      FOOTSTEPS ON CEMENT.</sd>
 
       INT. GARAGE -
 
-      The lights come on. The car is a twisted wreck, smashed against the
+      <sd>The lights come on. The car is a twisted wreck, smashed against the
       wall. Bond and Sidney are slumped forward, unconscious.
 
-      Harmsway KNOCKS TWICE ON THE GARAGE DOOR, to demonstrate:
+      Harmsway KNOCKS TWICE ON THE GARAGE DOOR, to demonstrate:</sd>
 
-                          <spk>HARMSWAY</spk>              - Built to withstand a nuclear blast.
+                          <sp><spk>HARMSWAY</spk>              - Built to withstand a nuclear blast.
                        (to Stamper, checking
                         Bond's pulse)
-                 Are they alive?
+                 Are they alive?</sp>
 
-                          <spk>STAMPER</spk>              Yes. Shall we kill them?
+                          <sp><spk>STAMPER</spk>              Yes. Shall we kill them?</sp>
 
-                          <spk>HARMSWAY</spk>              No. I have a better idea. In fact,
+                          <sp><spk>HARMSWAY</spk>              No. I have a better idea. In fact,
                  Mr. Bond may have actually improved
                  my original plan.
                        (beat)
                  Bring them both to Hong Kong. And
                  Make sure he has nothing else up his
-                 sleeve.
+                 sleeve.</sp>
 
       DISSOLVE TO:
 
       EXT. ABERDEEN HARBOR - HONG KONG - MORNING -
 
-      It is early morning in this strange harbor - a place where floating
+      <sd>It is early morning in this strange harbor - a place where floating
       restaurant rise out of the fog; where an old Chinese man wearing an
       LA Laker's jersey practices tai-chi on the bow of an ancient junk;
       where sampans cut through the chop filled with ducks, computer boxes
@@ -6582,220 +6576,217 @@
 
       THE SAME SCENE ON A 5" PORTABLE VIDEO MONITOR -
 
-      With one important difference: There's an HNN logo in lower corner.
+      With one important difference: There's an HNN logo in lower corner.</sd>
 
-                              ASIAN MALE NEWS REPORTER (VO)
+                              <sp><spk sex="M">ASIAN MALE NEWS REPORTER</spk> (VO)
                  As part of our continuing report on
                  terrorism, we're outside Hong Kong's
-                 Aberdeen Harbor nuclear power plant...
+                 Aberdeen Harbor nuclear power plant...</sp>
 
       NEW ANGLE (EXT. POWER PLANT, FRONT ENTRANCE, WATERSIDE) -
 
-      Two VIDEO CAMERAMEN are shooting an ASIAN HNN REPORTER interviewing a
+      <sd>Two VIDEO CAMERAMEN are shooting an ASIAN HNN REPORTER interviewing a
       middle-aged CHINESE MAN. We don't see the reporter's face; from the
       "over the shoulder" news angle, he's WEARING A HAT.
 
       (There's also HNN BELL JETRANGER HELICOPTER on the ground, and a
-      seemingly empty HNN BOAT moored to a nearby pier.)
+      seemingly empty HNN BOAT moored to a nearby pier.)</sd>
 
-                              ASIAN MALE NEWS REPORTER (cont'd)
+                              <sp><spk sex="M">ASIAN MALE NEWS REPORTER </spk>(cont'd)
                  - Interviewing Mr. David Chin, senior
                  engineer in charge of security.
                        (beat)
                  Tell me, Mr. Chin: How safe is this
-                 plant from a terrorist attack?
+                 plant from a terrorist attack?</sp>
 
-      He holds out a MICROPHONE to Chin.
+      <sd>He holds out a MICROPHONE to Chin.</sd>
 
-                              CHIN
+                              <sp><spk>CHIN</spk>
                  Totally secure. Without codes, you'd
                  need a missile to blast through the
                  front door; you normally can't even get
                  this close (to the plant) without a full
-                 security clearance.
+                 security clearance.</sp>
 
-                              ASIAN MALE NEWS REPORTER
+                              <sp><spk>ASIAN MALE NEWS REPORTER</spk>
                  ...Could you say that a little closer
-                 to the microphone?
+                 to the microphone?</sp>
 
-      He pushes the microphone closer to Chin's face:
+      <sd>He pushes the microphone closer to Chin's face:</sd>
 
-                              CHIN
-                 Of course. You'd need -
+                              <sp><spk>CHIN</spk>
+                 Of course. You'd need -</sp>
 
-      Suddenly, A PUFF OF WHITE SMOKE EMERGES FROM THE MICROPHONE... And
-      CHIN COLLAPSES. The HNN reporter TAKES OFF HIS HAT: IT'S YUNG.
+      <sd>Suddenly, A PUFF OF WHITE SMOKE EMERGES FROM THE MICROPHONE... And
+      CHIN COLLAPSES. The HNN reporter TAKES OFF HIS HAT: IT'S YUNG.</sd>
 
-                              YUNG
+                              <sp><spk>YUNG</spk>
                        (to the guards)
-                 Now!
+                 Now!</sp>
 
-      At once, the two cameramen turn: One AIMS his shoulder-mounted video
+      <sd>At once, the two cameramen turn: One AIMS his shoulder-mounted video
       camera at a SURVEILLANCE CAMERA; the other aims at the FRONT DOOR.
 
-      BOOM! ROCKETS shoot out from their lenses, destroying both.
+      BOOM! ROCKETS shoot out from their lenses, destroying both.</sd>
 
-                              YUNG
-                 Let's go!
+                              <sp><spk>YUNG</spk>
+                 Let's go!</sp>
 
-      As Yung and the cameramen rush forward -
+      <sd>As Yung and the cameramen rush forward -
 
       ANGLE ON THE HNN BOAT -
 
       Harmsway emerges from the boat accompanied by two men carrying a box
-      of equipment. He calls back to TWO MEN who have appeared on deck:
+      of equipment. He calls back to TWO MEN who have appeared on deck:</sd>
 
-                          <spk>HARMSWAY</spk>              Get the machine in the water!
+                          <sp><spk>HARMSWAY</spk>              Get the machine in the water!</sp>
 
-      They begin using a hoist to lift one of the "worms" from a hold.
+      <sd>They begin using a hoist to lift one of the "worms" from a hold.
       (This one looks like an open-mouthed torpedo, with an antenna on top,
-      and no flexible tubing attached.)
+      and no flexible tubing attached.)</sd>
 
       INT. HALLWAY/RECEPTION - POWER PLANT -
 
-      Yung and the cameramen turn a corner to the reception/security area:
+      <sd>Yung and the cameramen turn a corner to the reception/security area:</sd>
 
-                              POWER PLANT GUARD
-                 What happened out there?
+                              <sp><spk>POWER PLANT GUARD</spk>
+                 What happened out there?</sp>
 
-                              YUNG
+                              <sp><spk>YUNG</spk>
                  A generator blew. Nothing to worry about.
                        (beat)
                  But I need one last shot of you. Why
-                 don't you stand by the alarm?
+                 don't you stand by the alarm?</sp>
 
-                              POWER PLANT GUARD
-                 No problem.
+                              <sp><spk>POWER PLANT GUARD</spk>
+                 No problem.</sp>
 
-      The guard stands, and smiles, posing for the video camera... And Yung
-      pulls a pistol from his pocket and shoots him.
+      <sd>The guard stands, and smiles, posing for the video camera... And Yung
+      pulls a pistol from his pocket and shoots him.</sd>
 
-                              YUNG
+                              <sp><spk>YUNG</spk>
                        (to the cameramen)
-                 Up the stairs!
+                 Up the stairs!</sp>
 
-      They follow Yung up a set of stairs leading to the reactor control
-      room. Meanwhile, back at the HNN boat:
+      <sd>They follow Yung up a set of stairs leading to the reactor control
+      room. Meanwhile, back at the HNN boat:</sd>
 
       INT. CABIN - HNN BOAT
 
-      Bond is at the porthole, wearing only shorts, trying to figure a way
+      <sd>Bond is at the porthole, wearing only shorts, trying to figure a way
       out. He hears the door click open, and -
 
       A Guard enters carrying a pile of Bond's clothing with his shoes on
-      top. Stamper is behind him, holding a gun on Sidney.
+      top. Stamper is behind him, holding a gun on Sidney.</sd>
 
-                          <spk>STAMPER</spk>              Put on your clothes.
+                          <sp><spk>STAMPER</spk>              Put on your clothes.
                        (to the guard)
-                 Cuff him.
+                 Cuff him.</sp>
 
-      The guard cuffs Bond's hands (in the front,) and we cut back to:
+      <sd>The guard cuffs Bond's hands (in the front,) and we cut back to:</sd>
 
       INT. POWER PLANT CONTROL ROOM -
 
-      Yung and the Cameramen sweep into the control room: Lots of con-
+      <sd>Yung and the Cameramen sweep into the control room: Lots of con-
       soles, with a window overlooking the REACTOR CORE, and its
-      surrounding blue COOLING POOL.
+      surrounding blue COOLING POOL.</sd>
 
-                              YUNG
+                              <sp><spk>YUNG</spk>
                        (to the half-dozen engineers)
                  I'm sorry to interrupt again. But we
-                 need one more picture for the story.
+                 need one more picture for the story.</sp>
 
-      The engineers ad-lib replies: "Sure." "Okay." Yung smiles:
+      <sd>The engineers ad-lib replies: "Sure." "Okay." Yung smiles:</sd>
 
-                              YUNG (CONT'D)
+                              <sp><spk>YUNG</spk> (CONT'D)
                  Why don't you line up against the
-                 wall? Let's make it a group shot.
+                 wall? Let's make it a group shot.</sp>
 
-      The engineers line up against a wall. The cameramen take positions
-      for a massacre. And at the first sound of gunfire, we cut to:
+      <sd>The engineers line up against a wall. The cameramen take positions
+      for a massacre. And at the first sound of gunfire, we cut to:</sd>
 
       EXT. ENTRANCEWAY -
 
-      Stamper is marching Bond and Sidney through the door in handcuffs.
+      <sd>Stamper is marching Bond and Sidney through the door in handcuffs.</sd>
 
-                           <spk sex="M">BOND</spk>            Sleep well?
+                           <sp><spk sex="M">BOND</spk>            Sleep well?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Next time, I do the driving.
+                          <sp><spk sex="F">SIDNEY</spk>              Next time, I do the driving.</sp>
 
-      Bond gives her a look.
+      <sd>Bond gives her a look.
 
       RETURN ON THE CONTROL ROOM -
 
       Harmsway and Yung are locking down at the VIDEO SCREEN of a portable
-      version of the "worm" controller we saw on the SEA DOLPHIN II.
+      version of the "worm" controller we saw on the SEA DOLPHIN II.</sd>
 
-                              YUNG
-                 The drill is in the water;
-                 approaching the intake tunnel.
+                          <sp><spk>YUNG</spk>              The drill is in the water;
+                 approaching the intake tunnel.</sp>
 
-                          <spk>HARMSWAY</spk>              Excellent.
+                          <sp><spk>HARMSWAY</spk>              Excellent.</sp>
 
-      Harmsway looks up, hearing:
+      <sd>Harmsway looks up, hearing:</sd>
 
-                           <spk sex="M">BOND</spk>            I see you're in your natural element,
+                           <sp><spk sex="M">BOND</spk>            I see you're in your natural element,
                  Harmsway: A room filled with lethal
                  power...
                        (beat)
-                 ...With a toxic core at its center.
+                 ...With a toxic core at its center.</sp>
 
-      Harmsway smiles at Bond and Sidney, who have entered (handcuffed, at
-      gun point,) with Stamper and a guard. Harmsway is charming as ever:
+      <sd>Harmsway smiles at Bond and Sidney, who have entered (handcuffed, at
+      gun point,) with Stamper and a guard. Harmsway is charming as ever:</sd>
 
-                          <spk>HARMSWAY</spk>              Do come in Mr. Bond, Sidney...
+                          <sp><spk>HARMSWAY</spk>              Do come in Mr. Bond, Sidney...
                  You're just in time for a nuclear
-                 meltdown!
+                 meltdown!</sp>
 
-      Coming closer, Sidney struggles against her cuffs, swinging at him -
+      <sd>Coming closer, Sidney struggles against her cuffs, swinging at him -</sd>
 
-                          <spk sex="F">SIDNEY</spk>              You bastard -
+                          <sp><spk sex="F">SIDNEY</spk>              You bastard -</sp>
 
-      Stamper restrains her, while Bond scans the room for an advantage.
-      He sees a MACHINE PISTOL on the console.
+      <sd>Stamper restrains her, while Bond scans the room for an advantage.
+      He sees a MACHINE PISTOL on the console.</sd>
 
-                          <spk>HARMSWAY</spk>              Please, Sidney. I'd like to remember
-                 you fondly.
+                          <sp><spk>HARMSWAY</spk>              Please, Sidney. I'd like to remember
+                 you fondly.</sp>
 
-                              YUNG
-                       (calling from the console)
-                 Approaching the first gate.
+                          <sp><spk>YUNG</spk>                    (calling from the console)
+                 Approaching the first gate.</sp>
 
-                          <spk>HARMSWAY</spk>              Start the grinders.
+                          <sp><spk>HARMSWAY</spk>              Start the grinders.</sp>
 
       UNDERWATER - POWER PLANT INTAKE TUNNEL -
 
-      The "worm" is nearing an iron sluice gate; the eye closes, the
-      grinders rev, and it starts to eat through the bars.
+      <sd>The "worm" is nearing an iron sluice gate; the eye closes, the
+      grinders rev, and it starts to eat through the bars.</sd>
 
       RETURN ON CONTROL ROOM -
 
-                           <spk sex="M">BOND</spk>            ...So that's what the weapons grade
-                 uranium was for.
+                           <sp><spk sex="M">BOND</spk>            ...So that's what the weapons grade
+                 uranium was for.</sp>
 
-                          <spk>HARMSWAY</spk>              Precisely, Mr. Bond. In a matter of
+                          <sp><spk>HARMSWAY</spk>              Precisely, Mr. Bond. In a matter of
                  minutes, the boring device will
                  arrive at the core of the reactor...
                        (beat)
                  And when the radioactive blades cut
-                 into the plutonium -
+                 into the plutonium -</sp>
 
-                           <spk sex="M">BOND</spk>            - Instant melt-down.
+                           <sp><spk sex="M">BOND</spk>            - Instant melt-down.</sp>
 
-                          <spk>HARMSWAY</spk>              Chernobyl will look like a campfire.
+                          <sp><spk>HARMSWAY</spk>              Chernobyl will look like a campfire.</sp>
 
-      Young calls out again, with a hint of urgency. Bond decides to try
-      rattling Harmsway - so he can move Closer to the gun, unnoticed.
+      <sd>Young calls out again, with a hint of urgency. Bond decides to try
+      rattling Harmsway - so he can move Closer to the gun, unnoticed.</sd>
 
-                              YUNG
-                 We're through the first gate.
-                 Approaching the second -
+                          <sp><spk>YUNG</spk>              We're through the first gate.
+                 Approaching the second -</sp>
 
-                           <spk sex="M">BOND</spk>                  (demanding)
+                           <sp><spk sex="M">BOND</spk>                  (demanding)
                  Why, Harmsway? Wasn't stealing the
-                 gold enough?
+                 gold enough?</sp>
 
-                          <spk>HARMSWAY</spk>                    (to Yung)
+                          <sp><spk>HARMSWAY</spk>                    (to Yung)
                  Bore through.
                        (to Bond, chuckling)
                  ...They used to say living well was
@@ -6803,25 +6794,23 @@
                        (beat)
                  They're wrong.
                        (beat)
-                 Revenge is the best revenge.
+                 Revenge is the best revenge.</sp>
 
-                              YUNG
-                 Entering the main tunnel - ten
-                 minutes to target -
+                          <sp><spk>YUNG</spk>              Entering the main tunnel - ten
+                 minutes to target -</sp>
 
-                           <spk sex="M">BOND</spk>                  (fiercely)
+                           <sp><spk sex="M">BOND</spk>                  (fiercely)
                  What could you possibly have to be
                  vengeful for, Harmsway? Still trying
-                 to prove yourself to daddy?
+                 to prove yourself to daddy?</sp>
 
-      This infuriates Harmsway. Bond moves closer to the gun.
+      <sd>This infuriates Harmsway. Bond moves closer to the gun.</sd>
 
-                          <spk>HARMSWAY</spk>              Hong Kong, Mr. Bond!
+                          <sp><spk>HARMSWAY</spk>              Hong Kong, Mr. Bond!</sp>
 
-                              YUNG
-                 You have to leave -
+                          <sp><spk>YUNG</spk>              You have to leave -</sp>
 
-                          <spk>HARMSWAY</spk>                    (enraged, ignoring Yung)
+                          <sp><spk>HARMSWAY</spk>                    (enraged, ignoring Yung)
                  A hundred and fifty years ago, my
                  ancestors took this island - a
                  barren, lifeless rock - and turned it
@@ -6835,45 +6824,43 @@
                        (beat)
                  The gold is merely reparations -
                  payment from the spineless British
-                 government who wouldn't listen.
+                 government who wouldn't listen.</sp>
 
-                           <spk sex="M">BOND</spk>                  (to Sidney, glancing at the gun)
+                           <sp><spk sex="M">BOND</spk>                  (to Sidney, glancing at the gun)
                  ... I think Uncle Elliot is having
-                 his own melt-down.
+                 his own melt-down.</sp>
 
-                              YUNG
-                 Approaching the third gate -
+                          <sp><spk>YUNG</spk>              Approaching the third gate -</sp>
 
-                          <spk>HARMSWAY</spk>              Smash through it!
+                          <sp><spk>HARMSWAY</spk>              Smash through it!
                        (then)
                  Laugh all you'd like, Mr. Bond - but
                  you fit perfectly in to my plans.
                        (he reaches for a newspaper)
                  Here. This just in. Newsflash.
-                 Read all about it.
+                 Read all about it.</sp>
 
-      He thrusts an issue of TOMORROW at Bond, holding the top half out as
-      Bond reads THE HEADLINES, sourly:
+      <sd>He thrusts an issue of TOMORROW at Bond, holding the top half out as
+      Bond reads THE HEADLINES, sourly:</sd>
 
-                           <spk sex="M">BOND</spk>            ... Hong Kong destroyed by nuclear
+                           <sp><spk sex="M">BOND</spk>            ... Hong Kong destroyed by nuclear
                  meltdown... British agent found in
                  reactor suspected of sabotage; Harmsway
-                 calls for British government to resign.
+                 calls for British government to resign.</sp>
 
-      Harmsway smiles at Bond:
+      <sd>Harmsway smiles at Bond:</sd>
 
-                          <spk>HARMSWAY</spk>              ...As the advertising says: Tomorrow
-                 never lies.
+                          <sp><spk>HARMSWAY</spk>              ...As the advertising says: Tomorrow
+                 never lies.</sp>
 
-                           <spk sex="M">BOND</spk>            What about the gold?
+                           <sp><spk sex="M">BOND</spk>            What about the gold?</sp>
 
-                              YUNG
-                 You must go. Now. Otherwise the
-                 boat won't be out of range -
+                          <sp><spk>YUNG</spk>              You must go. Now. Otherwise the
+                 boat won't be out of range -</sp>
 
-      Stamper and the guard appear nervous, itching to leave -
+      <sd>Stamper and the guard appear nervous, itching to leave -</sd>
 
-                          <spk>HARMSWAY</spk>              Thirty seconds.
+                          <sp><spk>HARMSWAY</spk>              Thirty seconds.
                        (then, to Bond)
                  That's the most brilliant part of the
                  plan, Mr. Bond: To save the economy,
@@ -6883,22 +6870,22 @@
                  - where no one will be able to touch
                  it for a hundred years.
                        (beat)
-                 And just by coincidence:
+                 And just by coincidence:</sp>
 
-      He turns the paper over and reads/reveals a smaller headline:
+      <sd>He turns the paper over and reads/reveals a smaller headline:</sd>
 
-                          <spk>HARMSWAY</spk>              ...Gold mine opens in Vietnam.
+                          <sp><spk>HARMSWAY</spk>              ...Gold mine opens in Vietnam.
                        (turns to Stamper)
-                 Let's go. Put them in the airlock.
+                 Let's go. Put them in the airlock.</sp>
 
-      Stamper moves towards Bond and Sidney. Bond edges closer to the gun.
+      <sd>Stamper moves towards Bond and Sidney. Bond edges closer to the gun.</sd>
 
-                           <spk sex="M">BOND</spk>            You'll never get away with it,
-                 Harmsway. Too many people know.
+                           <sp><spk sex="M">BOND</spk>            You'll never get away with it,
+                 Harmsway. Too many people know.</sp>
 
-      Bond tenses, ready to spring -
+      <sd>Bond tenses, ready to spring -</sd>
 
-                          <spk>HARMSWAY</spk>              Who, Mr. Bond? The kooks - the
+                          <sp><spk>HARMSWAY</spk>              Who, Mr. Bond? The kooks - the
                  crazies - the conspiracy theorists?
                  The Oliver Stones of the world?
                        (pausing, then, with great scorn:)
@@ -6907,86 +6894,84 @@
                  shows!
                        (beat)
                  They're my bellboys. They carry my
-                 luggage.
+                 luggage.</sp>
 
-      Bond moves, but - the guard picks up the gun!!! Bond frowns.
+      <sd>Bond moves, but - the guard picks up the gun!!! Bond frowns.</sd>
 
-                          <spk>HARMSWAY</spk>              Now. Get them in the airlock.
+                          <sp><spk>HARMSWAY</spk>              Now. Get them in the airlock.</sp>
 
-      Fortunately, Bond has a back-up plan. As Stamper hustles them off -
+      <sd>Fortunately, Bond has a back-up plan. As Stamper hustles them off -</sd>
 
-                           <spk sex="M">BOND</spk>            One problem, Harmsway: The girl. And
-                 the handcuffs. They'll give it away.
+                           <sp><spk sex="M">BOND</spk>            One problem, Harmsway: The girl. And
+                 the handcuffs. They'll give it away.</sp>
 
-      Harmsway considers this for a second. Sidney takes Bond's arm.
+      <sd>Harmsway considers this for a second. Sidney takes Bond's arm.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              No. I want to stay with him.
+                          <sp><spk sex="F">SIDNEY</spk>              No. I want to stay with him.</sp>
 
-      Bond looks at her. He's surprised: In the blink of an eye, he
+      <sd>Bond looks at her. He's surprised: In the blink of an eye, he
       realizes he's developed feelings for her. He knows that if he could
       hold her, he'd kiss her, and whisper "You're a hell of a girl"...
 
       But at the same instant - throwing a glance at Yung - he knows he's
-      running out of time against the worm, and is better off alone.
+      running out of time against the worm, and is better off alone.</sd>
 
-                          <spk>HARMSWAY</spk>                    (breaking the moment, cynically)
-                 How sweet.
+                          <sp><spk>HARMSWAY</spk>                    (breaking the moment, cynically)
+                 How sweet.</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (satto, to Bond)
-                 My timing always was lousy.
+                          <sp><spk sex="F">SIDNEY</spk>                    (satto, to Bond)
+                 My timing always was lousy.</sp>
 
-                           <spk sex="M">BOND</spk>                  (cold and hard)
-                 I'd rather die alone.
+                           <sp><spk sex="M">BOND</spk>                  (cold and hard)
+                 I'd rather die alone.</sp>
 
-                          <spk>HARMSWAY</spk>              Take the girl. Leave the handcuffs.
-                 We'll drown her at sea.
+                          <sp><spk>HARMSWAY</spk>              Take the girl. Leave the handcuffs.
+                 We'll drown her at sea.</sp>
 
-                          <spk sex="F">SIDNEY</spk>                    (to Bond, sarcastically)
-                 Enjoy the rest of your life.
+                          <sp><spk sex="F">SIDNEY</spk>                    (to Bond, sarcastically)
+                 Enjoy the rest of your life.</sp>
 
-      As Stamper pushes Bond into the reactor room airlock, he hears:
+      <sd>As Stamper pushes Bond into the reactor room airlock, he hears:</sd>
 
-                          <spk>HARMSWAY</spk>              I'll meet you on the boat, south of
-                 Lantau Island.
+                          <sp><spk>HARMSWAY</spk>              I'll meet you on the boat, south of
+                 Lantau Island.</sp>
 
       INT. AIRLOCK -
 
-      The door closes. Bond looks out the small window at:
+      <sd>The door closes. Bond looks out the small window at:
 
-      HARMSWAY AND YUNG IN THE CONTROL ROOM -
+      HARMSWAY AND YUNG IN THE CONTROL ROOM -</sd>
 
-                              YUNG
-                 Take the men. I can finish alone.
+                          <sp><spk>YUNG</spk>              Take the men. I can finish alone.</sp>
 
-                          <spk>HARMSWAY</spk>                    (to the technicians and cameramen)
+                          <sp><spk>HARMSWAY</spk>                    (to the technicians and cameramen)
                  You come with me -
                        (to the guard who handcuffed Bond)
-                 You stay here.
+                 You stay here.</sp>
 
-      As they exit -
+      <sd>As they exit -</sd>
 
       INT. AIRLOCK -
 
-      Bond has yanked his shoes off. He pulls out the PLASTIQUE EXPLOSIVE
+      <sd>Bond has yanked his shoes off. He pulls out the PLASTIQUE EXPLOSIVE
       SHOELACES and opens the SECRET COMPARTMENT IN HIS HEEL, revealing a
       DETONATOR, and EAR PLUGS.
 
       Moving quickly, Bond BITES OFF a 2-inch piece of shoelace, and wraps
-      it around the chain-link connecting his handcuffs, while...
+      it around the chain-link connecting his handcuffs, while...</sd>
 
       INT. CONTROL ROOM -
 
-      Yung sits down at the worm control and explains to the guard:
+      <sd>Yung sits down at the worm control and explains to the guard:</sd>
 
-                              YUNG
-                 We'll cut through the last gate, then
-                 set it on auto-pilot.
+                          <sp><spk>YUNG</spk>              We'll cut through the last gate, then
+                 set it on auto-pilot.</sp>
 
-      He starts to maneuver the joystick, and -
+      <sd>He starts to maneuver the joystick, and -</sd>
 
       UNDERWATER - INTAKE TUNNEL -
 
-      The worm turns a corner. We see -
+      <sd>The worm turns a corner. We see -
 
       THE WORM'S POV - (INT. INTAKE TUNNEL MOVING) -
 
@@ -7000,11 +6985,11 @@
 
       Water sprays violently as the HNN boat thunders out of Aberdeen
       harbor with Harmsway at the helm. Junks and sampans are tossed in
-      his wake, as
+      his wake, as</sd>
 
       INT. AIRLOCK -
 
-      Bond finishes pressing the SHOELACES AROUND THE DOOR LOCK... Then
+      <sd>Bond finishes pressing the SHOELACES AROUND THE DOOR LOCK... Then
       TURNS UP HIS SHIRT COLLAR TO PULL OUT A WIRE that's been hidden
       inside.
 
@@ -7031,17 +7016,16 @@
 
       YUNG -
 
-      HEARS a small BOOM from inside the airlock.
+      HEARS a small BOOM from inside the airlock.</sd>
 
-                              YUNG
-                       (to the guard)
-                 Check it out. Be careful.
+                          <sp><spk>YUNG</spk>                    (to the guard)
+                 Check it out. Be careful.</sp>
 
-      The guard picks up his machine pistol, starts to the door.
+      <sd>The guard picks up his machine pistol, starts to the door.</sd>
 
       INSIDE THE AIRLOCK -
 
-      Bond (with his hands now free) is quickly rewiring the detonator to
+      <sd>Bond (with his hands now free) is quickly rewiring the detonator to
       the plastique explosive around the door handle.
 
       YUNG MANEUVERS THE JOY-STICK, AS -
@@ -7139,16 +7123,16 @@
       RETURN TO SCENE -
 
       Bond goes to the dead guard. Gets the key, removes his handcuff
-      bracelets, then hoists the dead guard over his shoulder, and exits.
+      bracelets, then hoists the dead guard over his shoulder, and exits.</sd>
 
       EXT. HELICOPTER - (EXT. ABERDEEN HARBOR POWER PLANT) - DAY
 
-      With the sound of fire engines approaching in the background, Bond
-      straps the dead guard into the passenger seat, and takes off.
+      <sd>With the sound of fire engines approaching in the background, Bond
+      straps the dead guard into the passenger seat, and takes off.</sd>
 
       EXT. THE SEA DOLPHIN II - (AERIAL - SOUTH CHINA SEA) - DAY
 
-      The HNN boat has pulled alongside the Sea Dolphin II. The gang from
+      <sd>The HNN boat has pulled alongside the Sea Dolphin II. The gang from
       the nuke plant is boarding the larger boat.
 
       (Note: From the air, we should notice that the "gold hold" is now
@@ -7157,62 +7141,62 @@
 
       THE DECK -
 
-      Coming up the ladder first, Harmsway is greeted by the Captain.
+      Coming up the ladder first, Harmsway is greeted by the Captain.</sd>
 
-                          <spk>HARMSWAY</spk>              Any news?
+                          <sp><spk>HARMSWAY</spk>              Any news?</sp>
 
-                              THE CAPTAIN
+                              <sp><spk>THE CAPTAIN</spk>
                  The call just went out on the Hong
                  Kong police radio: Fire at the power
-                 plant.
+                 plant.</sp>
 
-                          <spk>HARMSWAY</spk>                    (ironically)
-                 Alert the media!
+                          <sp><spk>HARMSWAY</spk>                    (ironically)
+                 Alert the media!</sp>
 
-      Stamper and Sidney have climbed onto the deck.
+      <sd>Stamper and Sidney have climbed onto the deck.</sd>
 
-                          <spk>STAMPER</spk>              What do you want me to do with her?
+                          <sp><spk>STAMPER</spk>              What do you want me to do with her?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              - Can't we make a deal? I won't say
-                 anything -
+                          <sp><spk sex="F">SIDNEY</spk>              - Can't we make a deal? I won't say
+                 anything -</sp>
 
-                          <spk>HARMSWAY</spk>                    (touching her cheek)
+                          <sp><spk>HARMSWAY</spk>                    (touching her cheek)
                  You're so cute, my dear.
                        (beat)
                  But I'm afraid not.
                        (to one of the cameramen)
-                 Put her in the storage room.
+                 Put her in the storage room.</sp>
 
-      The cameraman takes her away. Harmsway turns to the captain:
+      <sd>The cameraman takes her away. Harmsway turns to the captain:</sd>
 
-                              HARMSWAY (CONT'D)
+                              <sp><spk>HARMSWAY</spk> (CONT'D)
                  We'll get rid of her when we're in
                  International waters.
                        (then)
                  Set sail, full speed, due south.
                  I'll be in my cabin. Let me know
                  when Mr. Yung arrives. We'll break
-                 out the champagne.
+                 out the champagne.</sp>
 
       INT. LOWER PASSAGEWAY/STORAGE ROOM - SEA DOLPHIN II -
 
-      Near the engine room (indicating we're near the bottom of the boat,)
+      <sd>Near the engine room (indicating we're near the bottom of the boat,)
       the cameraman opens a door to a small, cramped room with a bench, and
-      SCUBA EQUIPMENT. He pushes Sidney inside.
+      SCUBA EQUIPMENT. He pushes Sidney inside.</sd>
 
-                              CAMERAMAN
-                 Don't get any ideas.
+                              <sp><spk>CAMERAMAN</spk>
+                 Don't get any ideas.</sp>
 
-      Then locks the door on her.
+      <sd>Then locks the door on her.</sd>
 
       EXT. BOND'S HNN HELICOPTER - FLYING - DAY
 
-      Several hundred feet in the air, the helicopter is heading for an
-      island in the distance.
+      <sd>Several hundred feet in the air, the helicopter is heading for an
+      island in the distance.</sd>
 
       INT. HELICOPTER - FLYING -
 
-      Bond checks the compass, and adjusts his course. The COMPASS SWINGS
+      <sd>Bond checks the compass, and adjusts his course. The COMPASS SWINGS
       DUE SOUTH.
 
       BOND'S POV -
@@ -7226,11 +7210,11 @@
       REAR DECK - SEA DOLPHIN II -
 
       Looking north, off the back of the boat Stamper and a crewman see the
-      helicopter - a tiny speck in the air.
+      helicopter - a tiny speck in the air.</sd>
 
-                          <spk>STAMPER</spk>              There it is.
+                          <sp><spk>STAMPER</spk>              There it is.</sp>
 
-      Stamper lifts a pair of BINOCULARS for confirmation.
+      <sd>Stamper lifts a pair of BINOCULARS for confirmation.
 
       STAMPER'S POV - THROUGH THE BINOCULARS -
 
@@ -7238,34 +7222,34 @@
 
       RETURN TO SCENE -
 
-      Stamper picks up his radio:
+      Stamper picks up his radio:</sd>
 
-                          <spk>STAMPER</spk>              It's him. They both made it.
+                          <sp><spk>STAMPER</spk>              It's him. They both made it.</sp>
 
-      THE BRIDGE -
+      <sd>THE BRIDGE -
 
-      The Captain replies:
+      The Captain replies:</sd>
 
-                              THE CAPTAIN
-                 I'll tell Sir Elliot.
+                              <sp><spk>THE CAPTAIN</spk>
+                 I'll tell Sir Elliot.</sp>
 
-      HARMSWAY'S CABIN -
+      <sd>HARMSWAY'S CABIN -
 
-      Harmsway is working at a computer. A chime sounds.
+      Harmsway is working at a computer. A chime sounds.</sd>
 
-                          <spk>HARMSWAY</spk>              Yes?
+                          <sp><spk>HARMSWAY</spk>              Yes?</sp>
 
-                              CAPTAIN'S VOICE
-                 He's approaching from the north, sir.
+                              <sp><spk>CAPTAIN'S VOICE</spk>
+                 He's approaching from the north, sir.</sp>
 
-                              CREWMAN
+                              <sp><spk>CREWMAN</spk>
                  Fantastic. Invite the crew on deck
                  to celebrate, and I'll be up in a few
-                 minutes.
+                 minutes.</sp>
 
       INT. HELICOPTER - FLYING - DAY -
 
-      Bond is about two miles out from the stern of the Sea Dolphin II.
+      <sd>Bond is about two miles out from the stern of the Sea Dolphin II.
       Maybe 500' in the air.
 
       Taking the machine pistol from the dead guard's lap, he opens the
@@ -7284,23 +7268,23 @@
       THE DECK/HELICOPTER LANDING PAD
 
       Champagne bottles pop. Stamper is with a crewman, who looks up at
-      the chopper, about 1000' off the stern:
+      the chopper, about 1000' off the stern:</sd>
 
-                              CREWMAN
-                 He seems to be coming in awfully fast.
+                              <sp><spk>CREWMAN</spk>
+                 He seems to be coming in awfully fast.</sp>
 
-      Stamper picks up his binoculars.
+      <sd>Stamper picks up his binoculars.
 
       STAMPER'S POV - THROUGH THE BINOCULARS -
 
       He sees Bond.
 
-      RETURN TO SCENE -
+      RETURN TO SCENE -</sd>
 
-                          <spk>STAMPER</spk>              Get the guns! It's not him! It's
-                 Bond!!!
+                          <sp><spk>STAMPER</spk>              Get the guns! It's not him! It's
+                 Bond!!!</sp>
 
-      He might have also added "It's too late," as -
+      <sd>He might have also added "It's too late," as -
 
       NEW ANGLE - REAR DECK OF THE BOAT/HELICOPTER -
 
@@ -7311,40 +7295,40 @@
       About half of them DIVE INTO THE WATER FOR SAFETY, only to be quickly
       left behind.
 
-      Flying up the port side toward the front of the boat, Bond passes -
+      Flying up the port side toward the front of the boat, Bond passes -</sd>
 
       INT. HARMSWAY'S CABIN -
 
-      The windows rattle as Bond's chopper thunders by. Perplexed,
+      <sd>The windows rattle as Bond's chopper thunders by. Perplexed,
       Harmsway stands, opens the porthole curtains. He cranes his neck,
-      but sees nothing. He presses an intercom button:
+      but sees nothing. He presses an intercom button:</sd>
 
-                          <spk>HARMSWAY</spk>              What the hell is going on?
+                          <sp><spk>HARMSWAY</spk>              What the hell is going on?</sp>
 
       INT. BRIDGE -
 
-                              THE CAPTAIN
+                              <sp><spk>THE CAPTAIN</spk>
                        (on a phone)
-                 I don't know sir -
+                 I don't know sir -</sp>
 
-      The helicopter suddenly appears in front of him. Shooting from the
+      <sd>The helicopter suddenly appears in front of him. Shooting from the
       pilot's window, Bond shatters the glass windows -
 
       And the Captain slumps forward on the wheel, spinning it as he slides
-      to the deck.
+      to the deck.</sd>
 
       INT. HARMSWAY'S CABIN -
 
-      The boat pitches wildly; Harmsway looses his balance, crashing into a
-      wall.
+      <sd>The boat pitches wildly; Harmsway looses his balance, crashing into a
+      wall.</sd>
 
       INT. STORAGE CABIN -
 
-      Sidney is thrown from her bench, slamming against scuba tanks.
+      <sd>Sidney is thrown from her bench, slamming against scuba tanks.</sd>
 
       EXT. MID-SHIP - DECK -
 
-      Stamper bounces himself, handing out AUTOMATIC WEAPONS from an arms
+      <sd>Stamper bounces himself, handing out AUTOMATIC WEAPONS from an arms
       cache hidden inside a DINGHY.
 
       The two cameramen take their M-16's and rush forward, jumping up on
@@ -7357,11 +7341,11 @@
       ANGLE ON THE HELICOPTER -
 
       Taking hits. Bond pivots and turns the chopper, heading straight for
-      them.
+      them.</sd>
 
       BOND'S POV - (INT. HELICOPTER) -
 
-      The men turn, and start to run as the chopper chases them -
+      <sd>The men turn, and start to run as the chopper chases them -
 
       CLOSE ON THE CHOPPER'S LANDING SKIDS -
 
@@ -7373,11 +7357,11 @@
       THE HELICOPTER REARS BACKWARDS, AND UP -
 
       And the men burst through their shirt buttons, FALLING, SHIRTLESS,
-      into the sea.
+      into the sea.</sd>
 
       INT. HELICOPTER -
 
-      Bond pushes the cyclic sideways to bank down, and in, on the boat.
+      <sd>Bond pushes the cyclic sideways to bank down, and in, on the boat.
       But he doesn't see -
 
       WIDE - (BOAT/HELICOPTER)
@@ -7387,66 +7371,66 @@
 
       THE HELICOPTER -
 
-      BOOM! It hits the engine.
+      BOOM! It hits the engine.</sd>
 
       INT. HELICOPTER -
 
-      The gauges go crazy; the alarms go berserk. The entire cockpit is
-      chattering as Bond struggles to remain in control.
+      <sd>The gauges go crazy; the alarms go berserk. The entire cockpit is
+      chattering as Bond struggles to remain in control.</sd>
 
       EXT. LADDER LEADING TO THE BRIDGE -
 
-      HARMSWAY is trying to make his way up the ladder as the boat
-      continues to veer out of control. He pauses to look up at:
+      <sd>HARMSWAY is trying to make his way up the ladder as the boat
+      continues to veer out of control. He pauses to look up at:</sd>
 
       THE HELICOPTER, GYRATING WILDLY -
 
       INT. HELICOPTER -
 
-      Bond forces the cyclic forward. The helicopter pitches forward -
+      <sd>Bond forces the cyclic forward. The helicopter pitches forward -
 
       BOND'S POV - (INT. HELICOPTER)
 
       He's heading straight for the hatch covering the gold hold. Whoever
-      is left alive is diving off the ship to get out of the way.
+      is left alive is diving off the ship to get out of the way.</sd>
 
       INT. BRIDGE -
 
-      Struggling with the wheel, Harmsway picks up the radio:
+      <sd>Struggling with the wheel, Harmsway picks up the radio:</sd>
 
-                          <spk>HARMSWAY</spk>              What the hell is going on?
+                          <sp><spk>HARMSWAY</spk>              What the hell is going on?</sp>
 
-                              STAMPER (O. S. )
-                 It's Bond!
+                              <sp><spk>STAMPER</spk> (O. S. )
+                 It's Bond!</sp>
 
-                          <spk>HARMSWAY</spk>              Kill him! Finish it!
+                          <sp><spk>HARMSWAY</spk>              Kill him! Finish it!</sp>
 
-      ANGLE ON STAMPER (EXT. MID-SHIP) -
+      <sd>ANGLE ON STAMPER (EXT. MID-SHIP) -
 
-      With the worm dangling from a boom in the background, he watches:
+      With the worm dangling from a boom in the background, he watches:</sd>
 
       EXT. HELICOPTER/SHIP
 
-      With the chopper about 15 feet above the gold hold - just barely
+      <sd>With the chopper about 15 feet above the gold hold - just barely
       under control - Bond opens the door.
 
       He leaps out onto the hatch, and rolls off, disappearing as -
 
       THE CHOPPER CRASHES onto the gold hold, in a GIANT BALL OF FLAME and
-      twisted metal.
+      twisted metal.</sd>
 
       INT. STORAGE COMPARTMENT -
 
-      Sidney looks up, hearing and feeling the explosion.
+      <sd>Sidney looks up, hearing and feeling the explosion.</sd>
 
       INT. BRIDGE -
 
-      Harmsway regains control of the boat; he TAKES A GUN from the dead
-      captain, and pushes the body out.
+      <sd>Harmsway regains control of the boat; he TAKES A GUN from the dead
+      captain, and pushes the body out.</sd>
 
       EXT. PASSAGEWAY -
 
-      With FLAMING DEBRIS still falling around him, Bond is stealthily
+      <sd>With FLAMING DEBRIS still falling around him, Bond is stealthily
       moving down a passageway toward the front of the ship.
 
       (Bond has two goals in mind at this point: First, to neutralize any
@@ -7462,11 +7446,11 @@
 
       STAMPER stands with a smile on his face. One arm is raised above his
       head, grasping the WORM on the swinging boom. The worm is attached
-      to the boom by a thin metal cable.
+      to the boom by a thin metal cable.</sd>
 
-                          <spk>STAMPER</spk>              You're mine now.
+                          <sp><spk>STAMPER</spk>              You're mine now.</sp>
 
-      Bond rushes at Stamper, slamming into him. The man doesn't flinch.
+      <sd>Bond rushes at Stamper, slamming into him. The man doesn't flinch.
       With his free hand, he grabs Bond by his shirt, and throws him
       against a steel wall. Bond crashes to the deck.
 
@@ -7480,11 +7464,11 @@
 
       MANEUVERS THE WORM TOWARDS BOND'S HEAD.
 
-      With the cutting blades whirring inches away from Bond's nose -
+      With the cutting blades whirring inches away from Bond's nose -</sd>
 
-                          <spk>STAMPER</spk>              I'm going to do this slowly -
+                          <sp><spk>STAMPER</spk>              I'm going to do this slowly -</sp>
 
-      Bond executes a scissor kick to Stamper's ankles. Stamper tumbles
+      <sd>Bond executes a scissor kick to Stamper's ankles. Stamper tumbles
       sideways. Bond rolls away from the worm -
 
       But by the time Bond gets to his feet, Stamper has recovered, and is
@@ -7515,22 +7499,22 @@
 
       SIDNEY - (INT. STORAGE ROOM) -
 
-      Hears a strange vibrating sound from the wall.
+      Hears a strange vibrating sound from the wall.</sd>
 
       HARMSWAY - (INT. BRIDGE) -
 
-                          <spk>HARMSWAY</spk>                    (barking into the radio)
-                 Stamper! Report in!
+                          <sp><spk>HARMSWAY</spk>                    (barking into the radio)
+                 Stamper! Report in!</sp>
 
       EXT. DECK/PASSAGEWAY -
 
-      As Stamper straightens up, winded from the groin kick -
+      <sd>As Stamper straightens up, winded from the groin kick -</sd>
 
-                              HARMSWAY'S VOICE
+                              <sp><spk>HARMSWAY'S VOICE</spk>
                        (continuing, on Stamper's radio)
-                 Report to the bridge!
+                 Report to the bridge!</sp>
 
-      BOND rushes to A SMALL PILE OF SLACK CABLE, which is rapidly growing
+      <sd>BOND rushes to A SMALL PILE OF SLACK CABLE, which is rapidly growing
       taught as the worm wends its way underwater.
 
       Stamper rushes Bond -
@@ -7540,41 +7524,41 @@
 
       Suddenly THE CABLE TIGHTENS, and -
 
-      STAMPER soars 15 in the air, HANGING BY HIS NECK, as -
+      STAMPER soars 15 in the air, HANGING BY HIS NECK, as -</sd>
 
       INT. STORAGE CABIN -
 
-      THE WORM BURSTS THROUGH THE WALL! A torrent of water floods in,
+      <sd>THE WORM BURSTS THROUGH THE WALL! A torrent of water floods in,
       pushing Sidney off to one side.
 
       WORM'S POV - INT. STORAGE CABIN -
 
-      It's zooming at the door!
+      It's zooming at the door!</sd>
 
       INT. PASSAGEWAY -
 
-      The door bursts open, sending tons of water into the passageway.
+      <sd>The door bursts open, sending tons of water into the passageway.</sd>
 
       INT. BRIDGE -
 
-      The boat shudders violently, sending Harmsway crashing against a
-      wall, cutting his head.
+      <sd>The boat shudders violently, sending Harmsway crashing against a
+      wall, cutting his head.</sd>
 
       EXT. THE DECK -
 
-      As the boat rocks, Bond steadies himself, then starts for the bridge,
+      <sd>As the boat rocks, Bond steadies himself, then starts for the bridge,
       using the same route as the cameramen lifted by the chopper:
 
-      First climbing up on some machinery, then up onto the bridge roof.
+      First climbing up on some machinery, then up onto the bridge roof.</sd>
 
       INT. STORAGE ROOM -
 
-      Sidney is thrashing for air, with only a few inches left between the
-      rising water and the ceiling.
+      <sd>Sidney is thrashing for air, with only a few inches left between the
+      rising water and the ceiling.</sd>
 
       INT. PASSAGEWAY -
 
-      3/4 filled with water. Rising fast.
+      <sd>3/4 filled with water. Rising fast.
 
       THE WORM'S POV - (UNDERWATER, INT. PASSAGEWAY)
 
@@ -7584,16 +7568,16 @@
       THE ENGINE ROOM.
 
       With the water cascading over the camera, (as if we were riding
-      inside an ocean wave,) the worm heads for a tank marked "FUEL."
+      inside an ocean wave,) the worm heads for a tank marked "FUEL."</sd>
 
       EXT. THE SEA DOLPHIN II -
 
-      The boat is sinking. Bond is running across the bridge roof, when:
-      THE BOAT SUDDENLY LISTS TO THE STARBOARD SIDE.
+      <sd>The boat is sinking. Bond is running across the bridge roof, when:
+      THE BOAT SUDDENLY LISTS TO THE STARBOARD SIDE.</sd>
 
       INT. BRIDGE -
 
-      Harmsway is thrown backwards. Gun in hand, he makes his way up the
+      <sd>Harmsway is thrown backwards. Gun in hand, he makes his way up the
       incline, to the port-side door.
 
       Just when he thinks he's made it -
@@ -7601,58 +7585,58 @@
       Bang. Bond appears in the doorway, having jumped down from the roof
       on the small exterior walkway. He's seething with rage.
 
-      Harmsway looks up at him. Blinks in disbelief.
+      Harmsway looks up at him. Blinks in disbelief.</sd>
 
-                           <spk sex="M">BOND</spk>            I never believe what I read in the
-                 newspapers.
+                           <sp><spk sex="M">BOND</spk>            I never believe what I read in the
+                 newspapers.</sp>
 
-      Harmsway slowly brings up the gun.
+      <sd>Harmsway slowly brings up the gun.</sd>
 
-                          <spk>HARMSWAY</spk>              Pity you'll miss your obituary.
+                          <sp><spk>HARMSWAY</spk>              Pity you'll miss your obituary.</sp>
 
-      Bond smacks the gun out of his hand with contempt. Moves closer.
+      <sd>Bond smacks the gun out of his hand with contempt. Moves closer.</sd>
 
-                           <spk sex="M">BOND</spk>            Where is she, Harmsway?
+                           <sp><spk sex="M">BOND</spk>            Where is she, Harmsway?</sp>
 
-      BOOM! The fuel tanks explode in the distance. The bridge rocks
-      violently; the room tilts to a greater angle.
+      <sd>BOOM! The fuel tanks explode in the distance. The bridge rocks
+      violently; the room tilts to a greater angle.</sd>
 
-                          <spk>HARMSWAY</spk>              You want to kill me, Bond? Go ahead.
+                          <sp><spk>HARMSWAY</spk>              You want to kill me, Bond? Go ahead.</sp>
 
-      With both arms, Bond pushes Harmsway backwards, flinging him downward
-      against the starboard wall. The water is rising on the bridge.
+      <sd>With both arms, Bond pushes Harmsway backwards, flinging him downward
+      against the starboard wall. The water is rising on the bridge.</sd>
 
-                           <spk sex="M">BOND</spk>                  (moving in on him)
-                 Where is she Harmsway? -
+                           <sp><spk sex="M">BOND</spk>                  (moving in on him)
+                 Where is she Harmsway? -</sp>
 
-      He grabs Harmsway by the lapels, and throws him against the front
+      <sd>He grabs Harmsway by the lapels, and throws him against the front
       wall, crashing onto the instrument panel head first.
 
-      Harmsway laughs maniacally, face down on the gauges:
+      Harmsway laughs maniacally, face down on the gauges:</sd>
 
-                          <spk>HARMSWAY</spk>              What is it, Bond? You haven't the
-                 guts?
+                          <sp><spk>HARMSWAY</spk>              What is it, Bond? You haven't the
+                 guts?</sp>
 
-      Boom! There's another explosion in the background! The front of the
+      <sd>Boom! There's another explosion in the background! The front of the
       boat tilts upward! The water is rushing in!
 
-      Bond grabs Harmsway by the shoulder -
+      Bond grabs Harmsway by the shoulder -</sd>
 
-                           <spk sex="M">BOND</spk>            You spineless paper tiger -
+                           <sp><spk sex="M">BOND</spk>            You spineless paper tiger -</sp>
 
-      And yanks him off the instrument panel, flinging him backwards
-      against the rear wall of the bridge.
+      <sd>And yanks him off the instrument panel, flinging him backwards
+      against the rear wall of the bridge.</sd>
 
-                           <spk sex="M">BOND</spk>            Where is she, Harmsway?!? Or did you
-                 kill her like Paris?
+                           <sp><spk sex="M">BOND</spk>            Where is she, Harmsway?!? Or did you
+                 kill her like Paris?</sp>
 
-      Suddenly, THE BOAT GROANS. The BRIDGE RISES OUT OF THE WATER! AND
-      BOND loses his balance, FALLING ONTO HARMSWAY -
+      <sd>Suddenly, THE BOAT GROANS. The BRIDGE RISES OUT OF THE WATER! AND
+      BOND loses his balance, FALLING ONTO HARMSWAY -</sd>
 
-                          <spk>HARMSWAY</spk>                    (glaring, insanely:)
-                 We all go down together!!!
+                          <sp><spk>HARMSWAY</spk>                    (glaring, insanely:)
+                 We all go down together!!!</sp>
 
-      Harmsway lunges for Bond's throat -
+      <sd>Harmsway lunges for Bond's throat -
 
       AND THE BRIDGE SLIPS UNDERWATER -
 
@@ -7699,14 +7683,14 @@
 
       THE SURFACE -
 
-      They break through the water. Sidney yanks off her mask. Teases:
+      They break through the water. Sidney yanks off her mask. Teases:</sd>
 
-                          <spk sex="F">SIDNEY</spk>              What do you mean, you'd rather die
-                 alone?
+                          <sp><spk sex="F">SIDNEY</spk>              What do you mean, you'd rather die
+                 alone?</sp>
 
-                           <spk sex="M">BOND</spk>            I didn't say when I want to die -
+                           <sp><spk sex="M">BOND</spk>            I didn't say when I want to die -</sp>
 
-      She splashes him. Turning away, Bond spots Stamper's 'arms cache'
+      <sd>She splashes him. Turning away, Bond spots Stamper's 'arms cache'
       dinghy floating nearby.
 
       NEW ANGLE - THE DINGHY -
@@ -7714,71 +7698,71 @@
       Bond climbs into it, then helps Sidney get in. They collapse in the
       bottom of the boat, resting their heads against the gunwale.
 
-      After a beat, SIDNEY CLEARS HER THROAT. Bond is already amused:
+      After a beat, SIDNEY CLEARS HER THROAT. Bond is already amused:</sd>
 
-                           <spk sex="M">BOND</spk>            ... Yes???
+                           <sp><spk sex="M">BOND</spk>            ... Yes???</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Before we go any further here, Mr.
+                          <sp><spk sex="F">SIDNEY</spk>              Before we go any further here, Mr.
                  Bond, from Lloyds of London, I just
-                 want to get two things straight.
+                 want to get two things straight.</sp>
 
-                           <spk sex="M">BOND</spk>            ... Yes?
+                           <sp><spk sex="M">BOND</spk>            ... Yes?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              First, that boat is in international
+                          <sp><spk sex="F">SIDNEY</spk>              First, that boat is in international
                  waters. I'm claiming it for salvage.
-                 One-third of that gold is mine.
+                 One-third of that gold is mine.</sp>
 
-                           <spk sex="M">BOND</spk>            And number two?
+                           <sp><spk sex="M">BOND</spk>            And number two?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              If you think we're going to have some
+                          <sp><spk sex="F">SIDNEY</spk>              If you think we're going to have some
                  kind of 'life affirming' romance here
                  just because we cheated death, let me
                  be clear:
                        (pause)
                  We're going to have it where I want,
-                 and when I want.
+                 and when I want.</sp>
 
-                           <spk sex="M">BOND</spk>            And when might that be?
+                           <sp><spk sex="M">BOND</spk>            And when might that be?</sp>
 
-                          <spk sex="F">SIDNEY</spk>              Now.
+                          <sp><spk sex="F">SIDNEY</spk>              Now.</sp>
 
-      He laughs. She falls into his arms. They kiss, and we cut to:
+      <sd>He laughs. She falls into his arms. They kiss, and we cut to:
 
       TWO PAIRS OF BINOCULARS -
 
       With the dinghy reflected in the glass. In unison, they are both
-      lowered, revealing Q and Wade.
+      lowered, revealing Q and Wade.</sd>
 
-                          <spk sex="M">Q</spk>              ... As usual, I see the situation is
-                 in 007's very capable hands.
+                          <sp><spk sex="M">Q</spk>              ... As usual, I see the situation is
+                 in 007's very capable hands.</sp>
 
-                          <spk sex="M">WADE</spk>              Life is not fair.
+                          <sp><spk sex="M">WADE</spk>              Life is not fair.</sp>
 
-                          <spk sex="M">Q</spk>                    (emphatically)
-                 You're right.
+                          <sp><spk sex="M">Q</spk>                    (emphatically)
+                 You're right.</sp>
 
-      A British naval officer appears.
+      <sd>A British naval officer appears.</sd>
 
-                              OFFICER
+                              <sp><spk>OFFICER</spk>
                  Excuse me, Major Boothroyd - the
-                 message went to London.
+                 message went to London.</sp>
 
-                          <spk sex="M">Q</spk>              Thank you.
+                          <sp><spk sex="M">Q</spk>              Thank you.</sp>
 
-      Q and Wade throw a glance back to the sea, then turn, waking off:
+      <sd>Q and Wade throw a glance back to the sea, then turn, waking off:</sd>
 
-                          <spk sex="M">WADE</spk>              Tell me, Q-ster. You do ever do any
-                 gardening?
+                          <sp><spk sex="M">WADE</spk>              Tell me, Q-ster. You do ever do any
+                 gardening?</sp>
 
-                          <spk sex="M">Q</spk>              ...The only thing I ever planted was
-                 bugs.
+                          <sp><spk sex="M">Q</spk>              ...The only thing I ever planted was
+                 bugs.</sp>
 
-      CLOSE ON A PICTURE OF HARMSWAY ON A VIDEO SCREEN -
+      <sd>CLOSE ON A PICTURE OF HARMSWAY ON A VIDEO SCREEN -
 
       On the wall behind M's DESK. It's night. Moneypenny sits across
-      from M, with a steno pad.
+      from M, with a steno pad.</sd>
 
-                           <spk sex="F">M</spk>            Moneypenny, take the following release:
+                           <sp><spk sex="F">M</spk>            Moneypenny, take the following release:
                        (beat)
                  The body of Sir Elliot Harmsway was
                  found floating in the South China Sea
@@ -7786,34 +7770,29 @@
                  Hong Kong time.
                        (pauses)
                  At present, local authorities believe
-                 the media mogul committed suicide.
+                 the media mogul committed suicide.</sp>
 
-      RETURN ON THE DINGHY -
+      <sd>RETURN ON THE DINGHY -
 
-      Bond and Sidney break off a kiss. She lies nestled in his arms.
+      Bond and Sidney break off a kiss. She lies nestled in his arms.</sd>
 
-                          <spk sex="F">SIDNEY</spk>              James... Is this really what a
-                 typical day is like for you?
+                          <sp><spk sex="F">SIDNEY</spk>              James... Is this really what a
+                 typical day is like for you?</sp>
 
-      Bond replies with a wry smile:
+      <sd>Bond replies with a wry smile:</sd>
 
-                           <spk sex="M">BOND</spk>            Yes...
+                           <sp><spk sex="M">BOND</spk>            Yes...
                        (pause)
                  But some days... Are longer than
-                 others.
+                 others.</sp>
 
-      And with this, he reaches up over his head, and pulls a tarp over the
+      <sd>And with this, he reaches up over his head, and pulls a tarp over the
       two of them...
 
       And the camera pulls back, and up, rising into the air to reveal:
 
       The entire British Navy closing in on them from all points of the
-      compass.
+      compass.</sd>
 
-
-                                    THE END
-
-                           (save for one last line:)
-
-                            James Bond will return.
+                            <sd>James Bond will return.</sd>
 </Screenplay>
