@@ -1290,9 +1290,9 @@
 
                                                                     CUT TO:
 
-      <sd>EXT. VENICE HARBOR/GRAND CANAL - NIGHT
+      <Scene num="26"><Heading>EXT. VENICE HARBOR/GRAND CANAL - NIGHT</Heading>
 
-      A GLEAMING WHITE YACHT - with two on-board helicopters, and a huge
+      <sd>A GLEAMING WHITE YACHT - with two on-board helicopters, and a huge
       tarped hold - dominates the harbor. (Harmsway's SEA DOLPHIN II.)
 
       Tonight, however, we find a GONDOLA, gliding through the water...
@@ -1301,11 +1301,11 @@
       partygoers and musicians in medieval garb.
 
       Wearing the mask from M's office, (and a bright blue cape,) Bond
-      alights the gondola, and plunges into the crowd.
+      alights the gondola, and plunges into the crowd.</sd></Scene>
 
-      EXT. PIAZZA SAN MARCO - NIGHT
+      <Scene num="27"><Heading>EXT. PIAZZA SAN MARCO - NIGHT</Heading>
 
-      A swirl of colors, noise and music. Pushing his way into the chaotic
+      <sd>A swirl of colors, noise and music. Pushing his way into the chaotic
       celebration, Bond scans the crowd, looking for a face:
 
       NOTHING BUT A SEA OF MASKS. White. Yellow. Red. Blue.
@@ -1467,11 +1467,11 @@
       <sd>RETURN ON BOND -
 
       He sees STAMPER and the TWO HENCHMEN approaching. He turns and walks
-      quickly toward -
+      quickly toward -</sd></Scene>
 
-      EXT. RIALTO BRIDGE - FIRST (UP) STAIRCASE - NIGHT
-
-      Pushing past carnival-goers, Bond rushes up the central staircase of
+      <Scene num="28"><Heading>EXT. RIALTO BRIDGE - FIRST (UP) STAIRCASE - NIGHT</Heading>
+            
+      <sd>Pushing past carnival-goers, Bond rushes up the central staircase of
       the bridge. At the top, looking onto the main span, he sees -
 
       THE EFFIGY OF CARNIVAL PROCESSION, approaching like a tidal wave.
@@ -1776,19 +1776,17 @@
                        (holstering the gun)
                  But the case was terminal.</sp>
 
-      <sd>And on this note, we -</sd>
+      <sd>And on this note, we -</sd></Scene>
 
-                                                              DISSOLVE TO:
+      <Scene num="29"><Heading>EXT. VENICE HARBOR - THE NEXT DAY -</Heading>
 
-      <sd>EXT. VENICE HARBOR - THE NEXT DAY -
-
-      Under a beautiful blue sky, the gleaming white SEA DOLPHIN II sits at
+      <sd>Under a beautiful blue sky, the gleaming white SEA DOLPHIN II sits at
       dock, festooned with pennants and banners. There's a crowd onboard.
-      At the same time, however, 500 feet away...
+      At the same time, however, 500 feet away...</sd></Scene>
 
-      INT. DOCKSIDE CAFE -
+      <Scene num="30"><Heading>INT. DOCKSIDE CAFE -</Heading>
 
-      Bond meets with Signore DiGIACOMO, a middle-aged Italian Intelligence
+      <sd>Bond meets with Signore DiGIACOMO, a middle-aged Italian Intelligence
       official in shirtsleeves. Two underlings hover in the background.</sd>
 
                            <sp><spk sex="M">BOND</spk>            You've confirmed all the legal
@@ -1921,11 +1919,11 @@
                           <sp><spk>HARMSWAY</spk>                    (impishly)
                  No comment.</sp>
 
-      <sd>Amidst more laughter, Bond disappears into the bulkhead door.
+      <sd>Amidst more laughter, Bond disappears into the bulkhead door.</sd></Scene>
+      
+      <Scene num="31"><Heading>INT. SEA DOLPHIN II - BELOW DECKS -</Heading>
 
-      INT. SEA DOLPHIN II - BELOW DECKS -
-
-      Bond moves cautiously down a STAIRCASE...
+      <sd>Bond moves cautiously down a STAIRCASE...
 
       And peers along a CORRIDOR. He sees a GUARD, checking doors, making
       sure they're locked. Bond withdraws for a moment, looks back: The
@@ -1939,11 +1937,11 @@
       WEATHER STATION, CREW'S MESS, etc... Until he comes to:
 
       METALLURGY LAB. There's a CARD READER by the door. Bond slips out
-      his Q-toy, swipes it. Click. He goes inside.
+      his Q-toy, swipes it. Click. He goes inside.</sd></Scene>
 
-      INT. METALLURGY LAB - SEA DOLPHIN II - CONTINUOUS
+      <Scene num="32"><Heading>INT. METALLURGY LAB - SEA DOLPHIN II - CONTINUOUS</Heading>
 
-      Bond clocks the lab: Power tools, test benches, a SECOND ENTRY
+      <sd>Bond clocks the lab: Power tools, test benches, a SECOND ENTRY
       DOOR... And in the middle of the room -
 
       THE RED BOX.
@@ -2003,11 +2001,11 @@
                  the real business - the only thing
                  that attracts newsmen faster than a
                  breaking story the free food and
-                 beverage.</sp>
+                 beverage.</sp></Scene>
 
-      <sd>INT. CAFE -
+      <Scene num="33"><Heading>INT. CAFE -</Heading>
 
-      DiGiacomo sees the BLUE LASER. Motions his men to action.
+      <sd>DiGiacomo sees the BLUE LASER. Motions his men to action.
 
       RETURN ON THE SEA DOLPHIN II - TOPSIDE -
 
@@ -2198,11 +2196,11 @@
                  in twenty minutes. Go.</sp>
 
       <sd>She exits; he goes to the bulkhead door... And we pan up to see the
-      SURVEILLANCE CAMERA, following him.
+      SURVEILLANCE CAMERA, following him.</sd></Scene>
 
-      INT. METALLURGY LAB - SEA DOLPHIN II -
+      <Scene num="34"><Heading>INT. METALLURGY LAB - SEA DOLPHIN II -</Heading>
 
-      Harmsway holds court near the red box. Bond squeezes in.</sd>
+      <sd>Harmsway holds court near the red box. Bond squeezes in.</sd>
 
                           <sp><spk>HARMSWAY</spk>              I believe this is what you're looking
                  for, Colonel.</sp>
@@ -2256,10 +2254,11 @@
       <sd>Harmsway glances at his watch. Smiles coldly.</sd>
 
                           <sp><spk>HARMSWAY</spk>              Aren't you late for a meeting?</sp>
+      </Scene>
 
-      <sd>EXT. THE SEA DOLPHIN II/HARBOR - DAY
+      <Scene num="35"><Heading>EXT. THE SEA DOLPHIN II/HARBOR - DAY</Heading>
 
-      Bond rushes down the gangplank, along the dock. Jumps in a gondola.</sd>
+      <sd>Bond rushes down the gangplank, along the dock. Jumps in a gondola.</sd>
 
                            <sp><spk sex="M">BOND</spk>            The Danielli. Presto!</sp>
 
@@ -2277,29 +2276,29 @@
       second red box appears underneath it, like shuffling a deck of cards.</sd>
 
                           <sp><spk>HARMSWAY</spk>              I'm going to the plane. Tell the
-                 captain to set sail at once.</sp>
+                 captain to set sail at once.</sp></Scene>
 
-      <sd>EXT. THE DANIELLI HOTEL - DAY
+      <Scene num="36"><Heading>EXT. THE DANIELLI HOTEL - DAY</Heading>
 
-      Bond jumps out of the gondola, sprints into the lobby.
+      <sd>Bond jumps out of the gondola, sprints into the lobby.
 
       FOURTH FLOOR CORRIDOR -
 
       Bond appears, rushing up a staircase. He comes to his doorway. It's
-      closed, but unlocked.
+      closed, but unlocked.</sd></Scene>
 
-      INT. BOND'S HOTEL ROOM -
+      <Scene num="37"><Heading>INT. BOND'S HOTEL ROOM -</Heading>
 
-      Bond enters the room. Looks around, calling out -</sd>
+      <sd>Bond enters the room. Looks around, calling out -</sd>
 
                            <sp><spk sex="M">BOND</spk>            Paris? Paris?</sp>
 
       <sd>He sees the French doors open onto the canal. The curtains billowing
-      outward. Bond rushes to the window and looks down:
+      outward. Bond rushes to the window and looks down:</Scene>
 
-      EXT. GRAND CANAL - BOND'S POV
+      <Scene num="38"><Heading>EXT. GRAND CANAL - BOND'S POV</Heading>
 
-      Paris Harmsway is dead, floating in the water.
+      <sd>Paris Harmsway is dead, floating in the water.
 
       RETURN ON BOND -
 
@@ -2311,10 +2310,9 @@
       <sd>Bond turns. A flashbulb goes off, capturing Bond and DiGiacomo.</sd>
 
                           <sp><spk>DiGIACOMO</spk>              You're under arrest.</sp>
+      </Scene>
 
-                                                                   CUT TO:
-
-      <sd>THE SOUTH CHINA SEA - DUSK
+      <Scene num="39"><Heading>THE SOUTH CHINA SEA - DUSK</Heading>
 
       The HMS INDOMITABLE - a 3,300 ton British frigate, surges through the
       water, heading toward the setting sun.
@@ -2322,11 +2320,11 @@
       CLOSER -
 
       BATTLE-DRESSED ROYAL MARINES patrol the deck; GUNNERY CREWS man the
-      weapons. Whatever is going on here, it's not business as usual.'
+      weapons. Whatever is going on here, it's not business as usual.'</Scene>
 
-      INT. BRIDGE - DUSK
+      <Scene num="40"><Heading>INT. BRIDGE - DUSK</Heading>
 
-      Close on A VERTICAL GLASS MAP. An electronic panel display with a
+      <sd>Close on A VERTICAL GLASS MAP. An electronic panel display with a
       BLINKING YELLOW DOT indicates -</sd>
 
                               <sp><spk>NAVIGATOR</spk>
@@ -2396,11 +2394,11 @@
       picks up the INTERCOM MICROPHONE:</sd>
 
                               <sp><spk>FIRST OFFICER</spk>
-                 Attention all hands. Now hear this...</sp>
+                 Attention all hands. Now hear this...</sp></Scene>
 
-      <sd>INT. CREW'S MESS -
+      <Scene num="41"><Heading>INT. CREW'S MESS -</Heading>
 
-      Crowded with CREW MEMBERS eating, waiting on line for food.</sd>
+      <sd>Crowded with CREW MEMBERS eating, waiting on line for food.</sd>
 
                               <sp><spk>FIRST OFFICER</spk> (INTERCOM)
                  We will rig immediately for
@@ -2411,17 +2409,17 @@
 
       At microwave. His finger hovers over button, then stops. He opens
       the door of the microwave and takes out a bowl. Dumps the contents
-      on the stove.
+      on the stove.</sd></Scene>
 
-      INT. SHIP'S HEAD -
+      <Scene num="42"><Heading>INT. SHIP'S HEAD -</Heading>
 
-      CREW MEMBER with an ELECTRIC SHAVER.</sd>
+      <sd>CREW MEMBER with an ELECTRIC SHAVER.</sd>
 
                               <sp><spk>FIRST OFFICER</spk> (INTERCOM)
                  All personal radios, video devices
                  and computers will be stowed at once.</sp>
 
-      <sd>He stops shaving.
+      <sd>He stops shaving.</sd></Scene>
 
       INT. ENGINE ROOM -
 
