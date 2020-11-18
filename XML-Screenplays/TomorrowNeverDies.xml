@@ -2294,7 +2294,7 @@
                            <sp><spk sex="M">BOND</spk>            Paris? Paris?</sp>
 
       <sd>He sees the French doors open onto the canal. The curtains billowing
-      outward. Bond rushes to the window and looks down:</Scene>
+      outward. Bond rushes to the window and looks down:</sd></Scene>
 
       <Scene num="38"><Heading>EXT. GRAND CANAL - BOND'S POV</Heading>
 
@@ -2421,9 +2421,9 @@
 
       <sd>He stops shaving.</sd></Scene>
 
-      INT. ENGINE ROOM -
+      <Scene num="43"><Heading>INT. ENGINE ROOM -</Heading>
 
-      The ENGINEER shouts to his crew, over NOISE OF DIESEL ENGINES:</sd>
+      <sd>The ENGINEER shouts to his crew, over NOISE OF DIESEL ENGINES:</sd>
 
                               <sp>ENGINEER
                  Check the engine baffles; rig the
@@ -2458,12 +2458,13 @@
                               <sp><spk>FIRST OFFICER</spk>
                  We'll all breathe a lot easier when
                  we get this cargo back to London.</sp>
+            <sd>CUT TO:</sd>
+      </Scene>
+         <Scene num="44">
 
-                                                                   CUT TO:
+      <Heading>EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY</Heading>
 
-      <sd>EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY
-
-      THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment (aka the
+      <sd>THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment (aka the
       "Black Watch") is playing a FUNERAL DIRGE outside a vast stone house,
       with a HARMSWAY NEWS HELICOPTER on the lawn, and LIMOUSINES, A HEARSE
       and a FLOWER CAR in the driveway.
@@ -2654,23 +2655,25 @@
 
                           <sp><spk>STAMPER</spk>              Gum?</sp>
 
-      <sd>Shaking his head, he pulls out a HANDKERCHIEF to mop the flop sweat.
+      <sd>Shaking his head, he pulls out a HANDKERCHIEF to mop the flop sweat.</sd>
+         </Scene>              
+<Scene num="45">
+      <Heading>RETURN ON THE MANOR HOUSE - FAVORING THE HNN HELICOPTER -</Heading>
 
-      RETURN ON THE MANOR HOUSE - FAVORING THE HNN HELICOPTER -
+     <sd> Amidst ad-libbed 'good-bye's" from the gang of six (now five,)
+      Harmsway gets in the waiting HNN chopper. It powers up, takes off.</sd>
+</Scene>
+<Scene num="46">          
+      <Heading>EXT. SMALL AIRPORT - SCOTLAND -</Heading>
 
-      Amidst ad-libbed 'good-bye's" from the gang of six (now five,)
-      Harmsway gets in the waiting HNN chopper. It powers up, takes off.
-
-      EXT. SMALL AIRPORT - SCOTLAND -
-
-      Stamper's limousine parks near a Gulfstream jet. He opens the back
+      <sd>Stamper's limousine parks near a Gulfstream jet. He opens the back
       door for Number Three. At last, the man believes he is safe.</sd>
 
                               <sp><spk>NUMBER THREE</spk>
                  Thank you! Thank you so much. You
                  must thank Sir Elliot for me.</sp>
 
-                          <sp><spk>STAMPER</spk>                    (producing a NEWSPAPER)
+                          <sp><spk>STAMPER</spk>                   <sd> (producing a NEWSPAPER)</sd>
                  Here. Something to read on the plane.</sp>
 
       <sd>Stamper TUCKS THE PAPER FIRMLY UNDER #3'S ARM - and gives him a
@@ -2696,15 +2699,17 @@
       TWO ARABIAN GENTLEMEN (in full burnoose) sit down on either side of
       him. They smile. And on NUMBER THREE'S BLOOD-CURDLING SCREAM, we</sd>
 
-                                                                   CUT TO:
+                                                                   <sd>CUT TO:</sd>
+</Scene>
+   <Scene num="47">         
+      <Heading>THE H.M.S. INDOMITABLE -</Heading>
 
-      <sd>THE H.M.S. INDOMITABLE -
+      <sd>Moving through FOG in the STRAIT OF MALACCA, night.</sd>
+   </Scene>
+  <Scene num="48">
+      <Heading>INT. BRIDGE - NIGHT</Heading>
 
-      Moving through FOG in the STRAIT OF MALACCA, night.
-
-      INT. BRIDGE - NIGHT
-
-      The room is bathed in blue light as the crew monitors the Indomita-
+      <sd>The room is bathed in blue light as the crew monitors the Indomita-
       ble's command and control systems.
 
       At the VERTICAL GLASS MAP, the ship's course has been charted from
@@ -2846,21 +2851,23 @@
                  Chew up a log like that in the
                  propeller, you end up with enough paperwork
                  to go from here to London. Twice.</sp>
+  </Scene>
+      <Scene num="49">
+      <Heading>EXT. UNDERWATER - NIGHT</Heading>
 
-      <sd>EXT. UNDERWATER - NIGHT
-
-      The ship is moving towards a DARK VERTICAL SHAPE - Harmsway's SEA-BED
+      <sd>The ship is moving towards a DARK VERTICAL SHAPE - Harmsway's SEA-BED
       CORE BORING DRILL (shorthand "THE WORM',) attached to a long flexible
       dredging pipe.
 
       CLOSER - THE HEAD OF THE WORM -
 
       Motionless, hanging in the water. Then the monster awakes: A metal
-      sphere retracts, revealing a wide angle CAMERA LENS.
+      sphere retracts, revealing a wide angle CAMERA LENS.</sd>
+         </Scene>
+      <Scene num="50">
+      <Heading>INT. BRIDGE - NIGHT</Heading>
 
-      INT. BRIDGE - NIGHT
-
-      The Communications Officer reacts to his monitor with ALARM:
+      <sd>The Communications Officer reacts to his monitor with ALARM:
 
       COMMUNICATIONS OFFICER
       I'm getting an electrical emission,
@@ -2903,29 +2910,33 @@
 
                               <sp><spk>SONAR OPERATOR</spk>
                  The log is moving!</sp>
+      </Scene>
+      <Scene num="51">
+      <Heading>EXT. UNDERWATER - NIGHT</Heading>
 
-      <sd>EXT. UNDERWATER - NIGHT
-
-      Propelled by water-jets in its head, THE WORM STREAKS TOWARD THE
+      <sd>Propelled by water-jets in its head, THE WORM STREAKS TOWARD THE
       INDOMITABLE, emitting a HIGH PITCHED whine as its drill bit revs up
-      to speed. The drill's BLACK TEETH glisten in the water.
+      to speed. The drill's BLACK TEETH glisten in the water.</sd>
+      </Scene>
+      <Scene num="52">
+      <Heading>THE WORM'S POV - (UNDERWATER, NIGHT)</Heading>
 
-      THE WORM'S POV - (UNDERWATER, NIGHT)
+     <sd> Closing in on the hull like a torpedo. It gets closer, picking up
+      speed, until - on IMPACT -</sd>
+      </Scene>
+      <Scene num="53">
+      <Heading>INT. ENGINE ROOM -</Heading>
 
-      Closing in on the hull like a torpedo. It gets closer, picking up
-      speed, until - on IMPACT -
-
-      INT. ENGINE ROOM -
-
-      A TORRENT OF WATER engulfs the Engineer and Crewmen when The Worm
+      <sd>A TORRENT OF WATER engulfs the Engineer and Crewmen when The Worm
       bursts/drills through the hull. As they scream, drowning -
 
       A CREWMAN ON THE GANTRY scrambles up, one step ahead of the water,
-      through a bulkhead, into -
+      through a bulkhead, into -</sd>
+      </Scene>
+      <Scene num="54">
+      <Heading>GENERATOR ROOM - (CONTINUOUS)</Heading>
 
-      GENERATOR ROOM - (CONTINUOUS)
-
-      Where the CREWMAN and TWO OPERATORS struggle to CLOSE THE DOOR
+      <sd>Where the CREWMAN and TWO OPERATORS struggle to CLOSE THE DOOR
       AGAINST THE WATER.</sd>
 
                               <sp><spk>SENIOR OPERATOR</spk>
@@ -3008,10 +3019,11 @@
 
                               <sp><spk>SECOND OFFICER</spk> (into intercom)
                  Repeat: Seal all compartments, and -</sp>
+      </Scene>
+      <Scene num="55">
+      <Heading>CREW'S MESS -
 
-      <sd>CREW'S MESS -
-
-      In the dim lighting -</sd>
+      In the dim lighting -</Heading>
 
                               <sp><spk>SECOND OFFICER</spk> (on intercom)
                  Proceed to emergency stations at once!</sp>
@@ -3053,18 +3065,20 @@
 
                               <sp><spk>FIRST OFFICER</spk>
                  Get those pumps working!</sp>
+      </Scene>
+      <Scene num="56">
+      <Heading>BATTERY ROOM -</Heading>
 
-      <sd>BATTERY ROOM -
-
-      A CREWMAN hurriedly flips switches. The lights flicker... And just
+      <sd>A CREWMAN hurriedly flips switches. The lights flicker... And just
       as they some to life, brightly -
 
       THE DOOR BURSTS OPEN, and a wall of water and debris blows in,
-      destroying everything in its wake.
+      destroying everything in its wake.</sd>
+      </Scene>
+      <Scene num="57">
+      <Heading>THE BRIDGE -</Heading>
 
-      THE BRIDGE -
-
-      Lights out! A sense of helplessness is beginning to fill the room:</sd>
+      <sd>Lights out! A sense of helplessness is beginning to fill the room:</sd>
 
                               <sp><spk>SYSTEMS CONTROL</spk>
                  The back-up is gone!</sp>
@@ -3078,27 +3092,31 @@
 
                               <sp><spk>FIRST OFFICER</spk>
                  Where the hell is the Captain?!?!</sp>
+      </Scene>
+      <Scene num="58">
+      <Heading>THE CAPTAIN (PASSAGEWAY #3) -</Heading>
 
-      <sd>THE CAPTAIN (PASSAGEWAY #3) -
+     <sd> Running, the Captain is about to reach the exit door. Hearing the
+      relentless grinding behind him, he throws a look over his shoulder:</sd>
 
-      Running, the Captain is about to reach the exit door. Hearing the
-      relentless grinding behind him, he throws a look over his shoulder:
+      <sd>BAM! The entrance door EXPLODES in a thunderball of water.
 
-      BAM! The entrance door EXPLODES in a thunderball of water.
+      The Captain clambers through the exit door to:</sd>
+      </Scene>
+      <Scene num="59">
+      <Heading>PASSAGEWAY #4 -</Heading>
 
-      The Captain clambers through the exit door to:
+      <sd>A short hall: He shuts the entrance door, runs to the exit. He
+      looks hack again:</sd>
 
-      PASSAGEWAY #4 -
-
-      A short hall: He shuts the entrance door, runs to the exit. He
-      looks hack again:
-
-      BAM! The door blasts open - and the torrent of water continues the
+      <sd>BAM! The door blasts open - and the torrent of water continues the
       chase, as if it's got a personal vendetta against him. He exits to:
+</sd>
+      </Scene>
+            <Scene num="60">
+      <Heading>PASSAGEWAY #5 -</Heading>
 
-      PASSAGEWAY #5 -
-
-      Slamming the door behind him, the Captain looks ahead, and up:
+      <sd>Slamming the door behind him, the Captain looks ahead, and up:
 
       STAIRS. AN OPEN DOOR AT THE TOP.
 
@@ -3116,14 +3134,15 @@
       CA-CHUNK! THE EXIT DOOR SLAMS CLOSED IN FRONT OF HIM!
 
       With PANIC IN HIS EYES, the Captain turns to face the oncoming
-      tsunami! We cut to:
+      tsunami! We cut to:</sd>
+            </Scene>
+            <Scene num="61">
+      <Heading>THE WORM'S POV - (UNDERWATER, INT. PASSAGEWAY #5)</Heading>
 
-      THE WORM'S POV - (UNDERWATER, INT. PASSAGEWAY #5)
+      <sd>Moving like a shark... Toward THE CAPTAIN'S LEGS, DEAD AHEAD IN THE
+      WATER. As it closes in for the kill -</sd>
 
-      Moving like a shark... Toward THE CAPTAIN'S LEGS, DEAD AHEAD IN THE
-      WATER. As it closes in for the kill -
-
-      THE BRIDGE -
+      <sd>THE BRIDGE -
 
       Shifts, suddenly, to the stern. A confusion of anxious voices:</sd>
 
@@ -3201,19 +3220,23 @@
 
                               <sp><spk>CREWMAN</spk>
                  Hey - look! Over there!</sp>
+            </Scene>
+      <Scene num="62">
+      <Heading>NEW ANGLE - (ROCK OUTCROPPING - STRAIT OF MALACCA - NIGHT)</Heading>
 
-      <sd>NEW ANGLE - (ROCK OUTCROPPING - STRAIT OF MALACCA - NIGHT)
+      <sd>The SEA DOLPHIN II emerges from a cove, looking like a ghostly white
+      apparition in the fog.</sd>
+      </Scene>
+      <Scene num="63">
+      <Heading>RETURN ON THE LIFEBOAT -</Heading>
 
-      The SEA DOLPHIN II emerges from a cove, looking like a ghostly white
-      apparition in the fog.
+      <sd>The men yell and wave and whistle, hoping to be saved.</sd>
 
-      RETURN ON THE LIFEBOAT -
+      </Scene>
+      <Scene num="64">
+      <Heading>CLOSER ON THE SEA DOLPHIN II - DECK -</Heading>
 
-      The men yell and wave and whistle, hoping to be saved.
-
-      CLOSER ON THE SEA DOLPHIN II - DECK -
-
-      Elliot Harmsway removes a pair of binoculars from his face. Turns to
+      <sd>Elliot Harmsway removes a pair of binoculars from his face. Turns to
       YUNG, standing next to him at the rail:</sd>
 
                           <sp><spk>HARMSWAY</spk>              Lovely night for a shipwreck, isn't it?</sp>
@@ -3221,21 +3244,23 @@
       <sd>Yung looks at Harmsway like he's crazy. Oblivious, Harmsway looks at
       his WATCH, then looks through the BINOCULARS again - and begins to
       WHISTLE the opening notes of My Fair Lady's "WOULDN'T IT BE LOVERLY."
-      ("All I want is a room somewhere, far away from the cold night air")
+      ("All I want is a room somewhere, far away from the cold night air")</sd>
+      </Scene>
+      <Scene num="65">
+      <Heading>THE LIFEBOAT -</Heading>
 
-      THE LIFEBOAT -
-
-      As the men cry for help, the Sonar Operator spots something just
+      <sd>As the men cry for help, the Sonar Operator spots something just
       below the surface, moving toward the lifeboat at great speed.
 
       He hears the hum. His eyes follow the churning water...
 
       And suddenly - out of nowhere - the Worm hits the lifeboat from
-      below, smashing it to bits, hurtling the pieces in the air.
+      below, smashing it to bits, hurtling the pieces in the air.</sd>
+      </Scene>
+      <Scene num="66">
+      <Heading>THE SEA DOLPHIN II -</Heading>
 
-      THE SEA DOLPHIN II -
-
-      Harmsway lowers the binoculars' smiling. Stamper appears, hands
+      <sd>Harmsway lowers the binoculars' smiling. Stamper appears, hands
       Harmsway a piece of paper.</sd>
 
                           <sp><spk>STAMPER</spk>              We've decoded their last transmission.</sp>
@@ -3254,17 +3279,19 @@
 
                               <sp><spk>YUNG</spk>
                  You heard him. Get the men in the water!</sp>
+      </Scene>
+      <Scene num="67">
+      <Heading>NEW ANGLE - SIDE OF THE SEA DOLPHIN II - NIGHT -</Heading>
 
-      <sd>NEW ANGLE - SIDE OF THE SEA DOLPHIN II - NIGHT -
+      <sd>In the water next to the chip, FOUR DIVERS drop the last of their
+      equipment in a DIVE BOAT. They cast off, motoring into the fog.</sd>
+      </Scene>
+      <Scene num="68">
+     <Heading> EXT. LONDON - RESTAURANT BIBENDUM - NIGHT</Heading>
 
-      In the water next to the chip, FOUR DIVERS drop the last of their
-      equipment in a DIVE BOAT. They cast off, motoring into the fog.
+      <sd>The classic Michelin building on Fulham road.</sd>
 
-      EXT. LONDON - RESTAURANT BIBENDUM - NIGHT
-
-      The classic Michelin building on Fulham road.
-
-      INT. RESTAURANT BIBENDUM -
+      <sd>INT. RESTAURANT BIBENDUM -
 
       A YOUNG WOMAN is yammering away at Bond; he's trying to put a good
       face on what is obviously a dreadful fix-up first date.</sd>
@@ -3286,25 +3313,29 @@
                               <sp><spk>MAITRE D'</spk>
                  Excuse me - Mr. Bond? You have a call.</sp>
 
-      <sd>Bond excuses himself.
+      <sd>Bond excuses himself.</sd>
+      </Scene>
+<Scene num="69">
+      <Heading>NEW ANGLE - BOND AT PHONE -</Heading>
 
-      NEW ANGLE - BOND AT PHONE -
-
-      007 picks up the receiver, without saying hello:</sd>
+      <sd>007 picks up the receiver, without saying hello:</sd>
 
                            <sp><spk sex="M">BOND</spk>            Moneypenny! You're early. You
                  weren't supposed to call until -
                        (he stiffens)
                  Yes. I understand. Twenty minutes.</sp>
+</Scene>
+      <Scene num="70">
 
-      <sd>EXT. THE BANK OF LONDON - NIGHT
+      <Heading>EXT. THE BANK OF LONDON - NIGHT</Heading>
 
-      Passing a NEWSPAPER DELIVERY TRUCK with an ad for "TOMORROW" ("The
-      Paper that Never Lies,") Bond's DB-5 roars past the guard.
+      <sd>Passing a NEWSPAPER DELIVERY TRUCK with an ad for "TOMORROW" ("The
+      Paper that Never Lies,") Bond's DB-5 roars past the guard.</sd>
+      </Scene>
+      <Scene num="71">
+      <Heading>INT. CONFERENCE ROOM - BANK OF LONDON - NIGHT</Heading>
 
-      INT. CONFERENCE ROOM - BANK OF LONDON - NIGHT
-
-      ADMIRAL ROEBUCK glares as MINISTER JOHNSTONE enters to address M,
+      <sd>ADMIRAL ROEBUCK glares as MINISTER JOHNSTONE enters to address M,
       TANNER, A TREASURY OFFICIAL, and various UNIFORMS and SUITS.</sd>
 
                               <sp><spk sex="M">MINISTER JOHNSTONE</spk>
