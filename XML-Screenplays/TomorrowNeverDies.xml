@@ -2421,9 +2421,9 @@
 
       <sd>He stops shaving.</sd></Scene>
 
-      INT. ENGINE ROOM -
+      <Scene num="43"><Heading>INT. ENGINE ROOM -</Heading>
 
-      The ENGINEER shouts to his crew, over NOISE OF DIESEL ENGINES:</sd>
+      <sd>The ENGINEER shouts to his crew, over NOISE OF DIESEL ENGINES:</sd>
 
                               <sp>ENGINEER
                  Check the engine baffles; rig the
@@ -2457,22 +2457,20 @@
 
                               <sp><spk>FIRST OFFICER</spk>
                  We'll all breathe a lot easier when
-                 we get this cargo back to London.</sp>
+                 we get this cargo back to London.</sp></Scene>
 
-                                                                   CUT TO:
+      <Scene num="44"><Heading>EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY</Heading>
 
-      <sd>EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY
-
-      THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment (aka the
+      <sd>THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment (aka the
       "Black Watch") is playing a FUNERAL DIRGE outside a vast stone house,
       with a HARMSWAY NEWS HELICOPTER on the lawn, and LIMOUSINES, A HEARSE
       and a FLOWER CAR in the driveway.
 
-      SIX MEN IN FORMAL MOURNING ATTIRE are entering the house.
+      SIX MEN IN FORMAL MOURNING ATTIRE are entering the house.</Scene>
 
-      INT. GRAND ROOM - SCOTTISH MANOR HOUSE -
+      <Scene num="45"><Heading>INT. GRAND ROOM - SCOTTISH MANOR HOUSE -</Heading>
 
-      A SINGLE WHITE ROSE is added to a pile of white roses in PARIS
+      <sd>A SINGLE WHITE ROSE is added to a pile of white roses in PARIS
       HARMSWAY'S OPEN CASKET.
 
       REVEAL: We're in mid-procession: The last two (of the six men from
@@ -2486,11 +2484,11 @@
 
       After the last man has paid his respects, HARMSWAY stands, walks to
       the bier, and - wiping away a tear - places a single RED ROSE in his
-      dead wife's casket.
+      dead wife's casket.</sd></Scene>
 
-      INT. HARMSWAY'S INNER SANCTUM - SCOTTISH MANOR HOUSE - DAY
+      <Scene num="46"><Heading>INT. HARMSWAY'S INNER SANCTUM - SCOTTISH MANOR HOUSE - DAY</Heading>
 
-      We're in a room that looks as if it could only exist in, well, a
+      <sd>We're in a room that looks as if it could only exist in, well, a
       James Bond movie: Slick, stark, sterile. Steel, glass, chrome.
 
       The SIX men are seated around a giant conference table, looking
@@ -2634,19 +2632,19 @@
                  the word's most perfect crime: The
                  biggest theft in the history of mankind.
                        (beat, pointing with a laser)
-                 Right here. In the Strait of Malacca.</sp>
+                 Right here. In the Strait of Malacca.</sp></Scene>
 
-      <sd>EXT. LIMOUSINE - MANOR HOUSE - DAY
+      <Scene num="47"><sd>EXT. LIMOUSINE - MANOR HOUSE - DAY
 
-      Stamper holds the back door open for Number Three. He gets in.
+      Stamper holds the back door open for Number Three. He gets in.</sd></Scene>
 
-      INT. LIMOUSINE -
+      <Scene num="48"><Heading>INT. LIMOUSINE -</Heading>
 
-      He seems relieved, until the doors lock, ominously. They drive off.
+      <sd>He seems relieved, until the doors lock, ominously. They drive off.</sd></Scene>
 
-      EXT. SCOTTISH HIGHLAND ROADWAY - (INT./EXT. LIMOUSINE - MOVING) DAY
+      <Scene num="49"><Heading>EXT. SCOTTISH HIGHLAND ROADWAY - (INT./EXT. LIMOUSINE - MOVING) DAY</Heading>
 
-      Number Three fidgets in the back... And notices Stamper smiling at
+      <sd>Number Three fidgets in the back... And notices Stamper smiling at
       him in the REARVIEW MIRROR. He sees Stamper reach INTO HIS JACKET -
       and PANICS! Is he going to get shot? Is it over? He winces, as -
 
@@ -2659,11 +2657,11 @@
       RETURN ON THE MANOR HOUSE - FAVORING THE HNN HELICOPTER -
 
       Amidst ad-libbed 'good-bye's" from the gang of six (now five,)
-      Harmsway gets in the waiting HNN chopper. It powers up, takes off.
+      Harmsway gets in the waiting HNN chopper. It powers up, takes off.</Scene>
 
-      EXT. SMALL AIRPORT - SCOTLAND -
+      <Scene num="50"><Heading>EXT. SMALL AIRPORT - SCOTLAND -</Heading>
 
-      Stamper's limousine parks near a Gulfstream jet. He opens the back
+      <sd>Stamper's limousine parks near a Gulfstream jet. He opens the back
       door for Number Three. At last, the man believes he is safe.</sd>
 
                               <sp><spk>NUMBER THREE</spk>
@@ -2678,11 +2676,11 @@
 
       At the doorway, Number Three looks back. Stamper smiles, waving:</sd>
 
-                          <sp><spk>STAMPER</spk>              Bye-bye.</sp>
+                          <sp><spk>STAMPER</spk>              Bye-bye.</sp></Scene>
 
-      <sd>INT. GULFSTREAM JET - DAY
+      <Scene num="51"><Heading>INT. GULFSTREAM JET - DAY</Heading>
 
-      Number Three settles into his seat. The door closes; the engines
+      <sd>Number Three settles into his seat. The door closes; the engines
       wind up for take-off. He sighs: He's safe. He casually picks up the
       newspaper, snaps open the front page:
 
@@ -2696,15 +2694,13 @@
       TWO ARABIAN GENTLEMEN (in full burnoose) sit down on either side of
       him. They smile. And on NUMBER THREE'S BLOOD-CURDLING SCREAM, we</sd>
 
-                                                                   CUT TO:
-
       <sd>THE H.M.S. INDOMITABLE -
 
-      Moving through FOG in the STRAIT OF MALACCA, night.
+      Moving through FOG in the STRAIT OF MALACCA, night.</sd></Scene>
 
-      INT. BRIDGE - NIGHT
+      <Scene num="52"><Heading>INT. BRIDGE - NIGHT</Heading>
 
-      The room is bathed in blue light as the crew monitors the Indomita-
+      <sd>The room is bathed in blue light as the crew monitors the Indomita-
       ble's command and control systems.
 
       At the VERTICAL GLASS MAP, the ship's course has been charted from
@@ -2794,11 +2790,11 @@
                  something wrong with the signal?</sp>
 
                               <sp><spk>GPS OFFICER</spk>
-                 Two words: Im-possible.</sp>
+                 Two words: Im-possible.</sp></Scene>
 
-      <sd>EXT. SPACE -
+      <Scene num="53"><Heading>EXT. SPACE -</Heading>
 
-      As the earth turns below, a TINY SILVER DOT appears in the distance:
+      <sd>As the earth turns below, a TINY SILVER DOT appears in the distance:
       A COMMUNICATIONS SATELLITE, spinning slowly on its axis.
 
       It comes closer and closer to camera, until it FILLS THE SCREEN, and
@@ -2845,22 +2841,22 @@
                        (explaining)
                  Chew up a log like that in the
                  propeller, you end up with enough paperwork
-                 to go from here to London. Twice.</sp>
+                 to go from here to London. Twice.</sp></Scene>
 
-      <sd>EXT. UNDERWATER - NIGHT
+      <Scene num="54"><Heading>EXT. UNDERWATER - NIGHT</Heading>
 
-      The ship is moving towards a DARK VERTICAL SHAPE - Harmsway's SEA-BED
+      <sd>The ship is moving towards a DARK VERTICAL SHAPE - Harmsway's SEA-BED
       CORE BORING DRILL (shorthand "THE WORM',) attached to a long flexible
       dredging pipe.
 
       CLOSER - THE HEAD OF THE WORM -
 
       Motionless, hanging in the water. Then the monster awakes: A metal
-      sphere retracts, revealing a wide angle CAMERA LENS.
+      sphere retracts, revealing a wide angle CAMERA LENS.</sd></Scene>
 
-      INT. BRIDGE - NIGHT
+      <Scene num="55"><Heading>INT. BRIDGE - NIGHT</Heading>
 
-      The Communications Officer reacts to his monitor with ALARM:
+      <sd>The Communications Officer reacts to his monitor with ALARM:
 
       COMMUNICATIONS OFFICER
       I'm getting an electrical emission,
@@ -2902,22 +2898,22 @@
                  What?!?!</sp>
 
                               <sp><spk>SONAR OPERATOR</spk>
-                 The log is moving!</sp>
+                 The log is moving!</sp></Scene>
 
-      <sd>EXT. UNDERWATER - NIGHT
+      <Scene num="56"><Heading>EXT. UNDERWATER - NIGHT</Heading>
 
-      Propelled by water-jets in its head, THE WORM STREAKS TOWARD THE
+      <sd>Propelled by water-jets in its head, THE WORM STREAKS TOWARD THE
       INDOMITABLE, emitting a HIGH PITCHED whine as its drill bit revs up
       to speed. The drill's BLACK TEETH glisten in the water.
 
       THE WORM'S POV - (UNDERWATER, NIGHT)
 
       Closing in on the hull like a torpedo. It gets closer, picking up
-      speed, until - on IMPACT -
+      speed, until - on IMPACT -</sd></Scene>
 
-      INT. ENGINE ROOM -
+      <Scene num="57"><Heading>INT. ENGINE ROOM -</Heading>
 
-      A TORRENT OF WATER engulfs the Engineer and Crewmen when The Worm
+      <sd>A TORRENT OF WATER engulfs the Engineer and Crewmen when The Worm
       bursts/drills through the hull. As they scream, drowning -
 
       A CREWMAN ON THE GANTRY scrambles up, one step ahead of the water,
@@ -3163,26 +3159,26 @@
 
       As the passageway shifts, tilting to the stern, the Captain screams
       and WHOOSH! - is sucked down into the water - the worm's vortex -
-      like meat being fed into a Cuisinart: A churning, spinning death.
+      like meat being fed into a Cuisinart: A churning, spinning death.</Scene>
 
-      EXT. THE H.M.S. INDOMITABLE - FOG - NIGHT
+      <Scene num="58"><Heading>EXT. THE H.M.S. INDOMITABLE - FOG - NIGHT</Heading>
 
-      Bow rises completely out of the water as the stern goes under.
+      <sd>Bow rises completely out of the water as the stern goes under.</sd></Scene>
 
-      EXT. DECK -
+      <Scene num="59"><Heading>EXT. DECK -</Heading>
 
-      TWO CREWMAN manage to get a LIFEBOAT away. TWO OTHERS scramble up
+      <sd>TWO CREWMAN manage to get a LIFEBOAT away. TWO OTHERS scramble up
       from below and leap into the water.
 
       WIDER
 
       The bow is at a forty-five degree angle... And the H.M.S.
       Indomitable pauses - for just a moment - before SLIPPING UNDER, STERN
-      FIRST, throwing up a series of great waves.
+      FIRST, throwing up a series of great waves.</sd></Scene>
 
-      EXT. LIFEBOAT -
+      <Scene num="60"><Heading>EXT. LIFEBOAT -</Heading>
 
-      Rocked by waves from the sinking ship. The Cook, a Marine, and Three
+      <sd>Rocked by waves from the sinking ship. The Cook, a Marine, and Three
       Crewmen hear a splash along side. Two of the Crew pull the SONAR
       OFFICER aboard. He takes a minute to catch his breath, then:</sd>
 
@@ -3258,15 +3254,15 @@
       <sd>NEW ANGLE - SIDE OF THE SEA DOLPHIN II - NIGHT -
 
       In the water next to the chip, FOUR DIVERS drop the last of their
-      equipment in a DIVE BOAT. They cast off, motoring into the fog.
+      equipment in a DIVE BOAT. They cast off, motoring into the fog.</Scene>
 
-      EXT. LONDON - RESTAURANT BIBENDUM - NIGHT
+      <Scene num="61"><Heading>EXT. LONDON - RESTAURANT BIBENDUM - NIGHT</Heading>
 
-      The classic Michelin building on Fulham road.
+      <sd>The classic Michelin building on Fulham road.</sd></Scene>
 
-      INT. RESTAURANT BIBENDUM -
+      <Scene num="62"><Heading>INT. RESTAURANT BIBENDUM -</Heading>
 
-      A YOUNG WOMAN is yammering away at Bond; he's trying to put a good
+      <sd>A YOUNG WOMAN is yammering away at Bond; he's trying to put a good
       face on what is obviously a dreadful fix-up first date.</sd>
 
                               <sp><spk>WOMAN</spk>
@@ -3295,16 +3291,16 @@
                            <sp><spk sex="M">BOND</spk>            Moneypenny! You're early. You
                  weren't supposed to call until -
                        (he stiffens)
-                 Yes. I understand. Twenty minutes.</sp>
+                 Yes. I understand. Twenty minutes.</sp></Scene>
 
-      <sd>EXT. THE BANK OF LONDON - NIGHT
+      <Scene num="63"><Heading>EXT. THE BANK OF LONDON - NIGHT</Heading>
 
-      Passing a NEWSPAPER DELIVERY TRUCK with an ad for "TOMORROW" ("The
-      Paper that Never Lies,") Bond's DB-5 roars past the guard.
+      <sd>Passing a NEWSPAPER DELIVERY TRUCK with an ad for "TOMORROW" ("The
+      Paper that Never Lies,") Bond's DB-5 roars past the guard.</sd></Scene>
 
-      INT. CONFERENCE ROOM - BANK OF LONDON - NIGHT
+      <Scene num="64"><Heading>INT. CONFERENCE ROOM - BANK OF LONDON - NIGHT</Heading>
 
-      ADMIRAL ROEBUCK glares as MINISTER JOHNSTONE enters to address M,
+      <sd>ADMIRAL ROEBUCK glares as MINISTER JOHNSTONE enters to address M,
       TANNER, A TREASURY OFFICIAL, and various UNIFORMS and SUITS.</sd>
 
                               <sp><spk sex="M">MINISTER JOHNSTONE</spk>
@@ -3361,18 +3357,16 @@
                  images - provided by Mr. Tanner of
                  MI-6 -the ship is presumed lost here,
                  just south of Kuala Lumpur, where she
-                 broadcast her last position.</sp>
+                 broadcast her last position.</sp></Scene>
 
-                                                                  CUT TO:
+      <Scene num="65"><Heading>EXT. STRAIT OF MALACCA - FOG - NIGHT</Heading>
 
-      <sd>EXT. STRAIT OF MALACCA - FOG - NIGHT
+      <sd>Foreground, empty diving boat. Background, Sea Dolphin II, with the
+      "flexible hose" hanging over the rail, down into the water.</sd></Scene>
 
-      Foreground, empty diving boat. Background, Sea Dolphin II, with the
-      "flexible hose" hanging over the rail, down into the water.
+      <Scene num="66"><Heading>INT. BRIDGE - SEA DOLPHIN II - NIGHT</Heading>
 
-      INT. BRIDGE - SEA DOLPHIN II - NIGHT
-
-      Stamper works "worm" master control with a video joystick.</sd>
+      <sd>Stamper works "worm" master control with a video joystick.</sd>
 
                           <sp><spk>STAMPER</spk>              Divers approaching the hull.</sp>
 
@@ -3416,11 +3410,10 @@
 
                               <sp><spk>DIVER</spk>
                        (through speaker)
-                 It's titanium. we can't cut through.</sp>
+                 It's titanium. we can't cut through.</sp></Scene>
 
-      <sd>INT. SEA DOLPHIN BRIDGE -
-
-      Stamper turns to Harmsway:</sd>
+      <Scene num="69"><Heading>INT. SEA DOLPHIN BRIDGE -</Heading>
+            <sd>Stamper turns to Harmsway:</sd>
 
                           <sp><spk>STAMPER</spk>              I'll do it.</sp>
 
@@ -3444,28 +3437,28 @@
       Trapped air bursts out from inside the compartment. The Divers push
       the worm to one side; two of them enter the hold with lights. The
       worm follows. The two other divers remain behind to feed the worm's
-      flexible tubing through the door.
+      flexible tubing through the door.</Scene>
 
-      INT. BILGE HOLD - UNDERWATER -
+      <Scene num="70"><Heading>INT. BILGE HOLD - UNDERWATER -</Heading>
 
-      The Divers' lights illuminate the hold: STACKS OF GOLD BARS, as far
-      as the eye can see.
+      <sd>The Divers' lights illuminate the hold: STACKS OF GOLD BARS, as far
+      as the eye can see.</sd></Scene>
 
-      INT. BRIDGE - SEA DOLPHIN II -
+      <Scene num="71"><Heading>INT. BRIDGE - SEA DOLPHIN II -</Heading>
 
-      Harmsway looks at the video screen.</sd>
+      <sd>Harmsway looks at the video screen.</sd>
 
                           <sp><spk>HARMSWAY</spk>              Gentlemen: I do believe we've struck
-                 gold... Four minutes ahead of schedule.</sp>
+                 gold... Four minutes ahead of schedule.</sp></Scene>
 
-      <sd>INT. BILGE HOLD - UNDERWATER -
+      <Scene num="72"><Heading>INT. BILGE HOLD - UNDERWATER -</Heading>
 
-      The worm closes its "eye", revs up its grinders, and attacks the
-      first pile of gold Bars. It runs through them like butter.
+      <sd>The worm closes its "eye", revs up its grinders, and attacks the
+      first pile of gold Bars. It runs through them like butter.</sd></Scene>
 
-      INT. CONFERENCE ROOM - BANK OF ENGLAND - NIGHT
+      <Scene num="73"><Heading>INT. CONFERENCE ROOM - BANK OF ENGLAND - NIGHT</Heading>
 
-      The bloodletting and recriminations have begun. This plays fast:</sd>
+      <sd>The bloodletting and recriminations have begun. This plays fast:</sd>
 
                               <sp><spk sex="M">MINISTER JOHNSTONE</spk>
                        (incredulous)
@@ -3554,11 +3547,11 @@
 
                            <sp><spk sex="M">BOND</spk>            Yes.</sp>
 
-                           <sp><spk sex="F">M</spk>            As you wish.</sp>
+                           <sp><spk sex="F">M</spk>            As you wish.</sp></Scene>
 
-      <sd>EXT. SEA DOLPHIN II - NIGHT
+      <Scene num="74"><Heading>EXT. SEA DOLPHIN II - NIGHT</Heading>
 
-      Harmsway walks along the side of the ship, observing the operation:
+      <sd>Harmsway walks along the side of the ship, observing the operation:
 
       The WORM'S DREDGING PUMP sucks up the ground-up GOLD AND WATER SLUR-
       RY, (through the TUBE hanging over the side,) and dumps it into a
@@ -3582,11 +3575,11 @@
 
                           <sp><spk>STAMPER</spk>              Fueled and waiting.</sp>
 
-                          <sp><spk>HARMSWAY</spk>              Good. We have an appointment in Hong Kong.</sp>
+                          <sp><spk>HARMSWAY</spk>              Good. We have an appointment in Hong Kong.</sp></Scene>
 
-      <sd>INT. HALLWAY - BANK OF LONDON - NIGHT -
+      <Scene num="75"><Heading>INT. HALLWAY - BANK OF LONDON - NIGHT -</Heading>
 
-      M and Bond, striding down a hallway to exit the building.</sd>
+      <sd>M and Bond, striding down a hallway to exit the building.</sd>
 
                            <sp><spk sex="F">M</spk>            ...You're turning into quite the
                  politician, 007.</sp>
@@ -3613,9 +3606,9 @@
                            <sp><spk sex="M">BOND</spk>            A three-thousand ton frigate doesn't
                  just vanish into thin air.</sp>
 
-      <sd>She nods and pushes through the door. He follows.
+      <sd>She nods and pushes through the door. He follows.</sd></Scene>
 
-      EXT. BANK OF LONDON - NIGHT - CONTINUOUS -</sd>
+      <Scene num="76"><Heading>EXT. BANK OF LONDON - NIGHT - CONTINUOUS -</Heading>
 
                            <sp><spk sex="F">M</spk>            I've already contacted our station in
                  Kuala Lumpur. They're lining up a
@@ -3649,16 +3642,16 @@
                        (beat)
                  Your job is to find the gold. Not
                  settle some personal score with
-                 Elliot Harmsway.</sp>
+                 Elliot Harmsway.</sp></Scene>
 
-      <sd>EXT. 'HARMSWAY BUILDING' (HONG KONG AND SHANGHAI BANK) - HONG KONG - DUSK
+      <Scene num="77"><Heading>EXT. 'HARMSWAY BUILDING' (HONG KONG AND SHANGHAI BANK) - HONG KONG - DUSK</Heading>
 
-      Super: HONG KONG. Harmsway's helicopter is perched atop the famous
-      tinker-toy-styled building in the Central district.
+      <sd>Super: HONG KONG. Harmsway's helicopter is perched atop the famous
+      tinker-toy-styled building in the Central district.</sd></Scene>
 
-      INT. PENTHOUSE BOARDROOM - DUSK
+      <Scene num="78"><Heading>INT. PENTHOUSE BOARDROOM - DUSK</Heading>
 
-      A CHINESE CHOP comes down firmly on a legal document. GENERAL LI (of
+      <sd>A CHINESE CHOP comes down firmly on a legal document. GENERAL LI (of
       the People's Revolutionary Army) is seated with a squad of lawyers:</sd>
 
                               <sp><spk>GENERAL LI</spk>
@@ -3720,11 +3713,11 @@
                           <sp><spk>HARMSWAY</spk>              Of course! How foolish. More bad
                  luck. I'll just borrow yours -</sp>
 
-      <sd>He takes General Li's pen, and signs his name with a flourish.
+      <sd>He takes General Li's pen, and signs his name with a flourish.</sd></Scene>
 
-      EXT. ROOF OF 'HARMSWAY BUILDING' -
+      <Scene num="79"><Heading>EXT. ROOF OF 'HARMSWAY BUILDING' -</Heading>
 
-      Under the whirring blades of the chopper, Harmsway bids farewell to
+      <sd>Under the whirring blades of the chopper, Harmsway bids farewell to
       General Li. He and Stamper get in helicopter.
 
       CLOSE ON THE HELICOPTER -
@@ -3735,22 +3728,22 @@
       WIDER -
 
       The cable leads to a spool, which runs to the FIFTH METAL VENTILATION
-      SHAFT Harmsway referred to in the last scene.
+      SHAFT Harmsway referred to in the last scene.</sd></Scene>
 
-      INT. HELICOPTER - AIRBORNE -
+      <Scene num="80"><Heading>INT. HELICOPTER - AIRBORNE -</Heading>
 
-      Harmsway pops open a bottle of champagne.</sd>
+      <sd>Harmsway pops open a bottle of champagne.</sd>
 
                           <sp><spk>HARMSWAY</spk>              An old Chinese toast to our friends...</sp>
 
       <sd>RETURN ON ROOFTOP HELIPAD -
 
       The General SEES THE CABLE GROW TAUT AROUND THE VENTILATION SHAFT.
-      He reacts with horror.
+      He reacts with horror.</sd></Scene>
 
-      INT. HELICOPTER/HARMSWAY ROOFTOP POV -
-
-      Harmsway glances down to watch the VENTILATION SHAFT TOPPLE onto the
+      <Scene num="81"><Heading>INT. HELICOPTER/HARMSWAY ROOFTOP POV -</Heading>
+            
+      <sd>Harmsway glances down to watch the VENTILATION SHAFT TOPPLE onto the
       General and his aides, scattering them like rats.
 
       In the chopper, the pilot cuts the cable, and Harmsway lifts a
@@ -3764,11 +3757,11 @@
 
       A BRITISH MILITARY C-130 airship is dropping sono-buoys into the
       water from a low altitude. me plane veers off, revealing A BRITISH
-      SEA KING command and control helicopter, hovering above.
+      SEA KING command and control helicopter, hovering above.</Scene>
 
-      INT. SEA KING HELICOPTER - AIRBORNE - DAY
+      <Scene num="82"><Heading>INT. SEA KING HELICOPTER - AIRBORNE - DAY</Heading>
 
-      Bond holds a map of the channel. He's standing over several CREWMAN
+      <sd>Bond holds a map of the channel. He's standing over several CREWMAN
       seated at radar, sonar, and navigation consoles.</sd>
 
                               <sp><spk>CREWMAN 1</spk>
@@ -3815,18 +3808,18 @@
 
                               <sp><spk>PILOT</spk> (on pa speaker)
                  Please leave the area. please leave
-                 the area.</sp>
+                 the area.</sp></Scene>
 
-      <sd>EXT. HNN WORLD HEADQUARTERS (PETRONAS TOWERS)- KUALA LUMPUR - DAY
+      <Scene num="83"><Heading>EXT. HNN WORLD HEADQUARTERS (PETRONAS TOWERS)- KUALA LUMPUR - DAY</Heading>
 
-      We're looking up at the world's tallest building: The 1500' twin
+      <sd>We're looking up at the world's tallest building: The 1500' twin
       Petronas Towers. (They look like an architectural collaboration
       between Friz Lang and H.G. Wells.) At the 50th floor, there's a sky
-      bridge connecting the buildings, where -
+      bridge connecting the buildings, where -</sd></Scene>
 
-      INT. SKY BRIDGE - (HNN HEADQUARTERS) - DAY
+      <Scene num="84"><Heading>INT. SKY BRIDGE - (HNN HEADQUARTERS) - DAY</Heading>
 
-      Elliot Harmsway strides out of an elevator (in Tower 1,) into a group
+      <sd>Elliot Harmsway strides out of an elevator (in Tower 1,) into a group
       of waiting assistants. Without breaking stride -</sd>
 
                               <sp><spk>YOUNG MALE ASSISTANT 1</spk>
@@ -3868,11 +3861,11 @@
 
                           <sp><spk>HARMSWAY</spk>              Excellent.</sp>
 
-      <sd>They've passed from the bridge, through reception, into:
+      <sd>They've passed from the bridge, through reception, into:</sd></Scene>
 
-      INT. CONFERENCE ROOM - HNN HEADQUARTERS - CONTINUOUS - DAY
+      <Scene num="85"><Heading>INT. CONFERENCE ROOM - HNN HEADQUARTERS - CONTINUOUS - DAY</Heading>
 
-      A glass conference roam, whose PARTIALLY CLOSED BLINDS obscure the
+      <sd>A glass conference roam, whose PARTIALLY CLOSED BLINDS obscure the
       view of the MAMMOTH HNN NEWS CENTER. (We'll see this, in full,
       later.) Meanwhile, a DOZEN RAMBUNCTIOUS EDITORS react to:</sd>
 
@@ -3930,11 +3923,11 @@
                  right to know... Lather it up with a lot
                  of righteous indignation.
                        (off their laughter)
-                 Next?</sp>
+                 Next?</sp></Scene>
 
-      <sd>INT. SEA KING HELICOPTER - AIRBORNE - DAY
+      <Scene num="86"><Heading>INT. SEA KING HELICOPTER - AIRBORNE - DAY</Heading>
 
-      Frowning, Bond peers at the Sonar Operator's screen.</sd>
+      <sd>Frowning, Bond peers at the Sonar Operator's screen.</sd>
 
                            <sp><spk sex="M">BOND</spk>            Still nothing?</sp>
 
@@ -3942,11 +3935,11 @@
 
                               <sp><spk>CO-PILOT</spk>
                  Commander Bond: They've found one of
-                 the crewman's bodies!</sp>
+                 the crewman's bodies!</sp></Scene>
 
-      <sd>EXT. COASTAL INLET - MARSHLAND - STRAIT OF MALACCA - DAY
+      <Scene num="87"><Heading>EXT. COASTAL INLET - MARSHLAND - STRAIT OF MALACCA - DAY</Heading>
 
-      The Sea King comes in above several police cars and boats. Bond
+      <sd>The Sea King comes in above several police cars and boats. Bond
       jumps the last ten feet, and the chopper peels off.</sd>
 
                               <sp><spk>MALE VOICE</spk> (O.S.)
@@ -4018,11 +4011,11 @@
                            <sp><spk sex="M">BOND</spk>            Something with an engine? Not oars?</sp>
 
                               <sp><spk>WADE</spk>
-                 Step into my office.</sp>
+                 Step into my office.</sp></Scene>
 
-      <sd>EXT. 'THE RUNNING DOG' CIGARETTE BOAT - STRAIT OF MALACCA - DAY -
+      <Scene num="88"><Heading>EXT. 'THE RUNNING DOG' CIGARETTE BOAT - STRAIT OF MALACCA - DAY -</Heading>
 
-      Smashing through the water at breakneck speed. Wade and Bond yell
+      <sd>Smashing through the water at breakneck speed. Wade and Bond yell
       over the engines.</sd>
 
                               <sp><spk>WADE</spk>
@@ -4041,11 +4034,11 @@
                  Should have seen his rose garden:
                  Blooms the size of hand grenades.</sp>
 
-      <sd>Bond looks at Wade: The man remains, forever deranged.
+      <sd>Bond looks at Wade: The man remains, forever deranged.</Scene>
 
-      EXT. PORT KLANG - ESTABLISHING - DAY
+      <Scene num="89"><Heading>EXT. PORT KLANG - ESTABLISHING - DAY</Heading>
 
-      The Harbor Master's tower overlooks a small armada of yachts, fishing
+      <sd>The Harbor Master's tower overlooks a small armada of yachts, fishing
       boats, etc. A series of long dockways jut out into the harbor.
 
       CIGARETTE BOAT - (PORT KLANG - WATERWAY) - DAY
@@ -4099,11 +4092,11 @@
                  I envy your 'undercover' assignments.</sp>
 
                            <sp><spk sex="M">BOND</spk>                  (a look, then)
-                 We work in the dark. We do what we can.</sp>
+                 We work in the dark. We do what we can.</sp></Scene>
 
-      <sd>INT. HARBOR MASTER OFFICE - PORT KLANG - DAY
+      <Scene num="90"><Heading>INT. HARBOR MASTER OFFICE - PORT KLANG - DAY</Heading>
 
-      The local Malay harbor master puts a stack of charts on the counter.</sd>
+      <sd>The local Malay harbor master puts a stack of charts on the counter.</sd>
 
                               <sp><spk>HARBOR MASTER</spk>
                  Wind, tide, currents... You're the
@@ -4138,11 +4131,11 @@
                  weekend missed the last bus. Slept
                  on the docks. Hundreds of them.</sp>
 
-                           <sp><spk sex="M">BOND</spk>            Thanks.</sp>
+                           <sp><spk sex="M">BOND</spk>            Thanks.</sp></Scene>
 
-      <sd>EXT. HARBOR MASTER'S TOWER - DAY
+      <Scene num="91"><Heading>EXT. HARBOR MASTER'S TOWER - DAY</Heading>
 
-      Bond emerges, carrying the charts, along with Wade.</sd>
+      <sd>Bond emerges, carrying the charts, along with Wade.</sd>
 
                            <sp><spk sex="M">BOND</spk>            I have to get these to London. Do
                  you know this Captain Cheong?</sp>
@@ -4154,15 +4147,15 @@
                            <sp><spk sex="M">BOND</spk>            Can you arrange a meeting?</sp>
 
                               <sp><spk>WADE</spk>
-                 Hell. The CIA built that club.</sp>
+                 Hell. The CIA built that club.</sp></Scene>
 
-      <sd>EXT. KUALA LUMPUR YACHT CLUB - NIGHT
+      <Scene num="92"><Heading>EXT. KUALA LUMPUR YACHT CLUB - NIGHT</Heading>
 
-      Palm trees, torch lights, and Rolls Royces.
+      <sd>Palm trees, torch lights, and Rolls Royces.</sd></Scene>
 
-      INT. KUALA LUMPUR YACHT CLUB - NIGHT
+      <Scene num="93"><Heading>INT. KUALA LUMPUR YACHT CLUB - NIGHT</Heading>
 
-      A local band plays on the verandah. We find Wade at a POKER TABLE
+      <sd>A local band plays on the verandah. We find Wade at a POKER TABLE
       with five local Malay Chinese. He CUTS THE CARDS, exuberantly:</sd>
 
                               <sp><spk>WADE</spk>
@@ -4349,11 +4342,11 @@
                        (seeing Taro)
                  What happened?</sp>
 
-                           <sp><spk sex="M">BOND</spk>            He tied one on.</sp>
+                           <sp><spk sex="M">BOND</spk>            He tied one on.</sp></Scene>
 
-      <sd>EXT. A DESERTED MARINA - MORNING -
+      <Scene num="94"><Heading>EXT. A DESERTED MARINA - MORNING -</Heading>
 
-      Bond walks down a long dock towards a lone boat, moored at the end.
+      <sd>Bond walks down a long dock towards a lone boat, moored at the end.</sd></Scene>
 
       EXT./INT. BOAT AT MARINA - MORNING -
 
