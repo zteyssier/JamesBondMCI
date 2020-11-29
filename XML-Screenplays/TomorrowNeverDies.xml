@@ -2457,7 +2457,6 @@
 
                               <sp><spk>FIRST OFFICER</spk>
                  We'll all breathe a lot easier when
-<<<<<<< HEAD
                  we get this cargo back to London.</sp></Scene>
 
       <Scene num="44"><Heading>EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY</Heading>
@@ -2465,20 +2464,20 @@
       <sd>THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment (aka the
       "Black Watch") is playing a FUNERAL DIRGE outside a vast stone house,
 =======
-                 we get this cargo back to London.</sp>
+                 we get this cargo back to London.</sd>
             <sd>CUT TO:</sd>
       </Scene>
          <Scene num="44">
 
       <Heading>EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY</Heading>
 
-      <sd>THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment <sd>aka the
-      "Black Watch"</sd> is playing a FUNERAL DIRGE outside a vast stone house,
+      <sd>THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment aka the
+      "Black Watch" is playing a FUNERAL DIRGE outside a vast stone house,
 >>>>>>> 644d7bbfb396f277bd038c1223bdb0d631001619
       with a HARMSWAY NEWS HELICOPTER on the lawn, and LIMOUSINES, A HEARSE
       and a FLOWER CAR in the driveway.
 
-      SIX MEN IN FORMAL MOURNING ATTIRE are entering the house.</Scene>
+      SIX MEN IN FORMAL MOURNING ATTIRE are entering the house.</sd></Scene>
 
       <Scene num="45"><Heading>INT. GRAND ROOM - SCOTTISH MANOR HOUSE -</Heading>
 
@@ -2643,13 +2642,12 @@
                  are going to initiate phase one of
                  the word's most perfect crime: The
                  biggest theft in the history of mankind.
-<<<<<<< HEAD
                        (beat, pointing with a laser)
                  Right here. In the Strait of Malacca.</sp></Scene>
-=======
-                       <sd>beat, pointing with a laser</sd>
-                 Right here. In the Strait of Malacca.</sp>
->>>>>>> 644d7bbfb396f277bd038c1223bdb0d631001619
+
+                       <sd>beat, pointing with a laser
+                 Right here. In the Strait of Malacca.
+>>>>>>> 644d7bbfb396f277bd038c1223bdb0d631001619</sd>
 
       <Scene num="47"><sd>EXT. LIMOUSINE - MANOR HOUSE - DAY
 
@@ -2659,7 +2657,7 @@
 
       <sd>He seems relieved, until the doors lock, ominously. They drive off.</sd></Scene>
 
-<<<<<<< HEAD
+
       <Scene num="49"><Heading>EXT. SCOTTISH HIGHLAND ROADWAY - (INT./EXT. LIMOUSINE - MOVING) DAY</Heading>
 =======
       EXT. SCOTTISH HIGHLAND ROADWAY - <sd>INT./EXT. LIMOUSINE - MOVING</sd> DAY
@@ -2678,7 +2676,7 @@
 <Scene num="45">
       <Heading>RETURN ON THE MANOR HOUSE - FAVORING THE HNN HELICOPTER -</Heading>
 
-<<<<<<< HEAD
+
       Amidst ad-libbed 'good-bye's" from the gang of six (now five,)
       Harmsway gets in the waiting HNN chopper. It powers up, takes off.</Scene>
 
@@ -2724,7 +2722,7 @@
       TWO ARABIAN GENTLEMEN <sd>in full burnoose</sd> sit down on either side of
       him. They smile. And on NUMBER THREE'S BLOOD-CURDLING SCREAM, we</sd>
 
-<<<<<<< HEAD
+
       <sd>THE H.M.S. INDOMITABLE -
 
       Moving through FOG in the STRAIT OF MALACCA, night.</sd></Scene>
@@ -2883,7 +2881,7 @@
                        <sd>explaining</sd>
                  Chew up a log like that in the
                  propeller, you end up with enough paperwork
-<<<<<<< HEAD
+
                  to go from here to London. Twice.</sp></Scene>
 
       <Scene num="54"><Heading>EXT. UNDERWATER - NIGHT</Heading>
@@ -2891,7 +2889,7 @@
       <sd>The ship is moving towards a DARK VERTICAL SHAPE - Harmsway's SEA-BED
       CORE BORING DRILL (shorthand "THE WORM',) attached to a long flexible
 =======
-                 to go from here to London. Twice.</sp>
+                 to go from here to London. Twice.</sd>
   </Scene>
       <Scene num="49">
       <Heading>EXT. UNDERWATER - NIGHT</Heading>
@@ -2904,13 +2902,13 @@
       CLOSER - THE HEAD OF THE WORM -
 
       Motionless, hanging in the water. Then the monster awakes: A metal
-<<<<<<< HEAD
+
       sphere retracts, revealing a wide angle CAMERA LENS.</sd></Scene>
 
       <Scene num="55"><Heading>INT. BRIDGE - NIGHT</Heading>
 
 =======
-      sphere retracts, revealing a wide angle CAMERA LENS.</sd>
+      <sd>sphere retracts, revealing a wide angle CAMERA LENS.</sd>
          </Scene>
       <Scene num="50">
       <Heading>INT. BRIDGE - NIGHT</Heading>
@@ -2958,7 +2956,7 @@
                  What?!?!</sp>
 
                               <sp><spk>SONAR OPERATOR</spk>
-<<<<<<< HEAD
+
                  The log is moving!</sp></Scene>
 
       <Scene num="56"><Heading>EXT. UNDERWATER - NIGHT</Heading>
@@ -2974,7 +2972,7 @@
 
       <Scene num="57"><Heading>INT. ENGINE ROOM -</Heading>
 =======
-                 The log is moving!</sp>
+                 <sd>The log is moving!</sd>
       </Scene>
       <Scene num="51">
       <Heading>EXT. UNDERWATER - NIGHT</Heading>
@@ -3244,11 +3242,11 @@
 
       <sd>As he types, the room lurches again, tilting more to the stern.
 
-      THE CAPTAIN - <sd>STAIRCASE, PASSAGEWAY #5</sd>
+      THE CAPTAIN - </sd><sd>STAIRCASE, PASSAGEWAY #5</sd>
 
-      As the passageway shifts, tilting to the stern, the Captain screams
+      <sd>As the passageway shifts, tilting to the stern, the Captain screams
       and WHOOSH! - is sucked down into the water - the worm's vortex -
-      like meat being fed into a Cuisinart: A churning, spinning death.</Scene>
+      like meat being fed into a Cuisinart: A churning, spinning death.</sd></Scene>
 
       <Scene num="58"><Heading>EXT. THE H.M.S. INDOMITABLE - FOG - NIGHT</Heading>
 
@@ -3349,11 +3347,11 @@
       <Scene num="67">
       <Heading>NEW ANGLE - SIDE OF THE SEA DOLPHIN II - NIGHT -</Heading>
 
-<<<<<<< HEAD
+
       <sd>NEW ANGLE - SIDE OF THE SEA DOLPHIN II - NIGHT -
 
       In the water next to the chip, FOUR DIVERS drop the last of their
-      equipment in a DIVE BOAT. They cast off, motoring into the fog.</Scene>
+      equipment in a DIVE BOAT. They cast off, motoring into the fog.</sd></Scene>
 
       <Scene num="61"><Heading>EXT. LONDON - RESTAURANT BIBENDUM - NIGHT</Heading>
 
@@ -3391,9 +3389,7 @@
 
                               <sp><spk>MAITRE D'</spk>
                  Excuse me - Mr. Bond? You have a call.</sp>
-
-      <sd>Bond excuses himself.</sd>
-      </Scene>
+</sd></Scene>
 <Scene num="69">
       <Heading>NEW ANGLE - BOND AT PHONE -</Heading>
 
@@ -3401,7 +3397,7 @@
 
                            <sp><spk sex="M">BOND</spk>            Moneypenny! You're early. You
                  weren't supposed to call until -
-<<<<<<< HEAD
+
                        (he stiffens)
                  Yes. I understand. Twenty minutes.</sp></Scene>
 
@@ -3413,7 +3409,7 @@
       <Scene num="64"><Heading>INT. CONFERENCE ROOM - BANK OF LONDON - NIGHT</Heading>
 =======
                        <sd>he stiffens</sd>
-                 Yes. I understand. Twenty minutes.</sp>
+                 <sp>Yes. I understand. Twenty minutes.</sp>
 </Scene>
       <Scene num="70">
 
@@ -3485,7 +3481,7 @@
                  just south of Kuala Lumpur, where she
                  broadcast her last position.</sp></Scene>
 
-<<<<<<< HEAD
+
       <Scene num="65"><Heading>EXT. STRAIT OF MALACCA - FOG - NIGHT</Heading>
 
       <sd>Foreground, empty diving boat. Background, Sea Dolphin II, with the
@@ -3549,12 +3545,12 @@
       diving helmet's microphone:</sd>
 
                               <sp><spk>DIVER</spk>
-<<<<<<< HEAD
+
                        (through speaker)
                  It's titanium. we can't cut through.</sp></Scene>
 =======
                        <sd>through speaker</sd>
-                 It's titanium. we can't cut through.</sp>
+                 <sp>It's titanium. we can't cut through.</sp>
 
       <sd>INT. SEA DOLPHIN BRIDGE -
 >>>>>>> 644d7bbfb396f277bd038c1223bdb0d631001619
@@ -3584,7 +3580,7 @@
       Trapped air bursts out from inside the compartment. The Divers push
       the worm to one side; two of them enter the hold with lights. The
       worm follows. The two other divers remain behind to feed the worm's
-      flexible tubing through the door.</Scene>
+      flexible tubing through the door.</sd></Scene>
 
       <Scene num="70"><Heading>INT. BILGE HOLD - UNDERWATER -</Heading>
 
@@ -3600,13 +3596,13 @@
 
       <Scene num="72"><Heading>INT. BILGE HOLD - UNDERWATER -</Heading>
 
-<<<<<<< HEAD
+
       <sd>The worm closes its "eye", revs up its grinders, and attacks the
       first pile of gold Bars. It runs through them like butter.</sd></Scene>
 
       <Scene num="73"><Heading>INT. CONFERENCE ROOM - BANK OF ENGLAND - NIGHT</Heading>
 =======
-      The worm closes its "eye", revs up its grinders, and attacks the
+      <sd>The worm closes its "eye", revs up its grinders, and attacks the
       first pile of gold Bars. It runs through them like butter.</sd>
 </Scene>
       <Scene num="73">
@@ -3702,7 +3698,7 @@
 
                            <sp><spk sex="M">BOND</spk>            Yes.</sp>
 
-<<<<<<< HEAD
+
                            <sp><spk sex="F">M</spk>            As you wish.</sp></Scene>
 
       <Scene num="74"><Heading>EXT. SEA DOLPHIN II - NIGHT</Heading>
@@ -3805,16 +3801,13 @@
                        <sd>beat</sd>
                  Your job is to find the gold. Not
                  settle some personal score with
-<<<<<<< HEAD
+
                  Elliot Harmsway.</sp></Scene>
 
       <Scene num="77"><Heading>EXT. 'HARMSWAY BUILDING' (HONG KONG AND SHANGHAI BANK) - HONG KONG - DUSK</Heading>
 
       <sd>Super: HONG KONG. Harmsway's helicopter is perched atop the famous
       tinker-toy-styled building in the Central district.</sd></Scene>
-=======
-                 Elliot Harmsway.</sp>
-      </Scene>
       <Scene num="75">
 
       <Heading>EXT. 'HARMSWAY BUILDING' <sd>HONG KONG AND SHANGHAI BANK</sd> - HONG KONG - DUSK</Heading>
@@ -3825,12 +3818,12 @@
 
       <Scene num="78"><Heading>INT. PENTHOUSE BOARDROOM - DUSK</Heading>
 
-<<<<<<< HEAD
+
       <sd>A CHINESE CHOP comes down firmly on a legal document. GENERAL LI (of
       the People's Revolutionary Army) is seated with a squad of lawyers:</sd>
 =======
-      A CHINESE CHOP comes down firmly on a legal document. GENERAL LI <sd>of
-      the People's Revolutionary Army</sd> is seated with a squad of lawyers:</sd>
+      <sd>A CHINESE CHOP comes down firmly on a legal document. GENERAL LI </sd><sd>of
+      the People's Revolutionary Army is seated with a squad of lawyers:</sd>
 >>>>>>> 644d7bbfb396f277bd038c1223bdb0d631001619
 
                               <sp><spk>GENERAL LI</spk>
@@ -3892,7 +3885,7 @@
                           <sp><spk>HARMSWAY</spk>              Of course! How foolish. More bad
                  luck. I'll just borrow yours -</sp>
 
-<<<<<<< HEAD
+
       <sd>He takes General Li's pen, and signs his name with a flourish.</sd></Scene>
 
       <Scene num="79"><Heading>EXT. ROOF OF 'HARMSWAY BUILDING' -</Heading>
@@ -3925,7 +3918,7 @@
       <Scene num="77">
       <Heading>RETURN ON ROOFTOP HELIPAD -</Heading>
 
-<<<<<<< HEAD
+
       <sd>RETURN ON ROOFTOP HELIPAD -
 
       The General SEES THE CABLE GROW TAUT AROUND THE VENTILATION SHAFT.
@@ -3952,7 +3945,7 @@
 
       <sd>A BRITISH MILITARY C-130 airship is dropping sono-buoys into the
       water from a low altitude. me plane veers off, revealing A BRITISH
-      SEA KING command and control helicopter, hovering above.</Scene>
+      SEA KING command and control helicopter, hovering above.</sd></Scene>
 
       <Scene num="82"><Heading>INT. SEA KING HELICOPTER - AIRBORNE - DAY</Heading>
 
@@ -4003,7 +3996,7 @@
 
                               <sp><spk>PILOT</spk> <sd>on pa speaker</sd>
                  Please leave the area. please leave
-<<<<<<< HEAD
+
                  the area.</sp></Scene>
 
       <Scene num="83"><Heading>EXT. HNN WORLD HEADQUARTERS (PETRONAS TOWERS)- KUALA LUMPUR - DAY</Heading>
@@ -4017,7 +4010,7 @@
 
       <sd>Elliot Harmsway strides out of an elevator (in Tower 1,) into a group
 =======
-                 the area.</sp>
+                 the area.</sd>
       </Scene>
       <Scene num="79">
       <Heading>EXT. HNN WORLD HEADQUARTERS <sd>PETRONAS TOWERS</sd>- KUALA LUMPUR - DAY</Heading>
@@ -4076,12 +4069,12 @@
 
       <Scene num="85"><Heading>INT. CONFERENCE ROOM - HNN HEADQUARTERS - CONTINUOUS - DAY</Heading>
 
-<<<<<<< HEAD
+
       <sd>A glass conference roam, whose PARTIALLY CLOSED BLINDS obscure the
       view of the MAMMOTH HNN NEWS CENTER. (We'll see this, in full,
       later.) Meanwhile, a DOZEN RAMBUNCTIOUS EDITORS react to:</sd>
 =======
-      A glass conference roam, whose PARTIALLY CLOSED BLINDS obscure the
+      <sd>A glass conference roam, whose PARTIALLY CLOSED BLINDS obscure the
       view of the MAMMOTH HNN NEWS CENTER. <sd>We'll see this, in full,
       later.</sd> Meanwhile, a DOZEN RAMBUNCTIOUS EDITORS react to:</sd>
 >>>>>>> 644d7bbfb396f277bd038c1223bdb0d631001619
@@ -4139,7 +4132,7 @@
                  protest: Freedom of the press, people's
                  right to know... Lather it up with a lot
                  of righteous indignation.
-<<<<<<< HEAD
+
                        (off their laughter)
                  Next?</sp></Scene>
 
@@ -4147,7 +4140,6 @@
 
 =======
                        <sd>off their laughter</sd>
-                 Next?</sp>
       </Scene>
 <Scene num="80">
       <Heading>INT. SEA KING HELICOPTER - AIRBORNE - DAY</Heading>
@@ -4161,13 +4153,13 @@
 
                               <sp><spk>CO-PILOT</spk>
                  Commander Bond: They've found one of
-<<<<<<< HEAD
+
                  the crewman's bodies!</sp></Scene>
 
       <Scene num="87"><Heading>EXT. COASTAL INLET - MARSHLAND - STRAIT OF MALACCA - DAY</Heading>
 
 =======
-                 the crewman's bodies!</sp>
+                 <sp>the crewman's bodies!</sp>
 </Scene>
       <Scene num="81">
       <Heading>EXT. COASTAL INLET - MARSHLAND - STRAIT OF MALACCA - DAY</Heading>
@@ -4268,8 +4260,8 @@
                  Should have seen his rose garden:
                  Blooms the size of hand grenades.</sp>
 
-<<<<<<< HEAD
-      <sd>Bond looks at Wade: The man remains, forever deranged.</Scene>
+
+      <sd>Bond looks at Wade: The man remains, forever deranged.</sd></Scene>
 
       <Scene num="89"><Heading>EXT. PORT KLANG - ESTABLISHING - DAY</Heading>
 =======
@@ -4335,7 +4327,7 @@
                               <sp><spk>WADE</spk>
                  I envy your 'undercover' assignments.</sp>
 
-<<<<<<< HEAD
+
                            <sp><spk sex="M">BOND</spk>                  (a look, then)
                  We work in the dark. We do what we can.</sp></Scene>
 
@@ -4384,7 +4376,7 @@
                  weekend missed the last bus. Slept
                  on the docks. Hundreds of them.</sp>
 
-<<<<<<< HEAD
+
                            <sp><spk sex="M">BOND</spk>            Thanks.</sp></Scene>
 
       <Scene num="91"><Heading>EXT. HARBOR MASTER'S TOWER - DAY</Heading>
@@ -4408,14 +4400,14 @@
                            <sp><spk sex="M">BOND</spk>            Can you arrange a meeting?</sp>
 
                               <sp><spk>WADE</spk>
-<<<<<<< HEAD
+
                  Hell. The CIA built that club.</sp></Scene>
 
       <Scene num="92"><Heading>EXT. KUALA LUMPUR YACHT CLUB - NIGHT</Heading>
 
-      <sd>Palm trees, torch lights, and Rolls Royces.</sd></Scene>
+      <sd>Palm trees, torch lights, and Rolls Royces.</sd>
 =======
-                 Hell. The CIA built that club.</sp>
+                 <sp>Hell. The CIA built that club.</sp>
       </Scene>
       <Scene num="86">
       <Heading>EXT. KUALA LUMPUR YACHT CLUB - NIGHT</Heading>
@@ -4612,7 +4604,7 @@
                        <sd>seeing Taro</sd>
                  What happened?</sp>
 
-<<<<<<< HEAD
+
                            <sp><spk sex="M">BOND</spk>            He tied one on.</sp></Scene>
 
       <Scene num="94"><Heading>EXT. A DESERTED MARINA - MORNING -</Heading>
@@ -4620,7 +4612,7 @@
       <sd>Bond walks down a long dock towards a lone boat, moored at the end.</sd></Scene>
 =======
                            <sp><spk sex="M">BOND</spk>            He tied one on.</sp>
-      </Scene>
+      </sd></Scene>
       <Scene num="87">
       <Heading>EXT. A DESERTED MARINA - MORNING -</Heading>
 
@@ -6879,19 +6871,19 @@ The boat starts a wide turn -</sd>
                  terrorism, we're outside Hong Kong's
                  Aberdeen Harbor nuclear power plant...</sp>
 
-      NEW ANGLE <sd>EXT. POWER PLANT, FRONT ENTRANCE, WATERSIDE</sd> -
+      <sd>EXT. POWER PLANT, FRONT ENTRANCE, WATERSIDE</sd> -
 
       <sd>Two VIDEO CAMERAMEN are shooting an ASIAN HNN REPORTER interviewing a
       middle-aged CHINESE MAN. We don't see the reporter's face; from the
-      "over the shoulder" news angle, he's WEARING A HAT.
+      "over the shoulder" news angle, he's WEARING A HAT.</sd>
 
       <sd>There's also HNN BELL JETRANGER HELICOPTER on the ground, and a
-      seemingly empty HNN BOAT moored to a nearby pier.</sd></sd>
+      seemingly empty HNN BOAT moored to a nearby pier.</sd>
 
-                              <sp><spk sex="M">ASIAN MALE NEWS REPORTER </spk><sd>cont'd</sd>
+                              <sp><spk sex="M">ASIAN MALE NEWS REPORTER </spk>cont'd
                  - Interviewing Mr. David Chin, senior
                  engineer in charge of security.
-                       <sd>beat</sd>
+                       beat
                  Tell me, Mr. Chin: How safe is this
                  plant from a terrorist attack?</sp>
 
@@ -6937,9 +6929,9 @@ The boat starts a wide turn -</sd>
 
                           <sp><spk>HARMSWAY</spk>              Get the machine in the water!</sp>
 
-      <sd>They begin using a hoist to lift one of the "worms" from a hold.
+      <sd>They begin using a hoist to lift one of the "worms" from a hold.</sd>
       <sd>This one looks like an open-mouthed torpedo, with an antenna on top,
-      and no flexible tubing attached.</sd></sd>
+      and no flexible tubing attached.</sd>
 
       <sd>INT. HALLWAY/RECEPTION - POWER PLANT -</sd>
 
@@ -6950,7 +6942,7 @@ The boat starts a wide turn -</sd>
 
                               <sp><spk>YUNG</spk>
                  A generator blew. Nothing to worry about.
-                       <sd>beat</sd>
+                       beat
                  But I need one last shot of you. Why
                  don't you stand by the alarm?</sp>
 
@@ -8092,4 +8084,8 @@ The boat starts a wide turn -</sd>
 
                             <sd>James Bond will return.</sd>
       </Scene>
+      </sd>
+      </sd>
+      </Scene>
+      </sd>
 </Screenplay>
