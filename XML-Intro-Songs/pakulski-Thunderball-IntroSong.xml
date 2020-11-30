@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
 <Verse type = "1" cat="Verse">
 <lb/><POV V="3">He</POV> always runs while others walk

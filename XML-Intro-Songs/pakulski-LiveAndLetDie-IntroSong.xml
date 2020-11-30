@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
 <Verse type = "1" cat="Verse">
 <lb/>When <POV V="2">you</POV> were young and <POV V="2">your</POV> heart was an open book
