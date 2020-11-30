@@ -1,49 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1">See reflections on the water
-More than darkness in the depths
-See him surface in every shadow
-On the wind I feel his breath
-<FilmTitle>Golden eye</FilmTitle> I found his weakness
-<FilmTitle>Golden eye</FilmTitle> he'll do what I please
-<FilmTitle>Golden eye</FilmTitle> no time for sweetness
-But a bitter kiss will bring him to his knees
+<SongTitle>Goldeneye</SongTitle>
+<Verse type = "1" cat = "Verse">
+<lb/>See reflections on the water
+<lb/>More than darkness in the depths
+<lb/>See <POV V ="3">him</POV> surface in every shadow
+<lb/>On the wind <POV V = "1">I</POV> feel <POV V = "3">his</POV> breath
+<lb/><FilmTitle>Golden eye</FilmTitle> <POV V ="1">I</POV> found <POV V = "2">his</POV> weakness
+<lb/><FilmTitle>Golden eye</FilmTitle> <POV V ="2">he</POV>'ll do what <POV V = "1">I</POV> please
+<lb/><FilmTitle>Golden eye</FilmTitle> no time for sweetness
+<lb/>But a bitter <KeyWord group = "love">kiss</KeyWord> will bring <POV V = "3">him</POV> to <POV V = "3">his</POV> knees
 </Verse>
 
-<Chorus type = "1">You'll never know how I watched you
-From the shadows as a child
-You'll never know how it feels to be the one
-Who's left behind
-You'll never know the days, the nights
-The tears, the tears I've cried
-But now my time has come
-And time, time is not on your side</Chorus>
+<Verse type = "1" cat = "Chorus">
+<lb/><POV V = "2">You</POV>'ll never know how <POV V = "1">I</POV> watched <POV V = "2">you</POV>
+<lb/>From the shadows as a child
+<lb/><POV V = "2">You</POV>'ll never know how <POV V = "3">it</POV> feels to be the one
+<lb/>Who's left behind
+<lb/><POV V = "2">You</POV>'ll never know the days, the nights
+<lb/>The tears, the tears <POV V = "1">I</POV>'ve cried
+<lb/>But now <POV V = "1">my</POV> time has come
+<lb/>And time, time is not on <POV V = "2">your</POV> side</Verse>
 
 
-<Verse type = "2">See him move through smoke and mirrors
-Feel his presence in the crowd
-Other girls they gather around him
-If I had him I wouldn't let him out
-<FilmTitle>Golden eye</FilmTitle> not lace or leather
-<KeyWord>Golden</KeyWord> chains take him to the spot
-<FilmTitle>Golden eye</FilmTitle> I'll show him forever
-It'll take forever to see
-What I've got</Verse>
+<Verse type = "2" cat = "Verse">
+<lb/>See <POV V = "1">him</POV> move through smoke and mirrors
+<lb/>Feel <POV V = "3">his</POV> presence in the crowd
+<lb/>Other girls <POV V = "3">they</POV> gather around <POV V = "3">him</POV>
+<lb/>If <POV V = "1">I</POV> had him <POV V = "1">I</POV> wouldn't let <POV V = "1">him</POV> out
+<lb/><FilmTitle>Golden eye</FilmTitle> not lace or leather
+<lb/><KeyWord group = "FilmTitle">Golden</KeyWord> chains take <POV V = "3">him</POV> to the spot
+<lb/><FilmTitle>Golden eye</FilmTitle> <POV V = "1">I</POV>'ll show <POV V = "3">him</POV> forever
+<lb/><POV V = "3">It</POV>'ll take forever to see
+<lb/>What <POV V = "1">I</POV>'ve got</Verse>
 
 
-<Chorus type = "2">You'll never know how I watched you
-From the shadows as a child
-You'll never know how it feels to get so close
-And be denied
-It's a <KeyWord>gold</KeyWord> and honey trap
-I've got for you tonight
-Revenge it's a kiss, this time I won't miss
-Now I've got you in my sight
-With a <KeyWord>Golden eye</KeyWord></Chorus>
+<Verse type = "2" cat = "Chorus">
+<lb/><POV V = "2">You</POV>'ll never know how <POV V = "1">I</POV> watched <POV V = "2">you</POV>
+<lb/>From the shadows as a child
+<lb/><POV V = "2">You</POV>'ll never know how <POV V = "3">it</POV> feels to get so close
+<lb/>And be denied
+<lb/><POV V = "3">It</POV>'s a <KeyWord group = "FilmTitle">gold</KeyWord> and honey trap
+<lb/><POV V = "1">I</POV>'ve got for <POV V = "2">you</POV> tonight
+<lb/>Revenge <POV V = "3">it</POV>'s a <KeyWord group = "love">kiss</KeyWord>, this time <POV V = "1">I</POV> won't miss
+<lb/>Now I've got <POV V = "2">you</POV> in <POV V = "1">my</POV> sight
+<lb/>With a <KeyWord group = "FilmTitle">Golden eye</KeyWord></Verse>
 
 
-<Outro type = "1"><KeyWord>Golden</KeyWord>, <FilmTitle>golden eye</FilmTitle>
-With a <FilmTitle>golden eye</FilmTitle>
-<FilmTitle>Golden eye</FilmTitle></Outro>
+<Verse cat = "Outro" type = "1">
+<lb/><KeyWord group = "FilmTitle">Golden</KeyWord>, <FilmTitle>golden eye</FilmTitle>
+<lb/>With a <FilmTitle>golden eye</FilmTitle>
+<lb/><FilmTitle>Golden eye</FilmTitle></Verse>
 </IntroSong>

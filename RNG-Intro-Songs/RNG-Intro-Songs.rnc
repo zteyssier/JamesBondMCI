@@ -1,10 +1,10 @@
 start = IntroSong
-IntroSong = element IntroSong {Verse+}
+IntroSong = element IntroSong {SongTitle, Verse+}
+
+SongTitle = element SongTitle {text}
 
 
-
-
-Verse = element Verse {cat, type, mixed {(lb | FilmTitle | KeyWord | Person | POV | Interjection)*}}
+Verse = element Verse {cat, type, mixed {(lb | FilmTitle | KeyWord | Person | POV | Unique | Interjection)*}}
 
 
 lb = element lb{n?, text}
@@ -12,14 +12,14 @@ lb = element lb{n?, text}
 
 n = attribute n {xsd:integer}
 
-cat = attribute cat {"Intro" | "Verse" | "PreChorus" | "Chorus" | "Bridge" | "Outro"}
+cat = attribute cat {"Intro" | "Verse" | "PreChorus" | "Chorus" | "Bridge" | "Interlude" | "Outro"}
 #categorizes each of the above attributes 
 
 type = attribute type {xsd:integer | text}
 #Similar section of Song Structure
 
 who = attribute who {text}
-#Can you this to tag specific names
+#Can use this to tag specific names
 
 xmlid = attribute xml:id {text}
 
@@ -34,11 +34,12 @@ V = attribute V {"1" | "2" | "3"}
 #POV including you.
 
 
-KeyWord = element KeyWord {text}
+KeyWord = element KeyWord {group, text}
+group = attribute group {text}
 #Includes a portion of the FilmTitle in a word or mentions the FilmTitle as a stand alone word.
 #Themes that are common throughout all of the Songs Ex: love, revenge, murder, jealousy
 
-Unique = element Unique {text}
+Unique = element Unique {mixed{POV*}}
 #Words or phrases that are different within two of the same sections of the song structure.
 
 

@@ -1,42 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse>You walk in a room
+<SongTitle>Never Say Never Again</SongTitle>
+<Verse cat = "Verse" type = "1"><POV V ="2">You</POV> walk in a room
 A woman can feel the heat
 One look is a guarantee
 Nights could be long and sweet
 The message is clear
-Like nothing I've ever known</Verse>
+Like nothing <POV V = "1">I</POV>'ve ever known</Verse>
 
-<PreChorus>But the more that I hear
+<Verse cat = "PreChorus" type = "1">But the more that <POV V = "1">I</POV> hear
 Forget about long-range plans
-'Cause this man's got his own</PreChorus>
+'Cause this man's got his own</Verse>
     
-<Chorus>To get mixed up with a man who says <KeyWord>never</KeyWord>
+<Verse cat = "Chorus" type = "1">To get mixed up with a man who says <KeyWord group = "FilmTitle">never</KeyWord>
 May be big trouble, but then
-I just could be the woman to take you
-And make you <FilmTitle>never say never again</FilmTitle></Chorus>
-<Interlude><KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
-<KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
-<KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
-<KeyWord>Never</KeyWord>, <FilmTitle>never say never again</FilmTitle></Interlude>
-<Verse>You've got all the moves
-Ah, but baby I've got them too
-No matter your attitude or your mood
-I'll come through
-The touch of your voice
-The feel of your eyes on me</Verse>
-<PreChorus>You leave me no choice
-Though I know there's danger there
-I don't care, let it be</PreChorus>
-<Chorus>To get it bad with a man who says never
+<POV V = "1">I</POV> just could be the woman to take <POV V = "2">you</POV>
+And make <POV V = "2">you</POV> <FilmTitle>never say never again</FilmTitle></Verse>
+
+<Verse cat = "Interlude" type = "1"><KeyWord group = "FilmTitle">Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
+<KeyWord group = "FilmTitle">Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
+<KeyWord group = "FilmTitle">Never</KeyWord>, <FilmTitle>never say never again</FilmTitle>
+<KeyWord group = "FilmTitle">Never</KeyWord>, <FilmTitle>never say never again</FilmTitle></Verse>
+
+<Verse cat = "Verse" type = "2"><POV V = "2">You</POV>'ve got all the moves
+Ah, but baby <POV V = "1">I</POV>'ve got them too
+No matter <POV V = "2">your</POV> attitude or <POV V = "2">your</POV> mood
+<POV V = "1">I</POV>'ll come through
+The touch of <POV V = "2">your</POV> voice
+The feel of <POV V = "2">your</POV> eyes on <POV V = "1">me</POV></Verse>
+
+<Verse cat = "PreChorus" type = "2">You leave <POV V = "1">me</POV> no choice
+Though <POV V = "1">I</POV> know there's danger there
+<POV V = "1">I</POV> don't care, let <POV V = "3">it</POV> be</Verse>
+
+<Verse cat = "Chorus" type = "1">To get <POV V = "3">it</POV> bad with a man who says <KeyWord group = "FilmTitle">never</KeyWord>
 May have no future, but then
-I just could be the woman to reach you
-And teach you to never say never again</Chorus>
-<Bridge>I'll beg you
-I'll get you
-I'll reach you
-I'll teach you
-I'll take you
-I'll make you</Bridge>
+<POV V = "1">I</POV> just could be the woman to reach <POV V = "2">you</POV>
+And teach <POV V = "2">you</POV> to <FilmTitle>never say never again</FilmTitle></Verse>
+
+<Verse cat = "Bridge" type = "1"><POV V = "1">I</POV>'ll beg <POV V = "2">you</POV>
+<POV V= "1">I</POV>'ll get <POV V = "2">you</POV>
+<POV V = "1">I</POV>'ll reach <POV V = "2">you</POV>
+<POV V = "1">I</POV>'ll teach <POV V = "2">you</POV>
+<POV V = "1">I</POV>'ll take <POV V = "2">you</POV>
+<POV V = "1">I</POV>'ll make <POV V = "2">you</POV></Verse>
 </IntroSong>

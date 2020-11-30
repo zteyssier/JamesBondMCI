@@ -1,39 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse type = "1">Meeting you with <FilmTitle>a view to a kill</FilmTitle>
-Face to face in secret places, feel the chill
-
+<IntroSong>
+<SongTitle>A View To A Kill</SongTitle>
+<Verse cat = "Verse" type = "1"><lb/>Meeting you with <FilmTitle>a view to a kill</FilmTitle>
+<lb/>Face to face in secret places, feel the chill
 <lb/>Nightfall covers me, but you know the plans I'm making 
 <lb/>Still overseas, could it be the whole Earth opening wide
 <lb/>A sacred why, a mystery gaping inside
-A week is why, until we...</Verse>
+<lb/>A week is why, until we...</Verse>
 
 
-<Chorus type = "1">Dance into the fire
-That fatal <KeyWord>kiss</KeyWord> is all we need
-Dance into the fire
-To fatal sounds of broken dreams
-Dance into the fire
-That fatal <KeyWord>kiss</KeyWord> is all we need
-Dance into the fire</Chorus>
+<Verse cat = "Chorus" type = "1">
+<lb/>Dance into the fire
+<lb/>That fatal <KeyWord group = "love">kiss</KeyWord> is all we need
+<lb/>Dance into the fire
+<lb/>To fatal sounds of broken dreams
+<lb/>Dance into the fire
+<lb/>That fatal <KeyWord group = "love">kiss</KeyWord> is all we need
+<lb/>Dance into the fire</Verse>
 
 
-<Verse type = "2">The choice for you is the view to a kill
-Between the shades assassination standing still
+<Verse cat = "Verse" type = "2">
+<lb/>The choice for you is the <KeyWord group = "FilmTitle">view to a kill</KeyWord>
+<lb/>Between the shades assassination standing still
+<lb/>Earth's crystal tears, the fall of snowflakes on your body
+<lb/>First time in years to drench your skin in lover's rosy stain
+<lb/>A chance to find the phoenix for the flame
+<lb/>A chance to die, but can we...</Verse>
 
-Earth's crystal tears, the fall of snowflakes on your body
-First time in years to drench your skin in lover's rosy stain
-A chance to find the phoenix for the flame
-A chance to die, but can we...</Verse>
 
+<Verse cat = "Chorus" type = "1">
+<lb/>Dance into the fire
+<lb/>That fatal <KeyWord group = "love">kiss</KeyWord> is all we need
+<lb/>Dance into the fire
+<lb/>To fatal sounds of broken dreams
+<lb/>Dance into the fire
+<lb/>That fatal <KeyWord group = "love">kiss</KeyWord> is all we need
+<lb/>Dance into the fire</Verse>
 
-<Chorus type = "1">Dance into the fire
-That fatal <KeyWord>kiss</KeyWord> is all we need
-Dance into the fire
-To fatal sounds of broken dreams
-Dance into the fire
-That fatal <KeyWord>kiss</KeyWord> is all we need
-Dance into the fire</Chorus>
-
-<Outro>When all we see is the <KeyWord>view to a kill</KeyWord></Outro></IntroSong>
+<Verse cat= "Outro" type = "1">
+<lb/>When all we see is the <KeyWord group = "FilmTitle">view to a kill</KeyWord></Verse>
+</IntroSong>

@@ -1,42 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat = "Verse">Nobody does it better
-Makes me feel sad for the rest
-Nobody does it half as good as <SecondPersonPOV>you</SecondPersonPOV>
-Baby, <SecondPersonPOV>you</SecondPersonPOV>’re the best</Verse>
+<SongTitle>Nobody Does It Better</SongTitle>
+<Verse type = "1" cat = "Verse">
+<lb/><FilmTitle>Nobody does it better</FilmTitle>
+<lb/>Makes me feel sad for the rest
+<lb/><KeyWord group = "FilmTitle">Nobody does it</KeyWord> half as good as <POV V = "2">you</POV>
+<lb/>Baby, <POV V = "2">you</POV>’re the best</Verse>
 
 
-<Verse type = "1" cat = "Chorus"><FirstPersonPOV>I</FirstPersonPOV> wasn’t looking
-But somehow you found me
-<FirstPersonPOV>I</FirstPersonPOV> tried to hide from your <KeyWord>love</KeyWord> light
-But like heaven above me
-<FilmTitle>The spy who loved me</FilmTitle>
-Is keeping all my secrets safe tonight
+<Verse type = "1" cat = "Chorus">
+<lb/><POV V = "1">I</POV> wasn’t looking
+<lb/>But somehow you found me
+<lb/><POV V = "1">I</POV> tried to hide from your <KeyWord group = "love">love</KeyWord> light
+<lb/>But like heaven above me
+<lb/><FilmTitle>The spy who loved me</FilmTitle>
+<lb/>Is keeping all my secrets safe tonight
 </Verse>
 
 
-<Verse type = "2" cat = "Verse">And nobody does it better
-Though sometimes <FirstPersonPOV>I</FirstPersonPOV> wish someone could
-Nobody does it quite the way you do
-Why d’you have to be so good?
+<Verse type = "2" cat = "Verse">
+<lb/>And nobody does it better
+<lb/>Though sometimes <POV V = "1">I</POV> wish someone could
+<lb/>Nobody does it quite the way you do
+<lb/>Why d’you have to be so good?
 </Verse>
 
-<Verse type = "2" cat = "Chorus">The way that you hold me
-Whenever you hold me
-There’s some kind of magic inside <SecondPersonPOV>you</SecondPersonPOV>
-That keeps me from running
-But just keep it comin’
-How’d <SecondPersonPOV>you</SecondPersonPOV> learn to do the things <SecondPersonPOV>you</SecondPersonPOV> do?
+<Verse type = "2" cat = "Chorus">
+<lb/>The way that you hold me
+<lb/>Whenever you hold me
+<lb/>There’s some kind of magic inside <POV V = "2">you</POV>
+<lb/>That keeps me from running
+<lb/>But just keep it comin’
+<lb/>How’d <POV V = "2">you</POV> learn to do the things <POV V = "2">you</POV> do?
 </Verse>
 
 <Verse type = "1" cat = "Verse">Oh, and nobody does it better
-Makes me feel sad for the rest
-Nobody does it half as good as <SecondPersonPOV>you</SecondPersonPOV>
-Baby, baby, darlin’ <SecondPersonPOV>you</SecondPersonPOV>’re the best
+<lb/>Makes me feel sad for the rest
+<lb/>Nobody does it half as good as <POV V = "2">you</POV>
+<lb/>Baby, baby, darlin’ <POV V = "2">you</POV>’re the best
 </Verse>
 
-<Verse type = "1" cat = "Verse">Baby <SecondPersonPOV>you</SecondPersonPOV>'re the best
-<Unique>Darlin'</Unique>, <SecondPersonPOV>you</SecondPersonPOV>'re the best
-Baby <SecondPersonPOV>you</SecondPersonPOV>'re the best</Verse>
+<Verse type = "1" cat = "Verse">Baby <POV  V = "2">you</POV>'re the best
+<lb/><Unique>Darlin'</Unique>, <POV V = "2">you</POV>'re the best
+<lb/>Baby <POV V = "2">you</POV>'re the best</Verse>
 </IntroSong>

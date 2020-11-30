@@ -10,6 +10,9 @@ XML/Schema Research Questions
 
 4. Women vs. Men roles within songs?
 
+---- Keyword - attribute (group)
+
+----Comment where the screenplays were  
 
 --Using Scores 
 
@@ -37,3 +40,6 @@ Screenplay/Music
 4. Do portions of the intro songs overshadow the dialogue and action within a specfic scene?
 
 5. Women vs. Men roles within screenplays?
+
+
+-- XML Screenplay and XML Song Markup 

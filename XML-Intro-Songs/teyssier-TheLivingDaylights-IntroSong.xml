@@ -1,56 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1">Hey driver, where we going?
-I swear my nerves are showing
-Set your hopes up way too high
-The living's in the way we die</Verse>
+<SongTitle>The Living Daylights</SongTitle>
+<Verse cat = "Verse" type = "1">
+<lb/><Unique>Hey driver, where <POV V = "1">we</POV> going?</Unique>
+<lb/><POV V = "1">I</POV> swear <POV V = "1">my</POV> nerves are showing
+<lb/>Set <POV V = "2">your</POV> hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> die</Verse>
 
-<PreChorus type = "1">Comes the morning and the headlights fade away
-Hundred thousand people, I'm the one they frame
-I've been waiting long for one of us to say
-"Save the darkness, let it never fade away"</PreChorus>
-
-
-<Chorus type = "1">Oh, the living daylights
-Oh, the living daylights</Chorus>
-
-
-<Verse type = "1">All right, hold on tight now
-It's down, down to the wire
-Set your hopes up way too high
-The living's in the way we die</Verse>
+<Verse cat = "PreChorus" type = "1">
+<lb/>Comes the morning and the headlights fade away
+<lb/>Hundred thousand <Unique>people, <POV V = "1">I</POV>'m the one they frame</Unique>
+<lb/><POV V= "1">I</POV>'ve been waiting long for one of <POV V = "1">us</POV> to say
+<lb/>"Save the darkness, let <POV V = "3">it</POV> never fade away"</Verse>
 
 
-<PreChorus type = "1">Comes the morning and the headlights fade away
-Hundred thousand changes, everything's the same
-I've been waiting long for one of us to say
-"Save the darkness, let it never fade away"</PreChorus>
+<Verse cat = "Chorus" type = "1">
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle>
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle></Verse>
 
 
-<Chorus type = "2">Oh, the living daylights
-Oh, the living daylights
-Oh, the living daylights</Chorus>
-
-<Interlude/>
-
-
-<PreChorus type = "1">Comes the morning and the headlights fade away
-Hundred thousand people, I'm the one they frame</PreChorus>
+<Verse cat = "Verse" type = "1">
+<lb/>All right, hold on tight now
+<lb/><POV V = "3">It</POV>'s down, down to the wire
+<lb/>Set your hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> die</Verse>
 
 
-<Chorus type = "2">Oh, the living daylights
-Oh, the living daylights
-Oh, the living daylights</Chorus>
+<Verse cat = "PreChorus" type = "1">
+<lb/>Comes the morning and the headlights fade away
+<lb/>Hundred thousand <Unique>changes, everything's the same</Unique>
+<lb/><POV V = "1">I</POV>'ve been waiting long for one of <POV V = "1">us</POV> to say
+<lb/>"Save the darkness, let <POV V = "3">it</POV> never fade away"</Verse>
 
 
-<Outro type = "1">Set your hopes up way too high
-The living's in the way we die
-Set your hopes up way too high
-The living's in the way we die
-Set your hopes up way too high
-The living's in the way we die
-Set your hopes up way too high
-The living's in the way we die
-Set your hopes up way too high
-The living's in the way we die</Outro></IntroSong>
+<Verse cat = "Chorus" type = "2">
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle>
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle>
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle></Verse>
+
+
+
+
+<Verse cat = "PreChorus" type = "1">
+<lb/>Comes the morning and the headlights fade away
+<lb/>Hundred thousand people, <POV V = "1">I</POV>'m the one <POV V = "3">they</POV> frame</Verse>
+
+
+<Verse cat = "Chorus" type = "2">
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle>
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle>
+<lb/>Oh, <FilmTitle>the living daylights</FilmTitle></Verse>
+
+
+<Verse cat = "Outro" type = "1">
+<lb/>Set <POV V = "2">your</POV> hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> <KeyWord group = "death">die</KeyWord>
+<lb/>Set your hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> <KeyWord group = "death" >die</KeyWord>
+<lb/>Set <POV V = "2">your</POV> hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> <KeyWord group = "death">die</KeyWord>
+<lb/>Set <POV V = "2">your</POV> hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> <KeyWord group = "death">die</KeyWord>
+<lb/>Set <POV V = "2">your</POV> hopes up way too high
+<lb/>The <KeyWord group = "FilmTitle">living</KeyWord>'s in the way <POV V = "1">we</POV> <KeyWord group = "death">die</KeyWord></Verse></IntroSong>

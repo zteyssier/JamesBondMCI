@@ -1,53 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type= "1" cat = "Intro">Ooooh
-Ah-aaah
-I feel, I need, I've got to hold on to your love
-Ooooh</Verse>
+<SongTitle>Licence To Kill</SongTitle>
+<Verse type= "1" cat = "Intro">
+<lb/><Interjection>Ooooh</Interjection>
+<lb/><Interjection>Ah-aaah</Interjection>
+<lb/>I feel, I need, I've got to hold on to your love
+<lb/><Interjection>Ooooh</Interjection></Verse>
 
 
-<Verse type = "1" cat = "Verse">Hey baby, thought you were the one who tried to run away
-Ohh, baby, wasn't I the one who made you want to stay?
-Please don't bet that you'll ever escape me
-Once I get my sights on you</Verse>
+<Verse type = "1" cat = "Verse">
+<lb/>Hey baby, thought you were the one who tried to run away
+<lb/><Interjection>Ohh</Interjection>, baby, wasn't I the one who made you want to stay?
+<lb/>Please don't bet that you'll ever escape me
+<lb/>Once I get my sights on you</Verse>
 
 
-<Verse type = "1" cat = "Chorus">I got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
-And you know I'm going straight for your heart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
-Anyone who tries to tear us apart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-<FilmTitle>License to kill</FilmTitle></Verse>
+<Verse type = "1" cat = "Chorus">
+<lb/>I got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>And you know I'm going straight for your heart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>Anyone who tries to tear us apart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+<lb/><FilmTitle>License to kill</FilmTitle></Verse>
 
 
-<Verse type = "2" cat = "Verse">Hey baby, think you need a friend to stand here by your side?
-Yes you do
-(Your side)
-Ohh, baby, now you can depend on me to make things right
-<Interjection>(Things right)</Interjection>
-Please don't bet that you'll ever escape me
-Once I get my sights on you</Verse>
+<Verse type = "2" cat = "Verse">
+<lb/>Hey baby, think you need a friend to stand here by your side?
+<lb/>Yes you do
+<lb/><Interjection>(Your side)</Interjection>
+<lb/><Interjection>Ohh</Interjection>, baby, now you can depend on me to make things right
+<lb/><Interjection>(Things right)</Interjection>
+<lb/>Please don't bet that you'll ever escape me
+<lb/>Once I get my sights on you</Verse>
 
 
 <Verse type = "1" cat = "Chorus" >I got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
+(<KeyWord group = "FilmTitle">To kill</KeyWord>)
 And you know I'm going straight for your heart
 (Got a <FilmTitle>licence to kill</FilmTitle>)
 Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
+(<KeyWord group = "FilmTitle">To kill</KeyWord>)
 Anyone who tries to tear us apart
 (Got a <FilmTitle>licence to kill</FilmTitle>)
 
 Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
+(<KeyWord group = "FilmTitle">To kill</KeyWord>)
 And you know I'm going straight for your heart
 (Got a <FilmTitle>licence to kill</FilmTitle>)
 Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
+(<KeyWord group = "FilmTitle">To kill</KeyWord>)
 Anyone who tries to tear us apart
 (Got a <FilmTitle>licence to kill</FilmTitle>)</Verse>
 
@@ -61,7 +66,7 @@ And they better know why I'm gonna make them 'em pay
 
 
 <Verse type = "1" cat = "Chorus">Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord>To kill</KeyWord>)
+(<KeyWord group = "FilmTitle">To kill</KeyWord>)
 And you know I'm going straight for your heart, baby
 (Got a <FilmTitle>licence to kill</FilmTitle>)
 Got a <FilmTitle>licence to kill</FilmTitle>
@@ -69,7 +74,7 @@ Anyone who tries to tear us apart
 (Got a <FilmTitle>licence to kill</FilmTitle>)
 
 I got a <FilmTitle>licence to kil</FilmTitle>l
-(<KeyWord>To kill</KeyWord>)
+(<KeyWord group = "FilmTitle">To kill</KeyWord>)
 And you know I'm heading straight for your heart
 (Got a <FilmTitle>licence to kill</FilmTitle>)
 Got a <FilmTitle>licence to kill</FilmTitle>
@@ -80,4 +85,4 @@ Anyone who tries to tear us apart
 <Verse type = "1" cat = "Chorus"><FilmTitle>Licence to kill</FilmTitle>
 Gotta hold onto your loving
 <FilmTitle>Licence to kill</FilmTitle>
-Ooh, <KeyWord>kill</KeyWord></Verse></IntroSong>
+<Interjection>Ooh</Interjection>, <KeyWord group = "FilmTitle">kill</KeyWord></Verse></IntroSong>

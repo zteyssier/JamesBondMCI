@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
+<SongTitle>Moonraker</SongTitle>
 <Verse type = "1" cat = "Verse">
-Where are <SecondPersonPOV>you</SecondPersonPOV>
-Why do <SecondPersonPOV>you</SecondPersonPOV> hide
-Where is that <KeyWord>moon</KeyWord>light trail that leads to <SecondPersonPOV>you</SecondPersonPOV>r side
-Just like the <FilmTitle>moonraker</FilmTitle> goes
-In search of his dream of gold
-<FirstPersonPOV>I</FirstPersonPOV> search for <KeyWord>love</KeyWord>
-For someone to have and hold
+<lb/>Where are <POV V = "2">you</POV>
+<lb/>Why do <POV V = "2">you</POV> hide
+<lb/>Where is that <KeyWord group = "FilmTitle">moon</KeyWord>light trail that leads to <POV V = "2" >your</POV> side
+<lb/>Just like the <FilmTitle>moonraker</FilmTitle> goes
+<lb/>In search of his dream of gold
+<lb/><POV V = "1">I</POV> search for <KeyWord group = "love">love</KeyWord>
+<lb/>For someone to have and hold
 </Verse>
+    
 <Verse type ="1" cat = "PreChorus">
-<FirstPersonPOV>I</FirstPersonPOV>'ve seen your smile
-In a thousand dreams
-Felt your touch
+<lb/><POV V = "1">I</POV>'ve seen <POV V = "2">your</POV> smile
+<lb/>In a thousand dreams
+<lb/>Felt <POV V = "2">your</POV> touch
 </Verse>
+    
 <Verse type = "1" cat = "Chorus">
-And it always seems
-<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
-<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
+<lb/>And <POV V = "3">it</POV> always seems
+<lb/><POV V = "2">You</POV> <KeyWord group = "love">love</KeyWord> <POV V = "1">me</POV>
+<lb/><POV V = "2">You</POV> <KeyWord group = "love">love</KeyWord> <POV V = "1">me</POV>
 </Verse>
 
 <Verse type = "2" cat = "Verse">
-Where are <SecondPersonPOV>you</SecondPersonPOV>
-When will we meet
-Take my unfinished life and make it complete
-Just like the <FilmTitle>moonraker</FilmTitle> knows
-His dream will come true someday
-<FirstPersonPOV>I</FirstPersonPOV> know that <SecondPersonPOV>you</SecondPersonPOV>
-Are only a <KeyWord>kiss</KeyWord> away
+<lb/>Where are <POV V = "2">you</POV>
+<lb/>When will <POV V = "1">we</POV> meet
+<lb/>Take my unfinished life and make <POV V = "3">it</POV> complete
+<lb/>Just like the <FilmTitle>moonraker</FilmTitle> knows
+<lb/>His dream will come true someday
+<lb/><POV V = "1">I</POV> know that <POV V =  "2">you</POV>
+<lb/>Are only a <KeyWord group = "love">kiss</KeyWord> away
 </Verse>
+    
 <Verse type = "2" cat = "PreChorus">
-<FirstPersonPOV>I</FirstPersonPOV>'ve seen your smile
-In a thousand dreams
-Felt <SecondPersonPOV>you</SecondPersonPOV>r touch
+<lb/><POV V ="1">I</POV>'ve seen your smile
+<lb/>In a thousand dreams
+<lb/>Felt <POV V ="2">your</POV> touch
 </Verse>
+    
 <Verse type = "2" cat = "Chorus">
-And it always seems
-<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
-<SecondPersonPOV>You</SecondPersonPOV> <KeyWord>love</KeyWord> me
+<lb/>And <POV V = "3">it</POV> always seems
+<lb/><POV V = "2">You</POV> <KeyWord group = "love">love</KeyWord> <POV V = "1">me</POV>
+<lb/><POV V = "2">You</POV> <KeyWord group = "love">love</KeyWord> <POV V = "1">me</POV>
 </Verse>
 </IntroSong>
