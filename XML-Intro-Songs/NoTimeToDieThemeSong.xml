@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<<<<<<< HEAD
-<IntroSong>
-<SongTitle>No Time to Die</SongTitle>
-<Verse cat="Verse" type="1"><lb/><POV V="1">I</POV>should have known
-=======
-<IntroSong> <SongTitle>No Time To Die</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
-   
-
-<Song num = "26"><Verse cat="Verse" type="1"><lb/><POV V="1">I</POV> should have known
->>>>>>> 212f4b74031fc0cc7b0039ea1e99ac1683e45f26
+<IntroSong>  <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<Song num = "26"><SongTitle>No Time To Die</SongTitle><Verse cat="Verse" type="1"><lb/><POV V="1">I</POV> should have known
 <lb/>I'd leave alone
 <lb/>Just goes to show
 <lb/>That the blood <POV V="2">you</POV>bleed is just the blood <POV V="2">you</POV>owe

@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<<<<<<< HEAD
-<IntroSong>
-<SongTitle>Die Another Day</SongTitle>
-<Verse cat="Verse" type="1">I'm gonna wake up, yes and no,
-I'm gonna kiss some part of,
-I'm gonna keep this secret,
-I'm gonna close my body now.</Verse>
-
-<Verse cat="Chorus" type="1"><POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>.</Verse>
-
-<Verse cat="Chorus" type="2"><POV V="1">I</POV>guess I'll die another day,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>.</Verse>
-
-<Verse cat="Verse" type="2"><Person who="Sigmund Freud" xml:id="SF">Sigmund Freud</Person>,
-analyze this,
-analyze this,
-analyze this.</Verse>
-
-<Verse cat="Verse" type="3">I'm gonna break the cycle,
-I'm gonna shake up the system,
-I'm gonna destroy my ego,
-I'm gonna close my body now.</Verse>
-
-<Verse cat="Verse" type="4"><POV V="1">I</POV>think I'll find another way,
-there's so much more to know,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
-It's not my time to go.</Verse>
-
-<Verse cat="Verse" type="5">For every sin, I'll have to pay,
-<POV V="1">I</POV>don't do work, <POV V="1">I</POV>don't do play,
-<POV V="1">I</POV>think I'll find another way,
-It's not my time to go.</Verse>
-
-<Verse cat="Verse" type="6">I'm gonna avoid the cliché,
-I'm gonna suspend my senses,
-I'm gonna delay my pleasure,
-I'm gonna close my body now.</Verse>
-
-<Verse cat="Chorus" type="3"><POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>.
-=======
 <IntroSong><Song num = "21"><SongTitle>Die Another Day</SongTitle><!--<meta> <link></link> <FilmTitle></FilmTitle></meta>-->
     <Verse cat="Verse" type="1">
  <lb/>I'm gonna wake up, yes and no,
