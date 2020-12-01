@@ -18,7 +18,7 @@
                
                 <hr/>
                 <section id="contents">
-                    <h2><b>James Bond Intro Songs</b></h2>
+                    <h1><b>James Bond Intro Songs</b></h1>
                     <table> 
                         <tr>
                             <th>Song Title</th>
@@ -28,7 +28,8 @@
                         <xsl:for-each select = "$IntroSongColl//IntroSong"> <tr>
                           <td><a href = "#H"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
                             <td></td>
-                            <td></td></tr>
+                            <td><ul><xsl:apply-templates select = "Song/FilmTitle" mode = "toc"/></ul></td>
+                        </tr>
                         </xsl:for-each>
                         <!--<xsl:apply-templates select="descendant::scene" mode="toc"/>-->
                     </table>
@@ -36,7 +37,7 @@
                 <hr/>
                 <br/>
                 
-                <h4>Listen to an audio track that concides with the play:  <a href="https://youtu.be/__J_T2zzmQc">Ring Christmas Bells</a>  </h4>
+                <h4>Listen to an audio track that concides with the song:  <a href="https://www.youtube.com/watch?v=vQKaujX6R-U">Licence to Kill</a>  </h4>
                 <!--<h1>Licence to Kill</h1>-->
                 <xsl:for-each select = "$IntroSongColl//IntroSong"><section id="readingView">
                     <h2 id="C{count(preceding-sibling::Song) + 1}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
@@ -56,14 +57,14 @@
         <p><apply-templates/></p>
     </xsl:template>-->
 
-    <xsl:template match="Verse" mode="toc">
-        <tr>
-            <td><a href="#C{count(preceding-sibling::Song) + 1}">
-                <xsl:apply-templates select="Song[num]"/></a>
-            </td>
+    <xsl:template match="Song/FilmTitle" mode="toc">
+        
+            
+                <li><xsl:apply-templates/></li>
+            
    <!--         <td><xsl:value-of select="string-join(sort(distinct-values(descendant::spk ! normalize-space())), ', ') "/></td>
             <td><xsl:value-of select="string-join(sort(distinct-values(descendant::pn ! normalize-space())), ', ')"/></td>  --> 
-        </tr>
+        
     </xsl:template>
     
     <xsl:template match="scene">
