@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Song num = "25"><SongTitle>Spectre</SongTitle><Verse cat="Verse" type="1"><lb/>I've been here before
 <lb/>But always hit the floor
 <lb/>I've spent a lifetime runnin'

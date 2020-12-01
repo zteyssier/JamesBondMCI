@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong><Song num = "23"><SongTitle>Another Way to Die</SongTitle><Verse cat="Verse" type="1"><lb/>Another ringer with the slick trigger finger,
 <lb/>For Her Majesty,
 <lb/>Another one with the golden tongue,
