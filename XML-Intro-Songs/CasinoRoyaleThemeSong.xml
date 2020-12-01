@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse cat="Verse" type="1"><lb/>If <POV V="2">you</POV> take a life do you know what you'll give?
+<IntroSong><Song num = "22"><SongTitle>You Know My Name</SongTitle><Verse cat="Verse" type="1"><lb/>If <POV V="2">you</POV> take a life do you know what you'll give?
 <lb/>odds are you won't like what it is,
 <lb/>when the storm arrives would you be seen with <POV V="1">me</POV>,
 <lb/>by the merciless eyes Ive deceived?</Verse>
 
-<Verse cat="Verse" type="2"><lb/>I've seen <KeyWord>angels</KeyWord> fall from blinding heights,
-<lb/>but <POV V="2">you</POV> yourself are nothing so <KeyWord>divine</KeyWord>,
+<Verse cat="Verse" type="2"><lb/>I've seen <KeyWord group = "heaven">angels</KeyWord> fall from blinding heights,
+<lb/>but <POV V="2">you</POV> yourself are nothing so <KeyWord group = "heaven">divine</KeyWord>,
 <lb/>just next in line.</Verse>
 
 <Verse cat="Chorus" type="1"><lb/>Arm yourself because no one else here will save you,
@@ -44,4 +44,4 @@
 <Verse cat="Outro" type="1"><lb/>You know my name,
 <lb/>you know my name,
 <lb/>you know my name,
-<lb/>you know my name.</Verse></IntroSong>
+<lb/>you know my name.</Verse></Song></IntroSong>

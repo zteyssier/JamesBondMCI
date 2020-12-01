@@ -1,34 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong>
-<SongTitle>For Your Eyes Only</SongTitle>   
-<Verse type = "1" cat = "Verse"><FilmTitle>For your eyes only</FilmTitle>, can see me through the night
-<FilmTitle>For your eyes only</FilmTitle>, I never need to hide</Verse>
 
-<Verse type = "1" cat = "PreChorus">You can see so much in me
-So much in me that's new
-I never felt, until I looked at you</Verse>
+<IntroSong> <Song num = "12"><SongTitle>For Your Eyes Only</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<Verse cat = "Intro" type = "1">
+<lb/><FilmTitle>For your eyes only</FilmTitle>, can see me through the night
+<lb/><FilmTitle>For your eyes only</FilmTitle>, I never need to hide</Verse>
 
-<Verse type = "1" cat = "Chorus"><FilmTitle>For your eyes only</FilmTitle>, only for you
-You see what no one else can see
-Now I'm breaking free
-<FilmTitle>For your eyes only</FilmTitle>, only for you
-The love I know you need in me
-The fantasy you freed in me
-Only for you, only for you</Verse>
+<Verse cat = "PreChorus" type = "1">
+<lb/>You can see so much in me
+<lb/>So much in me that's new
+<lb/>I never felt, until I looked at you</Verse>
 
-<Verse type = "1" cat = "Verse"><FilmTitle>For your eyes only</FilmTitle>, the nights are never cold
-You really know me, that's all I need to know</Verse>
-    
-<Verse type = "2" cat = "PreChorus">Maybe I'm an open book
-Because I know you're mine
-But you won't need to read between the lines</Verse>
+<Verse cat = "Chorus" type = "1">
+<lb/><FilmTitle>For your eyes only</FilmTitle>, only for you
+<lb/>You see what no one else can see
+<lb/>Now I'm breaking free
+<lb/><FilmTitle>For your eyes only</FilmTitle>, only for you
+<lb/>The love I know you need in me
+<lb/>The fantasy you freed in me
+<lb/>Only for you, only for you</Verse>
 
-<Verse cat = "Chorus" type = "1"><FilmTitle>For your eyes only</FilmTitle>, <KeyWord group = "FilmTitle">only</KeyWord> for you
-You see what no one else can see
-Now I'm breaking free
-<FilmTitle>For your eyes only</FilmTitle>, only for you
-The passions that collide in me
-The wild abandoned side of me
-Only for you, <FilmTitle>for your eyes only</FilmTitle></Verse></IntroSong>
+<Verse cat = "Intro" type = "1">
+<lb/><FilmTitle>For your eyes only</FilmTitle>, the nights are never cold
+<lb/>You really know me, that's all I need to know</Verse>
+
+<Verse cat = "PreChorus" type = "2">
+<lb/>Maybe I'm an open book
+<lb/>Because I know you're mine
+<lb/>But you won't need to read between the lines</Verse>
+
+<Verse cat = "Chorus" type = "1">
+<lb/><FilmTitle>For your eyes only</FilmTitle>, <KeyWord group = "FilmTitle">only</KeyWord> for you
+<lb/>You see what no one else can see
+<lb/>Now I'm breaking free
+<lb/>For your eyes only, only for you
+<lb/>The passions that collide in me
+<lb/>The wild abandoned side of me
+<lb/>Only for you, for your eyes only</Verse></Song></IntroSong>

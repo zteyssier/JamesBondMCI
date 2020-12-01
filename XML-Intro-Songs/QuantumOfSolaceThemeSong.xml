@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse cat="Verse" type="1"><lb/>Another ringer with the slick trigger finger,
+<IntroSong><Song num = "23"><SongTitle>Another Way to Die</SongTitle><Verse cat="Verse" type="1"><lb/>Another ringer with the slick trigger finger,
 <lb/>For Her Majesty,
 <lb/>Another one with the golden tongue,
 <lb/>Poisoning your fantasy,
@@ -69,4 +69,4 @@ Oh oh oh oh oh oh</Interjection>...</Verse>
 <lb/>(Another way, another way...)
 <lb/>Yeah!
 <lb/>(Another way, another way...)
-<lb/><Interjection>Bang bang bang bang!</Interjection></Verse></IntroSong>
+<lb/><Interjection>Bang bang bang bang!</Interjection></Verse></Song></IntroSong>

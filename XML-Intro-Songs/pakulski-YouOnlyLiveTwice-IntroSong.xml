@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat="Verse">
+<Song num = "4"><SongTitle>You Only Live Twice</SongTitle><Verse type = "1" cat="Verse">
 <lb/><FilmTitle>You only live twice</FilmTitle>
 <lb/>Or so it seems
-<lb/>One <KeyWord>life</KeyWord> for <POV V="2">yourself</POV>
+<lb/>One <KeyWord group = "FilmTitle">life</KeyWord> for <POV V="2">yourself</POV>
 <lb/>And one for <POV V="2">your</POV> dreams
 </Verse>
 
@@ -12,11 +12,11 @@
 <lb/><POV V="2">You</POV> drift through the years
 <lb/>And life seems tame
 <lb/>'Til one dream appears
-<lb/>And <KeyWord>Love</KeyWord> is its name
+<lb/>And <KeyWord group = "love">Love</KeyWord> is its name
 </Verse>
 
 <Verse type = "3" cat="Verse">
-<lb/>And <KeyWord>love</KeyWord> is a stranger
+<lb/>And <KeyWord group = "love">love</KeyWord> is a stranger
 <lb/><POV V="3">Who'll</POV> beckon <POV V="2">you</POV> on
 <lb/>Don't think of the danger
 <lb/>Or the stranger is gone
@@ -30,7 +30,7 @@
 </Verse>
 
 <Verse type = "4" cat="Verse">
-<lb/>And <KeyWord>love</KeyWord> is a stranger
+<lb/>And <KeyWord group = "love">love</KeyWord> is a stranger
 <lb/>Who'll beckon <POV V="2">you</POV> on
 <lb/>Don't think of the danger
 <lb/>Or the stranger is gone
@@ -41,5 +41,5 @@
 <lb/>So pay the price
 <lb/>Make one dream come true
 <lb/><FilmTitle>You only live twice</FilmTitle>
-</Verse>
+</Verse></Song>
 </IntroSong>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Verse cat="Verse" type="1"><lb/>I've been here before
+
+<IntroSong><Song num = "25"><SongTitle>Spectre</SongTitle><Verse cat="Verse" type="1"><lb/>I've been here before
 <lb/>But always hit the floor
 <lb/>I've spent a lifetime runnin'
 <lb/>And <POV V="1">I</POV>always get away
@@ -51,4 +51,4 @@
 <lb/><POV V="1">I</POV>wanna feel love run through my blood
 <lb/>Tell me is this where <POV V="1">I</POV>give it all up?
 <lb/>For <POV V="2">you</POV><POV V="1">I</POV>have to risk it all
-<lb/>Cause the writing's on the wall</Verse></IntroSong>
+<lb/>Cause the writing's on the wall</Verse></Song></IntroSong>

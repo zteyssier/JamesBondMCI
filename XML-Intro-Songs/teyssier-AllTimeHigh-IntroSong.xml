@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
+       type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<SongTitle>All Time High</SongTitle>
-<Verse type = "1" cat = "Verse">
-<lb/>All <POV  V = "1">I</POV> wanted was a sweet distraction for an hour or two
-<lb/>Had no intention to do the things <POV V = "1">we</POV>'ve done
-<lb/>Funny how <POV V = "3">it</POV> always goes with <KeyWord group = "love">love</KeyWord>
-<lb/>When <POV V = "2">you</POV> don't look, <POV V = "2">you</POV> find
-<lb/>But then <POV V = "1">we</POV>'re two of a kind, <POV V = "1">we</POV> move as one</Verse>
+<Song num = "1"><SongTitle>All Time High</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<Verse type="1" cat="Verse">
+<lb/>All <POV V="1">I</POV> wanted was a sweet distraction for an hour or two
+<lb/>Had no intention to do the things we've done
+<lb/>Funny how it always goes with <KeyWord group = "love">love</KeyWord>
+<lb/>When you don't look, you find
+<lb/>But then we're two of a kind, we move as one</Verse>
 
 
-<Verse  type = "1" cat = "Chorus"><POV V = "1">We</POV>'re an <FilmTitle>all time high</FilmTitle>
-<lb/><POV V = "1">We</POV>'ll change all that's gone before
+<Verse type="1" cat="Chorus">
+<lb/>We're an all time high
+<lb/>We'll change all that's gone before
 <lb/>Doing so much more than falling in <KeyWord group = "love">love</KeyWord>
-<lb/>On an <FilmTitle>all time high</FilmTitle>
-<lb/><POV V = "1">We</POV>'ll take on the world and wait
+<lb/>On an all time high
+<lb/>We'll take on the world and wait
 <lb/>So hold on tight, let the flight begin</Verse>
 
 
-<Verse type = "2" cat = "Verse">
-<lb/><POV V = "1">I</POV> don't want to waste a waking moment
-<lb/><POV V = "1">I</POV> don't want to sleep
-<lb/><POV V = "1">I</POV>'m in so strong and so deep, and so are <POV V = "2">you</POV>
+<Verse type="2" cat="Verse">
+<lb/>I don't want to waste a waking moment
+<lb/>I don't want to sleep
+<lb/>I'm in so strong and so deep, and so are you
 <lb/>In my time
-<lb/><POV V = "1">I</POV>'ve said these words before
-<lb/>But now <POV V = "1">I</POV> realise
-<lb/><POV V = "1">My</POV> heart was telling <POV V = "1">me</POV> lies
-<lb/>For <POV V = "2">you</POV> <POV V = "3">they</POV>'re true</Verse>
+<lb/>I've said these words before
+<lb/>But now I realise
+<lb/>My heart was telling me lies
+<lb/>For you they're true</Verse>
 
 
-<Verse type = "1" cat = "Chorus">
-<lb/><POV V = "1">We</POV>'re an <FilmTitle>all time high</FilmTitle>
-<lb/><POV V = "1">We</POV>'ll change all that's gone before
+<Verse type="1" cat="Chorus">
+<lb/>We're an all time high
+<lb/>We'll change all that's gone before
 <lb/>Doing so much more than falling in <KeyWord group = "love">love</KeyWord>
-<lb/>On an <FilmTitle>all time high</FilmTitle>
-<lb/><POV V = "1">We</POV>'ll take on the world and wait
+<lb/>On an all time high
+<lb/>We'll take on the world and wait
 <lb/>So hold on tight
 <lb/>Let the flight begin</Verse>
 
 
-<Verse type = "1" cat ="Outro">
+<Verse type="1" cat="Outro">
 <lb/>So hold on tight
 <lb/>Let the flight begin
-<lb/><POV V = "1">We</POV>'re an <FilmTitle>all time high</FilmTitle></Verse>
+<lb/>We're an all time high</Verse></Song>
 </IntroSong>

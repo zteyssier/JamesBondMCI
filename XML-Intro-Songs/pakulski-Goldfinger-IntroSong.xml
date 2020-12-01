@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat="Verse">
+<Song num = "2"><SongTitle>Goldfinger</SongTitle><Verse type = "1" cat="Verse">
 <lb/><FilmTitle>Goldfinger</FilmTitle>
 <lb/><POV V="3">He's</POV> the man
-<lb/>The man with the <KeyWord>Midas</KeyWord> touch
+<lb/>The man with the <KeyWord group = "Greek">Midas</KeyWord> touch
 <lb/>A spider's touch
 <lb/>Such a cold finger
 <lb/>Beckons <POV V="2">you</POV> to enter <POV V="3">his</POV> web of sin
@@ -12,35 +12,35 @@
 </Verse>
     
 <Verse type = "1" cat="Chorus">
-<lb/><KeyWord>Golden</KeyWord> words <POV V="3">he</POV> will pour in <POV V="2">your</POV> ear
+<lb/><KeyWord group = "FilmTitle">Golden</KeyWord> words <POV V="3">he</POV> will pour in <POV V="2">your</POV> ear
 <lb/>But <POV V="3">his</POV> lies can't disguise what <POV V="2">you</POV> fear
-<lb/>For a <KeyWord>golden</KeyWord> girl knows when <POV V="3">he's</POV> <KeyWord>kissed</KeyWord> <POV V="3">her</POV>
-<lb/>It's the <KeyWord>kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
+<lb/>For a <KeyWord group = "FilmTitle">golden</KeyWord> girl knows when <POV V="3">he's</POV> <KeyWord group = "love">kissed</KeyWord> <POV V="3">her</POV>
+<lb/>It's the <KeyWord group = "love">kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
 </Verse>
 
 <Verse type = "2" cat="Verse">
-<lb/>Pretty girl, beware of <POV V="3">his</POV> heart of <KeyWord>gold</KeyWord>
+<lb/>Pretty girl, beware of <POV V="3">his</POV> heart of <KeyWord group = "FilmTitle">gold</KeyWord>
 <lb/>This heart is cold
 </Verse>
 
 <Verse type = "2" cat="Verse">
-<lb/><KeyWord>Golden</KeyWord> words <POV V="3">he</POV> will pour in <POV V="2">your</POV> ear
+<lb/><KeyWord group = "FilmTitle">Golden</KeyWord> words <POV V="3">he</POV> will pour in <POV V="2">your</POV> ear
 <lb/>But <POV V="3">his</POV> lies can't disguise what <POV V="2">you</POV> fear
-<lb/>For a <KeyWord>golden</KeyWord> girl knows when <POV V="3">he's</POV> <KeyWord>kissed</KeyWord> <POV V="3">her</POV>
-<lb/>It's the <KeyWord>kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
+<lb/>For a <KeyWord group = "FilmTitle">golden</KeyWord> girl knows when <POV V="3">he's</POV> <KeyWord group = "love">kissed</KeyWord> <POV V="3">her</POV>
+<lb/>It's the <KeyWord group = "love">kiss</KeyWord> of death from Mr. <FilmTitle>Goldfinger</FilmTitle>
 </Verse>
 
 <Verse type = "3" cat="Verse">
-<lb/>Pretty girl, beware of <POV V="3">his</POV> heart of <KeyWord>gold</KeyWord>
+<lb/>Pretty girl, beware of <POV V="3">his</POV> heart of <KeyWord group = "FilmTitle">gold</KeyWord>
 <lb/>This heart is cold
 </Verse>
 
 <Verse type="4" cat="Outro">
-<lb/><POV V="3">He</POV> loves only <KeyWord>gold</KeyWord>
-<lb/>Only <KeyWord>gold</KeyWord>
-<lb/><POV V="3">He</POV> loves <KeyWord>gold</KeyWord>
-<lb/><POV V="3">He</POV> loves only <KeyWord>gold</KeyWord>
-<lb/>Only <KeyWord>gold</KeyWord>
-<lb/><POV V="3">He</POV> loves <KeyWord>gold</KeyWord>
-</Verse>
+<lb/><POV V="3">He</POV> loves only <KeyWord group = "FilmTitle">gold</KeyWord>
+<lb/>Only <KeyWord group = "FilmTitle">gold</KeyWord>
+<lb/><POV V="3">He</POV> loves <KeyWord group = "FilmTitle">gold</KeyWord>
+<lb/><POV V="3">He</POV> loves only <KeyWord group = "FilmTitle">gold</KeyWord>
+<lb/>Only <KeyWord group = "FilmTitle">gold</KeyWord>
+<lb/><POV V="3">He</POV> loves <KeyWord group = "FilmTitle">gold</KeyWord>
+</Verse></Song>
 </IntroSong>

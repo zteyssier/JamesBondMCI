@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type="1" cat="Verse">
+<Song num = "7"><SongTitle>Diamonds Are Forever</SongTitle><Verse type="1" cat="Verse">
 <lb/><FilmTitle>Diamonds are forever</FilmTitle>
 <lb/>They are all <POV V="1">I</POV> need to please me
 <lb/>They can stimulate and tease <POV V="1">me</POV>
@@ -15,29 +15,29 @@
 <lb/>Touch it, stroke it and undress it
 <lb/><POV V="1">I</POV> can see every part
 <lb/>Nothing hides in the heart to hurt <POV V="1">me</POV>
-<lb/><POV V="1">I</POV> don't need <KeyWord>love</KeyWord>
-<lb/>For what good will <KeyWord>love</KeyWord> do <POV V="1">me</POV>?
-<lb/><KeyWord>Diamonds</KeyWord> never lie to <POV V="1">me</POV>
-<lb/>For when <KeyWord>love's</KeyWord> gone
+<lb/><POV V="1">I</POV> don't need <KeyWord group = "love">love</KeyWord>
+<lb/>For what good will <KeyWord group = "love">love</KeyWord> do <POV V="1">me</POV>?
+<lb/><KeyWord group = "FilmTitle">Diamonds</KeyWord> never lie to <POV V="1">me</POV>
+<lb/>For when <KeyWord group = "love">love's</KeyWord> gone
 <lb/>They'll luster on
 </Verse>
 
 <Verse type="3" cat="Verse">
 <lb/><FilmTitle>Diamonds are forever</FilmTitle>
 <lb/>Sparkling round <POV V="1">my</POV> little finger
-<lb/>Unlike men, the <KeyWord>diamonds</KeyWord> linger;
+<lb/>Unlike men, the <KeyWord group = "FilmTitle">diamonds</KeyWord> linger;
 <lb/>Men are mere mortals who
 <lb/>Are not worth going to <POV V="2">your</POV> grave for
-<lb/><POV V="1">I</POV> don't need <KeyWord>love</KeyWord>
-<lb/>For what good will <KeyWord>love</KeyWord> do <POV V="1">me</POV>?
+<lb/><POV V="1">I</POV> don't need <KeyWord group = "love">love</KeyWord>
+<lb/>For what good will <KeyWord group = "love">love</KeyWord> do <POV V="1">me</POV>?
 </Verse>
 
 <Verse type="4" cat="Outro">
-<lb/><KeyWord>Diamonds</KeyWord> never lie to <KeyWord>me</KeyWord>
-<lb/>For when <KeyWord>love's</KeyWord> gone
+<lb/><KeyWord group = "love">Diamonds</KeyWord> never lie to <POV V="1">me</POV>
+<lb/>For when <KeyWord group = "love">love's</KeyWord> gone
 <lb/>They'll luster on
 <lb/><FilmTitle>Diamonds are forever</FilmTitle>, forever, forever
 <lb/><FilmTitle>Diamonds are forever</FilmTitle>, forever, forever
 <lb/>Forever and ever
-</Verse>
+</Verse></Song>
 </IntroSong>

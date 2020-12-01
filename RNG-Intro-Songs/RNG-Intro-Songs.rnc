@@ -1,8 +1,11 @@
 start = IntroSong
-IntroSong = element IntroSong {SongTitle, Verse+}
+IntroSong = element IntroSong {mixed{Song}}
 
 SongTitle = element SongTitle {text}
-
+num = attribute num {text}
+#meta = element meta {link, FilmTitle}
+Song = element Song {mixed{num, SongTitle, Verse+}}
+link = element link {xsd:anyURI}
 
 Verse = element Verse {cat, type, mixed {(lb | FilmTitle | KeyWord | Person | POV | Unique | Interjection)*}}
 

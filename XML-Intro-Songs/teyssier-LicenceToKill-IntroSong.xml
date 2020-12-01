@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<SongTitle>Licence To Kill</SongTitle>
+<Song num = "17"><SongTitle>Licence To Kill</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse type= "1" cat = "Intro">
-<lb/><Interjection>Ooooh</Interjection>
-<lb/><Interjection>Ah-aaah</Interjection>
+<lb/>Ooooh
+<lb/>Ah-aaah
 <lb/>I feel, I need, I've got to hold on to your love
-<lb/><Interjection>Ooooh</Interjection></Verse>
+<lb/>Ooooh</Verse>
 
 
 <Verse type = "1" cat = "Verse">
 <lb/>Hey baby, thought you were the one who tried to run away
-<lb/><Interjection>Ohh</Interjection>, baby, wasn't I the one who made you want to stay?
+<lb/>Ohh, baby, wasn't I the one who made you want to stay?
 <lb/>Please don't bet that you'll ever escape me
 <lb/>Once I get my sights on you</Verse>
 
@@ -31,58 +31,62 @@
 <Verse type = "2" cat = "Verse">
 <lb/>Hey baby, think you need a friend to stand here by your side?
 <lb/>Yes you do
-<lb/><Interjection>(Your side)</Interjection>
-<lb/><Interjection>Ohh</Interjection>, baby, now you can depend on me to make things right
+<lb/>(Your side)
+<lb/>Ohh, baby, now you can depend on me to make things right
 <lb/><Interjection>(Things right)</Interjection>
 <lb/>Please don't bet that you'll ever escape me
 <lb/>Once I get my sights on you</Verse>
 
 
-<Verse type = "1" cat = "Chorus" >I got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord group = "FilmTitle">To kill</KeyWord>)
-And you know I'm going straight for your heart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord group = "FilmTitle">To kill</KeyWord>)
-Anyone who tries to tear us apart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
+<Verse type = "1" cat = "Chorus" >
+<lb/>I got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>And you know I'm going straight for your heart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>Anyone who tries to tear us apart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
 
-Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord group = "FilmTitle">To kill</KeyWord>)
-And you know I'm going straight for your heart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord group = "FilmTitle">To kill</KeyWord>)
-Anyone who tries to tear us apart
-(Got a <FilmTitle>licence to kill</FilmTitle>)</Verse>
-
-
-<Verse type = "1" cat = "Bridge">Say that somebody tries to make a move on you
-In the blink of an eye, I will be there too
-And they better know why I'm gonna make them 'em pay
-'Til their dying day
-'Til their dying day
-'Til their dying day</Verse>
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>And you know I'm going straight for your heart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>Anyone who tries to tear us apart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)</Verse>
 
 
-<Verse type = "1" cat = "Chorus">Got a <FilmTitle>licence to kill</FilmTitle>
-(<KeyWord group = "FilmTitle">To kill</KeyWord>)
-And you know I'm going straight for your heart, baby
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-Got a <FilmTitle>licence to kill</FilmTitle>
-Anyone who tries to tear us apart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-
-I got a <FilmTitle>licence to kil</FilmTitle>l
-(<KeyWord group = "FilmTitle">To kill</KeyWord>)
-And you know I'm heading straight for your heart
-(Got a <FilmTitle>licence to kill</FilmTitle>)
-Got a <FilmTitle>licence to kill</FilmTitle>
-Anyone who tries to tear us apart
-(Got a <FilmTitle>licence to kill</FilmTitle>)</Verse>
+<Verse type = "1" cat = "Bridge">
+<lb/>Say that somebody tries to make a move on you
+<lb/>In the blink of an eye, I will be there too
+<lb/>And they better know why I'm gonna make them 'em pay
+<lb/>'Til their dying day
+<lb/>'Til their dying day
+<lb/>'Til their dying day</Verse>
 
 
-<Verse type = "1" cat = "Chorus"><FilmTitle>Licence to kill</FilmTitle>
-Gotta hold onto your loving
-<FilmTitle>Licence to kill</FilmTitle>
-<Interjection>Ooh</Interjection>, <KeyWord group = "FilmTitle">kill</KeyWord></Verse></IntroSong>
+<Verse type = "1" cat = "Chorus">
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>And you know I'm going straight for your heart, baby
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>Anyone who tries to tear us apart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+
+<lb/>I got a <FilmTitle>licence to kil</FilmTitle>l
+<lb/>(<KeyWord group = "FilmTitle">To kill</KeyWord>)
+<lb/>And you know I'm heading straight for your heart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)
+<lb/>Got a <FilmTitle>licence to kill</FilmTitle>
+<lb/>Anyone who tries to tear us apart
+<lb/>(Got a <FilmTitle>licence to kill</FilmTitle>)</Verse>
+
+
+<Verse type = "1" cat = "Chorus">
+<lb/><FilmTitle>Licence to kill</FilmTitle>
+<lb/>Gotta hold onto your loving
+<lb/><FilmTitle>Licence to kill</FilmTitle>
+<lb/>Ooh, <KeyWord group = "FilmTitle">kill</KeyWord></Verse></Song></IntroSong>

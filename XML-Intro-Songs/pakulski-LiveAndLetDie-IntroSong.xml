@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat="Verse">
+<Song num = "8"><SongTitle>Live and Let Die</SongTitle><Verse type = "1" cat="Verse">
 <lb/>When <POV V="2">you</POV> were young and <POV V="2">your</POV> heart was an open book
-<lb/><POV V="2">You</POV> used to say <KeyWord>“Live and let live”</KeyWord>
+<lb/><POV V="2">You</POV> used to say <KeyWord group = "FilmTitle">“Live and let live”</KeyWord>
 <lb/>(<POV V="2">You</POV> know <POV V="2">you</POV> did, <POV V="2">you</POV> know <POV V="2">you</POV> did, <POV V="2">you</POV> know <POV V="2">you</POV> did)
-<lb/>But if this ever changing world in which <POV V="1">we're</POV> <KeyWord>living</KeyWord>
+<lb/>But if this ever changing world in which <POV V="1">we're</POV> <KeyWord group = "FilmTitle">living</KeyWord>
 <lb/>Makes <POV V="2">you</POV> give in and cry
 </Verse>
 
@@ -24,9 +24,9 @@
 </Verse>
 
 <Verse type = "2" cat="Verse">
-<lb/><POV V="2">You</POV> used to say <KeyWord>live and let live</KeyWord>
+<lb/><POV V="2">You</POV> used to say <KeyWord group = "FilmTitle">live and let live</KeyWord>
 <lb/>(<POV V="2">You</POV> know <POV V="2">you</POV> did, <POV V="2">you</POV> know <POV V="2">you</POV> did, <POV V="2">you</POV> know <POV V="2">you</POV> did)
-<lb/>But if this ever changing world in which <POV V="1">we're</POV> <KeyWord>living</KeyWord>
+<lb/>But if this ever changing world in which <POV V="1">we're</POV> <KeyWord group = "FilmTitle">living</KeyWord>
 <lb/>Makes <POV V="2">you</POV> give in and cry
 </Verse>
 
@@ -35,5 +35,5 @@
 <lb/><FilmTitle>(Live and let die)</FilmTitle>
 <lb/><FilmTitle>Live and let die</FilmTitle>
 <lb/><FilmTitle>(Live and let die)</FilmTitle>
-</Verse>
+</Verse></Song>
 </IntroSong>
