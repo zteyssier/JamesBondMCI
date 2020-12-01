@@ -28,7 +28,8 @@
                         <xsl:for-each select = "$IntroSongColl//IntroSong"> <tr>
                           <td><a href = "#H"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
                             <td></td>
-                            <td></td></tr>
+                            <td><ul><xsl:apply-templates select="Song/FilmTitle" mode="toc"/></ul></td>
+                        </tr>
                         </xsl:for-each>
                         <!--<xsl:apply-templates select="descendant::scene" mode="toc"/>-->
                     </table>
@@ -66,6 +67,12 @@
         </tr>
     </xsl:template>
     
+    <xsl:template match="Song/FilmTitle" mode="toc">
+        
+        <li><xsl:apply-templates/></li>
+        
+    </xsl:template>
+    
     <xsl:template match="scene">
         <br/>
         <h2 id="C{count(preceding-sibling::Song) + 1}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
@@ -76,4 +83,6 @@
     <xsl:template match="lb">
         <xsl:apply-templates/><br/>
     </xsl:template>
+    
+    
 </xsl:stylesheet>
