@@ -28,7 +28,11 @@
                         <xsl:for-each select = "$IntroSongColl//IntroSong"> <tr>
                           <td><a href = "#H"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
                             <td></td>
+<<<<<<< HEAD:xslt/teyssier-XSLT.xslt
                             <td><ul><xsl:apply-templates select = "Song/FilmTitle" mode = "toc"/></ul></td>
+=======
+                            <td><ul><xsl:apply-templates select="Song/FilmTitle" mode="toc"/></ul></td>
+>>>>>>> 34d96acf749578c4a450dad8846fa3f43a044a9e:xslt/teyssier-XSLT-Test.xslt
                         </tr>
                         </xsl:for-each>
                         <!--<xsl:apply-templates select="descendant::scene" mode="toc"/>-->
@@ -67,14 +71,22 @@
         
     </xsl:template>
     
-    <!--<xsl:template match="scene">
+    <xsl:template match="Song/FilmTitle" mode="toc">
+        
+        <li><xsl:apply-templates/></li>
+        
+    </xsl:template>
+    
+    <xsl:template match="scene">
         <br/>
         <h2 id="C{count(preceding-sibling::Song) + 1}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
-      <!-\-  <div class="p"><xsl:apply-templates select="sd"/></div>
-        <div class="p"><xsl:apply-templates select="dial"/></div>-\->
-        -->
-    <!--</xsl:template>-->
+      <!--  <div class="p"><xsl:apply-templates select="sd"/></div>
+        <div class="p"><xsl:apply-templates select="dial"/></div>-->
+        
+    </xsl:template>
     <xsl:template match="lb">
         <xsl:apply-templates/><br/>
     </xsl:template>
+    
+    
 </xsl:stylesheet>
