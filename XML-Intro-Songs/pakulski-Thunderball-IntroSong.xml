@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat="Verse">
+<Song num = "3"><SongTitle>Thunderball</SongTitle><Verse type = "1" cat="Verse">
 <lb/><POV V="3">He</POV> always runs while others walk
 <lb/><POV V="3">He</POV> acts while other men just talk
 <lb/><POV V="3">He</POV> looks at this world, and wants it all
@@ -16,8 +16,8 @@
 </Verse>
 
 <Verse type = "1" cat="Bridge">
-<lb/>Any <KeyWord>woman</KeyWord> <POV V="3">he</POV> wants, <POV V="3">he'll</POV> get
-<lb/><POV V="3">He</POV> will break any <KeyWord>heart</KeyWord> without regret
+<lb/>Any <KeyWord group = "female">woman</KeyWord> <POV V="3">he</POV> wants, <POV V="3">he'll</POV> get
+<lb/><POV V="3">He</POV> will break any <KeyWord group = "love">heart</KeyWord> without regret
 </Verse>
 
 <Verse type = "3" cat="Verse">
@@ -25,5 +25,5 @@
 <lb/><POV V="3">His</POV> fight goes on and on and on
 <lb/>But <POV V="3">he</POV> thinks that the fight is worth it all
 <lb/>So <POV V="3">he</POV> strikes, like <FilmTitle>Thunderball</FilmTitle>
-</Verse>
+</Verse></Song>
 </IntroSong>

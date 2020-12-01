@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
+<<<<<<< HEAD
 <IntroSong>
 <SongTitle>Die Another Day</SongTitle>
 <Verse cat="Verse" type="1">I'm gonna wake up, yes and no,
@@ -46,14 +47,72 @@ I'm gonna close my body now.</Verse>
 <POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
 <POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
 <POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>.
+=======
+<IntroSong><Song num = "21"><SongTitle>Die Another Day</SongTitle><!--<meta> <link></link> <FilmTitle></FilmTitle></meta>-->
+    <Verse cat="Verse" type="1">
+ <lb/>I'm gonna wake up, yes and no,
+<lb/>I'm gonna kiss some part of,
+<lb/>I'm gonna keep this secret,
+<lb/>I'm gonna close my body now.</Verse>
+
+<Verse cat="Chorus" type="1">
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>.</Verse>
+
+<Verse cat="Chorus" type="2">
+<lb/><POV V="1">I</POV> guess I'll die another day,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>.</Verse>
+
+<Verse cat="Verse" type="2">
+<lb/><Person who="Sigmund Freud" xml:id="SF">Sigmund Freud</Person>,
+<lb/>analyze this,
+<lb/>analyze this,
+<lb/>analyze this.</Verse>
+
+<Verse cat="Verse" type="3">
+<lb/>I'm gonna break the cycle,
+<lb/>I'm gonna shake up the system,
+<lb/>I'm gonna destroy my ego,
+<lb/>I'm gonna close my body now.</Verse>
+
+<Verse cat="Verse" type="4">
+<lb/><POV V="1">I</POV>think I'll find another way,
+<lb/>there's so much more to know,
+<lb/><POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
+<lb/>It's not my time to go.</Verse>
+
+<Verse cat="Verse" type="5">
+<lb/>For every sin, I'll have to pay,
+<lb/><POV V="1">I</POV>don't do work, <POV V="1">I</POV>don't do play,
+<lb/><POV V="1">I</POV>think I'll find another way,
+<lb/>It's not my time to go.</Verse>
+
+<Verse cat="Verse" type="6">
+<lb/>I'm gonna avoid the cliché,
+<lb/>I'm gonna suspend my senses,
+<lb/>I'm gonna delay my pleasure,
+<lb/>I'm gonna close my body now.</Verse>
+
+<Verse cat="Chorus" type="3">
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>.
+>>>>>>> 212f4b74031fc0cc7b0039ea1e99ac1683e45f26
 </Verse>
     
-<Verse cat="Verse" type="4"><POV V="1">I</POV>think I'll find another way,
-There's so much more to know,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
-It's not my time to go.</Verse>
+<Verse cat="Verse" type="4">
+<lb/><POV V="1">I</POV>think I'll find another way,
+<lb/>There's so much more to know,
+<lb/><POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
+<lb/>It's not my time to go.</Verse>
 
-<Verse cat="Chorus" type="3"><POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess, <FilmTitle>die another day</FilmTitle>,
-<POV V="1">I</POV>guess I'll <FilmTitle>die another day</FilmTitle>.</Verse></IntroSong>
+<Verse cat="Chorus" type="3">
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess, <FilmTitle>die another day</FilmTitle>,
+<lb/><POV V="1">I</POV> guess I'll <FilmTitle>die another day</FilmTitle>.</Verse></Song></IntroSong>

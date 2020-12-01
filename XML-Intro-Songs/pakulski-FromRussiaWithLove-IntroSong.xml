@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat="Verse">
+<Song num = "1"><SongTitle>From Russia With Love</SongTitle><Verse type = "1" cat="Verse">
 <lb/><FilmTitle>From Russia with love</FilmTitle> <POV V="1">I</POV> fly to <POV V="2">you</POV>
 <lb/>Much wiser since <POV V="1">my</POV> good-bye to <POV V="2">you</POV>
 <lb/><POV V="1">I've</POV> traveled the world to learn
@@ -12,13 +12,13 @@
 <lb/><POV V="1">I've</POV> seen places, faces and smiled for a moment
 <lb/>But oh, <POV V="2">you</POV> haunted <POV V="1">me</POV> so
 <lb/>Still <POV V="1">my</POV> tongue tied young pride
-<lb/>Would not let <POV V="1">my</POV> <KeyWord>love</KeyWord> for <POV V="2">you</POV> show in case <POV V="2">you'd</POV> say no
+<lb/>Would not let <POV V="1">my</POV> <KeyWord group = "love">love</KeyWord> for <POV V="2">you</POV> show in case <POV V="2">you'd</POV> say no
 </Verse>
 
 <Verse type = "3" cat="Verse">
-<lb/>To <KeyWord>Russia</KeyWord> <POV V="1">I</POV> flew but there and then
+<lb/>To <KeyWord group = "FilmTitle">Russia</KeyWord> <POV V="1">I</POV> flew but there and then
 <lb/><POV V="1">I</POV> suddenly knew <POV V="2">you'd</POV> care again
 <lb/><POV V="1">My</POV> running around is through
 <lb/><POV V="1">I</POV> fly to <POV V="2">you</POV> <FilmTitle>from Russia with love</FilmTitle>
-</Verse>
+</Verse></Song>
 </IntroSong>

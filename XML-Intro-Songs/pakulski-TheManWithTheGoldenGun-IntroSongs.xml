@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Verse type = "1" cat="Verse">
+<Song num = "9"><SongTitle>The Man With The Golden Gun</SongTitle><Verse type = "1" cat="Verse">
 <lb/><POV V="3">He</POV> has a powerful weapon
-<lb/><POV V="3">He</POV> charges a million a <KeyWord>shot</KeyWord>
+<lb/><POV V="3">He</POV> charges a million a <KeyWord group = "violence">shot</KeyWord>
 <lb/>An assassin that's second to none
 <lb/><FilmTitle>The man with the golden gun</FilmTitle>
 </Verse>
@@ -16,15 +16,15 @@
 </Verse>
 
 <Verse type = "1" cat="Bridge">
-<lb/><KeyWord>Love</KeyWord> is required whenever <POV V="3">he's</POV> hired
+<lb/><KeyWord group = "love">Love</KeyWord> is required whenever <POV V="3">he's</POV> hired
 <lb/>It comes just before the kill
 <lb/>No-one can catch <POV V="3">him</POV>, no hit man can match <POV V="3">him</POV>
 <lb/>For <POV V="3">his</POV> million dollar skill
 </Verse>
 
 <Verse type = "3" cat="Verse">
-<lb/>One <KeyWord>golden shot</KeyWord> means another poor victim
-<lb/>Has come to a <KeyWord>glittering</KeyWord> end
+<lb/>One <KeyWord group = "FilmTitle">golden shot</KeyWord> means another poor victim
+<lb/>Has come to a <KeyWord group = "shiny">glittering</KeyWord> end
 <lb/>For a price, <POV V="3">he'll</POV> erase anyone
 <lb/><FilmTitle>The man with the golden gun</FilmTitle></Verse>
 
@@ -36,19 +36,19 @@
 </Verse>
 
 <Verse type = "2" cat="Bridge">
-<lb/><KeyWord>Love</KeyWord> is required whenever <POV V="3">he's</POV> hired
+<lb/><KeyWord group = "love">Love</KeyWord> is required whenever <POV V="3">he's</POV> hired
 <lb/>It comes just before the kill
 <lb/>No-one can catch <POV V="3">him</POV>, no hit man can match <POV V="3">him</POV>
 <lb/>For <POV V="3">his</POV> million dollar skill
 </Verse>
 
 <Verse type = "5" cat="Verse">
-<lb/>One <KeyWord>golden shot</KeyWord> means another poor victim
-<lb/>Has come to a <KeyWord>glittering</KeyWord> end
+<lb/>One <KeyWord group = "FilmTitle">golden shot</KeyWord> means another poor victim
+<lb/>Has come to a <KeyWord group = "shiny">glittering</KeyWord> end
 <lb/>If <POV V="2">you</POV> want to get rid of someone
 <lb/><FilmTitle>The man with the golden gun</FilmTitle>
 <lb/>Will get it done
-<lb/><POV V="3">He'll</POV> <KeyWord>shoot</KeyWord> anyone
-<lb/>With <POV V="3">his</POV> <KeyWord>golden gun</KeyWord>
-</Verse>
+<lb/><POV V="3">He'll</POV> <KeyWord group = "violence">shoot</KeyWord> anyone
+<lb/>With <POV V="3">his</POV> <KeyWord group = "FilmTitle">golden gun</KeyWord>
+</Verse></Song>
 </IntroSong>
