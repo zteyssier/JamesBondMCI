@@ -1,15 +1,17 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = Screenplay
-Screenplay = element Screenplay {meta, Scene+}
+Screenplay = element Screenplay {meta, Script}
 
-meta = element meta {link, SongTitle}
+meta = element meta {link, FilmTitle}
+
+Script = element Script {mixed{num, Scene+}}
 
 link = element link {xsd:anyURI}
 
 #Link to IMDB or screenplay source
 
-SongTitle = element SongTitle {text}
+FilmTitle = element FilmTitle {text}
 
 
 

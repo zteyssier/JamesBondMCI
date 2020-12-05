@@ -1,6 +1,8 @@
 <?xml-model href="../RNG-Screenplays/RNG-Screenplays.rnc" type="application/relax-ng-compact-syntax"?>
 <Screenplay>
- <Scene num="1">
+ <meta><link></link><FilmTitle>Goldeneye</FilmTitle></meta>
+ <Script num = "18">
+  <Scene num="1">
   <Heading>Ext. Top of Dam - Day</Heading>
   <sd>A plane does a fly-by over a dam as a security gate slides open. A man in combat black runs
    across the top of the tall dam. He clips a rope to his ankle and the railing...and jumps off the
@@ -19,7 +21,7 @@
   <sd>The man in black takes the steel grate out and we see a silhouette. Soviet's P.O.V. - The
    newspaper, printed in Russian, duh. He pulls the paper back to reveal.... James Bond. Hanging
    upside down from a vent. He flashes a grin.</sd>
-  <sp><spk>BOND</spk> Beg your pardon, forgot to knock.</sp>
+  <sp><spk sex = "m">BOND</spk> Beg your pardon, forgot to knock.</sp>
   <sd>007 punches out the Soviet and slips down.</sd>
  </Scene>
  <Scene num="3">
@@ -28,11 +30,11 @@
    spots a butcher loading meat onto a cart, and he walks up to an opening where he sees soldiers
    eating. As he turns away...another dark shadow points a gun at him...and says something.</sd>
   <sp><spk>SHADOW</spk> (Russian) Where have you been? Where are your companions?</sp>
-  <sp><spk>BOND</spk> I'm alone.</sp>
+  <sp><spk sex = "m">BOND</spk> I'm alone.</sp>
   <sd>Alec Trevelyan, 006, steps into the light. He's around Bond's general age and built. Blond
    with cold eyes...</sd>
-  <sp><spk>ALEC</spk> Aren't we all? You're late 007.</sp>
-  <sp><spk>BOND</spk> I had to stop in the bathroom.</sp>
+  <sp><spk sex = "m">ALEC</spk> Aren't we all? You're late 007.</sp>
+  <sp><spk sex = "m"> BOND</spk> I had to stop in the bathroom.</sp>
   <sp><spk>ALEC</spk> Ready to save the world again?</sp>
   <sp><spk>BOND</spk> After you, 006.</sp>
   <sd>They remove another steel grate.</sd>
@@ -2091,4 +2093,5 @@
     RETURN.</sd>
   </Scene>
  </Scene>
+ </Script>
 </Screenplay>

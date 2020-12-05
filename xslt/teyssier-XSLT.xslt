@@ -25,10 +25,12 @@
                             <th>Artists</th>
                             <th>Movie Correlation</th>
                         </tr>
-                        <xsl:for-each select = "$IntroSongColl//IntroSong"> <tr>
-                          <td><a href = "#H"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
+                        <xsl:for-each select = "$IntroSongColl//IntroSong">
+                            <xsl:sort select = "Song/@num=>number()"/><tr>
+                            <td><a href = "#{current()/Song/SongTitle!substring-before(., ' ')}{-Song/@num}"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
                             <td></td>
                             <td><ul><xsl:apply-templates select = "Song/FilmTitle" mode = "toc"/></ul></td>
+                            <td></td>
                         </tr>
                         </xsl:for-each>
                         <!--<xsl:apply-templates select="descendant::scene" mode="toc"/>-->
@@ -39,12 +41,17 @@
                 
                 <h4>Listen to an audio track that concides with the song:  <a href="https://www.youtube.com/watch?v=vQKaujX6R-U">Licence to Kill</a>  </h4>
                 <!--<h1>Licence to Kill</h1>-->
-                <xsl:for-each select = "$IntroSongColl//IntroSong"><section id="readingView">
-                    <h2 id="C{count(preceding-sibling::Song) + 1}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
+                <section id="readingView">
+                <xsl:for-each select = "$IntroSongColl//IntroSong">
+                    <xsl:sort select = "Song/@num=>number()"/>
+                    <section class="song"><h2 id="{current()/Song/SongTitle!substring-before(., ' ')}{-Song/@num}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
                     <a href = "#H"><h2><xsl:apply-templates select = "descendant::SongTitle"/></h2></a>
-                    <xsl:apply-templates select="descendant::Verse"/><br/>
+                    <xsl:apply-templates select="descendant::Verse"/><br/></section>
               
-                </section></xsl:for-each>
+                
+                </xsl:for-each>
+           
+            </section>
             </body>
                     
             
@@ -53,27 +60,17 @@
        
        
     </xsl:template>
-<!--    <xsl:template match = "IntroSong">
-        <p><apply-templates/></p>
-    </xsl:template>-->
 
     <xsl:template match="Song/FilmTitle" mode="toc">
         
             
                 <li><xsl:apply-templates/></li>
-            
-   <!--         <td><xsl:value-of select="string-join(sort(distinct-values(descendant::spk ! normalize-space())), ', ') "/></td>
-            <td><xsl:value-of select="string-join(sort(distinct-values(descendant::pn ! normalize-space())), ', ')"/></td>  --> 
-        
+ 
     </xsl:template>
-    
-    <!--<xsl:template match="scene">
-        <br/>
-        <h2 id="C{count(preceding-sibling::Song) + 1}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
-      <!-\-  <div class="p"><xsl:apply-templates select="sd"/></div>
-        <div class="p"><xsl:apply-templates select="dial"/></div>-\->
-        -->
-    <!--</xsl:template>-->
+    <xsl:template match = "Verse">
+        <div class="Verse"><xsl:apply-templates/></div>
+    </xsl:template>
+ 
     <xsl:template match="lb">
         <xsl:apply-templates/><br/>
     </xsl:template>
