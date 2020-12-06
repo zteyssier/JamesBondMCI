@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "3"><SongTitle>Thunderball</SongTitle><Verse type = "1" cat="Verse">
+<Song num = "3"><SongTitle>Thunderball</SongTitle><Artist>Don Black, John Berry, Tom Jones</Artist><FilmTitle>Thunderball</FilmTitle>
+<Verse type = "1" cat="Verse">
 <lb/><POV V="3">He</POV> always runs while others walk
 <lb/><POV V="3">He</POV> acts while other men just talk
 <lb/><POV V="3">He</POV> looks at this world, and wants it all

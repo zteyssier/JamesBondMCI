@@ -2,7 +2,7 @@
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
  <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
-    <Song num = "15"><SongTitle>The Living Daylights</SongTitle><FilmTitle>The Living Daylights</FilmTitle>
+    <Song num = "15"><SongTitle>The Living Daylights</SongTitle><Artist>a-ha</Artist><FilmTitle>The Living Daylights</FilmTitle>
 <Verse cat = "Verse" type = "1">
 <lb/><Unique>Hey driver, where <POV V = "1">we</POV> going?</Unique>
 <lb/><POV V = "1">I</POV> swear <POV V = "1">my</POV> nerves are showing

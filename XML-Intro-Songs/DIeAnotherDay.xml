@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Song num = "21"><SongTitle>Die Another Day</SongTitle><FilmTitle>Die Another Day</FilmTitle><!--<meta> <link></link> <FilmTitle></FilmTitle></meta>-->
+<IntroSong><Song num = "21"><SongTitle>Die Another Day</SongTitle><Artist>Madonna</Artist><FilmTitle>Die Another Day</FilmTitle><!--<meta> <link></link> <FilmTitle></FilmTitle></meta>-->
     <Verse cat="Verse" type="1">
  <lb/>I'm gonna wake up, yes and no,
 <lb/>I'm gonna kiss some part of,

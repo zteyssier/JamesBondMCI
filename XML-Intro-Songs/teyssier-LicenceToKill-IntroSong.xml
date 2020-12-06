@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "17"><SongTitle>Licence To Kill</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<Song num = "17"><SongTitle>Licence To Kill</SongTitle><Artist>Gladys Knight</Artist><FilmTitle>Licence To Kill</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse type= "1" cat = "Intro">
 <lb/>Ooooh
 <lb/>Ah-aaah

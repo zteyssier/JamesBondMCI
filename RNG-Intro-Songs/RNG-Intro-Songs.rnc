@@ -5,11 +5,12 @@ SongTitle = element SongTitle {text}
 
 num = attribute num {text}
 #meta = element meta {link, FilmTitle}
-Song = element Song {mixed{num, SongTitle, FilmTitle, Verse+}}
+Song = element Song {mixed{num, SongTitle, Artist, FilmTitle, Verse+}}
 link = element link {xsd:anyURI}
 
 Verse = element Verse {cat, type, mixed {(lb | FilmTitle | KeyWord | Person | POV | Unique | Interjection)*}}
 
+Artist = element Artist {text}
 
 lb = element lb{n?, text}
 #Line Beginning 

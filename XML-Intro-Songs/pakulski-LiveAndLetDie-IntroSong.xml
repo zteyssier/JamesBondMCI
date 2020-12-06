@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "8"><SongTitle>Live and Let Die</SongTitle><Verse type = "1" cat="Verse">
+<Song num = "8"><SongTitle>Live And Let Die</SongTitle><Artist>Wings</Artist><FilmTitle>Live And Let Die</FilmTitle><Verse type = "1" cat="Verse">
 <lb/>When <POV V="2">you</POV> were young and <POV V="2">your</POV> heart was an open book
 <lb/><POV V="2">You</POV> used to say <KeyWord group = "FilmTitle">“Live and let live”</KeyWord>
 <lb/>(<POV V="2">You</POV> know <POV V="2">you</POV> did, <POV V="2">you</POV> know <POV V="2">you</POV> did, <POV V="2">you</POV> know <POV V="2">you</POV> did)

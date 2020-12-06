@@ -2,7 +2,7 @@
 
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 
-<IntroSong> <Song num = "12"><SongTitle>For Your Eyes Only</SongTitle> <FilmTitle>For Your Eyes Only</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<IntroSong> <Song num = "12"><SongTitle>For Your Eyes Only</SongTitle><Artist>Sheena Easton</Artist><FilmTitle>For Your Eyes Only</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse cat = "Intro" type = "1">
 <lb/><FilmTitle>For your eyes only</FilmTitle>, can see me through the night
 <lb/><FilmTitle>For your eyes only</FilmTitle>, I never need to hide</Verse>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" 
        type="application/relax-ng-compact-syntax"?>
-<IntroSong><Song num = "14"><SongTitle>A View To A Kill</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<IntroSong><Song num = "14"><SongTitle>A View To A Kill</SongTitle><Artist>Duran Duran</Artist><FilmTitle>A View To A Kill</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse cat = "Verse" type="1">
 <lb/>Meeting you with <FilmTitle>a view to a kill</FilmTitle>
 <lb/>Face to face in secret places, feel the chill

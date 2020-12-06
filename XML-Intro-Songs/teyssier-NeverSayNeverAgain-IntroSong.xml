@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-    <Song num = "17"><SongTitle>Never Say Never Again</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+    <Song num = "17"><SongTitle>Never Say Never Again</SongTitle><Artist>Lani Hall</Artist><FilmTitle>Never Say Never Again</FilmTitle><!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse cat = "Verse" type = "1">
 <lb/><POV V ="2">You</POV> walk in a room
 <lb/>A woman can feel the heat

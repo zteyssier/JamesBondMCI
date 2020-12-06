@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "4"><SongTitle>You Only Live Twice</SongTitle><Verse type = "1" cat="Verse">
+<Song num = "4"><SongTitle>You Only Live Twice</SongTitle><Artist>Nancy Sinatra</Artist><FilmTitle>You Only Live Twice</FilmTitle><Verse type = "1" cat="Verse">
 <lb/><FilmTitle>You only live twice</FilmTitle>
 <lb/>Or so it seems
 <lb/>One <KeyWord group = "FilmTitle">life</KeyWord> for <POV V="2">yourself</POV>

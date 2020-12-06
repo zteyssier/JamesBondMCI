@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "7"><SongTitle>Diamonds Are Forever</SongTitle><Verse type="1" cat="Verse">
+<Song num = "7"><SongTitle>Diamonds Are Forever</SongTitle><Artist>Shirley Bassey</Artist><FilmTitle>Diamonds Are Forever</FilmTitle><Verse type="1" cat="Verse">
 <lb/><FilmTitle>Diamonds are forever</FilmTitle>
 <lb/>They are all <POV V="1">I</POV> need to please me
 <lb/>They can stimulate and tease <POV V="1">me</POV>

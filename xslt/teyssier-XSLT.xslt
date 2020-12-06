@@ -8,7 +8,7 @@
     <xsl:template match = "/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="James-Bond-Intro-Songs.css"/>
+                <link rel="stylesheet" type="text/css" href="../BondMCI-Website/Intro-Songs.css"/>
                 <title>
                     
                 </title>
@@ -28,7 +28,7 @@
                         <xsl:for-each select = "$IntroSongColl//IntroSong">
                             <xsl:sort select = "Song/@num=>number()"/><tr>
                             <td><a href = "#{current()/Song/SongTitle!substring-before(., ' ')}{-Song/@num}"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
-                            <td></td>
+                                <td><xsl:apply-templates select = "Song/Artist"/></td>
                             <td><ul><xsl:apply-templates select = "Song/FilmTitle" mode = "toc"/></ul></td>
                             <td></td>
                         </tr>
@@ -39,12 +39,13 @@
                 <hr/>
                 <br/>
                 
-                <h4>Listen to an audio track that concides with the song:  <a href="https://www.youtube.com/watch?v=vQKaujX6R-U">Licence to Kill</a>  </h4>
-                <!--<h1>Licence to Kill</h1>-->
+              
+                
                 <section id="readingView">
                 <xsl:for-each select = "$IntroSongColl//IntroSong">
                     <xsl:sort select = "Song/@num=>number()"/>
                     <section class="song"><h2 id="{current()/Song/SongTitle!substring-before(., ' ')}{-Song/@num}"><a href="#H"><xsl:apply-templates select="Song[num]"/></a></h2>
+                        
                     <a href = "#H"><h2><xsl:apply-templates select = "descendant::SongTitle"/></h2></a>
                     <xsl:apply-templates select="descendant::Verse"/><br/></section>
               

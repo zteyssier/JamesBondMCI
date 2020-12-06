@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Song num = "24"><SongTitle>Skyfall</SongTitle><Verse cat="Verse" type="1"><lb/>This is the end,
+<IntroSong><Song num = "24"><SongTitle>Skyfall</SongTitle><Artist>Adele</Artist><FilmTitle>Skyfall</FilmTitle><Verse cat="Verse" type="1"><lb/>This is the end,
 <lb/>hold your breath and count to ten,
 <lb/>feel the earth move and then,
 <lb/>hear my heart burst again,

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "9"><SongTitle>The Man With The Golden Gun</SongTitle><Verse type = "1" cat="Verse">
+<Song num = "9"><SongTitle>The Man With the Golden Gun</SongTitle><Artist>Lulu</Artist><FilmTitle>The Man With the Golden Gun</FilmTitle><Verse type = "1" cat="Verse">
 <lb/><POV V="3">He</POV> has a powerful weapon
 <lb/><POV V="3">He</POV> charges a million a <KeyWord group = "violence">shot</KeyWord>
 <lb/>An assassin that's second to none

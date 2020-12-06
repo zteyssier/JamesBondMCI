@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../RNG-Intro-Songs/RNG-Intro-Songs-Updated.rnc" type="application/relax-ng-compact-syntax"?>
-<IntroSong><Song num = "19"><SongTitle>Tomorrow Never Dies</SongTitle><Verse cat="Verse" type="1"><lb/>Darlin' I'm killed,
+<IntroSong><Song num = "19"><SongTitle>Tomorrow Never Dies</SongTitle><Artist>Sheryl Crow</Artist><FilmTitle>Tomorrow Never Dies</FilmTitle><Verse cat="Verse" type="1"><lb/>Darlin' I'm killed,
 <lb/>I'm in puddle on the floor,
 <lb/>waiting for you,
 <lb/>to return.</Verse>

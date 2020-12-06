@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "18"><SongTitle>Goldeneye</SongTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<Song num = "18"><SongTitle>Goldeneye</SongTitle><Artist>Tina Turner</Artist><FilmTitle>Goldeneye</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse type = "1" cat = "Verse">
 <lb/>See reflections on the water
 <lb/>More than darkness in the depths

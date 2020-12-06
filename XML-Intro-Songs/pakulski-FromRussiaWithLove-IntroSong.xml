@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "1"><SongTitle>From Russia With Love</SongTitle><Verse type = "1" cat="Verse">
+<Song num = "1"><SongTitle>From Russia With Love</SongTitle><Artist>Matt Monro</Artist><FilmTitle>From Russia With Love</FilmTitle><Verse type = "1" cat="Verse">
 <lb/><FilmTitle>From Russia with love</FilmTitle> <POV V="1">I</POV> fly to <POV V="2">you</POV>
 <lb/>Much wiser since <POV V="1">my</POV> good-bye to <POV V="2">you</POV>
 <lb/><POV V="1">I've</POV> traveled the world to learn

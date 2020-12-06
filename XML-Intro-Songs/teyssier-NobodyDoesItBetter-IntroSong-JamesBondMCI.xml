@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "10"><SongTitle>Nobody Does It Better</SongTitle><FilmTitle>Nobody Does It Better</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
+<Song num = "10"><SongTitle>Nobody Does It Better</SongTitle><Artist>Carly Simon</Artist><FilmTitle>Nobody Does It Better</FilmTitle> <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->
 <Verse type = "1" cat = "Verse">
 <lb/><FilmTitle>Nobody does it better</FilmTitle>
 <lb/>Makes me feel sad for the rest

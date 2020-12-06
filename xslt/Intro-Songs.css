@@ -1,0 +1,20 @@
+/* unvisited link */
+td a:link {
+  color: goldenrod;
+}
+
+/* visited link */
+td a:visited {
+  color: black;
+}
+
+/* mouse over link */
+td a:hover {
+  color: red;
+}
+
+/* selected link */
+td a:active {
+  color: gold;
+}
+

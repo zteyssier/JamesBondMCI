@@ -2,7 +2,7 @@
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
  <!--<meta><link></link><FilmTitle></FilmTitle></meta>-->    
-    <Song num ="16"><SongTitle>Moonraker</SongTitle> <FilmTitle></FilmTitle><Verse type = "1" cat = "Verse">
+    <Song num ="16"><SongTitle>Moonraker</SongTitle><Artist>Shirley Bassey</Artist><FilmTitle>Moonraker</FilmTitle><Verse type = "1" cat = "Verse">
 <lb/>Where are <POV V = "2">you</POV>
 <lb/>Why do <POV V = "2">you</POV> hide
 <lb/>Where is that <KeyWord group = "FilmTitle">moon</KeyWord>light trail that leads to <POV V = "2" >your</POV> side
