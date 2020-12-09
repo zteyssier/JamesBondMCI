@@ -1,4 +1,4 @@
-<xml>
+<?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <Screenplay>
 <TitlePage>"GOLDFINGER"
 Screenplay by
@@ -5330,4 +5330,3 @@ IN
 "THUNDERBALL"
 FADE OUT.
 </Screenplay>
-</xml>
