@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <g alignment-baseline="baseline" transform="translate (5, 620)">
+        <line x1="25" y1="0" x2="800" y2="0" stroke="black" stroke-width="5"/>
+        <line x1="25" x2="25" y1="2" y2="-525" stroke="black" stroke-width="5"/>
+        <!-- Golden Eye Stats -->
+        <rect x="260" y="-503" width="20" height="503" fill="DarkBlue"/>
+        <rect x="290" y="-166" width="20" height="166" fill="#e75480"/>
+        <text x="288" y="-350">337</text>
+        <!-- Tomorrow Never Dies Stats -->
+        <rect x="400" y="-359" width="20" height="359" fill="DarkBlue"/>
+        <rect x="430" y="-175" width="20" height="175" fill="#e75480"/>
+        <text x="428" y="-260">184</text>
+        <!-- The World is Not Enough -->
+        <rect x="550" y="-395" width="20" height="395" fill="DarkBlue"/>
+        <rect x="580" y="-262" width="20" height="262" fill="#e75480"/>
+        <text x="578" y="-325">133</text>
+        <text x="300" y="-550" font-size="30">Gender Roles in Bond Films</text>
+        <text x="350" y="80" font-size="20">Films</text>
+        <text x="5" y="-400" writing-mode="tb" font-size="20">Number of Gender Speaking Parts</text>
+        <text x="100" y="25">Goldfinger</text>
+        <text x="110" y="40">(1964)</text>
+        <text x="245" y="25">Golden Eye</text>
+        <text x="260" y="40">(1995)</text>
+        <text x="370" y="25">Tomorrow Never</text>
+        <text x="410" y="40">Dies</text>
+        <text x="403" y="55">(1997)</text>
+        <text x="535" y="25">The World is</text>
+        <text x="538" y="40">Not Enough</text>
+        <text x="555" y="55">(1999)</text>
+        <!-- Golden Eye Compare Bracket Thing -->
+        <line x1="325" y1="-500" x2="285" y2="-500" stroke="black" stroke-width="5"/>
+        <line x1="328" y1="-163" x2="315" y2="-163" stroke="black" stroke-width="5"/>
+        <line x1="325" y1="-161" x2="325" y2="-503" stroke="black" stroke-width="5"/>
+        <!-- Tomorrow Never Dies Compare Bracket Thing -->
+        <line x1="425" y1="-356" x2="465" y2="-356" stroke="black" stroke-width="5"/>
+        <line x1="468" y1="-172" x2="455" y2="-172" stroke="black" stroke-width="5"/>
+        <line x1="465" y1="-170" x2="465" y2="-359" stroke="black" stroke-width="5"/>
+        <!-- The World Is Not Enough Compare Bracket Thing -->
+        <line x1="575" y1="-392" x2="616" y2="-392" stroke="black" stroke-width="5"/>
+        <line x1="618" y1="-260" x2="605" y2="-260" stroke="black" stroke-width="5"/>
+        <line x1="615" y1="-260" x2="615" y2="-395" stroke="black" stroke-width="5"/>
+    </g>
+</svg>

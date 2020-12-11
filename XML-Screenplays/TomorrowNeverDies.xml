@@ -1138,14 +1138,14 @@
 
                            <sp><spk sex="F">M</spk>            Come in, Saunders.</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  M. 007.</sp>
 
                            <sp><spk sex="M">BOND</spk>            Okay, Saunders. What is it this
                  time? Rocket in the leg? Machine
                  pistol in the arm?</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Q's retirement party. I'd just put
                  the knife into the cake, and -</sp>
 
@@ -1155,7 +1155,7 @@
 
                            <sp><spk sex="M">BOND</spk>            It must do something.</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Well... If you insist.</sp>
 
       <sd>Saunders flexes his broken arm; ARMORED SPIKES pop out of the it.</sd>
@@ -1165,18 +1165,18 @@
       <sd>Saunders exchanges a beleaguered glance with M. He takes off the cast
       and neck-brace, and places a BRIEFCASE on M's desk.</sd>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Now pay attention, 007. We haven't much
                  time to demonstrate your new Q toys.</sp>
 
                            <sp><spk sex="M">BOND</spk>            How is old Q?</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Gone fishing.</sp>
 
                            <sp><spk sex="M">BOND</spk>            Fishing?</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Big game fishing.
                        <sd>beat</sd>
                  Sonar torpedoes. Retirement gift
@@ -1185,7 +1185,7 @@
      <sd> Saunders has opened the briefcase. Bond tries to look inside, but
       Saunders repositions it. Saunders continues:</sd>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  In the meantime, perhaps this will
                  spark your interest.
                        <sd>takes out a disposable lighter</sd>
@@ -1195,13 +1195,13 @@
 
                            <sp><spk sex="M">BOND</spk>            Saunders, I've lit cigarettes -</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Not from forty feet.</sp>
 
       <sd>Saunders flips the lighter sideways and - WHOOSH! A burst of flame
       shoots across the room.</sd>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  The disposable lighter also contains
                  a small self-detonation charge
                        <sd>beat</sd>
@@ -1210,14 +1210,14 @@
 
       <sd>Bond takes the lighter, begins to play with it...</sd>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Stop fidgeting, 007. Next -</sp>
 
       <sd>He takes out a pair of SHOELACES.</sd>
 
                            <sp><spk sex="M">BOND</spk>            ... Shoelaces?</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  Plastique explosive shoelaces.
                        <sd>holding them out at length</sd>
                  Cut them to regulate the size of the
@@ -1229,7 +1229,7 @@
                  Perfect way to tie up a... 'Knotty'
                  problem?</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                        <sd>frowns</sd>
                  Moving along -
                        <sd>he produces:</sd>
@@ -1245,13 +1245,13 @@
 
       <sd>Saunders is suddenly stricken. Flustered. He blurts out:</sd>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  It was an authorized test. I returned the money.</sp>
 
                            <sp><spk sex="M">BOND</spk>                  <sd>amused</sd>
                  I see...</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                        <sd>ignoring this</sd>
                  Finally, your new watch: Blue laser
                  here for signaling or burning
@@ -1262,7 +1262,7 @@
                  If you can't do the time, don't do
                  the crime?</sp>
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                        <sd>smirks at Bond, pauses, then</sd>
                  Oh. I almost forgot. There is one last
                  thing: Before Q retired, he asked that
@@ -1273,7 +1273,7 @@
                            <spk sex="M">BOND</spk>            A wedding band??? What am I supposed
                  to be able to do with this?
 
-                              <sp><spk>SAUNDERS</spk>
+                              <sp><spk sex="M">SAUNDERS</spk>
                  I believe Q's exact words were:
                        <sd>imitating Q, emphatically:</sd>
                  "Hopefully, nothing."</sp>
