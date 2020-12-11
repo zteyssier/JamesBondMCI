@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://www.w3.org/1999/xhtml"
     exclude-result-prefixes="xs"
     version="3.0">
-
+    <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
+        omit-xml-declaration="yes"/>
     <xsl:variable name="IntroSongColl" select="collection('../XML-Intro-Songs/?select=*.xml')"/>
     <xsl:template match = "/">
         <html>
@@ -30,7 +32,7 @@
                             <td><a href = "#{current()/Song/SongTitle!substring-before(., ' ')}{-Song/@num}"><xsl:apply-templates select = "Song/SongTitle"/></a></td>
                                 <td><xsl:apply-templates select = "Song/Artist"/></td>
                             <td><ul><xsl:apply-templates select = "Song/FilmTitle" mode = "toc"/></ul></td>
-                            <td></td>
+                           
                         </tr>
                         </xsl:for-each>
                         <!--<xsl:apply-templates select="descendant::scene" mode="toc"/>-->
