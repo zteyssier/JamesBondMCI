@@ -67,7 +67,9 @@
     <xsl:template match="Song/FilmTitle" mode="toc">
         
             
-                <li><xsl:apply-templates/></li>
+               <xsl:choose> <xsl:when test="@target"><li><a href="{@target}"><xsl:apply-templates/></a></li></xsl:when>
+                   <xsl:otherwise><li><xsl:apply-templates/></li></xsl:otherwise>               
+               </xsl:choose>
  
     </xsl:template>
     <xsl:template match = "Verse">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../RNG-Intro-Songs/RNG-Intro-Songs.rnc" type="application/relax-ng-compact-syntax"?>
 <IntroSong>
-<Song num = "2"><SongTitle>Goldfinger</SongTitle><Artist>Shirley Bassey</Artist><FilmTitle>Goldfinger</FilmTitle><Verse type = "1" cat="Verse">
+<Song num = "2"><SongTitle>Goldfinger</SongTitle><Artist>Shirley Bassey</Artist><FilmTitle target ="goldfingerscript.html">Goldfinger</FilmTitle><Verse type = "1" cat="Verse">
 <lb/><FilmTitle>Goldfinger</FilmTitle>
 <lb/><POV V="3">He's</POV> the man
 <lb/>The man with the <KeyWord group = "Greek">Midas</KeyWord> touch
