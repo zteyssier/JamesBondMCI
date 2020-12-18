@@ -41,5 +41,7 @@ Screenplay/Music
 
 5. Women vs. Men roles within screenplays?
 
+****Screenplay Timestamps that refer to Intro Song (and portions) with action, characters, music notation, Act (1, 2, or 3) [Scene Description]**** 
+
 
 -- XML Screenplay and XML Song Markup 
